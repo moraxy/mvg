@@ -9,6 +9,7 @@ on:
 jobs:
   slim:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -33,6 +34,8 @@ jobs:
         git push
   mvgStationGlobalIds:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
+    needs: [slim]
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -57,6 +60,8 @@ jobs:
         git push
   tickers:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
+    needs: [slim, mvgStationGlobalIds]
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -82,6 +87,8 @@ jobs:
         git push
   christmas:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
+    needs: [slim, mvgStationGlobalIds, tickers]
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -105,6 +112,8 @@ jobs:
         git push
   departure:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
+    needs: [slim, mvgStationGlobalIds, tickers, christmas]
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -128,6 +137,8 @@ jobs:
         git push
   ff-750:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
+    needs: [slim, mvgStationGlobalIds, tickers, christmas, departure]
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
@@ -151,6 +162,8 @@ jobs:
         git push
   stations:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
+    needs: [slim, mvgStationGlobalIds, tickers, christmas, departure, ff-750]
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3

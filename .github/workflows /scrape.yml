@@ -1,0 +1,174 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron: '5 * * * *'
+
+jobs:
+  slim:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://www.mvg.de/api/ems/slim' \
+        -H 'authority: www.mvg.de' \
+        -H 'accept: application/json' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'pragma: no-cache' \
+        -H 'referer: https://www.mvg.de/' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > slim.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+  mvgStationGlobalIds:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://www.mvg.de/.rest/zdm/mvgStationGlobalIds' \
+        -H 'authority: www.mvg.de' \
+        -H 'accept: application/json, text/plain, */*' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'pragma: no-cache' \
+        -H 'referer: https://www.mvg.de/' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > mvgStationGlobalIds.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+  tickers:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://www.mvg.de/api/ems/tickers' \
+        -H 'authority: www.mvg.de' \
+        -H 'accept: application/json, text/plain, */*' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'content-type: application/json' \
+        -H 'pragma: no-cache' \
+        -H 'referer: https://www.mvg.de/' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > tickers.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+  christmas:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://move.mvg.de/christmas-markets.json' \
+        -H 'authority: move.mvg.de' \
+        -H 'accept: application/json, text/plain, */*' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'pragma: no-cache' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > christmas-markets.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+  departure:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://www.mvg.de/api/fib/v2/departure?globalId=de:09162:750&limit=10&offsetInMinutes=0&transportTypes=UBAHN,TRAM,BUS,SBAHN,SCHIFF' \
+        -H 'authority: www.mvg.de' \
+        -H 'accept: application/json, text/plain, */*' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'pragma: no-cache' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > departure.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+  750-ff:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://www.mvg.de/.rest/mvgZoom/api/stations/750' \
+        -H 'authority: www.mvg.de' \
+        -H 'accept: application/json, text/plain, */*' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'pragma: no-cache' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > 750-ff.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+  stations:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl 'https://www.mvg.de/.rest/mvgZoom/api/stations' \
+        -H 'authority: www.mvg.de' \
+        -H 'accept: application/json, text/plain, */*' \
+        -H 'accept-language: de' \
+        -H 'cache-control: no-cache' \
+        -H 'pragma: no-cache' \
+        -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
+        --compressed > stations.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push

@@ -7,13 +7,15 @@ on:
   - cron: '5 * * * *'
 
 jobs:
-  slim:
+  mvg:
     runs-on: ubuntu-latest
     if: ${{ always() }}
     steps:
     - name: Check out this repo
+      if: always()
       uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: slim
+      if: always()
       run: |-
         curl 'https://www.mvg.de/api/ems/slim' \
         -H 'authority: www.mvg.de' \
@@ -24,22 +26,8 @@ jobs:
         -H 'referer: https://www.mvg.de/' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > slim.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-  mvgStationGlobalIds:
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    needs: [slim]
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: mvgStationGlobalIds
+      if: always()
       run: |-
         curl 'https://www.mvg.de/.rest/zdm/mvgStationGlobalIds' \
         -H 'authority: www.mvg.de' \
@@ -50,22 +38,8 @@ jobs:
         -H 'referer: https://www.mvg.de/' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > mvgStationGlobalIds.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-  tickers:
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    needs: [slim, mvgStationGlobalIds]
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: tickers
+      if: always()
       run: |-
         curl 'https://www.mvg.de/api/ems/tickers' \
         -H 'authority: www.mvg.de' \
@@ -77,22 +51,8 @@ jobs:
         -H 'referer: https://www.mvg.de/' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > tickers.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-  christmas:
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    needs: [slim, mvgStationGlobalIds, tickers]
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: christmas-markets
+      if: always()
       run: |-
         curl 'https://move.mvg.de/christmas-markets.json' \
         -H 'authority: move.mvg.de' \
@@ -102,22 +62,8 @@ jobs:
         -H 'pragma: no-cache' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > christmas-markets.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-  departure:
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    needs: [slim, mvgStationGlobalIds, tickers, christmas]
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: departure
+      if: always()
       run: |-
         curl 'https://www.mvg.de/api/fib/v2/departure?globalId=de:09162:750&limit=10&offsetInMinutes=0&transportTypes=UBAHN,TRAM,BUS,SBAHN,SCHIFF' \
         -H 'authority: www.mvg.de' \
@@ -127,22 +73,8 @@ jobs:
         -H 'pragma: no-cache' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > departure.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-  ff-750:
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    needs: [slim, mvgStationGlobalIds, tickers, christmas, departure]
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: ff-750
+      if: always()
       run: |-
         curl 'https://www.mvg.de/.rest/mvgZoom/api/stations/750' \
         -H 'authority: www.mvg.de' \
@@ -152,22 +84,8 @@ jobs:
         -H 'pragma: no-cache' \
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > ff-750.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-  stations:
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    needs: [slim, mvgStationGlobalIds, tickers, christmas, departure, ff-750]
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: stations
+      if: always()
       run: |-
         curl 'https://www.mvg.de/.rest/mvgZoom/api/stations' \
         -H 'authority: www.mvg.de' \
@@ -178,6 +96,7 @@ jobs:
         -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0' \
         --compressed > stations.json
     - name: Commit and push if it changed
+      if: always()
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"

@@ -263,6 +263,177 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-01-28T15:56:00Z",
+      "toDate": "2024-01-28T16:56:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 165 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "48c43f2e-56e0-4cc1-8166-8b00ca3b0142",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-28T15:56:00Z",
+        "toDate": "2024-01-28T16:56:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "165",
+        "name": "165",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1931",
+            "name": "Zaunerstraße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1820",
+            "name": "Willi-Wien-Straße"
+          },
+          {
+            "id": "de:09162:1814",
+            "name": "Von-Kahr-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "165",
+        "name": "165",
+        "stations": [
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1814",
+            "name": "Von-Kahr-Straße"
+          },
+          {
+            "id": "de:09162:1820",
+            "name": "Willi-Wien-Straße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1931",
+            "name": "Zaunerstraße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-28T15:59:16Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 165 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-24T17:00:00Z",
       "toDate": "2024-01-29T01:00:00Z"
     },

@@ -1140,6 +1140,493 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-01-30T07:48:00Z",
+      "toDate": "2024-01-30T08:48:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf den Linien 16 und 17 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 09:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "13331076-163f-4c35-95d0-40244802f2bb",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-30T07:48:00Z",
+        "toDate": "2024-01-30T08:48:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "17",
+        "name": "17",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "17",
+        "name": "17",
+        "stations": [
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-30T07:49:18Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf den Linien 16 und 17 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 09:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-30T07:31:00Z",
       "toDate": "2024-01-30T09:30:00Z"
     },

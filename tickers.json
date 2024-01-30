@@ -885,6 +885,57 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-01-30T17:55:00Z",
+      "toDate": "2024-01-30T18:35:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Neuperlach Zentrum kommt es auf den Linien 197 Außenring und 197 Innenring derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "96fd677d-68d6-4019-adb0-4e01293ce4fc",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-30T17:55:00Z",
+        "toDate": "2024-01-30T18:35:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-30T17:57:40Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Neuperlach Zentrum kommt es auf den Linien 197 Außenring und 197 Innenring derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-30T17:51:00Z",
       "toDate": "2024-01-30T18:25:00Z"
     },

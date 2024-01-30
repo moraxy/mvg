@@ -726,161 +726,6 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-01-30T16:31:00Z",
-      "toDate": "2024-01-30T17:53:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Friedenspromenade kommt es auf der Linie 193 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 18:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "1232082a-cd1e-4566-a3e5-ee468d653a61",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-01-30T16:31:00Z",
-        "toDate": "2024-01-30T17:53:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "193",
-        "name": "193",
-        "stations": [
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:993",
-            "name": "Wasserburger Landstraße"
-          },
-          {
-            "id": "de:09162:994",
-            "name": "Kulturzentrum Trudering"
-          },
-          {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
-          },
-          {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
-          },
-          {
-            "id": "de:09162:939",
-            "name": "Drosselweg"
-          },
-          {
-            "id": "de:09162:930",
-            "name": "Bahnstraße"
-          },
-          {
-            "id": "de:09162:931",
-            "name": "Phantasiestraße"
-          },
-          {
-            "id": "de:09162:995",
-            "name": "Jagdhornstraße"
-          },
-          {
-            "id": "de:09162:932",
-            "name": "Von-Erckert-Straße"
-          },
-          {
-            "id": "de:09184:2170",
-            "name": "Haar, Hans-Stießberger-Straße"
-          },
-          {
-            "id": "de:09184:2168",
-            "name": "Haar, Ludwig-Moser-Straße"
-          },
-          {
-            "id": "de:09184:2194",
-            "name": "Haar, Wieselweg"
-          },
-          {
-            "id": "de:09184:2359",
-            "name": "Haar, Am Jagdfeldzentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "193",
-        "name": "193",
-        "stations": [
-          {
-            "id": "de:09184:2359",
-            "name": "Haar, Am Jagdfeldzentrum"
-          },
-          {
-            "id": "de:09184:2168",
-            "name": "Haar, Ludwig-Moser-Straße"
-          },
-          {
-            "id": "de:09184:2170",
-            "name": "Haar, Hans-Stießberger-Straße"
-          },
-          {
-            "id": "de:09162:932",
-            "name": "Von-Erckert-Straße"
-          },
-          {
-            "id": "de:09162:995",
-            "name": "Jagdhornstraße"
-          },
-          {
-            "id": "de:09162:931",
-            "name": "Phantasiestraße"
-          },
-          {
-            "id": "de:09162:930",
-            "name": "Bahnstraße"
-          },
-          {
-            "id": "de:09162:939",
-            "name": "Drosselweg"
-          },
-          {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
-          },
-          {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
-          },
-          {
-            "id": "de:09162:994",
-            "name": "Kulturzentrum Trudering"
-          },
-          {
-            "id": "de:09162:993",
-            "name": "Wasserburger Landstraße"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-01-30T17:22:41Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Friedenspromenade kommt es auf der Linie 193 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 18:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-01-30T11:54:00Z",
       "toDate": "2024-01-30T21:00:00Z"
     },
@@ -1036,6 +881,109 @@
     "modificationDate": "2024-01-30T15:38:05Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 196 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-01-30T17:51:00Z",
+      "toDate": "2024-01-30T18:25:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 198 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "af6c1edb-8e80-4fc3-a831-e9e32dccb155",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-30T17:51:00Z",
+        "toDate": "2024-01-30T18:25:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "198",
+        "name": "198",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:964",
+            "name": "Im Gefilde"
+          },
+          {
+            "id": "de:09162:976",
+            "name": "Isengaustraße"
+          },
+          {
+            "id": "de:09162:977",
+            "name": "Klara-Ziegler-Bogen"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "198",
+        "name": "198",
+        "stations": [
+          {
+            "id": "de:09162:977",
+            "name": "Klara-Ziegler-Bogen"
+          },
+          {
+            "id": "de:09162:976",
+            "name": "Isengaustraße"
+          },
+          {
+            "id": "de:09162:964",
+            "name": "Im Gefilde"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-30T17:52:31Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 198 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

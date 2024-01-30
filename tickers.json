@@ -981,6 +981,117 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-01-30T06:01:00Z",
+      "toDate": "2024-01-30T08:01:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U7 sind noch bis voraussichtlich 09:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "id": "19f808ea-2804-4447-a4a8-533f71262701",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-30T06:01:00Z",
+        "toDate": "2024-01-30T08:01:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-30T06:01:40Z",
+    "text": "Liebe Fahrgäste, <br/>auf der Linie U7 sind noch bis voraussichtlich 09:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-01T23:01:00Z",
       "toDate": "2024-02-02T22:59:00Z"
     },
@@ -1623,7 +1734,7 @@
       "toDate": "2024-03-17T22:59:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 17. M&auml;rz 2024 &ndash; ausgenommen Faschingswochenende 9.-11. Februar &ndash; wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
+    "htmlText": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 17. M&auml;rz 2024 &ndash; ausgenommen Faschingswochenende 9.-11. Februar &ndash; wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
     "id": "748fc5e9-6b37-4d3c-8ae5-bf6b687933f1",
     "incidentDuration": [
       {
@@ -1874,8 +1985,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-26T09:19:45Z",
-    "text": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 17. M&auml;rz 2024 &ndash; ausgenommen Faschingswochenende 9.-11. Februar &ndash; wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
+    "modificationDate": "2024-01-30T05:59:57Z",
+    "text": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 17. M&auml;rz 2024 &ndash; ausgenommen Faschingswochenende 9.-11. Februar &ndash; wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
     "title": "Unterbrechung der U2 zwischen Hauptbahnhof und Hohenzollernplatz, U8 nur Hauptbahnhof <> Neuperlach Zentrum",
     "type": "PLANNED"
   },
@@ -4563,15 +4674,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-01-14T23:01:00Z",
-      "toDate": "2024-02-16T22:59:00Z"
+      "toDate": "2024-03-01T22:59:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "<div>Von Montag, 22. Januar bis vsl. Freitag, 16. Februar 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
+    "htmlText": "<div>Bis vsl. Freitag, 1. M&auml;rz 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
     "id": "64bf0dd3-394c-42e7-ac49-bf6004af9c6d",
     "incidentDuration": [
       {
         "fromDate": "2024-01-21T23:01:00Z",
-        "toDate": "2024-02-16T22:59:00Z"
+        "toDate": "2024-03-01T22:59:00Z"
       }
     ],
     "incidents": [],
@@ -4580,13 +4691,46 @@
         "direction": "1",
         "id": "23",
         "name": "23",
-        "stations": [],
+        "stations": [
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:988",
+            "name": "Anni-Albers-Straße"
+          },
+          {
+            "id": "de:09162:501",
+            "name": "Am Münchner Tor"
+          },
+          {
+            "id": "de:09162:459",
+            "name": "Schwabinger Tor"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
         "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-19T12:19:09Z",
-    "text": "<div>Von Montag, 22. Januar bis vsl. Freitag, 16. Februar 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
+    "modificationDate": "2024-01-30T05:58:39Z",
+    "text": "<div>Bis vsl. Freitag, 1. M&auml;rz 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
     "title": "Reduzierter Takt in der Hauptverkehrszeit (7-9 und 16-19 Uhr)",
     "type": "PLANNED"
   },

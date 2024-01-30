@@ -264,15 +264,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-01-30T16:33:00Z",
-      "toDate": "2024-01-30T17:33:00Z"
+      "toDate": "2024-01-30T16:49:31Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Marienplatz kommt es derzeit zu Verspätungen auf den Linien U3 in Richtung Moosach Bf. und U6 in Richtung Garching-Forschungszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien U3 und U6 gemeldete Behinderung (Grund: Stellwerkstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "f963b149-2778-4d93-aeb7-bca78480162f",
     "incidentDuration": [
       {
         "fromDate": "2024-01-30T16:33:00Z",
-        "toDate": "2024-01-30T17:33:00Z"
+        "toDate": "2024-01-30T16:39:31Z"
       }
     ],
     "incidents": [],
@@ -499,9 +499,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-30T16:33:55Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Marienplatz kommt es derzeit zu Verspätungen auf den Linien U3 in Richtung Moosach Bf. und U6 in Richtung Garching-Forschungszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen wegen einer Stellwerkstörung",
+    "modificationDate": "2024-01-30T16:39:31Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien U3 und U6 gemeldete Behinderung (Grund: Stellwerkstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -881,6 +881,345 @@
     "modificationDate": "2024-01-30T16:12:54Z",
     "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Karlsplatz (Stachus) kommt es auf den Linien 12, 27 und 28 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-01-30T16:39:00Z",
+      "toDate": "2024-01-30T17:39:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Dankwartstraße kommt es auf der Linie 62 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 62 in Richtung Rotkreuzplatz wird zwischen Wilhelm-Hale-Straße und Rotkreuzplatz umgeleitet. Die Haltestellen Steubenplatz, Dankwartstraße und Winthirplatz in Fahrtrichtung Rotkreuzplatz können leider nicht bedient werden. </li> \t<li>Die Linie 62 in Richtung Ostbahnhof wird zwischen Rotkreuzplatz und Lautensackstraße umgeleitet. Die Haltestellen Winthirplatz, Dankwartstraße, Steubenplatz, Wilhelm-Hale-Straße und Hirschgarten Bf. in Fahrtrichtung Ostbahnhof können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "d39013f1-34cf-497a-8350-1328161d865e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-30T16:39:00Z",
+        "toDate": "2024-01-30T17:39:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:141",
+            "name": "Stephansplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-30T16:41:27Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Dankwartstraße kommt es auf der Linie 62 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 62 in Richtung Rotkreuzplatz wird zwischen Wilhelm-Hale-Straße und Rotkreuzplatz umgeleitet. Die Haltestellen Steubenplatz, Dankwartstraße und Winthirplatz in Fahrtrichtung Rotkreuzplatz können leider nicht bedient werden. </li> \t<li>Die Linie 62 in Richtung Ostbahnhof wird zwischen Rotkreuzplatz und Lautensackstraße umgeleitet. Die Haltestellen Winthirplatz, Dankwartstraße, Steubenplatz, Wilhelm-Hale-Straße und Hirschgarten Bf. in Fahrtrichtung Ostbahnhof können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

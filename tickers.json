@@ -263,6 +263,253 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2023-11-06T11:00:00Z",
+      "toDate": null
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Wegen Modernisierungs- und Wartungsarbeiten sind zurzeit nicht alle U-Bahnen einsatzbereit. Die Linien U1 und U7 fahren trotzdem alle 10 Minuten, allerdings bis auf Weiteres gr&ouml;&szlig;tenteils mit k&uuml;rzeren Z&uuml;gen. Wo diese halten, zeigen die blauen Aufkleber im Gleisbereich an.&nbsp;&nbsp;</div>",
+    "id": "ed086fc6-e0d1-400a-9eae-920e50e2c2f6",
+    "incidentDuration": [
+      {
+        "fromDate": "2023-11-06T11:00:00Z",
+        "toDate": null
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-12T13:05:57Z",
+    "text": "<div>Wegen Modernisierungs- und Wartungsarbeiten sind zurzeit nicht alle U-Bahnen einsatzbereit. Die Linien U1 und U7 fahren trotzdem alle 10 Minuten, allerdings bis auf Weiteres gr&ouml;&szlig;tenteils mit k&uuml;rzeren Z&uuml;gen. Wo diese halten, zeigen die blauen Aufkleber im Gleisbereich an.&nbsp;&nbsp;</div>",
+    "title": "Derzeit kürzere Züge im Einsatz",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-01T23:01:00Z",
       "toDate": "2024-02-02T22:59:00Z"
     },
@@ -650,253 +897,6 @@
     "modificationDate": "2024-01-19T07:08:08Z",
     "text": "<div>Wegen Schienenerneuerung zwischen K&ouml;nigsplatz, Hauptbahnhof und Sendlinger Tor fahren die Z&uuml;ge der U1 und U2 von</div>\n<ul>\n<li>Dienstag, 16. Januar bis Freitag, 19. Januar t&auml;glich von ca. 00:50 bis 04:50 Uhr</li>\n<li>Dienstag, 23. Januar bis Freitag, 26. Januar t&auml;glich von ca. 00:50 bis 04:50 Uhr</li>\n<li>Dienstag, 30. Januar bis Freitag, 2. Februar t&auml;glich von ca. 00:50 bis 04:50 Uhr</li>\n</ul>\n<div>an den Bahnh&ouml;fen Stiglmaierplatz, Hauptbahnhof, Sendlinger Tor und Fraunhoferstra&szlig;e <strong>in beiden Richtungen von Gleis 2 (Hauptbahnhof Gleis 2/4)</strong> ab. Bitte achten Sie auf die Wegweiser vor Ort sowie auf die Zugzielanzeigen.<br/>&nbsp;<br/>Am U-Bahnhof Sendlinger Tor k&ouml;nnen die gewohnten Anschl&uuml;sse zwischen U1/U2 und U3/U6&nbsp;ggf. nicht eingehalten werden.</div>",
     "title": "Geänderte Abfahrtsgleise von ca. 00:50 bis 04:50 Uhr wegen Schienenerneuerung in der Innenstadt",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2023-11-06T11:00:00Z",
-      "toDate": null
-    },
-    "downloadLinks": [],
-    "htmlText": "<div>Wegen Modernisierungs- und Wartungsarbeiten sind zurzeit nicht alle U-Bahnen einsatzbereit. Die Linien U1 und U7 fahren trotzdem alle 10 Minuten, allerdings bis auf Weiteres gr&ouml;&szlig;tenteils mit k&uuml;rzeren Z&uuml;gen. Wo diese halten, zeigen die blauen Aufkleber im Gleisbereich an.&nbsp;&nbsp;</div>",
-    "id": "ed086fc6-e0d1-400a-9eae-920e50e2c2f6",
-    "incidentDuration": [
-      {
-        "fromDate": "2023-11-06T11:00:00Z",
-        "toDate": null
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "7",
-        "name": "U7",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "7",
-        "name": "U7",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-01-12T13:05:57Z",
-    "text": "<div>Wegen Modernisierungs- und Wartungsarbeiten sind zurzeit nicht alle U-Bahnen einsatzbereit. Die Linien U1 und U7 fahren trotzdem alle 10 Minuten, allerdings bis auf Weiteres gr&ouml;&szlig;tenteils mit k&uuml;rzeren Z&uuml;gen. Wo diese halten, zeigen die blauen Aufkleber im Gleisbereich an.&nbsp;&nbsp;</div>",
-    "title": "Derzeit kürzere Züge im Einsatz",
     "type": "PLANNED"
   },
   {
@@ -1302,6 +1302,211 @@
     "modificationDate": "2023-10-25T08:40:17Z",
     "text": "<div>Wegen Bauarbeiten&nbsp;kommt es auf der Linie U4 im Abschnitt Prinzregentenplatz &lt;&gt; Arabellapark von Montag, 9. Oktober bis vsl. Montag, 26. August 2024 t&auml;glich von ca. 01:15 Uhr bis 05:30 Uhr zu teilweise ge&auml;nderten Abfahrtsgleisen. Bitte achten Sie auf die Anzeigen im Zugzielanzeiger.</div>",
     "title": "Teilweise geänderte Abfahrtsgleise wg. Bauarbeiten zw. Prinzregentenplatz <> Arabellapark",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2023-11-19T23:01:00Z",
+      "toDate": "2024-03-03T22:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5_156481829",
+        "mimeType": "image/jpeg",
+        "name": "Übersichtskarte Scheidplatz - Kurfürstenplatz"
+      }
+    ],
+    "htmlText": "<div>Wegen Gleisbauarbeiten am Scheidplatz werden die Tramlinien 12 und 28 von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>An der (H) Scheidplatz f&auml;hrt der Ersatzverkehr (bis 9. sowie ab 19. Februar SEV 12, von 10. bis 18. Februar verl&auml;ngerte Buslinie 142) zum Kurf&uuml;rstenplatz vom Haltepunkt 4 in der Tram- und Buswendeanlage ab. Die (H) Karl-Theodor-Stra&szlig;e ist in beiden Richtungen an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div>Am (H) Kurf&uuml;rstenplatz halten die Busse wie bisher s&uuml;dlich der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e, vor dem Eiscafe Venezia.</div>\r\n",
+    "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5",
+    "incidentDuration": [
+      {
+        "fromDate": "2023-12-03T23:01:00Z",
+        "toDate": "2024-03-03T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-29T07:23:21Z",
+    "text": "<div>Wegen Gleisbauarbeiten am Scheidplatz werden die Tramlinien 12 und 28 von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>An der (H) Scheidplatz f&auml;hrt der Ersatzverkehr (bis 9. sowie ab 19. Februar SEV 12, von 10. bis 18. Februar verl&auml;ngerte Buslinie 142) zum Kurf&uuml;rstenplatz vom Haltepunkt 4 in der Tram- und Buswendeanlage ab. Die (H) Karl-Theodor-Stra&szlig;e ist in beiden Richtungen an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div>Am (H) Kurf&uuml;rstenplatz halten die Busse wie bisher s&uuml;dlich der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e, vor dem Eiscafe Venezia.</div>\r\n",
+    "title": "Scheidplatz <> Kurfürstenplatz: Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten am Scheidplatz",
     "type": "PLANNED"
   },
   {
@@ -2999,211 +3204,6 @@
     "modificationDate": "2024-01-18T11:38:01Z",
     "text": "<div>Von Montag, 19. Februar bis vsl. Sonntag, 9. Juni 2024 werden am s&uuml;dlichen Romanplatz sowie in der Arnulfstra&szlig;e umfangreiche Gleisbauma&szlig;nahmen (u.a. Einbau eines Gleisdreiecks am Romanplatz f&uuml;r die Tram-Westtangente) ausgef&uuml;hrt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> wird ab Romanplatz via Schloss Nymphenburg und Botanischer Garten bis zur Amalienburgstra&szlig;e verl&auml;ngert.</li>\n<li>Die <strong>Tramlinien 16 und 17</strong> werden zwischen Karlsplatz (Stachus), Hauptbahnhof und Romanplatz durch Busse (SEV 16) ersetzt. Der Abschnitt Romanplatz &lt;&gt; Amalienburgstra&szlig;e wird von der verl&auml;ngerten Tram 12 bedient.</li>\n<li>Die <strong>Tram 27</strong> wird am Karlsplatz (Stachus) mit der Linie 16 verkn&uuml;pft. Am Sendlinger Tor fahren die Z&uuml;ge zum Petuelring vom Haltepunkt 1 ab.</li>\n<li>Die <strong>NachtTram N17</strong> wird zwischen Karlsplatz (Stachus), Hauptbahnhof, Romanplatz und Amalienburgstra&szlig;e durch Busse ersetzt. Ab Karlsplatz (Stachus) fahren die Z&uuml;ge weiter als Tram N20 nach Moosach.</li>\n<li>Die <strong>NachtTram N20</strong> wird am Karlsplatz (Stachus) mit der Linie N17 zum Effnerplatz verkn&uuml;pft. Die (H) Karlsplatz (Stachus) ist zum Haltepunkt 1 in die Sonnenstra&szlig;e verlegt.</li>\n<li>Die <strong>Buslinien 51, 151 und N78</strong> werden im Bereich Romanplatz um die Baufelder herumgeleitet, einzelne Haltestellen m&uuml;ssen hierf&uuml;r verlegt werden.</li>\n</ul>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/trambau</strong></a>.</div>\n<div>&nbsp;</div>\n<div>Bitte beachten Sie auch die Aush&auml;nge an Ihrer Haltestelle, Sonderansagen in den Fahrzeugen und ge&auml;nderte Wegeleitungen am Sendlinger Tor, Karlsplatz (Stachus) und Hauptbahnhof. Ein <strong>Infoheft</strong> zu dieser Ma&szlig;nahme befindet sich derzeit in Finalisierung und steht in K&uuml;rze auf der Sonderseite zum Herunterladen zur Verf&uuml;gung.</div>\r\n",
     "title": "Karlsplatz (Stachus) <> Romanplatz <> Amalienburgstraße: Ersatzverkehr mit Bussen (SEV) bzw. Haltestellenverlegungen wegen Gleisbauarbeiten",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2023-11-19T23:01:00Z",
-      "toDate": "2024-03-03T22:59:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5_156481829",
-        "mimeType": "image/jpeg",
-        "name": "Übersichtskarte Scheidplatz - Kurfürstenplatz"
-      }
-    ],
-    "htmlText": "<div>Wegen Gleisbauarbeiten am Scheidplatz werden die Tramlinien 12 und 28 von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>An der (H) Scheidplatz f&auml;hrt der Ersatzverkehr (bis 9. sowie ab 19. Februar SEV 12, von 10. bis 18. Februar verl&auml;ngerte Buslinie 142) zum Kurf&uuml;rstenplatz vom Haltepunkt 4 in der Tram- und Buswendeanlage ab. Die (H) Karl-Theodor-Stra&szlig;e ist in beiden Richtungen an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div>Am (H) Kurf&uuml;rstenplatz halten die Busse wie bisher s&uuml;dlich der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e, vor dem Eiscafe Venezia.</div>\r\n",
-    "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5",
-    "incidentDuration": [
-      {
-        "fromDate": "2023-12-03T23:01:00Z",
-        "toDate": "2024-03-03T22:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "28",
-        "name": "28",
-        "stations": [
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-01-29T07:23:21Z",
-    "text": "<div>Wegen Gleisbauarbeiten am Scheidplatz werden die Tramlinien 12 und 28 von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>An der (H) Scheidplatz f&auml;hrt der Ersatzverkehr (bis 9. sowie ab 19. Februar SEV 12, von 10. bis 18. Februar verl&auml;ngerte Buslinie 142) zum Kurf&uuml;rstenplatz vom Haltepunkt 4 in der Tram- und Buswendeanlage ab. Die (H) Karl-Theodor-Stra&szlig;e ist in beiden Richtungen an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div>Am (H) Kurf&uuml;rstenplatz halten die Busse wie bisher s&uuml;dlich der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e, vor dem Eiscafe Venezia.</div>\r\n",
-    "title": "Scheidplatz <> Kurfürstenplatz: Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten am Scheidplatz",
     "type": "PLANNED"
   },
   {
@@ -5861,663 +5861,6 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-01-20T23:00:00Z",
-      "toDate": "2024-02-04T15:15:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "726347f3-c140-4580-8b98-f6a9ca8543be_-286767428",
-        "mimeType": "image/jpeg",
-        "name": "Umleitungskarte"
-      }
-    ],
-    "htmlText": "<div>Wegen einer Faschingsveranstaltung (Damische Ritter) werden die Buslinien 52, 62 und 132 am Sonntag, 04.02.2024 von ca. 09:45 bis 16:15 umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die <strong>Buslinien 52 und 62</strong> werden zwischen den (H) Sendlinger Tor und G&auml;rtnerplatztheater umgeleitet. Die (H) St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt und Blumenstra&szlig;e entfallen.</li>\n<li>Die <strong>Buslinie 132</strong> endet vorzeitig an der (H) Isartor. Die (H) Tal und Marienplatz, sowie die (H) Viktualienmarkt und Schrannenhalle (Richtung Forstenrieder Allee) entfallen.</li>\n</ul>\r\n",
-    "id": "726347f3-c140-4580-8b98-f6a9ca8543be",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-03T23:00:00Z",
-        "toDate": "2024-02-04T15:15:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "62",
-        "name": "62",
-        "stations": [
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:207",
-            "name": "Winthirplatz"
-          },
-          {
-            "id": "de:09162:209",
-            "name": "Dankwartstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:983",
-            "name": "Wilhelm-Hale-Straße"
-          },
-          {
-            "id": "de:09162:31",
-            "name": "Hirschgarten Bf."
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1201",
-            "name": "Hauzenberger Straße"
-          },
-          {
-            "id": "de:09162:1205",
-            "name": "Elsenheimerstraße"
-          },
-          {
-            "id": "de:09162:82",
-            "name": "Astallerstraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:1217",
-            "name": "Hansastraße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:101",
-            "name": "Hans-Fischer-Straße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:83",
-            "name": "Tumblingerstraße"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:146",
-            "name": "Ehrengutstraße"
-          },
-          {
-            "id": "de:09162:144",
-            "name": "Zenettistraße"
-          },
-          {
-            "id": "de:09162:59",
-            "name": "Kapuzinerstraße"
-          },
-          {
-            "id": "de:09162:143",
-            "name": "Waltherstraße"
-          },
-          {
-            "id": "de:09162:141",
-            "name": "Stephansplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:111",
-            "name": "Regerplatz"
-          },
-          {
-            "id": "de:09162:138",
-            "name": "Schwester-Eubulina-Platz"
-          },
-          {
-            "id": "de:09162:139",
-            "name": "Auerfeldstraße"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "62",
-        "name": "62",
-        "stations": [
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:139",
-            "name": "Auerfeldstraße"
-          },
-          {
-            "id": "de:09162:138",
-            "name": "Schwester-Eubulina-Platz"
-          },
-          {
-            "id": "de:09162:111",
-            "name": "Regerplatz"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:142",
-            "name": "Maistraße"
-          },
-          {
-            "id": "de:09162:143",
-            "name": "Waltherstraße"
-          },
-          {
-            "id": "de:09162:59",
-            "name": "Kapuzinerstraße"
-          },
-          {
-            "id": "de:09162:144",
-            "name": "Zenettistraße"
-          },
-          {
-            "id": "de:09162:146",
-            "name": "Ehrengutstraße"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:83",
-            "name": "Tumblingerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:101",
-            "name": "Hans-Fischer-Straße"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1217",
-            "name": "Hansastraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:82",
-            "name": "Astallerstraße"
-          },
-          {
-            "id": "de:09162:1205",
-            "name": "Elsenheimerstraße"
-          },
-          {
-            "id": "de:09162:1201",
-            "name": "Hauzenberger Straße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:31",
-            "name": "Hirschgarten Bf."
-          },
-          {
-            "id": "de:09162:983",
-            "name": "Wilhelm-Hale-Straße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:209",
-            "name": "Dankwartstraße"
-          },
-          {
-            "id": "de:09162:207",
-            "name": "Winthirplatz"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "132",
-        "name": "132",
-        "stations": [
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:165",
-            "name": "Schrannenhalle"
-          },
-          {
-            "id": "de:09162:26",
-            "name": "Isartor/Zweibrückenstraße"
-          },
-          {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
-          },
-          {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
-          },
-          {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
-          },
-          {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
-          },
-          {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
-          },
-          {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
-          },
-          {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
-          },
-          {
-            "id": "de:09162:1466",
-            "name": "Südpark"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
-          },
-          {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
-          },
-          {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-01-10T07:56:27Z",
-    "text": "<div>Wegen einer Faschingsveranstaltung (Damische Ritter) werden die Buslinien 52, 62 und 132 am Sonntag, 04.02.2024 von ca. 09:45 bis 16:15 umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die <strong>Buslinien 52 und 62</strong> werden zwischen den (H) Sendlinger Tor und G&auml;rtnerplatztheater umgeleitet. Die (H) St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt und Blumenstra&szlig;e entfallen.</li>\n<li>Die <strong>Buslinie 132</strong> endet vorzeitig an der (H) Isartor. Die (H) Tal und Marienplatz, sowie die (H) Viktualienmarkt und Schrannenhalle (Richtung Forstenrieder Allee) entfallen.</li>\n</ul>\r\n",
-    "title": "Umleitung bzw. verkürzter Linienweg wegen einer Faschingsveranstaltung",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-01-29T23:00:00Z",
       "toDate": "2024-02-13T20:00:00Z"
     },
@@ -7171,6 +6514,663 @@
     "modificationDate": "2024-01-10T08:31:18Z",
     "text": "<div>Wegen einer Faschingsveranstaltung auf dem Viktualienmarkt werden die Buslinien 52, 62 und 132 am Dienstag, 13.02.2024 von ca. 09:00 bis 21:00 umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die <strong>Buslinien 52 und 62</strong> werden zwischen den (H) Sendlinger Tor und Blumenstra&szlig;e umgeleitet. Die (H) St.-Jakobs-Platz, Marienplatz (Rindermarkt), und Viktualienmarkt entfallen.</li>\n<li>Die <strong>Buslinie 132</strong> endet vorzeitig an der (H) Isartor. Die (H) Tal und Marienplatz, sowie die (H) Viktualienmarkt und Schrannenhalle (Richtung Forstenrieder Allee) entfallen.</li>\n</ul>\r\n",
     "title": "Umleitungen bzw. verkürzter Linienweg wegen einer Faschingsveranstaltung",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-01-20T23:00:00Z",
+      "toDate": "2024-02-04T15:15:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "726347f3-c140-4580-8b98-f6a9ca8543be_-286767428",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen einer Faschingsveranstaltung (Damische Ritter) werden die Buslinien 52, 62 und 132 am Sonntag, 04.02.2024 von ca. 09:45 bis 16:15 umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die <strong>Buslinien 52 und 62</strong> werden zwischen den (H) Sendlinger Tor und G&auml;rtnerplatztheater umgeleitet. Die (H) St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt und Blumenstra&szlig;e entfallen.</li>\n<li>Die <strong>Buslinie 132</strong> endet vorzeitig an der (H) Isartor. Die (H) Tal und Marienplatz, sowie die (H) Viktualienmarkt und Schrannenhalle (Richtung Forstenrieder Allee) entfallen.</li>\n</ul>\r\n",
+    "id": "726347f3-c140-4580-8b98-f6a9ca8543be",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-03T23:00:00Z",
+        "toDate": "2024-02-04T15:15:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:141",
+            "name": "Stephansplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-10T07:56:27Z",
+    "text": "<div>Wegen einer Faschingsveranstaltung (Damische Ritter) werden die Buslinien 52, 62 und 132 am Sonntag, 04.02.2024 von ca. 09:45 bis 16:15 umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die <strong>Buslinien 52 und 62</strong> werden zwischen den (H) Sendlinger Tor und G&auml;rtnerplatztheater umgeleitet. Die (H) St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt und Blumenstra&szlig;e entfallen.</li>\n<li>Die <strong>Buslinie 132</strong> endet vorzeitig an der (H) Isartor. Die (H) Tal und Marienplatz, sowie die (H) Viktualienmarkt und Schrannenhalle (Richtung Forstenrieder Allee) entfallen.</li>\n</ul>\r\n",
+    "title": "Umleitung bzw. verkürzter Linienweg wegen einer Faschingsveranstaltung",
     "type": "PLANNED"
   },
   {
@@ -8830,6 +8830,126 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-01-14T23:00:00Z",
+      "toDate": "2024-03-15T22:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "abdd7a1d-a3b0-4654-84d5-35b64ac14582_547422494",
+        "mimeType": "image/jpeg",
+        "name": "Umgebungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Stromleitungsarbeiten in der Rainfarnstra&szlig;e ist die (H) Hasenbergl S&uuml;d der Buslinien 60 &gt; Olympia-Einkaufszentrum und N76 &gt; Petuelring von Montag, 29. Januar bis vsl. Freitag, 15. M&auml;rz 2024 in die Weitlstra&szlig;e (vor der Kreuzung Weitl-/Rainfarnstra&szlig;e) verlegt.</div>\r\n",
+    "id": "abdd7a1d-a3b0-4654-84d5-35b64ac14582",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-28T23:00:00Z",
+        "toDate": "2024-03-15T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "76",
+        "name": "N76",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-24T06:29:00Z",
+    "text": "<div>Wegen Stromleitungsarbeiten in der Rainfarnstra&szlig;e ist die (H) Hasenbergl S&uuml;d der Buslinien 60 &gt; Olympia-Einkaufszentrum und N76 &gt; Petuelring von Montag, 29. Januar bis vsl. Freitag, 15. M&auml;rz 2024 in die Weitlstra&szlig;e (vor der Kreuzung Weitl-/Rainfarnstra&szlig;e) verlegt.</div>\r\n",
+    "title": "Haltestelle Hasenbergl Süd in Richtung Olympia-Einkaufsz./Petuelring verlegt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-17T23:00:00Z",
       "toDate": "2024-02-29T22:59:00Z"
     },
@@ -9350,126 +9470,6 @@
     "modificationDate": "2024-01-31T11:15:05Z",
     "text": "<div>Wegen Stromleitungsarbeiten wird die (H) Ittlingerstra&szlig;e der Buslinien 60 &gt; D&uuml;lferstra&szlig;e, 170 &gt; Kieferngarten, 171 &gt; Am Hart und N76 &gt; D&uuml;lferstra&szlig;e von Donnerstag, 01. Februar bis vsl. Donnerstag, 29. Februar 2024 verlegt.</div>\n<div>&nbsp;</div>\n<div>Die Ersatzhaltestelle f&uuml;r die Buslinien 60 und N76 &gt; D&uuml;lferstra&szlig;e befindet sich in der Ittlingerstra&szlig;e (nach der Kreuzung Ittlinger-/Weitlstra&szlig;e).</div>\n<div>&nbsp;</div>\n<div>F&uuml;r die Linien 170 &gt; Kieferngarten und 171 &gt; Am Hart befindet sich die Ersatzhaltestelle in der Weitlstra&szlig;e (nach der Kreuzung Ittlinger-/Weitlstra&szlig;e).</div>\r\n",
     "title": "Haltestelle Ittlingerstraße wegen Stromleitungsarbeiten verlegt",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-01-14T23:00:00Z",
-      "toDate": "2024-03-15T22:59:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "abdd7a1d-a3b0-4654-84d5-35b64ac14582_547422494",
-        "mimeType": "image/jpeg",
-        "name": "Umgebungskarte"
-      }
-    ],
-    "htmlText": "<div>Wegen Stromleitungsarbeiten in der Rainfarnstra&szlig;e ist die (H) Hasenbergl S&uuml;d der Buslinien 60 &gt; Olympia-Einkaufszentrum und N76 &gt; Petuelring von Montag, 29. Januar bis vsl. Freitag, 15. M&auml;rz 2024 in die Weitlstra&szlig;e (vor der Kreuzung Weitl-/Rainfarnstra&szlig;e) verlegt.</div>\r\n",
-    "id": "abdd7a1d-a3b0-4654-84d5-35b64ac14582",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-01-28T23:00:00Z",
-        "toDate": "2024-03-15T22:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "60",
-        "name": "60",
-        "stations": [
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:355",
-            "name": "Gundermannstraße"
-          },
-          {
-            "id": "de:09162:363",
-            "name": "Pulverturmstraße"
-          },
-          {
-            "id": "de:09162:354",
-            "name": "Goldlackplatz"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:343",
-            "name": "Max-Wönner-Straße"
-          },
-          {
-            "id": "de:09162:342",
-            "name": "Lerchenauer See"
-          },
-          {
-            "id": "de:09162:341",
-            "name": "Himmelschlüsselstraße"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "76",
-        "name": "N76",
-        "stations": [],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-01-24T06:29:00Z",
-    "text": "<div>Wegen Stromleitungsarbeiten in der Rainfarnstra&szlig;e ist die (H) Hasenbergl S&uuml;d der Buslinien 60 &gt; Olympia-Einkaufszentrum und N76 &gt; Petuelring von Montag, 29. Januar bis vsl. Freitag, 15. M&auml;rz 2024 in die Weitlstra&szlig;e (vor der Kreuzung Weitl-/Rainfarnstra&szlig;e) verlegt.</div>\r\n",
-    "title": "Haltestelle Hasenbergl Süd in Richtung Olympia-Einkaufsz./Petuelring verlegt",
     "type": "PLANNED"
   },
   {

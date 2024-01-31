@@ -263,6 +263,65 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-01-31T08:51:00Z",
+      "toDate": "2024-01-31T19:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie X400 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "2e3edf78-1d62-4717-b438-83478a416452",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-31T08:51:00Z",
+        "toDate": "2024-01-31T19:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "400",
+        "name": "X400",
+        "stations": [
+          {
+            "id": "de:09175:3989",
+            "name": "Parsdorf, Posthalterring"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "400",
+        "name": "X400",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09175:4310",
+            "name": "Parsdorf, Am Lerchenfeld"
+          },
+          {
+            "id": "de:09175:3989",
+            "name": "Parsdorf, Posthalterring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-01-31T08:55:51Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie X400 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Demonstration",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-01T23:01:00Z",
       "toDate": "2024-02-02T22:59:00Z"
     },

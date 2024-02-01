@@ -263,6 +263,808 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-01T03:41:00Z",
+      "toDate": "2024-02-01T09:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>auf den Linien U3 und U6 sind noch bis voraussichtlich 10:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "id": "700d188d-2e4d-4296-b6b4-9d706436b6ca",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-01T03:41:00Z",
+        "toDate": "2024-02-01T09:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-01T05:15:43Z",
+    "text": "Liebe Fahrgäste, <br/>auf den Linien U3 und U6 sind noch bis voraussichtlich 10:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-01T05:12:00Z",
+      "toDate": "2024-02-01T09:50:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 196 und 199 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "27e147b7-5716-4114-9991-8049081aa8ef",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-01T05:12:00Z",
+        "toDate": "2024-02-01T09:50:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "196",
+        "name": "196",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1029",
+            "name": "Wolframstraße"
+          },
+          {
+            "id": "de:09162:1000",
+            "name": "Perlach Bf."
+          },
+          {
+            "id": "de:09162:998",
+            "name": "Weidener Straße"
+          },
+          {
+            "id": "de:09162:999",
+            "name": "Bayerwaldstraße"
+          },
+          {
+            "id": "de:09162:1002",
+            "name": "Nailastraße"
+          },
+          {
+            "id": "de:09162:1006",
+            "name": "Rudolf-Zorn-Straße"
+          },
+          {
+            "id": "de:09162:1008",
+            "name": "Hermann-Pünder-Straße"
+          },
+          {
+            "id": "de:09162:1012",
+            "name": "Ludwig-Linsert-Straße"
+          },
+          {
+            "id": "de:09162:1013",
+            "name": "Ludwig-Erhard-Allee"
+          },
+          {
+            "id": "de:09162:1018",
+            "name": "Curd-Jürgens-Straße"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "196",
+        "name": "196",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:1018",
+            "name": "Curd-Jürgens-Straße"
+          },
+          {
+            "id": "de:09162:1013",
+            "name": "Ludwig-Erhard-Allee"
+          },
+          {
+            "id": "de:09162:1012",
+            "name": "Ludwig-Linsert-Straße"
+          },
+          {
+            "id": "de:09162:1008",
+            "name": "Hermann-Pünder-Straße"
+          },
+          {
+            "id": "de:09162:1006",
+            "name": "Rudolf-Zorn-Straße"
+          },
+          {
+            "id": "de:09162:1002",
+            "name": "Nailastraße"
+          },
+          {
+            "id": "de:09162:999",
+            "name": "Bayerwaldstraße"
+          },
+          {
+            "id": "de:09162:998",
+            "name": "Weidener Straße"
+          },
+          {
+            "id": "de:09162:1000",
+            "name": "Perlach Bf."
+          },
+          {
+            "id": "de:09162:1029",
+            "name": "Wolframstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "199",
+        "name": "199",
+        "stations": [
+          {
+            "id": "de:09184:2297",
+            "name": "Neubiberg, Campeon West"
+          },
+          {
+            "id": "de:09184:2299",
+            "name": "Neubiberg, Campeon"
+          },
+          {
+            "id": "de:09184:2277",
+            "name": "Neubiberg, Am Hachinger Bach"
+          },
+          {
+            "id": "de:09184:2292",
+            "name": "Neubiberg, Marktplatz Unterbiberg"
+          },
+          {
+            "id": "de:09184:2294",
+            "name": "Neubiberg, Universitätsstraße"
+          },
+          {
+            "id": "de:09184:2296",
+            "name": "Neubiberg, Lilienthalstraße"
+          },
+          {
+            "id": "de:09184:2298",
+            "name": "Neubiberg, Universität Bw-Ost"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:974",
+            "name": "Putzbrunner Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1039",
+            "name": "Georg-Brauchle-Haus"
+          },
+          {
+            "id": "de:09162:1028",
+            "name": "Ostpark Eislaufzentrum"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:997",
+            "name": "Bad-Schachener-Straße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "199",
+        "name": "199",
+        "stations": [
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:997",
+            "name": "Bad-Schachener-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1028",
+            "name": "Ostpark Eislaufzentrum"
+          },
+          {
+            "id": "de:09162:1039",
+            "name": "Georg-Brauchle-Haus"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:974",
+            "name": "Putzbrunner Straße"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09184:2298",
+            "name": "Neubiberg, Universität Bw-Ost"
+          },
+          {
+            "id": "de:09184:2296",
+            "name": "Neubiberg, Lilienthalstraße"
+          },
+          {
+            "id": "de:09184:2294",
+            "name": "Neubiberg, Universitätsstraße"
+          },
+          {
+            "id": "de:09184:2292",
+            "name": "Neubiberg, Marktplatz Unterbiberg"
+          },
+          {
+            "id": "de:09184:2277",
+            "name": "Neubiberg, Am Hachinger Bach"
+          },
+          {
+            "id": "de:09184:2299",
+            "name": "Neubiberg, Campeon"
+          },
+          {
+            "id": "de:09184:2297",
+            "name": "Neubiberg, Campeon West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-01T05:15:21Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 196 und 199 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2023-11-06T11:00:00Z",
       "toDate": null
     },

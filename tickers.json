@@ -885,6 +885,161 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-02T15:47:00Z",
+      "toDate": "2024-02-02T20:14:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "6f4c4490-a962-468d-a8e9-c9fe07ce2281",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-02T15:47:00Z",
+        "toDate": "2024-02-02T20:14:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:291",
+            "name": "Sapporobogen"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:164",
+            "name": "Hanebergstraße"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:158",
+            "name": "Hubertusbrunnen"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:163",
+            "name": "Volkartstraße Ost"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-02T15:51:11Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2023-11-06T11:00:00Z",
       "toDate": null
     },

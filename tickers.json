@@ -1,6 +1,165 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-02T15:07:00Z",
+      "toDate": "2024-02-02T16:07:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U1 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "2eba251f-5f9a-4d03-9902-532c0f2fbf26",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-02T15:07:00Z",
+        "toDate": "2024-02-02T16:07:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-02T15:09:50Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U1 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-21T23:01:00Z",
       "toDate": "2024-03-17T22:59:00Z"
     },
@@ -1025,293 +1184,6 @@
     "modificationDate": "2024-02-02T14:40:03Z",
     "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Westendstraße kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 16:40 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-02T14:16:00Z",
-      "toDate": "2024-02-02T15:16:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Feuerwehreinsatzes kommt es bei der Linie 187 derzeit zu Verspätungen und Haltestellenausfällen. <ul style='list-style: disc;'><li>Die Linie 187 fährt nur in den Abschnitten Michaelibad <> Josephsburg und Berg am Laim Bf. (Süd) <> Arabellapark.  <li>Die Haltestellen Baumkirchner Straße und Baumkirchner Platz können leider nicht bedient werden.</li></li></ul>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "id": "04f04b49-c715-4847-857c-bd37513d185e",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-02T14:16:00Z",
-        "toDate": "2024-02-02T15:16:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "187",
-        "name": "187",
-        "stations": [
-          {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
-          },
-          {
-            "id": "de:09162:907",
-            "name": "Sankt Michael"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:893",
-            "name": "Baumkirchner Platz"
-          },
-          {
-            "id": "de:09162:899",
-            "name": "Berg am Laim Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:640",
-            "name": "Zamdorfer Straße"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:613",
-            "name": "Schwarzwaldstraße"
-          },
-          {
-            "id": "de:09162:611",
-            "name": "Moselstraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:550",
-            "name": "Kufsteiner Platz"
-          },
-          {
-            "id": "de:09162:555",
-            "name": "Poschingerstraße"
-          },
-          {
-            "id": "de:09162:551",
-            "name": "Redwitzstraße"
-          },
-          {
-            "id": "de:09162:552",
-            "name": "Gustav-Freytag-Straße"
-          },
-          {
-            "id": "de:09162:553",
-            "name": "Gellertstraße"
-          },
-          {
-            "id": "de:09162:554",
-            "name": "Rümelinstraße"
-          },
-          {
-            "id": "de:09162:619",
-            "name": "Grüntal"
-          },
-          {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
-          },
-          {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:618",
-            "name": "Effnerstraße"
-          },
-          {
-            "id": "de:09162:617",
-            "name": "Priel"
-          },
-          {
-            "id": "de:09162:615",
-            "name": "Odinpark"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "187",
-        "name": "187",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:615",
-            "name": "Odinpark"
-          },
-          {
-            "id": "de:09162:617",
-            "name": "Priel"
-          },
-          {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
-          },
-          {
-            "id": "de:09162:619",
-            "name": "Grüntal"
-          },
-          {
-            "id": "de:09162:554",
-            "name": "Rümelinstraße"
-          },
-          {
-            "id": "de:09162:553",
-            "name": "Gellertstraße"
-          },
-          {
-            "id": "de:09162:552",
-            "name": "Gustav-Freytag-Straße"
-          },
-          {
-            "id": "de:09162:551",
-            "name": "Redwitzstraße"
-          },
-          {
-            "id": "de:09162:555",
-            "name": "Poschingerstraße"
-          },
-          {
-            "id": "de:09162:550",
-            "name": "Kufsteiner Platz"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:611",
-            "name": "Moselstraße"
-          },
-          {
-            "id": "de:09162:613",
-            "name": "Schwarzwaldstraße"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:899",
-            "name": "Berg am Laim Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:893",
-            "name": "Baumkirchner Platz"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:907",
-            "name": "Sankt Michael"
-          },
-          {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-02T14:19:34Z",
-    "text": "Liebe Fahrgäste, <br/>wegen eines Feuerwehreinsatzes kommt es bei der Linie 187 derzeit zu Verspätungen und Haltestellenausfällen. <ul style='list-style: disc;'><li>Die Linie 187 fährt nur in den Abschnitten Michaelibad <> Josephsburg und Berg am Laim Bf. (Süd) <> Arabellapark.  <li>Die Haltestellen Baumkirchner Straße und Baumkirchner Platz können leider nicht bedient werden.</li></li></ul>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "title": "Verspätungen und Haltestellenausfälle wegen eines Feuerwehreinsatzes",
     "type": "DISRUPTION"
   },
   {

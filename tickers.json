@@ -2067,6 +2067,293 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-02T14:16:00Z",
+      "toDate": "2024-02-02T15:16:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Feuerwehreinsatzes kommt es bei der Linie 187 derzeit zu Verspätungen und Haltestellenausfällen. <ul style='list-style: disc;'><li>Die Linie 187 fährt nur in den Abschnitten Michaelibad <> Josephsburg und Berg am Laim Bf. (Süd) <> Arabellapark.  <li>Die Haltestellen Baumkirchner Straße und Baumkirchner Platz können leider nicht bedient werden.</li></li></ul>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "04f04b49-c715-4847-857c-bd37513d185e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-02T14:16:00Z",
+        "toDate": "2024-02-02T15:16:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:907",
+            "name": "Sankt Michael"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:618",
+            "name": "Effnerstraße"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:907",
+            "name": "Sankt Michael"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-02T14:19:34Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Feuerwehreinsatzes kommt es bei der Linie 187 derzeit zu Verspätungen und Haltestellenausfällen. <ul style='list-style: disc;'><li>Die Linie 187 fährt nur in den Abschnitten Michaelibad <> Josephsburg und Berg am Laim Bf. (Süd) <> Arabellapark.  <li>Die Haltestellen Baumkirchner Straße und Baumkirchner Platz können leider nicht bedient werden.</li></li></ul>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Verspätungen und Haltestellenausfälle wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2023-11-06T11:00:00Z",
       "toDate": null
     },

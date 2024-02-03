@@ -730,7 +730,7 @@
       "toDate": "2024-02-03T16:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es derzeit zu Umleitungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es derzeit zu Umleitungen. <ul style='list-style: disc;'><ul>\n<li>Die Linie 12 verkehrt nur im Abschnitt Romanplatz &lt;&gt; Leonrodplatz. Ab dort weiter als Linie 28 Richtung Karlsplatz (Stachus) &uuml;ber Stigelmaierplatz (U1) und Hauptbahnhof (U1, U2, U4, U5, U8).</li>\n<li>Die Linie 27 f&auml;hrt zwischen Karlplatz (Stachus) und Nordbad eine Umleitung &uuml;ber Hauptbahnhof, Stigelmaierplatz und Leonrodplatz. Die Haltestellen Ottostra&szlig;e, Karolinenplatz, Pinakotheken, Nordendstra&szlig;e, Elisabethplatz, Kurf&uuml;rstenplatz und Hohenzollernplatz k&ouml;nnen leider nicht bedient werden.</li>\n<li>Die Linie 28 wir ab der Haltestelle Karlplatz (Stachus) (U4/ U5) &uuml;ber Hauptbahnhof (U1, U2, U4, U5, U8), Stigelmaierplatz (U1)&nbsp; zum Leonrodplatz umgeleitet und f&auml;hrt dort als Linie 12 Richtung Romanplatz weiter.&nbsp;</li>\n</ul></ul>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "18fe38ec-f214-483a-8881-d67dfeef9713",
     "incidentDuration": [
       {
@@ -740,70 +740,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "2",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
       {
         "direction": "1",
         "id": "12",
@@ -868,6 +804,70 @@
           {
             "id": "de:09162:215",
             "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2214,8 +2214,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-03T14:07:07Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es derzeit zu Umleitungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-02-03T14:26:41Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es derzeit zu Umleitungen. <ul style='list-style: disc;'><ul>\n<li>Die Linie 12 verkehrt nur im Abschnitt Romanplatz &lt;&gt; Leonrodplatz. Ab dort weiter als Linie 28 Richtung Karlsplatz (Stachus) &uuml;ber Stigelmaierplatz (U1) und Hauptbahnhof (U1, U2, U4, U5, U8).</li>\n<li>Die Linie 27 f&auml;hrt zwischen Karlplatz (Stachus) und Nordbad eine Umleitung &uuml;ber Hauptbahnhof, Stigelmaierplatz und Leonrodplatz. Die Haltestellen Ottostra&szlig;e, Karolinenplatz, Pinakotheken, Nordendstra&szlig;e, Elisabethplatz, Kurf&uuml;rstenplatz und Hohenzollernplatz k&ouml;nnen leider nicht bedient werden.</li>\n<li>Die Linie 28 wir ab der Haltestelle Karlplatz (Stachus) (U4/ U5) &uuml;ber Hauptbahnhof (U1, U2, U4, U5, U8), Stigelmaierplatz (U1)&nbsp; zum Leonrodplatz umgeleitet und f&auml;hrt dort als Linie 12 Richtung Romanplatz weiter.&nbsp;</li>\n</ul></ul>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Umleitung wegen einer Demonstration",
     "type": "DISRUPTION"
   },

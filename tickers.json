@@ -263,6 +263,233 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-04T06:49:00Z",
+      "toDate": "2024-02-04T07:49:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 141 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "f55c8b5e-f907-4cfa-a829-4b3b93a7142f",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-04T06:49:00Z",
+        "toDate": "2024-02-04T07:49:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-04T06:55:18Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 141 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-04T02:36:00Z",
       "toDate": "2024-02-04T11:00:00Z"
     },

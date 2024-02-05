@@ -726,173 +726,101 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-02-05T04:57:00Z",
-      "toDate": "2024-02-05T05:10:19Z"
+      "fromDate": "2024-02-05T05:06:00Z",
+      "toDate": "2024-02-05T05:40:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 16 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "d9d53489-5976-474e-bf97-57a7f3707942",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 20 in Richtung Moosach Bf.                 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 06:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "b85b75b2-2409-4cca-9f9d-a69e9e2b78d6",
     "incidentDuration": [
       {
-        "fromDate": "2024-02-05T04:57:00Z",
-        "toDate": "2024-02-05T05:00:19Z"
+        "fromDate": "2024-02-05T05:06:00Z",
+        "toDate": "2024-02-05T05:40:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "1",
-        "id": "16",
-        "name": "16",
+        "direction": "2",
+        "id": "20",
+        "name": "20",
         "stations": [
           {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
           },
           {
             "id": "de:09162:6",
             "name": "Hauptbahnhof"
           },
           {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
           },
           {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
+            "id": "de:09162:15",
+            "name": "Karlstraße"
           },
           {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
           },
           {
-            "id": "de:09162:68",
-            "name": "Reichenbachplatz"
+            "id": "de:09162:13",
+            "name": "Sandstraße"
           },
           {
-            "id": "de:09162:3",
-            "name": "Isartor"
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
           },
           {
-            "id": "de:09162:84",
-            "name": "Mariannenplatz"
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
           },
           {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
           },
           {
-            "id": "de:09162:590",
-            "name": "Lehel"
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
           },
           {
-            "id": "de:09162:81",
-            "name": "Nationalmuseum/Haus der Kunst"
+            "id": "de:09162:305",
+            "name": "Borstei"
           },
           {
-            "id": "de:09162:79",
-            "name": "Paradiesstraße"
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
           },
           {
-            "id": "de:09162:78",
-            "name": "Tivolistraße"
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
           },
           {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
+            "id": "de:09162:303",
+            "name": "Wintrichring"
           },
           {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
           },
           {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
           },
           {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
           }
         ],
         "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-05T05:00:19Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 16 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-02-05T05:07:48Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 20 in Richtung Moosach Bf.                 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 06:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Betriebsstörung",
     "type": "DISRUPTION"
   },
   {

@@ -5,7 +5,7 @@
       "toDate": "2024-02-06T13:41:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Kurfürstenplatz kommt es auf den Linien 12 in Richtung Romanplatz, 27 in Richtung Petuelring und 28 in Richtung Kurfürstenplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 27 in Richtung Petuelring wird zwischen Karlsplatz (Stachus) und Nordbad umgeleitet. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße, Elisabethplatz, Kurfürstenplatz und Hohenzollernplatz in Fahrtrichtung Petuelring können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Kurfürstenplatz kommt es auf den Linien 12, 27 und 28 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "b73e1e4b-5f0d-41c3-a4da-8934d602dd9b",
     "incidentDuration": [
       {
@@ -15,6 +15,138 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
       {
         "direction": "2",
         "id": "27",
@@ -82,12 +214,555 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-06T12:51:28Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Kurfürstenplatz kommt es auf den Linien 12 in Richtung Romanplatz, 27 in Richtung Petuelring und 28 in Richtung Kurfürstenplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 27 in Richtung Petuelring wird zwischen Karlsplatz (Stachus) und Nordbad umgeleitet. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße, Elisabethplatz, Kurfürstenplatz und Hohenzollernplatz in Fahrtrichtung Petuelring können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Notarzteinsatzes",
+    "modificationDate": "2024-02-06T12:53:48Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Kurfürstenplatz kommt es auf den Linien 12, 27 und 28 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen eines Notarzteinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-06T11:28:00Z",
+      "toDate": "2024-02-06T13:47:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 54 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "6085468a-f47e-4eae-8b2a-5d087dc79b67",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-06T11:28:00Z",
+        "toDate": "2024-02-06T13:47:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1149",
+            "name": "Heckenstallerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:161",
+            "name": "St.-Cajetan-Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-06T12:56:14Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 54 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

@@ -607,52 +607,336 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-02-07T16:54:00Z",
-      "toDate": "2024-02-07T17:54:00Z"
+      "fromDate": "2024-02-07T17:38:00Z",
+      "toDate": "2024-02-07T19:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 180 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "0c493277-eac4-46ef-9853-281b17ad1b03",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf den Linien 141, 172 und 60 derzeit zu Beeinträchtigungen im Stadtgebiet. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "7aa12662-7c3c-467e-9868-7053853145ec",
     "incidentDuration": [
       {
-        "fromDate": "2024-02-07T16:54:00Z",
-        "toDate": "2024-02-07T17:54:00Z"
+        "fromDate": "2024-02-07T17:38:00Z",
+        "toDate": "2024-02-07T19:00:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "180",
-        "name": "180",
+        "id": "60",
+        "name": "60",
         "stations": [
           {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           },
           {
-            "id": "de:09162:445",
-            "name": "Bernsteinweg"
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
           },
           {
-            "id": "de:09162:444",
-            "name": "Paul-Hindemith-Allee"
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
           },
           {
-            "id": "de:09162:443",
-            "name": "Euro-Industriepark Nord"
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
           },
           {
-            "id": "de:09162:440",
-            "name": "Werner-Egk-Bogen"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:442",
-            "name": "Grusonstraße"
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
           },
           {
-            "id": "de:09162:441",
-            "name": "Paracelsusstraße"
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
           },
           {
             "id": "de:09162:438",
@@ -667,244 +951,176 @@
             "name": "Gundelkoferstraße"
           },
           {
-            "id": "de:09162:414",
-            "name": "Sudetendeutsche Straße"
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
           },
           {
-            "id": "de:09162:756",
-            "name": "Am Hart Süd"
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
           },
           {
-            "id": "de:09162:752",
-            "name": "Knorrstraße"
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
           },
           {
-            "id": "de:09162:753",
-            "name": "Max-Diamand-Straße"
+            "id": "de:09162:423",
+            "name": "Griegstraße"
           },
           {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
           },
           {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
           },
           {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
           },
           {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
           },
           {
-            "id": "de:09162:781",
-            "name": "Helene-Mayer-Ring"
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
           },
           {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:369",
-            "name": "Riesstraße Süd"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
-          },
-          {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:235",
-            "name": "Lustheimstraße"
-          },
-          {
-            "id": "de:09162:1900",
-            "name": "Obermenzing Bf."
-          },
-          {
-            "id": "de:09162:1901",
-            "name": "Frauendorferstraße"
-          },
-          {
-            "id": "de:09162:1848",
-            "name": "Am Durchblick"
-          },
-          {
-            "id": "de:09162:1847",
-            "name": "Paul-Gerhardt-Allee"
-          },
-          {
-            "id": "de:09162:1846",
-            "name": "Peter-Anders-Straße"
-          },
-          {
-            "id": "de:09162:1844",
-            "name": "Schmaedelstraße"
-          },
-          {
-            "id": "de:09162:1858",
-            "name": "Erna-Eckstein-Straße"
-          },
-          {
-            "id": "de:09162:1859",
-            "name": "Berduxstraße"
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "2",
-        "id": "180",
-        "name": "180",
+        "direction": "1",
+        "id": "172",
+        "name": "172",
         "stations": [
           {
-            "id": "de:09162:1859",
-            "name": "Berduxstraße"
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
           },
           {
-            "id": "de:09162:1846",
-            "name": "Peter-Anders-Straße"
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
           },
           {
-            "id": "de:09162:1847",
-            "name": "Paul-Gerhardt-Allee"
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
           },
           {
-            "id": "de:09162:1848",
-            "name": "Am Durchblick"
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
           },
           {
-            "id": "de:09162:1901",
-            "name": "Frauendorferstraße"
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
           },
           {
-            "id": "de:09162:1900",
-            "name": "Obermenzing Bf."
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
           },
           {
-            "id": "de:09162:235",
-            "name": "Lustheimstraße"
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
           },
           {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
           },
           {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
           },
           {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
           },
           {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
           },
           {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
           },
           {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
           },
           {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
           },
           {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
           },
           {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
           },
           {
-            "id": "de:09162:369",
-            "name": "Riesstraße Süd"
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
           },
           {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
           },
           {
-            "id": "de:09162:781",
-            "name": "Helene-Mayer-Ring"
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
           },
           {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           },
           {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
           },
           {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
           },
           {
             "id": "de:09162:753",
             "name": "Max-Diamand-Straße"
           },
           {
-            "id": "de:09162:752",
-            "name": "Knorrstraße"
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
           },
           {
             "id": "de:09162:756",
@@ -913,59 +1129,151 @@
           {
             "id": "de:09162:760",
             "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
           },
           {
-            "id": "de:09162:414",
-            "name": "Sudetendeutsche Straße"
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
           },
           {
-            "id": "de:09162:439",
-            "name": "Gundelkoferstraße"
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
           },
           {
-            "id": "de:09162:451",
-            "name": "Kollwitzstraße"
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
           },
           {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
           },
           {
-            "id": "de:09162:441",
-            "name": "Paracelsusstraße"
+            "id": "de:09162:397",
+            "name": "Pulverturm"
           },
           {
-            "id": "de:09162:442",
-            "name": "Grusonstraße"
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
           },
           {
-            "id": "de:09162:440",
-            "name": "Werner-Egk-Bogen"
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
           },
           {
-            "id": "de:09162:443",
-            "name": "Euro-Industriepark Nord"
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
           },
           {
-            "id": "de:09162:444",
-            "name": "Paul-Hindemith-Allee"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           },
           {
-            "id": "de:09162:445",
-            "name": "Bernsteinweg"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-07T16:54:40Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 180 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "modificationDate": "2024-02-07T17:54:06Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf den Linien 141, 172 und 60 derzeit zu Beeinträchtigungen im Stadtgebiet. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Beeinträchtigungen im Stadtgebiet wegen einer Demonstration",
     "type": "DISRUPTION"
   },
   {

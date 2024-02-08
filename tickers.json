@@ -184,249 +184,245 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-02-08T09:09:00Z",
-      "toDate": "2024-02-08T14:00:00Z"
+      "fromDate": "2024-02-08T10:11:00Z",
+      "toDate": "2024-02-08T11:45:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Sehr geehrte Fahrg&auml;ste,<br/>\nderzeit sind zwischen M&uuml;nchner Freiheit und Harras nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz.&nbsp;<br/>\nEs kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen.<br/>\nNutzen Sie bitte zwischen Implerstra&szlig;e und M&uuml;nchner Freiheit als&nbsp; Alternative auch die U3.<br/>\n&nbsp;<br/>\nWir bitten um Entschuldigung.<br/>\nIhre MVG<br/>\r\n\r\n",
-    "id": "7b6030ce-babb-4bff-b0db-c0f9feb89bc2",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien 12 und 28 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "6420dcea-9348-482d-9bea-ee3d4827cec0",
     "incidentDuration": [
       {
-        "fromDate": "2024-02-08T09:09:00Z",
-        "toDate": "2024-02-08T14:00:00Z"
+        "fromDate": "2024-02-08T10:11:00Z",
+        "toDate": "2024-02-08T11:45:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "1",
-        "id": "6",
-        "name": "U6",
+        "direction": "2",
+        "id": "12",
+        "name": "12",
         "stations": [
           {
-            "id": "de:09184:460",
-            "name": "Garching-Forschungszentrum"
+            "id": "de:09162:215",
+            "name": "Romanplatz"
           },
           {
-            "id": "de:09184:490",
-            "name": "Garching"
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
           },
           {
-            "id": "de:09184:480",
-            "name": "Garching-Hochbrück"
+            "id": "de:09162:220",
+            "name": "Renatastraße"
           },
           {
-            "id": "de:09162:470",
-            "name": "Fröttmaning"
+            "id": "de:09162:204",
+            "name": "Neuhausen"
           },
           {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
           },
           {
-            "id": "de:09162:420",
-            "name": "Freimann"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           },
           {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
           },
           {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
           },
           {
-            "id": "de:09162:520",
-            "name": "Nordfriedhof"
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
           },
           {
-            "id": "de:09162:510",
-            "name": "Dietlindenstraße"
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
           },
           {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
           },
           {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
+            "id": "de:09162:34",
+            "name": "Nordbad"
           },
           {
-            "id": "de:09162:70",
-            "name": "Universität"
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1340",
-            "name": "Westpark"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1520",
-            "name": "Haderner Stern"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1540",
-            "name": "Klinikum Großhadern"
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
           }
         ],
-        "typeOfTransport": "METRO"
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       },
       {
         "direction": "2",
-        "id": "6",
-        "name": "U6",
+        "id": "28",
+        "name": "28",
         "stations": [
-          {
-            "id": "de:09162:1540",
-            "name": "Klinikum Großhadern"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1520",
-            "name": "Haderner Stern"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1340",
-            "name": "Westpark"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
           {
             "id": "de:09162:50",
             "name": "Sendlinger Tor"
           },
           {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
+            "id": "de:09162:53",
+            "name": "Ottostraße"
           },
           {
-            "id": "de:09162:70",
-            "name": "Universität"
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
           },
           {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
           },
           {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
           },
           {
-            "id": "de:09162:510",
-            "name": "Dietlindenstraße"
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
           },
           {
-            "id": "de:09162:520",
-            "name": "Nordfriedhof"
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
           },
           {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:420",
-            "name": "Freimann"
-          },
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          },
-          {
-            "id": "de:09162:470",
-            "name": "Fröttmaning"
-          },
-          {
-            "id": "de:09184:480",
-            "name": "Garching-Hochbrück"
-          },
-          {
-            "id": "de:09184:490",
-            "name": "Garching"
-          },
-          {
-            "id": "de:09184:460",
-            "name": "Garching-Forschungszentrum"
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
           }
         ],
-        "typeOfTransport": "METRO"
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-08T09:59:16Z",
-    "text": "Sehr geehrte Fahrg&auml;ste,<br/>\nderzeit sind zwischen M&uuml;nchner Freiheit und Harras nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz.&nbsp;<br/>\nEs kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen.<br/>\nNutzen Sie bitte zwischen Implerstra&szlig;e und M&uuml;nchner Freiheit als&nbsp; Alternative auch die U3.<br/>\n&nbsp;<br/>\nWir bitten um Entschuldigung.<br/>\nIhre MVG<br/>\r\n\r\n",
-    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "modificationDate": "2024-02-08T10:14:10Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien 12 und 28 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

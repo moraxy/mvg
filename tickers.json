@@ -464,20 +464,140 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-02-08T05:05:00Z",
-      "toDate": "2024-02-08T18:50:00Z"
+      "fromDate": "2024-02-08T05:45:00Z",
+      "toDate": "2024-02-08T08:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 19:50 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
-    "id": "82116666-4ec1-4f2d-bb41-3a444670e9b3",
+    "htmlText": "Liebe Fahrgäste, <br/>auf den Linien U4 und U5 sind noch bis voraussichtlich 09:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "id": "2c9ae479-6f5e-440a-a471-65fb1a9096a1",
     "incidentDuration": [
       {
-        "fromDate": "2024-02-08T05:05:00Z",
-        "toDate": "2024-02-08T18:50:00Z"
+        "fromDate": "2024-02-08T05:45:00Z",
+        "toDate": "2024-02-08T08:30:00Z"
       }
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
       {
         "direction": "2",
         "id": "5",
@@ -640,8 +760,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-08T05:28:00Z",
-    "text": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 19:50 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "modificationDate": "2024-02-08T05:46:54Z",
+    "text": "Liebe Fahrgäste, <br/>auf den Linien U4 und U5 sind noch bis voraussichtlich 09:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
     "type": "DISRUPTION"
   },

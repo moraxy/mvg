@@ -1,6 +1,469 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-08T13:18:00Z",
+      "toDate": "2024-02-08T19:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>auf den Linien U3 und U6 sind noch bis voraussichtlich 20:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "id": "3c2ebe72-a5eb-4fc1-8f48-35c0861198a4",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-08T13:18:00Z",
+        "toDate": "2024-02-08T19:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-08T14:02:01Z",
+    "text": "Liebe Fahrgäste, <br/>auf den Linien U3 und U6 sind noch bis voraussichtlich 20:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-08T08:34:00Z",
       "toDate": "2024-02-08T18:30:00Z"
     },
@@ -180,409 +643,6 @@
     "modificationDate": "2024-02-08T08:34:53Z",
     "text": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 19:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-08T13:02:00Z",
-      "toDate": "2024-02-08T14:02:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 160 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "44ce8dee-40a7-41bf-97e3-e38f6b2e3490",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-08T13:02:00Z",
-        "toDate": "2024-02-08T14:02:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "160",
-        "name": "160",
-        "stations": [
-          {
-            "id": "de:09174:6982",
-            "name": "Karlsfeld, Gartenstraße"
-          },
-          {
-            "id": "de:09174:6982",
-            "name": "Karlsfeld, Gartenstraße"
-          },
-          {
-            "id": "de:09174:6983",
-            "name": "Karlsfeld, Rosenstraße"
-          },
-          {
-            "id": "de:09174:6988",
-            "name": "Karlsfeld, Ostenstraße"
-          },
-          {
-            "id": "de:09174:6986",
-            "name": "Karlsfeld, Hallenbad"
-          },
-          {
-            "id": "de:09174:7060",
-            "name": "Karlsfeld, Rathausstraße"
-          },
-          {
-            "id": "de:09174:7393",
-            "name": "Karlsfeld, Einkaufsmärkte (West)"
-          },
-          {
-            "id": "de:09174:7391",
-            "name": "Karlsfeld, Ackerstraße"
-          },
-          {
-            "id": "de:09174:6990",
-            "name": "Karlsfeld Bahnhof (West)"
-          },
-          {
-            "id": "de:09162:1828",
-            "name": "Otto-Warburg-Straße"
-          },
-          {
-            "id": "de:09162:1860",
-            "name": "Hohenadelweg"
-          },
-          {
-            "id": "de:09162:1826",
-            "name": "Kleselstraße"
-          },
-          {
-            "id": "de:09162:1825",
-            "name": "Franz-Nißl-Straße"
-          },
-          {
-            "id": "de:09162:1840",
-            "name": "Georg-Reismüller-Straße"
-          },
-          {
-            "id": "de:09162:1823",
-            "name": "St.-Johann-Straße"
-          },
-          {
-            "id": "de:09162:1910",
-            "name": "Allach Bf."
-          },
-          {
-            "id": "de:09162:1822",
-            "name": "Vesaliusstraße"
-          },
-          {
-            "id": "de:09162:1821",
-            "name": "Esmarchstraße"
-          },
-          {
-            "id": "de:09162:1819",
-            "name": "Pfarrer-Grimm-Straße"
-          },
-          {
-            "id": "de:09162:1818",
-            "name": "Friedhof Untermenzing"
-          },
-          {
-            "id": "de:09162:1817",
-            "name": "Steirerstraße"
-          },
-          {
-            "id": "de:09162:1816",
-            "name": "Lochhausener Straße"
-          },
-          {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
-          },
-          {
-            "id": "de:09162:1808",
-            "name": "Wöhlerstraße"
-          },
-          {
-            "id": "de:09162:1809",
-            "name": "Dorfstraße"
-          },
-          {
-            "id": "de:09162:1799",
-            "name": "Menterstraße"
-          },
-          {
-            "id": "de:09162:1798",
-            "name": "Marsopstraße"
-          },
-          {
-            "id": "de:09162:1797",
-            "name": "Orthstraße"
-          },
-          {
-            "id": "de:09162:1796",
-            "name": "Pasing Bf. Nord"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1662",
-            "name": "Scapinellistraße"
-          },
-          {
-            "id": "de:09162:1664",
-            "name": "Krankenhaus Pasing"
-          },
-          {
-            "id": "de:09162:1666",
-            "name": "Avenariusplatz"
-          },
-          {
-            "id": "de:09162:1668",
-            "name": "Wehnerstraße"
-          },
-          {
-            "id": "de:09162:1672",
-            "name": "Dachstraße"
-          },
-          {
-            "id": "de:09184:2592",
-            "name": "Lochham, Im Birket"
-          },
-          {
-            "id": "de:09184:2594",
-            "name": "Lochham, Eichenstraße"
-          },
-          {
-            "id": "de:09184:2580",
-            "name": "Lochham Bf."
-          },
-          {
-            "id": "de:09184:2596",
-            "name": "Lochham, Radlbäckstraße"
-          },
-          {
-            "id": "de:09184:2598",
-            "name": "Lochham, Würmstraße"
-          },
-          {
-            "id": "de:09184:2602",
-            "name": "Lochham, Am Kirchenhölzl"
-          },
-          {
-            "id": "de:09184:2567",
-            "name": "Gräfelfing, Am Haag"
-          },
-          {
-            "id": "de:09184:2569",
-            "name": "Gräfelfing, Seeholzenstraße"
-          },
-          {
-            "id": "de:09184:2564",
-            "name": "Gräfelfing, Neuer Friedhof"
-          },
-          {
-            "id": "de:09184:2604",
-            "name": "Gräfelfing, Finkenstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "160",
-        "name": "160",
-        "stations": [
-          {
-            "id": "de:09184:2604",
-            "name": "Gräfelfing, Finkenstraße"
-          },
-          {
-            "id": "de:09184:2564",
-            "name": "Gräfelfing, Neuer Friedhof"
-          },
-          {
-            "id": "de:09184:2569",
-            "name": "Gräfelfing, Seeholzenstraße"
-          },
-          {
-            "id": "de:09184:2567",
-            "name": "Gräfelfing, Am Haag"
-          },
-          {
-            "id": "de:09184:2602",
-            "name": "Lochham, Am Kirchenhölzl"
-          },
-          {
-            "id": "de:09184:2598",
-            "name": "Lochham, Würmstraße"
-          },
-          {
-            "id": "de:09184:2596",
-            "name": "Lochham, Radlbäckstraße"
-          },
-          {
-            "id": "de:09184:2580",
-            "name": "Lochham Bf."
-          },
-          {
-            "id": "de:09184:2594",
-            "name": "Lochham, Eichenstraße"
-          },
-          {
-            "id": "de:09184:2592",
-            "name": "Lochham, Im Birket"
-          },
-          {
-            "id": "de:09162:1672",
-            "name": "Dachstraße"
-          },
-          {
-            "id": "de:09162:1668",
-            "name": "Wehnerstraße"
-          },
-          {
-            "id": "de:09162:1666",
-            "name": "Avenariusplatz"
-          },
-          {
-            "id": "de:09162:1664",
-            "name": "Krankenhaus Pasing"
-          },
-          {
-            "id": "de:09162:1662",
-            "name": "Scapinellistraße"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1796",
-            "name": "Pasing Bf. Nord"
-          },
-          {
-            "id": "de:09162:1797",
-            "name": "Orthstraße"
-          },
-          {
-            "id": "de:09162:1798",
-            "name": "Marsopstraße"
-          },
-          {
-            "id": "de:09162:1799",
-            "name": "Menterstraße"
-          },
-          {
-            "id": "de:09162:1809",
-            "name": "Dorfstraße"
-          },
-          {
-            "id": "de:09162:1808",
-            "name": "Wöhlerstraße"
-          },
-          {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
-          },
-          {
-            "id": "de:09162:1816",
-            "name": "Lochhausener Straße"
-          },
-          {
-            "id": "de:09162:1817",
-            "name": "Steirerstraße"
-          },
-          {
-            "id": "de:09162:1818",
-            "name": "Friedhof Untermenzing"
-          },
-          {
-            "id": "de:09162:1819",
-            "name": "Pfarrer-Grimm-Straße"
-          },
-          {
-            "id": "de:09162:1821",
-            "name": "Esmarchstraße"
-          },
-          {
-            "id": "de:09162:1822",
-            "name": "Vesaliusstraße"
-          },
-          {
-            "id": "de:09162:1910",
-            "name": "Allach Bf."
-          },
-          {
-            "id": "de:09162:1823",
-            "name": "St.-Johann-Straße"
-          },
-          {
-            "id": "de:09162:1840",
-            "name": "Georg-Reismüller-Straße"
-          },
-          {
-            "id": "de:09162:1825",
-            "name": "Franz-Nißl-Straße"
-          },
-          {
-            "id": "de:09162:1826",
-            "name": "Kleselstraße"
-          },
-          {
-            "id": "de:09162:1860",
-            "name": "Hohenadelweg"
-          },
-          {
-            "id": "de:09162:1828",
-            "name": "Otto-Warburg-Straße"
-          },
-          {
-            "id": "de:09174:6990",
-            "name": "Karlsfeld Bahnhof (West)"
-          },
-          {
-            "id": "de:09174:7391",
-            "name": "Karlsfeld, Ackerstraße"
-          },
-          {
-            "id": "de:09174:7393",
-            "name": "Karlsfeld, Einkaufsmärkte (West)"
-          },
-          {
-            "id": "de:09174:7062",
-            "name": "Karlsfeld, Einkaufsmärkte"
-          },
-          {
-            "id": "de:09174:6984",
-            "name": "Karlsfeld, Rathaus"
-          },
-          {
-            "id": "de:09174:6982",
-            "name": "Karlsfeld, Gartenstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-08T13:03:46Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 160 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

@@ -1,6 +1,169 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-09T21:02:00Z",
+      "toDate": "2024-02-09T22:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Fahrzeugausfalls kommt es bei der Linie 193 derzeit zu zeitweisen Unregelmäßigkeiten. <ul style='list-style: disc;'><ul>\n<li>Ausfall Linie 193:</li>\n<li>Ab Trudering Bf. 22:15, ab Kulturzentrum Trudering 22:18, ab Drosselweg 22:21 in Richtung Haar.</li>\n<li>Ab Haar, Ludwig Moser-Stra&szlig;e 22:39, ab Drosselweg 22:44, ab Kulturzentrum Trudering 22.47 in Richtung Trudering.</li>\n</ul></ul><br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "df49d958-5446-480d-9708-bda1b41b662b",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-09T21:02:00Z",
+        "toDate": "2024-02-09T22:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-09T21:11:12Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Fahrzeugausfalls kommt es bei der Linie 193 derzeit zu zeitweisen Unregelmäßigkeiten. <ul style='list-style: disc;'><ul>\n<li>Ausfall Linie 193:</li>\n<li>Ab Trudering Bf. 22:15, ab Kulturzentrum Trudering 22:18, ab Drosselweg 22:21 in Richtung Haar.</li>\n<li>Ab Haar, Ludwig Moser-Stra&szlig;e 22:39, ab Drosselweg 22:44, ab Kulturzentrum Trudering 22.47 in Richtung Trudering.</li>\n</ul></ul><br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-17T22:59:00Z"
     },

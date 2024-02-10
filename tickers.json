@@ -388,6 +388,381 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-10T13:27:00Z",
+      "toDate": "2024-02-10T16:15:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 139 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "6852cad4-f286-4666-bc56-d1338cc1b6f4",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-10T13:27:00Z",
+        "toDate": "2024-02-10T16:15:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1024",
+            "name": "Neuer Südfriedhof West"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1024",
+            "name": "Neuer Südfriedhof West"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-10T13:29:21Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 139 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-10T13:23:00Z",
       "toDate": "2024-02-10T15:25:00Z"
     },
@@ -698,6 +1073,157 @@
     "links": [],
     "modificationDate": "2024-02-10T13:26:14Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 154 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-10T13:29:00Z",
+      "toDate": "2024-02-10T19:45:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 155 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "58464255-8f5b-4570-b008-5f59d3cc714e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-10T13:29:00Z",
+        "toDate": "2024-02-10T19:45:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "155",
+        "name": "155",
+        "stations": [
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:892",
+            "name": "Ostbahnhof (Bildungszentrum)"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1004",
+            "name": "Hechtseestraße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1037",
+            "name": "Hofangerstraße"
+          },
+          {
+            "id": "de:09162:1038",
+            "name": "Emdenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "155",
+        "name": "155",
+        "stations": [
+          {
+            "id": "de:09162:1038",
+            "name": "Emdenstraße"
+          },
+          {
+            "id": "de:09162:1037",
+            "name": "Hofangerstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1004",
+            "name": "Hechtseestraße"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-10T13:30:35Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 155 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

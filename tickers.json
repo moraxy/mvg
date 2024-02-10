@@ -1,6 +1,179 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2023-11-06T11:00:00Z",
+      "toDate": null
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Wegen Modernisierungs- und Wartungsarbeiten sind zurzeit nicht alle U-Bahnen einsatzbereit. Die Linien U1 und U7 fahren trotzdem alle 10 Minuten, allerdings bis auf Weiteres gr&ouml;&szlig;tenteils mit k&uuml;rzeren Z&uuml;gen. Wo diese halten, zeigen die blauen Aufkleber im Gleisbereich an.&nbsp;&nbsp;</div>",
+    "id": "ed086fc6-e0d1-400a-9eae-920e50e2c2f6",
+    "incidentDuration": [
+      {
+        "fromDate": "2023-11-06T11:00:00Z",
+        "toDate": null
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "7",
+        "name": "U7",
+        "stations": [],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "7",
+        "name": "U7",
+        "stations": [],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-10T09:20:53Z",
+    "text": "<div>Wegen Modernisierungs- und Wartungsarbeiten sind zurzeit nicht alle U-Bahnen einsatzbereit. Die Linien U1 und U7 fahren trotzdem alle 10 Minuten, allerdings bis auf Weiteres gr&ouml;&szlig;tenteils mit k&uuml;rzeren Z&uuml;gen. Wo diese halten, zeigen die blauen Aufkleber im Gleisbereich an.&nbsp;&nbsp;</div>",
+    "title": "Derzeit kürzere Züge im Einsatz",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-17T23:19:00Z"
     },

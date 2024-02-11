@@ -294,6 +294,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
     "label": "U2",
@@ -303,7 +304,7 @@
     "plannedDepartureTime": 1707616800000,
     "platform": 2,
     "platformChanged": false,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1707616800000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:52",

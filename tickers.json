@@ -5,7 +5,7 @@
       "toDate": "2024-02-11T14:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Veranstaltung kommt es bei den Linien 37, 154, 187, 188 und 50 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li>Die Linie 154 wird in beiden Richtungen zwischen Johanneskirchner Straße und Bichlhofweg umgeleitet. Die Haltestellen Johanneskirchner Straße, Johanneskirchen Bf., Lübecker Straße und Westerlandanger können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Veranstaltung kommt es bei den Linien 37, 154, 187, 188 und 50 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Linie 154 wird in beiden Richtungen zwischen Johanneskirchner Straße und Bichlhofweg umgeleitet. Die Haltestellen Johanneskirchner Straße, Johanneskirchen Bf., Lübecker Straße und Westerlandanger können leider nicht bedient werden. </li> <li> Die Linie 187 wird in beiden Richtungen zwischen Rümelinstraße und Effnerstraße umgeleitet. Die Haltestellen Arabellapark, Arabellastraße, Odinpark, Priel, Lohengrinstraße, Bürgerpark Oberföhring und Grüntal können leider nicht bedient werden. </li> <li>Die Linie 50 wird in beiden Richtungen zwischen St. Emmeram und Bichlhofweg umgeleitet. Die Haltestellen St. Emmeram, Fritz-Meyer-Weg, Regina-Ullmann-Straße, Johanneskirchner Straße und Johanneskirchen Bf. können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "ec7c2995-fafb-4717-aa5d-90f23f4a7785",
     "incidentDuration": [
       {
@@ -309,11 +309,459 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:618",
+            "name": "Effnerstraße"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:721",
+            "name": "Johanneskirchen Bf. (West)"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-11T11:31:31Z",
-    "text": "Liebe Fahrgäste, <br/>wegen einer Veranstaltung kommt es bei den Linien 37, 154, 187, 188 und 50 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li>Die Linie 154 wird in beiden Richtungen zwischen Johanneskirchner Straße und Bichlhofweg umgeleitet. Die Haltestellen Johanneskirchner Straße, Johanneskirchen Bf., Lübecker Straße und Westerlandanger können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "modificationDate": "2024-02-11T11:35:48Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Veranstaltung kommt es bei den Linien 37, 154, 187, 188 und 50 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Linie 154 wird in beiden Richtungen zwischen Johanneskirchner Straße und Bichlhofweg umgeleitet. Die Haltestellen Johanneskirchner Straße, Johanneskirchen Bf., Lübecker Straße und Westerlandanger können leider nicht bedient werden. </li> <li> Die Linie 187 wird in beiden Richtungen zwischen Rümelinstraße und Effnerstraße umgeleitet. Die Haltestellen Arabellapark, Arabellastraße, Odinpark, Priel, Lohengrinstraße, Bürgerpark Oberföhring und Grüntal können leider nicht bedient werden. </li> <li>Die Linie 50 wird in beiden Richtungen zwischen St. Emmeram und Bichlhofweg umgeleitet. Die Haltestellen St. Emmeram, Fritz-Meyer-Weg, Regina-Ullmann-Straße, Johanneskirchner Straße und Johanneskirchen Bf. können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Beeinträchtigungen wegen einer Veranstaltung",
     "type": "DISRUPTION"
   },

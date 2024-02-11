@@ -309,6 +309,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Aidenbachstraße",
     "divaId": "33N41",
     "label": "N41",
@@ -316,7 +317,7 @@
     "network": "swm",
     "occupancy": "LOW",
     "plannedDepartureTime": 1707620220000,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1707620220000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",

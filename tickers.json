@@ -1,6 +1,165 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-11T13:28:00Z",
+      "toDate": "2024-02-11T14:28:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Fußballspiels im Bereich Wettersteinplatz kommt es derzeit zu Verspätungen auf der Linie U1. <br>Die Behinderungen werden noch voraussichtlich bis 15:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "e4d78534-0d39-454c-a305-abc668bd7505",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-11T13:28:00Z",
+        "toDate": "2024-02-11T14:28:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-11T13:28:47Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Fußballspiels im Bereich Wettersteinplatz kommt es derzeit zu Verspätungen auf der Linie U1. <br>Die Behinderungen werden noch voraussichtlich bis 15:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen eines Fußballspiels",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-11T10:26:00Z",
       "toDate": "2024-02-11T14:00:00Z"
     },
@@ -18,222 +177,6 @@
       "TRAM"
     ],
     "lines": [
-      {
-        "direction": "2",
-        "id": "187",
-        "name": "187",
-        "stations": [
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:640",
-            "name": "Zamdorfer Straße"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:613",
-            "name": "Schwarzwaldstraße"
-          },
-          {
-            "id": "de:09162:611",
-            "name": "Moselstraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:550",
-            "name": "Kufsteiner Platz"
-          },
-          {
-            "id": "de:09162:555",
-            "name": "Poschingerstraße"
-          },
-          {
-            "id": "de:09162:551",
-            "name": "Redwitzstraße"
-          },
-          {
-            "id": "de:09162:552",
-            "name": "Gustav-Freytag-Straße"
-          },
-          {
-            "id": "de:09162:553",
-            "name": "Gellertstraße"
-          },
-          {
-            "id": "de:09162:554",
-            "name": "Rümelinstraße"
-          },
-          {
-            "id": "de:09162:619",
-            "name": "Grüntal"
-          },
-          {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
-          },
-          {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:618",
-            "name": "Effnerstraße"
-          },
-          {
-            "id": "de:09162:617",
-            "name": "Priel"
-          },
-          {
-            "id": "de:09162:615",
-            "name": "Odinpark"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "187",
-        "name": "187",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:615",
-            "name": "Odinpark"
-          },
-          {
-            "id": "de:09162:617",
-            "name": "Priel"
-          },
-          {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
-          },
-          {
-            "id": "de:09162:619",
-            "name": "Grüntal"
-          },
-          {
-            "id": "de:09162:554",
-            "name": "Rümelinstraße"
-          },
-          {
-            "id": "de:09162:553",
-            "name": "Gellertstraße"
-          },
-          {
-            "id": "de:09162:552",
-            "name": "Gustav-Freytag-Straße"
-          },
-          {
-            "id": "de:09162:551",
-            "name": "Redwitzstraße"
-          },
-          {
-            "id": "de:09162:555",
-            "name": "Poschingerstraße"
-          },
-          {
-            "id": "de:09162:550",
-            "name": "Kufsteiner Platz"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:611",
-            "name": "Moselstraße"
-          },
-          {
-            "id": "de:09162:613",
-            "name": "Schwarzwaldstraße"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
       {
         "direction": "2",
         "id": "50",
@@ -462,6 +405,222 @@
           {
             "id": "de:09162:720",
             "name": "Johanneskirchen Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:618",
+            "name": "Effnerstraße"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
           }
         ],
         "typeOfTransport": "BUS"

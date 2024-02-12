@@ -1492,6 +1492,154 @@
       },
       {
         "direction": "2",
+        "id": "165",
+        "name": "165",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1931",
+            "name": "Zaunerstraße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1820",
+            "name": "Willi-Wien-Straße"
+          },
+          {
+            "id": "de:09162:1814",
+            "name": "Von-Kahr-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "165",
+        "name": "165",
+        "stations": [
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1814",
+            "name": "Von-Kahr-Straße"
+          },
+          {
+            "id": "de:09162:1820",
+            "name": "Willi-Wien-Straße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1931",
+            "name": "Zaunerstraße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
         "id": "191",
         "name": "191",
         "stations": [
@@ -1644,212 +1792,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-12T15:25:50Z",
+    "modificationDate": "2024-02-12T17:11:48Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-12T16:32:00Z",
-      "toDate": "2024-02-12T17:09:17Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 130 gemeldete Behinderung (Grund: Polizeieinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "66770ad6-8835-4c3b-be4e-fa0a7828bf3e",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-12T16:32:00Z",
-        "toDate": "2024-02-12T16:59:17Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "130",
-        "name": "130",
-        "stations": [
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1215",
-            "name": "Veldener Straße"
-          },
-          {
-            "id": "de:09162:1605",
-            "name": "Pörtschacher Straße"
-          },
-          {
-            "id": "de:09162:1648",
-            "name": "Pronnerplatz"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1203",
-            "name": "Schäufeleinstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1159",
-            "name": "Heimeranplatz Süd"
-          },
-          {
-            "id": "de:09162:1217",
-            "name": "Hansastraße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1234",
-            "name": "Fuggerstraße"
-          },
-          {
-            "id": "de:09162:1236",
-            "name": "Ortlerstraße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "130",
-        "name": "130",
-        "stations": [
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1236",
-            "name": "Ortlerstraße"
-          },
-          {
-            "id": "de:09162:1234",
-            "name": "Fuggerstraße"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1159",
-            "name": "Heimeranplatz Süd"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1203",
-            "name": "Schäufeleinstraße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1648",
-            "name": "Pronnerplatz"
-          },
-          {
-            "id": "de:09162:1605",
-            "name": "Pörtschacher Straße"
-          },
-          {
-            "id": "de:09162:1215",
-            "name": "Veldener Straße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-12T16:59:17Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 130 gemeldete Behinderung (Grund: Polizeieinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {

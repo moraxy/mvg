@@ -1,317 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-02-13T07:54:00Z",
-      "toDate": "2024-02-13T08:29:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Polizeieinsatzes kommt es auf der Linie 19 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "db4a7354-e8c9-4b2f-acdb-91a5339890ea",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-13T07:54:00Z",
-        "toDate": "2024-02-13T08:29:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-13T08:18:05Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Polizeieinsatzes kommt es auf der Linie 19 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen eines Polizeieinsatzes",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-01-30T07:00:00Z",
       "toDate": "2024-02-13T20:00:00Z"
     },
@@ -412,90 +101,6 @@
           {
             "id": "de:09162:1165",
             "name": "Tierpark (Alemannenstraße)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
           }
         ],
         "typeOfTransport": "BUS"
@@ -656,6 +261,90 @@
           {
             "id": "de:09162:5",
             "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           }
         ],
         "typeOfTransport": "BUS"

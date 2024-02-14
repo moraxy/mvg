@@ -508,6 +508,149 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-14T14:00:00Z",
+      "toDate": null
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Wegen eingeschr&auml;nkter Fahrzeugverf&uuml;gbarkeit verkehrt die U4 montags bis freitags ganztags im 10-Minuten-Takt mit Kurzz&uuml;gen. Bitte achten Sie auf die Aufkleber im Gleisbereich. Sie zeigen an, wo die Z&uuml;ge halten.</div>",
+    "id": "16a8b0a4-96c2-485a-8b1c-9ea65481590e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-14T14:00:00Z",
+        "toDate": null
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-14T09:40:43Z",
+    "text": "<div>Wegen eingeschr&auml;nkter Fahrzeugverf&uuml;gbarkeit verkehrt die U4 montags bis freitags ganztags im 10-Minuten-Takt mit Kurzz&uuml;gen. Bitte achten Sie auf die Aufkleber im Gleisbereich. Sie zeigen an, wo die Z&uuml;ge halten.</div>",
+    "title": "Ganztägig im 10-Minuten-Takt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2023-10-07T02:00:00Z",
       "toDate": "2024-08-27T00:00:00Z"
     },

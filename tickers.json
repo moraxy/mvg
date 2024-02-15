@@ -499,7 +499,7 @@
       "toDate": "2024-02-15T07:25:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Schellingstraße kommt es auf den Linien 153 und 154 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 154 in Richtung Westerlandanger wird zwischen Schellingstraße und Giselastraße umgeleitet. Die Haltestellen Türkenstraße, Universität, Siegestor und Georgenstraße in Fahrtrichtung Westerlandanger können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Schellingstraße kommt es auf den Linien 153 und 154 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 154 in Richtung Westerlandanger wird zwischen Schellingstraße und Giselastraße umgeleitet. Die Haltestellen Türkenstraße, Universität, Siegestor und Georgenstraße in Fahrtrichtung Westerlandanger können leider nicht bedient werden. </li> \t<li> Die Linie 154 in Richtung Nordbad wird zwischen Schellingstraße und Josephsplatz umgeleitet. Die Haltestellen Arcisstraße, Luisenstraße und Augustenstraße in Fahrtrichtung Nordbad können leider nicht bedient werden. </li> \t<li> Die Linie 153 in Richtung Odeonsplatz wird zwischen Josephsplatz und Schellingstraße umgeleitet. Die Haltestellen Augustenstraße, Luisenstraße und Arcisstraße in Fahrtrichtung Odeonsplatz können leider nicht bedient werden. </li></li> \t<li> Die Linie 153 in Richtung Trappentreustraße wird zwischen Von-der-Tann-Straße und Schellingstraße umgeleitet. Die Haltestellen Universität und Türkenstraße in Fahrtrichtung Trappentreustraße können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "0ad339f8-223f-4270-af2c-c1bc34f5ebb1",
     "incidentDuration": [
       {
@@ -509,6 +509,174 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "153",
+        "name": "153",
+        "stations": [
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:185",
+            "name": "Gaiglstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "153",
+        "name": "153",
+        "stations": [
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:185",
+            "name": "Gaiglstraße"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "1",
         "id": "154",
@@ -652,11 +820,159 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "154",
+        "name": "154",
+        "stations": [
+          {
+            "id": "de:09162:727",
+            "name": "Westerlandanger"
+          },
+          {
+            "id": "de:09162:728",
+            "name": "Lübecker Straße"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:599",
+            "name": "Grimmeisenstraße"
+          },
+          {
+            "id": "de:09162:603",
+            "name": "Stegmühlstraße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:36",
+            "name": "Georgenstraße"
+          },
+          {
+            "id": "de:09162:1192",
+            "name": "Siegestor"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:44",
+            "name": "Winzererstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-15T06:28:43Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Schellingstraße kommt es auf den Linien 153 und 154 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 154 in Richtung Westerlandanger wird zwischen Schellingstraße und Giselastraße umgeleitet. Die Haltestellen Türkenstraße, Universität, Siegestor und Georgenstraße in Fahrtrichtung Westerlandanger können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-02-15T06:36:15Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Schellingstraße kommt es auf den Linien 153 und 154 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 154 in Richtung Westerlandanger wird zwischen Schellingstraße und Giselastraße umgeleitet. Die Haltestellen Türkenstraße, Universität, Siegestor und Georgenstraße in Fahrtrichtung Westerlandanger können leider nicht bedient werden. </li> \t<li> Die Linie 154 in Richtung Nordbad wird zwischen Schellingstraße und Josephsplatz umgeleitet. Die Haltestellen Arcisstraße, Luisenstraße und Augustenstraße in Fahrtrichtung Nordbad können leider nicht bedient werden. </li> \t<li> Die Linie 153 in Richtung Odeonsplatz wird zwischen Josephsplatz und Schellingstraße umgeleitet. Die Haltestellen Augustenstraße, Luisenstraße und Arcisstraße in Fahrtrichtung Odeonsplatz können leider nicht bedient werden. </li></li> \t<li> Die Linie 153 in Richtung Trappentreustraße wird zwischen Von-der-Tann-Straße und Schellingstraße umgeleitet. Die Haltestellen Universität und Türkenstraße in Fahrtrichtung Trappentreustraße können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Umleitung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },

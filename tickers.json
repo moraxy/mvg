@@ -4293,7 +4293,7 @@
       "toDate": "2024-02-16T18:31:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 51 derzeit zu einer Umleitung . <ul style='list-style: disc;'> \t<li> Die Linie 51 in Richtung Moosach Bf. wird zwischen Laim Bf. und Romanplatz umgeleitet. Die Haltestellen Winfriedstraße, Herthastraße, Kemnatenstraße und Hirschgartenallee in Fahrtrichtung Moosach Bf. können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 151 und 51 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 51 in Richtung Moosach Bf. wird zwischen Laim Bf. und Romanplatz umgeleitet. Die Haltestellen Winfriedstraße, Herthastraße, Kemnatenstraße und Hirschgartenallee in Fahrtrichtung Moosach Bf. können leider nicht bedient werden. </li> \t<li> Die Linie 151 in Richtung Westfriedhof wird zwischen Laim Bf. und Romanplatz umgeleitet. Die Haltestellen Winfriedstraße, Herthastraße, Kemnatenstraße und Hirschgartenallee in Fahrtrichtung Westfriedhof können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "190b5376-5d86-4b04-999d-b909fd1dc0a4",
     "incidentDuration": [
       {
@@ -4426,11 +4426,135 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "151",
+        "name": "151",
+        "stations": [
+          {
+            "id": "de:09162:1352",
+            "name": "Parkstadt Solln"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-16T17:33:21Z",
-    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 51 derzeit zu einer Umleitung . <ul style='list-style: disc;'> \t<li> Die Linie 51 in Richtung Moosach Bf. wird zwischen Laim Bf. und Romanplatz umgeleitet. Die Haltestellen Winfriedstraße, Herthastraße, Kemnatenstraße und Hirschgartenallee in Fahrtrichtung Moosach Bf. können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "modificationDate": "2024-02-16T17:37:10Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 151 und 51 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 51 in Richtung Moosach Bf. wird zwischen Laim Bf. und Romanplatz umgeleitet. Die Haltestellen Winfriedstraße, Herthastraße, Kemnatenstraße und Hirschgartenallee in Fahrtrichtung Moosach Bf. können leider nicht bedient werden. </li> \t<li> Die Linie 151 in Richtung Westfriedhof wird zwischen Laim Bf. und Romanplatz umgeleitet. Die Haltestellen Winfriedstraße, Herthastraße, Kemnatenstraße und Hirschgartenallee in Fahrtrichtung Westfriedhof können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Beeinträchtigungen wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
@@ -4731,6 +4855,89 @@
     "modificationDate": "2024-02-16T17:15:11Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 57 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-16T17:37:00Z",
+      "toDate": "2024-02-16T18:37:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 168 derzeit zu einer Umleitung . <ul style='list-style: disc;'> \t<li>Die Linie 168 in Richtung Nymphenburg Süd wird zwischen Laim Bf. und Nymphenburg Süd umgeleitet. Die Haltestelle Nymphenburg Süd kann leider nicht bedient werden. </li></li></ul>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "ef4f2e83-3993-4fa8-aa3e-cee157fdd36f",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-16T17:37:00Z",
+        "toDate": "2024-02-16T18:37:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "168",
+        "name": "168",
+        "stations": [
+          {
+            "id": "de:09162:1544",
+            "name": "Wastl-Witt-Straße"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1636",
+            "name": "Silberdistelstraße"
+          },
+          {
+            "id": "de:09162:1638",
+            "name": "Willibaldstraße"
+          },
+          {
+            "id": "de:09162:1652",
+            "name": "Hönigschmidplatz"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1656",
+            "name": "Guido-Schneble-Straße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:157",
+            "name": "Nymphenburg Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-16T17:40:45Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 168 derzeit zu einer Umleitung . <ul style='list-style: disc;'> \t<li>Die Linie 168 in Richtung Nymphenburg Süd wird zwischen Laim Bf. und Nymphenburg Süd umgeleitet. Die Haltestelle Nymphenburg Süd kann leider nicht bedient werden. </li></li></ul>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

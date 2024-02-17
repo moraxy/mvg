@@ -1850,6 +1850,90 @@
         "typeOfTransport": "TRAM"
       },
       {
+        "direction": "1",
+        "id": "30",
+        "name": "X30",
+        "stations": [
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "30",
+        "name": "X30",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
         "direction": "2",
         "id": "435",
         "name": "X35",
@@ -4309,7 +4393,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-17T09:17:05Z",
+    "modificationDate": "2024-02-17T10:01:30Z",
     "text": "<div>Wegen der M&uuml;nchner Sicherheitskonferenz kommt es derzeit im gesamten Stadtgebiet zu Behinderungen und Versp&auml;tungen sowie einzelnen &Auml;nderungen der Linienwege bei Bus und Tram. Wir sind bem&uuml;ht, so schnell wie m&ouml;glich wieder einen fahrplanm&auml;&szlig;igen Betrieb herzustellen. Vielen Dank f&uuml;r Ihr Verst&auml;ndnis.</div>\n<div>Ihre MVG</div>\r\n",
     "title": "Münchner Sicherheitskonferenz",
     "type": "DISRUPTION"

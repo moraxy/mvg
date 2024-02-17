@@ -511,15 +511,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-02-17T20:09:00Z",
-      "toDate": "2024-02-17T21:09:00Z"
+      "toDate": "2024-02-17T22:59:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf den Linien 100, 153, 154, 58 und 68 derzeit zu Beeinträchtigungen im Stadtzentrum. Die Behinderungen werden noch voraussichtlich bis 22:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Demonstration kommt es derzeit im Bereich Siegestor zu  einer Umleitung auf den Linien 100, 153, 154, 58 und 68. <ul style='list-style: disc;'> <li></ul><br>Die Behinderungen werden noch voraussichtlich bis 00:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "b09479c8-95dd-4238-8919-8b3dad276fe5",
     "incidentDuration": [
       {
         "fromDate": "2024-02-17T20:09:00Z",
-        "toDate": "2024-02-17T21:09:00Z"
+        "toDate": "2024-02-17T22:59:00Z"
       }
     ],
     "incidents": [],
@@ -696,13 +696,6 @@
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "2",
-        "id": "68",
-        "name": "68",
-        "stations": [],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "1",
         "id": "68",
         "name": "68",
@@ -868,6 +861,13 @@
             "name": "Hauptbahnhof Nord"
           }
         ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "68",
+        "name": "68",
+        "stations": [],
         "typeOfTransport": "BUS"
       },
       {
@@ -1492,9 +1492,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-17T20:21:17Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf den Linien 100, 153, 154, 58 und 68 derzeit zu Beeinträchtigungen im Stadtzentrum. Die Behinderungen werden noch voraussichtlich bis 22:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Beeinträchtigungen im Stadtzentrum wegen einer Demonstration",
+    "modificationDate": "2024-02-17T20:27:17Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Demonstration kommt es derzeit im Bereich Siegestor zu  einer Umleitung auf den Linien 100, 153, 154, 58 und 68. <ul style='list-style: disc;'> <li></ul><br>Die Behinderungen werden noch voraussichtlich bis 00:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen einer Demonstration",
     "type": "DISRUPTION"
   },
   {

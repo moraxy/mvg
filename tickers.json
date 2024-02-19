@@ -11058,6 +11058,739 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-18T23:01:00Z",
+      "toDate": "2024-04-19T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "87eceaca-959c-4899-b452-79eb1b587d11_135376702",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Fernw&auml;rmebauarbeiten in der Hansastra&szlig;e werden die Buslinien 130 und 157 &gt; Am Harras von Montag, 18. M&auml;rz ca. 08:00 Uhr bis vsl. Freitag, 19. April 2024 zwischen Westendstra&szlig;e und Hansapark umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Westendstra&szlig;e ist zur Haltestelle der Tram 18 &gt; Schwanseestra&szlig;e in der Zschokkestra&szlig;e verlegt, die (H) Heimeranplatz S&uuml;d und Hansastra&szlig;e entfallen. Entlang der Umleitungsstrecke wird die (H) Garmischer Stra&szlig;e an der Einm&uuml;ndung T&uuml;binger Stra&szlig;e / Garmischer Stra&szlig;e bedient.</div>\r\n",
+    "id": "87eceaca-959c-4899-b452-79eb1b587d11",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-17T23:01:00Z",
+        "toDate": "2024-04-19T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6448",
+            "name": "Germering, Kerschenst. Schule"
+          },
+          {
+            "id": "de:09179:6450",
+            "name": "Germering, Theodor-Heuss-Straße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6401",
+            "name": "Germering, Bf. West"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6471",
+            "name": "Germering, Kerschenst. Schule Ost"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-19T13:20:23Z",
+    "text": "<div>Wegen Fernw&auml;rmebauarbeiten in der Hansastra&szlig;e werden die Buslinien 130 und 157 &gt; Am Harras von Montag, 18. M&auml;rz ca. 08:00 Uhr bis vsl. Freitag, 19. April 2024 zwischen Westendstra&szlig;e und Hansapark umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Westendstra&szlig;e ist zur Haltestelle der Tram 18 &gt; Schwanseestra&szlig;e in der Zschokkestra&szlig;e verlegt, die (H) Heimeranplatz S&uuml;d und Hansastra&szlig;e entfallen. Entlang der Umleitungsstrecke wird die (H) Garmischer Stra&szlig;e an der Einm&uuml;ndung T&uuml;binger Stra&szlig;e / Garmischer Stra&szlig;e bedient.</div>\r\n",
+    "title": "Westendstraße > Hansapark: Umleitung wegen Fernwärmebauarbeiten in der Hansastraße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-04T23:00:00Z",
       "toDate": "2024-05-31T21:59:00Z"
     },

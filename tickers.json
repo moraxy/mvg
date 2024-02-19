@@ -267,7 +267,7 @@
       "toDate": "2024-02-19T09:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 100, 139, 151, 153, 162, 180, 51, 54, 55, 62 und 68 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 100, 139, 143, 151, 153, 154, 162, 180, 51, 54, 55, 62, 68 und SEV 16 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "7ec61eb9-e519-4341-a106-688b10bbf4af",
     "incidentDuration": [
       {
@@ -1474,6 +1474,13 @@
         "typeOfTransport": "BUS"
       },
       {
+        "direction": "2",
+        "id": "68",
+        "name": "68",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
         "direction": "1",
         "id": "68",
         "name": "68",
@@ -1643,13 +1650,6 @@
             "name": "Hauptbahnhof Nord"
           }
         ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "68",
-        "name": "68",
-        "stations": [],
         "typeOfTransport": "BUS"
       },
       {
@@ -2160,6 +2160,294 @@
           {
             "id": "de:09162:1250",
             "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "143",
+        "name": "143",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:233",
+            "name": "Amphionpark"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
+          },
+          {
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
+          },
+          {
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "143",
+        "name": "143",
+        "stations": [
+          {
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
+          },
+          {
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
+          },
+          {
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:233",
+            "name": "Amphionpark"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           }
         ],
         "typeOfTransport": "BUS"
@@ -2740,6 +3028,298 @@
           {
             "id": "de:09162:60",
             "name": "Odeonsplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "154",
+        "name": "154",
+        "stations": [
+          {
+            "id": "de:09162:727",
+            "name": "Westerlandanger"
+          },
+          {
+            "id": "de:09162:728",
+            "name": "Lübecker Straße"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:599",
+            "name": "Grimmeisenstraße"
+          },
+          {
+            "id": "de:09162:603",
+            "name": "Stegmühlstraße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:36",
+            "name": "Georgenstraße"
+          },
+          {
+            "id": "de:09162:1192",
+            "name": "Siegestor"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:44",
+            "name": "Winzererstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "154",
+        "name": "154",
+        "stations": [
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:44",
+            "name": "Winzererstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:1192",
+            "name": "Siegestor"
+          },
+          {
+            "id": "de:09162:36",
+            "name": "Georgenstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:603",
+            "name": "Stegmühlstraße"
+          },
+          {
+            "id": "de:09162:599",
+            "name": "Grimmeisenstraße"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:721",
+            "name": "Johanneskirchen Bf. (West)"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:728",
+            "name": "Lübecker Straße"
+          },
+          {
+            "id": "de:09162:727",
+            "name": "Westerlandanger"
           }
         ],
         "typeOfTransport": "BUS"
@@ -3499,11 +4079,131 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-19T06:40:59Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 100, 139, 151, 153, 162, 180, 51, 54, 55, 62 und 68 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "modificationDate": "2024-02-19T06:47:11Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 100, 139, 143, 151, 153, 154, 162, 180, 51, 54, 55, 62, 68 und SEV 16 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },

@@ -263,289 +263,6 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-02-19T10:45:00Z",
-      "toDate": "2024-02-19T11:45:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 12:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "cd3619f6-94dc-4f3e-8597-579c45d634cd",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-19T10:45:00Z",
-        "toDate": "2024-02-19T11:45:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "28",
-        "name": "28",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "28",
-        "name": "28",
-        "stations": [
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-19T10:46:52Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 12:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen wegen einer Betriebsstörung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-02-19T10:48:00Z",
       "toDate": "2024-02-19T11:48:00Z"
     },
@@ -713,6 +430,149 @@
     "modificationDate": "2024-02-19T10:48:47Z",
     "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Sternwartstraße kommt es auf der Linie 37 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 12:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-19T11:00:00Z",
+      "toDate": "2024-02-19T19:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen Bauarbeiten im Bereich Romanplatz kommt es auf der Linie SEV 16 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "bf3bfc53-6756-4e54-9bdd-6fa3cc1dfbe3",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-19T11:00:00Z",
+        "toDate": "2024-02-19T19:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-19T11:02:06Z",
+    "text": "Liebe Fahrgäste,<br>wegen Bauarbeiten im Bereich Romanplatz kommt es auf der Linie SEV 16 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen Bauarbeiten",
     "type": "DISRUPTION"
   },
   {
@@ -4156,275 +4016,6 @@
     "modificationDate": "2023-12-19T08:57:24Z",
     "text": "<div>Die Tram 29 ist bis auf Weiteres nicht in Betrieb. Bitte nutzen Sie im Abschnitt Willibaldplatz &lt;&gt; Lautensackstra&szlig;e &lt;&gt; Hauptbahnhof die Tramlinien 18 und 19 sowie im Abschnitt Hauptbahnhof &lt;&gt; Hochschule M&uuml;nchen (Lothstra&szlig;e) die Tramlinien 20 und 21.</div>\r\n",
     "title": "Tram 29 nicht in Betrieb",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-12T07:00:00Z",
-      "toDate": "2024-02-19T11:00:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "ede1f7f6-6f87-44e8-8e02-ce61eebf2d04_-214413921",
-        "mimeType": "image/jpeg",
-        "name": "Übersichtskarte"
-      }
-    ],
-    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten ist die (H) Johanneskirchen Bf. der Buslinie 50 &gt; Olympia-Einkaufszentrum am Montag, 19. Februar 2024 von ca. 08:00 bis 12:00 Uhr zur Haltestelle der Buslinie 154 &gt; Nordbad in der Johanneskirchner Stra&szlig;e verlegt.</div>\r\n",
-    "id": "ede1f7f6-6f87-44e8-8e02-ce61eebf2d04",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-19T07:00:00Z",
-        "toDate": "2024-02-19T11:00:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "50",
-        "name": "50",
-        "stations": [
-          {
-            "id": "de:09162:720",
-            "name": "Johanneskirchen Bf."
-          },
-          {
-            "id": "de:09162:557",
-            "name": "Bichlhofweg"
-          },
-          {
-            "id": "de:09162:602",
-            "name": "Johanneskirchner Straße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09184:2101",
-            "name": "Unterföhring, Feringastr. Ost"
-          },
-          {
-            "id": "de:09184:2102",
-            "name": "Unterföhring, Feringastraße"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:457",
-            "name": "Zaunweg"
-          },
-          {
-            "id": "de:09162:448",
-            "name": "Gertrud-Grunow-Straße"
-          },
-          {
-            "id": "de:09162:502",
-            "name": "Domagkstraße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:407",
-            "name": "Abtstraße"
-          },
-          {
-            "id": "de:09162:417",
-            "name": "Milbertshofener Straße"
-          },
-          {
-            "id": "de:09162:751",
-            "name": "Korbinianplatz"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:323",
-            "name": "Olympiapark Nord"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "50",
-        "name": "50",
-        "stations": [
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:323",
-            "name": "Olympiapark Nord"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:751",
-            "name": "Korbinianplatz"
-          },
-          {
-            "id": "de:09162:417",
-            "name": "Milbertshofener Straße"
-          },
-          {
-            "id": "de:09162:407",
-            "name": "Abtstraße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:502",
-            "name": "Domagkstraße"
-          },
-          {
-            "id": "de:09162:448",
-            "name": "Gertrud-Grunow-Straße"
-          },
-          {
-            "id": "de:09162:457",
-            "name": "Zaunweg"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09184:2102",
-            "name": "Unterföhring, Feringastraße"
-          },
-          {
-            "id": "de:09184:2101",
-            "name": "Unterföhring, Feringastr. Ost"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:602",
-            "name": "Johanneskirchner Straße"
-          },
-          {
-            "id": "de:09162:721",
-            "name": "Johanneskirchen Bf. (West)"
-          },
-          {
-            "id": "de:09162:720",
-            "name": "Johanneskirchen Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-15T07:46:46Z",
-    "text": "<div>Wegen Stra&szlig;enbauarbeiten ist die (H) Johanneskirchen Bf. der Buslinie 50 &gt; Olympia-Einkaufszentrum am Montag, 19. Februar 2024 von ca. 08:00 bis 12:00 Uhr zur Haltestelle der Buslinie 154 &gt; Nordbad in der Johanneskirchner Stra&szlig;e verlegt.</div>\r\n",
-    "title": "Haltestelle Johanneskirchen Bf. wegen Straßenbauarbeiten verlegt",
     "type": "PLANNED"
   },
   {
@@ -11927,6 +11518,414 @@
     "modificationDate": "2024-01-05T05:39:04Z",
     "text": "<div>Wegen Br&uuml;ckenbauarbeiten in der Dachauer Stra&szlig;e wird die Buslinie 163 von Montag, 12. Februar 2024 bis vsl. Samstag, 12. Dezember 2026 am S-/U-Bahnhof Moosach geteilt.</div>\n<div>&nbsp;</div>\n<div>Die Busse fahren in den Abschnitten Allach Bf. Ost &lt;&gt; Krautheimstra&szlig;e &lt;&gt; Moosach Bf. (Memminger Platz) und Moosach Bf. (Breslauer Stra&szlig;e) &lt;&gt; Moosacher St.-Martins-Platz &lt;&gt; Olympia-Einkaufszentrum.</div>\n<div>&nbsp;</div>\n<div>Die (H) Moosach Bf. ist in Richtung Olympia-Einkaufszentrum zum Haltepunkt 4 in der Breslauer Stra&szlig;e (Haltestelle der Buslinie X35 vor Aldi) verlegt, die (H) Gr&ouml;benzeller Stra&szlig;e kann in beiden Richtungen nicht bedient werden.</div>\r\n",
     "title": "Linienteilung am S-/U-Bf. Moosach wegen Brückenbauarbeiten in der Dachauer Straße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-18T23:01:00Z",
+      "toDate": "2024-04-26T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "08281d16-171f-4460-9a15-3a45cda6c968_-382394119",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Wasserleitungsarbeiten ist die Kristallstra&szlig;e zwischen Karlsfelder Stra&szlig;e und Opalstra&szlig;e von Montag, 11. M&auml;rz bis vsl. Freitag, 26. April 2024 gesperrt.</div>\n<div>&nbsp;</div>\n<div>Die (H) Siedlung Ludwigsfeld der Buslinie 172 &gt; Dachau Bf. ist in die Achatstra&szlig;e verlegt. An der (H) Opalstra&szlig;e fahren alle Linien von einer Ersatzhaltestelle in der Opalstra&szlig;e ab.</div>\r\n",
+    "id": "08281d16-171f-4460-9a15-3a45cda6c968",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-10T23:01:00Z",
+        "toDate": "2024-04-26T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1975",
+            "name": "MAN, Siedlung"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "71",
+        "name": "N71",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-19T11:01:24Z",
+    "text": "<div>Wegen Wasserleitungsarbeiten ist die Kristallstra&szlig;e zwischen Karlsfelder Stra&szlig;e und Opalstra&szlig;e von Montag, 11. M&auml;rz bis vsl. Freitag, 26. April 2024 gesperrt.</div>\n<div>&nbsp;</div>\n<div>Die (H) Siedlung Ludwigsfeld der Buslinie 172 &gt; Dachau Bf. ist in die Achatstra&szlig;e verlegt. An der (H) Opalstra&szlig;e fahren alle Linien von einer Ersatzhaltestelle in der Opalstra&szlig;e ab.</div>\r\n",
+    "title": "Umleitung wegen Wasserleitungsarbeiten in der Siedlung Ludwigsfeld",
     "type": "PLANNED"
   },
   {

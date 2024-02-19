@@ -3877,6 +3877,428 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-18T23:01:00Z",
+      "toDate": "2024-03-21T22:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "6b4fdffa-0065-4680-b178-b8472b33dea9_-1796581561",
+        "mimeType": "image/jpeg",
+        "name": "Übersichtskarte Leonrodplatz - Heideckstr"
+      },
+      {
+        "id": "6b4fdffa-0065-4680-b178-b8472b33dea9_1921867796",
+        "mimeType": "image/jpeg",
+        "name": "Übersichtskarte Olympiapark Süd - Westfriedhof"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten an der (H) Olympiapark West werden die Tramlinien 20 und 21 von Montag, 18. M&auml;rz bis Donnerstag, 21. M&auml;rz 2024 t&auml;glich von ca. 22:30 Uhr bis Betriebsschluss zwischen Westfriedhof und Leonrodplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Die Tramlinie 20 &gt; Moosach Bf. f&auml;hrt an der (H) Westfriedhof vom Haltepunkt 2 (stadteinw&auml;rtige Tramhaltestelle) ab. Die (H) Leonrodplatz ist f&uuml;r die Tram 20 &gt; Karlsplatz (Stachus) und 21 &gt; Westfriedhof zum Haltepunkt 3 in der Schwere-Reiter-Stra&szlig;e verlegt.</div>\n<div>&nbsp;</div>\n<div>Der Ersatzbus 20 f&auml;hrt an der (H) Westfriedhof vom Haltepunkt 6 im Busbahnhof ab. An der (H) Leonrodplatz halten die Busse in der Schwere-Reiter-Stra&szlig;e (neben Haltepunkt 6) am rechten Fahrbahnrand.</div>\r\n",
+    "id": "6b4fdffa-0065-4680-b178-b8472b33dea9",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-17T23:01:00Z",
+        "toDate": "2024-03-21T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "20",
+        "name": "20",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "20",
+        "name": "20",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "21",
+        "name": "21",
+        "stations": [
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:285",
+            "name": "Stadtwerke München"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "21",
+        "name": "21",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-19T11:42:03Z",
+    "text": "<div>Wegen Bauarbeiten an der (H) Olympiapark West werden die Tramlinien 20 und 21 von Montag, 18. M&auml;rz bis Donnerstag, 21. M&auml;rz 2024 t&auml;glich von ca. 22:30 Uhr bis Betriebsschluss zwischen Westfriedhof und Leonrodplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Die Tramlinie 20 &gt; Moosach Bf. f&auml;hrt an der (H) Westfriedhof vom Haltepunkt 2 (stadteinw&auml;rtige Tramhaltestelle) ab. Die (H) Leonrodplatz ist f&uuml;r die Tram 20 &gt; Karlsplatz (Stachus) und 21 &gt; Westfriedhof zum Haltepunkt 3 in der Schwere-Reiter-Stra&szlig;e verlegt.</div>\n<div>&nbsp;</div>\n<div>Der Ersatzbus 20 f&auml;hrt an der (H) Westfriedhof vom Haltepunkt 6 im Busbahnhof ab. An der (H) Leonrodplatz halten die Busse in der Schwere-Reiter-Stra&szlig;e (neben Haltepunkt 6) am rechten Fahrbahnrand.</div>\r\n",
+    "title": "Westfriedhof <> Leonrodplatz: Ab ca. 22:30 Uhr Ersatzverkehr mit Bussen (SEV)",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-14T23:01:00Z",
       "toDate": "2024-03-01T22:59:00Z"
     },

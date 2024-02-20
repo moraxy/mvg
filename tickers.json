@@ -263,6 +263,261 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-20T09:14:00Z",
+      "toDate": "2024-02-20T23:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 188 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "9bd54d87-dee7-43c8-aac9-8bb83fb503de",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-20T09:14:00Z",
+        "toDate": "2024-02-20T23:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-20T09:16:16Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 188 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T08:36:00Z",
       "toDate": "2024-02-25T22:59:00Z"
     },

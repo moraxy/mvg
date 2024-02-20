@@ -1798,7 +1798,7 @@
       "toDate": "2024-06-09T21:59:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "<div>Von Montag, 19. Februar bis vsl. Sonntag, 9. Juni 2024 werden am s&uuml;dlichen Romanplatz sowie in der Arnulfstra&szlig;e umfangreiche Gleisbauma&szlig;nahmen (u.a. Einbau eines Gleisdreiecks am Romanplatz f&uuml;r die Tram-Westtangente) ausgef&uuml;hrt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> wird ab Romanplatz via Schloss Nymphenburg und Botanischer Garten bis zur Amalienburgstra&szlig;e verl&auml;ngert.</li>\n<li>Die <strong>Tramlinien 16 und 17</strong> werden zwischen Karlsplatz (Stachus), Hauptbahnhof und Romanplatz durch Busse (SEV 16) ersetzt. Der Abschnitt Romanplatz &lt;&gt; Amalienburgstra&szlig;e wird von der verl&auml;ngerten Tram 12 bedient.</li>\n<li>Die <strong>Tram 27</strong> wird am Karlsplatz (Stachus) mit der Linie 16 verkn&uuml;pft. Am Sendlinger Tor fahren die Z&uuml;ge zum Petuelring vom Haltepunkt 1 ab.</li>\n<li>Die <strong>NachtTram N17</strong> wird zwischen Karlsplatz (Stachus), Hauptbahnhof, Romanplatz und Amalienburgstra&szlig;e durch Busse ersetzt. Ab Karlsplatz (Stachus) fahren die Z&uuml;ge weiter als Tram N20 nach Moosach.</li>\n<li>Die <strong>NachtTram N20</strong> wird am Karlsplatz (Stachus) mit der Linie N17 zum Effnerplatz verkn&uuml;pft. Die (H) Karlsplatz (Stachus) ist zum Haltepunkt 1 in die Sonnenstra&szlig;e verlegt.</li>\n<li>Die <strong>Buslinien 51, 151 und N78</strong> werden im Bereich Romanplatz um die Baufelder herumgeleitet, einzelne Haltestellen m&uuml;ssen hierf&uuml;r verlegt werden.</li>\n</ul>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/trambau</strong></a>.</div>\n<div>&nbsp;</div>\n<div>Bitte beachten Sie auch die Aush&auml;nge an Ihrer Haltestelle, Sonderansagen in den Fahrzeugen und ge&auml;nderte Wegeleitungen am Sendlinger Tor, Karlsplatz (Stachus) und Hauptbahnhof. Ein <strong>Infoheft</strong> zu dieser Ma&szlig;nahme befindet sich derzeit in Finalisierung und steht in K&uuml;rze auf der Sonderseite zum Herunterladen zur Verf&uuml;gung.</div>\r\n",
+    "htmlText": "<div>Von Montag, 19. Februar bis vsl. Sonntag, 9. Juni 2024 werden am s&uuml;dlichen Romanplatz sowie in der Arnulfstra&szlig;e umfangreiche Gleisbauma&szlig;nahmen (u.a. Einbau eines Gleisdreiecks am Romanplatz f&uuml;r die Tram-Westtangente) ausgef&uuml;hrt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> wird ab Romanplatz via Schloss Nymphenburg und Botanischer Garten bis zur Amalienburgstra&szlig;e verl&auml;ngert.</li>\n<li>Die <strong>Tramlinien 16 und 17</strong> werden zwischen Karlsplatz (Stachus), Hauptbahnhof und Romanplatz durch Busse (SEV 16) ersetzt. Der Abschnitt Romanplatz &lt;&gt; Amalienburgstra&szlig;e wird von der verl&auml;ngerten Tram 12 bedient.</li>\n<li>Die <strong>Tram 27</strong> wird am Karlsplatz (Stachus) mit der Linie 16 verkn&uuml;pft. Am Sendlinger Tor fahren die Z&uuml;ge zum Petuelring vom Haltepunkt 1 ab.</li>\n<li>Die <strong>NachtTram N17</strong> wird zwischen Karlsplatz (Stachus), Hauptbahnhof, Romanplatz und Amalienburgstra&szlig;e durch Busse ersetzt. Ab Karlsplatz (Stachus) fahren die Z&uuml;ge weiter als Tram N20 nach Moosach.</li>\n<li>Die <strong>NachtTram N20</strong> wird am Karlsplatz (Stachus) mit der Linie N17 zum Effnerplatz verkn&uuml;pft. Die (H) Karlsplatz (Stachus) ist zum Haltepunkt 1 in die Sonnenstra&szlig;e verlegt.</li>\n<li>Die <strong>Buslinien 51, 151 und N78</strong> werden im Bereich Romanplatz um die Baufelder herumgeleitet, einzelne Haltestellen m&uuml;ssen hierf&uuml;r verlegt werden.</li>\n</ul>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/trambau</strong></a>.</div>\n<div>&nbsp;</div>\n<div>Bitte beachten Sie auch die Aush&auml;nge an Ihrer Haltestelle, Sonderansagen in den Fahrzeugen und ge&auml;nderte Wegeleitungen am Sendlinger Tor, Karlsplatz (Stachus) und Hauptbahnhof.</div>\r\n",
     "id": "827e16df-a6f9-4dd2-a81c-fee9c05ac5c6",
     "incidentDuration": [
       {
@@ -1814,6 +1814,26 @@
         "name": "12",
         "stations": [
           {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
             "id": "de:09162:215",
             "name": "Romanplatz"
           },
@@ -1936,6 +1956,26 @@
           {
             "id": "de:09162:215",
             "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2036,54 +2076,6 @@
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2093,54 +2085,6 @@
         "id": "16",
         "name": "16",
         "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
@@ -2240,168 +2184,14 @@
         "direction": "2",
         "id": "17",
         "name": "17",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          }
-        ],
+        "stations": [],
         "typeOfTransport": "TRAM"
       },
       {
         "direction": "1",
         "id": "17",
         "name": "17",
-        "stations": [
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
+        "stations": [],
         "typeOfTransport": "TRAM"
       },
       {
@@ -2464,10 +2254,6 @@
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2477,10 +2263,6 @@
         "id": "27",
         "name": "27",
         "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
@@ -2608,74 +2390,6 @@
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2685,74 +2399,6 @@
         "id": "917",
         "name": "N17",
         "stations": [
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
@@ -2960,6 +2606,10 @@
           {
             "id": "de:09162:7000",
             "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
           },
           {
             "id": "de:09162:1",
@@ -3484,8 +3134,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-18T11:38:01Z",
-    "text": "<div>Von Montag, 19. Februar bis vsl. Sonntag, 9. Juni 2024 werden am s&uuml;dlichen Romanplatz sowie in der Arnulfstra&szlig;e umfangreiche Gleisbauma&szlig;nahmen (u.a. Einbau eines Gleisdreiecks am Romanplatz f&uuml;r die Tram-Westtangente) ausgef&uuml;hrt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> wird ab Romanplatz via Schloss Nymphenburg und Botanischer Garten bis zur Amalienburgstra&szlig;e verl&auml;ngert.</li>\n<li>Die <strong>Tramlinien 16 und 17</strong> werden zwischen Karlsplatz (Stachus), Hauptbahnhof und Romanplatz durch Busse (SEV 16) ersetzt. Der Abschnitt Romanplatz &lt;&gt; Amalienburgstra&szlig;e wird von der verl&auml;ngerten Tram 12 bedient.</li>\n<li>Die <strong>Tram 27</strong> wird am Karlsplatz (Stachus) mit der Linie 16 verkn&uuml;pft. Am Sendlinger Tor fahren die Z&uuml;ge zum Petuelring vom Haltepunkt 1 ab.</li>\n<li>Die <strong>NachtTram N17</strong> wird zwischen Karlsplatz (Stachus), Hauptbahnhof, Romanplatz und Amalienburgstra&szlig;e durch Busse ersetzt. Ab Karlsplatz (Stachus) fahren die Z&uuml;ge weiter als Tram N20 nach Moosach.</li>\n<li>Die <strong>NachtTram N20</strong> wird am Karlsplatz (Stachus) mit der Linie N17 zum Effnerplatz verkn&uuml;pft. Die (H) Karlsplatz (Stachus) ist zum Haltepunkt 1 in die Sonnenstra&szlig;e verlegt.</li>\n<li>Die <strong>Buslinien 51, 151 und N78</strong> werden im Bereich Romanplatz um die Baufelder herumgeleitet, einzelne Haltestellen m&uuml;ssen hierf&uuml;r verlegt werden.</li>\n</ul>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/trambau</strong></a>.</div>\n<div>&nbsp;</div>\n<div>Bitte beachten Sie auch die Aush&auml;nge an Ihrer Haltestelle, Sonderansagen in den Fahrzeugen und ge&auml;nderte Wegeleitungen am Sendlinger Tor, Karlsplatz (Stachus) und Hauptbahnhof. Ein <strong>Infoheft</strong> zu dieser Ma&szlig;nahme befindet sich derzeit in Finalisierung und steht in K&uuml;rze auf der Sonderseite zum Herunterladen zur Verf&uuml;gung.</div>\r\n",
+    "modificationDate": "2024-02-20T07:58:24Z",
+    "text": "<div>Von Montag, 19. Februar bis vsl. Sonntag, 9. Juni 2024 werden am s&uuml;dlichen Romanplatz sowie in der Arnulfstra&szlig;e umfangreiche Gleisbauma&szlig;nahmen (u.a. Einbau eines Gleisdreiecks am Romanplatz f&uuml;r die Tram-Westtangente) ausgef&uuml;hrt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> wird ab Romanplatz via Schloss Nymphenburg und Botanischer Garten bis zur Amalienburgstra&szlig;e verl&auml;ngert.</li>\n<li>Die <strong>Tramlinien 16 und 17</strong> werden zwischen Karlsplatz (Stachus), Hauptbahnhof und Romanplatz durch Busse (SEV 16) ersetzt. Der Abschnitt Romanplatz &lt;&gt; Amalienburgstra&szlig;e wird von der verl&auml;ngerten Tram 12 bedient.</li>\n<li>Die <strong>Tram 27</strong> wird am Karlsplatz (Stachus) mit der Linie 16 verkn&uuml;pft. Am Sendlinger Tor fahren die Z&uuml;ge zum Petuelring vom Haltepunkt 1 ab.</li>\n<li>Die <strong>NachtTram N17</strong> wird zwischen Karlsplatz (Stachus), Hauptbahnhof, Romanplatz und Amalienburgstra&szlig;e durch Busse ersetzt. Ab Karlsplatz (Stachus) fahren die Z&uuml;ge weiter als Tram N20 nach Moosach.</li>\n<li>Die <strong>NachtTram N20</strong> wird am Karlsplatz (Stachus) mit der Linie N17 zum Effnerplatz verkn&uuml;pft. Die (H) Karlsplatz (Stachus) ist zum Haltepunkt 1 in die Sonnenstra&szlig;e verlegt.</li>\n<li>Die <strong>Buslinien 51, 151 und N78</strong> werden im Bereich Romanplatz um die Baufelder herumgeleitet, einzelne Haltestellen m&uuml;ssen hierf&uuml;r verlegt werden.</li>\n</ul>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/trambau</strong></a>.</div>\n<div>&nbsp;</div>\n<div>Bitte beachten Sie auch die Aush&auml;nge an Ihrer Haltestelle, Sonderansagen in den Fahrzeugen und ge&auml;nderte Wegeleitungen am Sendlinger Tor, Karlsplatz (Stachus) und Hauptbahnhof.</div>\r\n",
     "title": "Karlsplatz (Stachus) <> Romanplatz <> Amalienburgstraße: Ersatzverkehr mit Bussen (SEV) bzw. Haltestellenverlegungen wegen Gleisbauarbeiten",
     "type": "PLANNED"
   },

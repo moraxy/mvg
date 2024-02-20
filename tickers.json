@@ -263,6 +263,553 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-20T09:39:00Z",
+      "toDate": "2024-02-20T10:39:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Hellensteinstraße kommt es derzeit zu Beeinträchtigungen. <br/>Die Behinderungen werden noch voraussichtlich bis 11:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "ff74cfd8-732a-4ba4-9d75-be7b32913390",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-20T09:39:00Z",
+        "toDate": "2024-02-20T10:39:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6448",
+            "name": "Germering, Kerschenst. Schule"
+          },
+          {
+            "id": "de:09179:6450",
+            "name": "Germering, Theodor-Heuss-Straße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6401",
+            "name": "Germering, Bf. West"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6471",
+            "name": "Germering, Kerschenst. Schule Ost"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-20T09:41:39Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Hellensteinstraße kommt es derzeit zu Beeinträchtigungen. <br/>Die Behinderungen werden noch voraussichtlich bis 11:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T09:14:00Z",
       "toDate": "2024-02-20T23:30:00Z"
     },

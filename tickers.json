@@ -267,7 +267,7 @@
       "toDate": "2024-02-20T11:13:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 12:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Fahrzeugstörung kommt es derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 19 wird in beiden Richtungen zwischen Hauptbahnhof Süd und Lenbachplatz umgeleitet. Die Haltestellen Karlsplatz (Stachus) und Hauptbahnhof können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 12:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "1c74b39f-bcf9-42ac-9c0d-9506e0871a94",
     "incidentDuration": [
       {
@@ -279,81 +279,205 @@
     "lines": [
       {
         "direction": "1",
-        "id": "20",
-        "name": "20",
+        "id": "19",
+        "name": "19",
         "stations": [
           {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
           },
           {
-            "id": "de:09162:301",
-            "name": "Pelkovenstraße"
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
           },
           {
-            "id": "de:09162:302",
-            "name": "Hugo-Troendle-Straße"
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
           },
           {
-            "id": "de:09162:303",
-            "name": "Wintrichring"
+            "id": "de:09162:1614",
+            "name": "Am Knie"
           },
           {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
+            "id": "de:09162:1612",
+            "name": "Westbad"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
           },
           {
-            "id": "de:09162:305",
-            "name": "Borstei"
+            "id": "de:09162:1606",
+            "name": "Willibaldplatz"
           },
           {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
+            "id": "de:09162:1604",
+            "name": "Agnes-Bernauer-Platz"
           },
           {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
           },
           {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
           },
           {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
           },
           {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
           },
           {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
+            "id": "de:09162:64",
+            "name": "Barthstraße"
           },
           {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
           },
           {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
           },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:646",
+            "name": "Riedenburger Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
           }
         ],
         "typeOfTransport": "TRAM"
       },
       {
         "direction": "2",
-        "id": "20",
-        "name": "20",
+        "id": "19",
+        "name": "19",
         "stations": [
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:646",
+            "name": "Riedenburger Straße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
@@ -363,72 +487,88 @@
             "name": "Hauptbahnhof"
           },
           {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
           },
           {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
           },
           {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
           },
           {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
           },
           {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
           },
           {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
           },
           {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
+            "id": "de:09162:64",
+            "name": "Barthstraße"
           },
           {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
           },
           {
-            "id": "de:09162:305",
-            "name": "Borstei"
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
           },
           {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
           },
           {
-            "id": "de:09162:303",
-            "name": "Wintrichring"
+            "id": "de:09162:1604",
+            "name": "Agnes-Bernauer-Platz"
           },
           {
-            "id": "de:09162:302",
-            "name": "Hugo-Troendle-Straße"
+            "id": "de:09162:1606",
+            "name": "Willibaldplatz"
           },
           {
-            "id": "de:09162:301",
-            "name": "Pelkovenstraße"
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
           },
           {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
           }
         ],
         "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-20T10:14:26Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 12:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-02-20T10:21:14Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Fahrzeugstörung kommt es derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 19 wird in beiden Richtungen zwischen Hauptbahnhof Süd und Lenbachplatz umgeleitet. Die Haltestellen Karlsplatz (Stachus) und Hauptbahnhof können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 12:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },

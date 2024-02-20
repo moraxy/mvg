@@ -796,6 +796,268 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-15T23:01:00Z",
+      "toDate": "2024-04-14T21:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Wegen Sanierungsarbeiten am Hohenzollernplatz wird die U2 von Freitag, 15. M&auml;rz ca. 22:30 Uhr bis Sonntag, 17. M&auml;rz sowie von Freitag, 12. April ca. 22:30 Uhr bis Sonntag, 14. April 2024 am Scheidplatz geteilt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.<br/>&nbsp;<br/>Die Z&uuml;ge der U2 fahren im 10-Minuten-Takt zwischen Feldmoching und Scheidplatz sowie zwischen Scheidplatz, Hauptbahnhof und Messestadt Ost. Zur Weiterfahrt m&uuml;ssen Sie in beiden Fahrtrichtungen am Scheidplatz &uuml;ber das Zwischengeschoss umsteigen.<br/>&nbsp;<br/>Weitere Informationen finden Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie in der Fahrplanauskunft auf mvg.de sowie unserer App MVGO.</div>",
+    "id": "3ddb9d13-72f6-4abc-a659-552667852e82",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-14T23:01:00Z",
+        "toDate": "2024-04-14T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "8",
+        "name": "U8",
+        "stations": [],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-20T07:56:06Z",
+    "text": "<div>Wegen Sanierungsarbeiten am Hohenzollernplatz wird die U2 von Freitag, 15. M&auml;rz ca. 22:30 Uhr bis Sonntag, 17. M&auml;rz sowie von Freitag, 12. April ca. 22:30 Uhr bis Sonntag, 14. April 2024 am Scheidplatz geteilt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.<br/>&nbsp;<br/>Die Z&uuml;ge der U2 fahren im 10-Minuten-Takt zwischen Feldmoching und Scheidplatz sowie zwischen Scheidplatz, Hauptbahnhof und Messestadt Ost. Zur Weiterfahrt m&uuml;ssen Sie in beiden Fahrtrichtungen am Scheidplatz &uuml;ber das Zwischengeschoss umsteigen.<br/>&nbsp;<br/>Weitere Informationen finden Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie in der Fahrplanauskunft auf mvg.de sowie unserer App MVGO.</div>",
+    "title": "Linienteilung der U2 am Scheidplatz, U8 fährt nur Hauptbahnhof <> Neuperlach Zentrum",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-04T23:01:00Z",
       "toDate": "2024-03-19T22:59:00Z"
     },

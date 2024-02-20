@@ -263,6 +263,363 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-20T08:36:00Z",
+      "toDate": "2024-02-25T22:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Sehr geehrte Fahrg&auml;ste,<br/>\naufgrund von Bauarbeiten auf der Linie 16 und 17 fahren zwischen Romanplatz und Karlsplatz (Stachus) Ersatzbusse (SEV) als Linie 16.<br/>\nDiese<strong> halten meistens am Fahrbahnrand</strong>.<br/>\n&nbsp;<br/>\nWeitere Informationen finden sie auf unserer MVG Baustellenseite&nbsp;<strong><a title=\"Gleisbau Romanplatz/ Arnulstra&szlig;e\" href=\"https://www.mvg.de/betriebsaenderungen/2024-02-19-gleisbau-arnulfstr-romanplatz.html\">Gleisbau Romanplatz/ Arnulfstra&szlig;e</a></strong>.<br/>\n&nbsp;<br/>\nIhre MVG<br/>\r\n\r\n",
+    "id": "28c63e05-635c-40e4-89e0-8e09a659569c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-20T08:36:00Z",
+        "toDate": "2024-02-25T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "17",
+        "name": "17",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "17",
+        "name": "17",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-20T11:26:19Z",
+    "text": "Sehr geehrte Fahrg&auml;ste,<br/>\naufgrund von Bauarbeiten auf der Linie 16 und 17 fahren zwischen Romanplatz und Karlsplatz (Stachus) Ersatzbusse (SEV) als Linie 16.<br/>\nDiese<strong> halten meistens am Fahrbahnrand</strong>.<br/>\n&nbsp;<br/>\nWeitere Informationen finden sie auf unserer MVG Baustellenseite&nbsp;<strong><a title=\"Gleisbau Romanplatz/ Arnulstra&szlig;e\" href=\"https://www.mvg.de/betriebsaenderungen/2024-02-19-gleisbau-arnulfstr-romanplatz.html\">Gleisbau Romanplatz/ Arnulfstra&szlig;e</a></strong>.<br/>\n&nbsp;<br/>\nIhre MVG<br/>\r\n\r\n",
+    "title": "Bauarbeiten im Bereich Romanplatz/ Arnulfstraße -- Bus statt Tram 16/17",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T10:13:00Z",
       "toDate": "2024-02-20T12:00:00Z"
     },
@@ -925,151 +1282,6 @@
     "modificationDate": "2024-02-20T09:16:16Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 188 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-20T08:36:00Z",
-      "toDate": "2024-02-25T22:59:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Sehr geehrte Fahrg&auml;ste,<br/>\naufgrund von Bauarbeiten auf der Linie 16 und 17 fahren zwischen Romanplatz und Karlsplatz (Stachus) Ersatzbusse (SEV) als Linie 16.<br/>\nDiese<strong> halten meistens am Fahrbahnrand</strong>.<br/>\n&nbsp;<br/>\nWeitere Informationen finden sie auf unserer MVG Baustellenseite&nbsp;<strong><a title=\"Gleisbau Romanplatz/ Arnulstra&szlig;e\" href=\"https://www.mvg.de/betriebsaenderungen/2024-02-19-gleisbau-arnulfstr-romanplatz.html\">Gleisbau Romanplatz/ Arnulfstra&szlig;e</a></strong>.<br/>\n&nbsp;<br/>\nIhre MVG<br/>\r\n\r\n",
-    "id": "28c63e05-635c-40e4-89e0-8e09a659569c",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-20T08:36:00Z",
-        "toDate": "2024-02-25T22:59:00Z"
-      }
-    ],
-    "incidents": [
-      "TRAM"
-    ],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-20T11:20:35Z",
-    "text": "Sehr geehrte Fahrg&auml;ste,<br/>\naufgrund von Bauarbeiten auf der Linie 16 und 17 fahren zwischen Romanplatz und Karlsplatz (Stachus) Ersatzbusse (SEV) als Linie 16.<br/>\nDiese<strong> halten meistens am Fahrbahnrand</strong>.<br/>\n&nbsp;<br/>\nWeitere Informationen finden sie auf unserer MVG Baustellenseite&nbsp;<strong><a title=\"Gleisbau Romanplatz/ Arnulstra&szlig;e\" href=\"https://www.mvg.de/betriebsaenderungen/2024-02-19-gleisbau-arnulfstr-romanplatz.html\">Gleisbau Romanplatz/ Arnulfstra&szlig;e</a></strong>.<br/>\n&nbsp;<br/>\nIhre MVG<br/>\r\n\r\n",
-    "title": "Bauarbeiten im Bereich Romanplatz/ Arnulfstraße -- SEV Bus 16 statt Tramlinie 16/ 17",
     "type": "DISRUPTION"
   },
   {

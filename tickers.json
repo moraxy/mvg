@@ -1,6 +1,209 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-21T13:22:00Z",
+      "toDate": "2024-02-21T14:22:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien U1 und U7 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "c06dbb71-3e15-4e5d-9896-3aea07bd85db",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-21T13:22:00Z",
+        "toDate": "2024-02-21T14:22:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-21T13:46:24Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien U1 und U7 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-21T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },
@@ -259,73 +462,6 @@
     "modificationDate": "2024-02-20T07:49:22Z",
     "text": "<div>Bis vsl. Sonntag, 10. M&auml;rz 2024 wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br />&nbsp;<br /><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.</strong><br />&nbsp;<br />Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br />&nbsp;<br />Die gesperrten&nbsp;Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz:</strong> Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e:</strong> Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz:</strong> Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>&nbsp;<br/><strong>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\">Sonderseite mvg.de/u2</a>.</strong></div>",
     "title": "Unterbrechung von Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss zwischen Hauptbahnhof und Hohenzollernplatz, U8 fährt nur Hauptbahnhof <> Neuperlach Zentrum",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-21T13:22:00Z",
-      "toDate": "2024-02-21T14:22:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Olympia-Einkaufszentrum kommt es auf den Linien U1 und U7 derzeit zu Verspätungen und einzelnen Ausfällen. <ul style='list-style: disc;'><li>Die Linie U7 in Richtung Sendlinger Tor fährt nur im Abschnitt Westfriedhof <> Sendlinger Tor. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Es ist mit Verspätungen zu rechnen. Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "c06dbb71-3e15-4e5d-9896-3aea07bd85db",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-21T13:22:00Z",
-        "toDate": "2024-02-21T14:22:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "7",
-        "name": "U7",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-21T13:40:36Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Olympia-Einkaufszentrum kommt es auf den Linien U1 und U7 derzeit zu Verspätungen und einzelnen Ausfällen. <ul style='list-style: disc;'><li>Die Linie U7 in Richtung Sendlinger Tor fährt nur im Abschnitt Westfriedhof <> Sendlinger Tor. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Es ist mit Verspätungen zu rechnen. Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

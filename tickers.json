@@ -2969,6 +2969,157 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-22T18:47:00Z",
+      "toDate": "2024-02-22T19:47:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Fahrzeugs im Hochgleis kommt es derzeit im Bereich Nordbad zu Verspätungen und Haltestellenausfällen auf der Linie 27. <br>Die Behinderungen werden noch voraussichtlich bis 20:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "804002fa-1327-43d4-bf8b-c5ec60f72844",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-22T18:47:00Z",
+        "toDate": "2024-02-22T19:47:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-22T18:50:56Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Fahrzeugs im Hochgleis kommt es derzeit im Bereich Nordbad zu Verspätungen und Haltestellenausfällen auf der Linie 27. <br>Die Behinderungen werden noch voraussichtlich bis 20:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und Haltestellenausfälle wegen eines Fahrzeugs im Hochgleis",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

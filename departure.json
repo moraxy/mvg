@@ -2,23 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "destination": "Fürstenried West",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1708567140000,
-    "realtime": false,
-    "realtimeDepartureTime": 1708567140000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": -2,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
@@ -351,6 +334,23 @@
     "realtimeDepartureTime": 1708576440000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Johanneskirchen Bf.",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1708576500000,
+    "realtime": false,
+    "realtimeDepartureTime": 1708576500000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
     "trainType": "",
     "transportType": "BUS"
   }

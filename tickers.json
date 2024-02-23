@@ -738,6 +738,197 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-23T07:47:00Z",
+      "toDate": "2024-02-23T08:47:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 145 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 09:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "1727717d-32e5-4d6b-b3bd-bedc7ed9fb13",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-23T07:47:00Z",
+        "toDate": "2024-02-23T08:47:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "145",
+        "name": "145",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1057",
+            "name": "Klagenfurter Straße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:978",
+            "name": "Görzer Straße Schule"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1055",
+            "name": "Plassenburgstraße"
+          },
+          {
+            "id": "de:09162:1059",
+            "name": "Görzer Straße"
+          },
+          {
+            "id": "de:09162:1054",
+            "name": "Obernzeller Straße"
+          },
+          {
+            "id": "de:09162:1053",
+            "name": "Fasangartenstraße"
+          },
+          {
+            "id": "de:09162:1061",
+            "name": "Landrichterstraße"
+          },
+          {
+            "id": "de:09162:1179",
+            "name": "Kiefernstraße"
+          },
+          {
+            "id": "de:09162:1181",
+            "name": "Minnewitstraße"
+          },
+          {
+            "id": "de:09162:1062",
+            "name": "Cincinnatistraße"
+          },
+          {
+            "id": "de:09162:1120",
+            "name": "Fasangarten Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "145",
+        "name": "145",
+        "stations": [
+          {
+            "id": "de:09162:1120",
+            "name": "Fasangarten Bf."
+          },
+          {
+            "id": "de:09162:1062",
+            "name": "Cincinnatistraße"
+          },
+          {
+            "id": "de:09162:1181",
+            "name": "Minnewitstraße"
+          },
+          {
+            "id": "de:09162:1179",
+            "name": "Kiefernstraße"
+          },
+          {
+            "id": "de:09162:1061",
+            "name": "Landrichterstraße"
+          },
+          {
+            "id": "de:09162:1053",
+            "name": "Fasangartenstraße"
+          },
+          {
+            "id": "de:09162:1054",
+            "name": "Obernzeller Straße"
+          },
+          {
+            "id": "de:09162:1059",
+            "name": "Görzer Straße"
+          },
+          {
+            "id": "de:09162:1055",
+            "name": "Plassenburgstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1057",
+            "name": "Klagenfurter Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-23T07:47:56Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 145 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 09:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

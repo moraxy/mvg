@@ -631,6 +631,113 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-23T07:33:00Z",
+      "toDate": "2024-02-23T08:33:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Potsdamer Straße kommt es auf der Linie 142 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 142 wird in beiden Richtungen zwischen Heckscherstraße und Münchner Freiheit umgeleitet. Die Haltestellen Potsdamer Straße und Parzivalplatz können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "853ad68d-a838-4208-ab86-28d36739425c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-23T07:33:00Z",
+        "toDate": "2024-02-23T08:33:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "142",
+        "name": "142",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:513",
+            "name": "Barlachstraße"
+          },
+          {
+            "id": "de:09162:424",
+            "name": "Klopstockstraße"
+          },
+          {
+            "id": "de:09162:418",
+            "name": "Mildred-Scheel-Bogen"
+          },
+          {
+            "id": "de:09162:431",
+            "name": "Heckscherstraße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "142",
+        "name": "142",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:431",
+            "name": "Heckscherstraße"
+          },
+          {
+            "id": "de:09162:418",
+            "name": "Mildred-Scheel-Bogen"
+          },
+          {
+            "id": "de:09162:424",
+            "name": "Klopstockstraße"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-23T07:35:46Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Potsdamer Straße kommt es auf der Linie 142 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 142 wird in beiden Richtungen zwischen Heckscherstraße und Münchner Freiheit umgeleitet. Die Haltestellen Potsdamer Straße und Parzivalplatz können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

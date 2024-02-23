@@ -822,6 +822,425 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-23T10:30:00Z",
+      "toDate": "2024-02-23T11:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Berduxstraße kommt es auf den Linien 161 und 180 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 12:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "15df0865-8d3e-4a47-8680-c2a1de688d63",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-23T10:30:00Z",
+        "toDate": "2024-02-23T11:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "161",
+        "name": "161",
+        "stations": [
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1858",
+            "name": "Erna-Eckstein-Straße"
+          },
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "161",
+        "name": "161",
+        "stations": [
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "180",
+        "name": "180",
+        "stations": [
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:443",
+            "name": "Euro-Industriepark Nord"
+          },
+          {
+            "id": "de:09162:440",
+            "name": "Werner-Egk-Bogen"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:414",
+            "name": "Sudetendeutsche Straße"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:781",
+            "name": "Helene-Mayer-Ring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:369",
+            "name": "Riesstraße Süd"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1858",
+            "name": "Erna-Eckstein-Straße"
+          },
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "180",
+        "name": "180",
+        "stations": [
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:369",
+            "name": "Riesstraße Süd"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:781",
+            "name": "Helene-Mayer-Ring"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:414",
+            "name": "Sudetendeutsche Straße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:440",
+            "name": "Werner-Egk-Bogen"
+          },
+          {
+            "id": "de:09162:443",
+            "name": "Euro-Industriepark Nord"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-23T10:30:57Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Berduxstraße kommt es auf den Linien 161 und 180 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 12:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Behinderungen wegen Falschparker",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },
@@ -1882,12 +2301,17 @@
     },
     "downloadLinks": [
       {
-        "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5_156481829",
+        "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5_-1624933155",
         "mimeType": "image/jpeg",
-        "name": "Übersichtskarte Scheidplatz - Kurfürstenplatz"
+        "name": "Linienführung Tram 12 und 28 ab 4. März"
+      },
+      {
+        "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5_-821589659",
+        "mimeType": "image/jpeg",
+        "name": "Linienführung Ersatzbus 12"
       }
     ],
-    "htmlText": "<div>Wegen Gleisbauarbeiten am Scheidplatz werden die Tramlinien 12 und 28 von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>An der (H) Scheidplatz f&auml;hrt der Ersatzverkehr (bis 9. sowie ab 19. Februar SEV 12, von 10. bis 18. Februar verl&auml;ngerte Buslinie 142) zum Kurf&uuml;rstenplatz vom Haltepunkt 4 in der Tram- und Buswendeanlage ab. Die (H) Karl-Theodor-Stra&szlig;e ist in beiden Richtungen an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div>Am (H) Kurf&uuml;rstenplatz halten die Busse wie bisher s&uuml;dlich der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e, vor dem Eiscafe Venezia.</div>\r\n",
+    "htmlText": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e werden die Tramlinien 12 und 28 noch bis vsl. Montag, 11. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Der Ersatzbus 12 f&auml;hrt an der (H) Scheidplatz vom Haltepunkt 4 ab. An der (H) Kurf&uuml;rstenplatz halten die Busse vor dem Eiscafe Venezia (Kurf&uuml;rstenplatz 6-8), die (H) Karl-Theodor-Stra&szlig;e ist beidseitig an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div><strong>Betriebskonzept Tram 12/28 bis Sonntag, 3. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz und weiter als Tram 28 via Pinakotheken zum Sendlinger Tor.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz und weiter als Tram 12 via Leonrodplatz und Romanplatz zur Amalienburgstra&szlig;e.</li>\n</ul>\n<div><strong>Betriebskonzept Tram 12/28 von Montag, 4. M&auml;rz bis vsl. Montag, 11. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz - Karolinenplatz.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz - Nordbad - Petuelring.</li>\n</ul>\r\n",
     "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5",
     "incidentDuration": [
       {
@@ -1902,6 +2326,26 @@
         "id": "12",
         "name": "12",
         "stations": [
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
           {
             "id": "de:09162:215",
             "name": "Romanplatz"
@@ -2025,6 +2469,26 @@
           {
             "id": "de:09162:215",
             "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2075,9 +2539,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-29T07:23:21Z",
-    "text": "<div>Wegen Gleisbauarbeiten am Scheidplatz werden die Tramlinien 12 und 28 von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>An der (H) Scheidplatz f&auml;hrt der Ersatzverkehr (bis 9. sowie ab 19. Februar SEV 12, von 10. bis 18. Februar verl&auml;ngerte Buslinie 142) zum Kurf&uuml;rstenplatz vom Haltepunkt 4 in der Tram- und Buswendeanlage ab. Die (H) Karl-Theodor-Stra&szlig;e ist in beiden Richtungen an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div>Am (H) Kurf&uuml;rstenplatz halten die Busse wie bisher s&uuml;dlich der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e, vor dem Eiscafe Venezia.</div>\r\n",
-    "title": "Scheidplatz <> Kurfürstenplatz: Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten am Scheidplatz",
+    "modificationDate": "2024-02-23T10:30:10Z",
+    "text": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e werden die Tramlinien 12 und 28 noch bis vsl. Montag, 11. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Der Ersatzbus 12 f&auml;hrt an der (H) Scheidplatz vom Haltepunkt 4 ab. An der (H) Kurf&uuml;rstenplatz halten die Busse vor dem Eiscafe Venezia (Kurf&uuml;rstenplatz 6-8), die (H) Karl-Theodor-Stra&szlig;e ist beidseitig an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div><strong>Betriebskonzept Tram 12/28 bis Sonntag, 3. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz und weiter als Tram 28 via Pinakotheken zum Sendlinger Tor.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz und weiter als Tram 12 via Leonrodplatz und Romanplatz zur Amalienburgstra&szlig;e.</li>\n</ul>\n<div><strong>Betriebskonzept Tram 12/28 von Montag, 4. M&auml;rz bis vsl. Montag, 11. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz - Karolinenplatz.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz - Nordbad - Petuelring.</li>\n</ul>\r\n",
+    "title": "Scheidplatz <> Kurfürstenplatz: Ersatzverkehr mit Bussen (SEV) wegen Umbau der Ampelanlage am Scheidplatz",
     "type": "PLANNED"
   },
   {
@@ -4767,15 +5231,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-01-14T23:01:00Z",
-      "toDate": "2024-03-01T22:59:00Z"
+      "toDate": "2024-03-11T22:59:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "<div>Bis vsl. Freitag, 1. M&auml;rz 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
+    "htmlText": "<div>Bis vsl. Montag, 11. M&auml;rz 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
     "id": "64bf0dd3-394c-42e7-ac49-bf6004af9c6d",
     "incidentDuration": [
       {
         "fromDate": "2024-01-21T23:01:00Z",
-        "toDate": "2024-03-01T22:59:00Z"
+        "toDate": "2024-03-11T22:59:00Z"
       }
     ],
     "incidents": [],
@@ -4822,8 +5286,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-30T05:58:39Z",
-    "text": "<div>Bis vsl. Freitag, 1. M&auml;rz 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
+    "modificationDate": "2024-02-23T10:30:46Z",
+    "text": "<div>Bis vsl. Montag, 11. M&auml;rz 2024 f&auml;hrt die Tram 23 zu den Hauptverkehrszeiten montags bis freitags (ca. 07:00 bis 09:00 Uhr und 16:00 bis 19:00 Uhr) im 7- bis 8-Minuten-Takt. Au&szlig;erhalb dieser Zeiten verkehrt die Linie nach regul&auml;rem Fahrplan. Bitte beachten Sie die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
     "title": "Reduzierter Takt in der Hauptverkehrszeit (7-9 und 16-19 Uhr)",
     "type": "PLANNED"
   },
@@ -14379,7 +14843,7 @@
   {
     "activeDuration": {
       "fromDate": "2023-11-19T23:01:00Z",
-      "toDate": "2024-03-03T22:59:00Z"
+      "toDate": "2024-03-11T22:59:00Z"
     },
     "downloadLinks": [
       {
@@ -14388,12 +14852,12 @@
         "name": "Umleitungskarte"
       }
     ],
-    "htmlText": "<div>Wegen Gleisbauarbeiten fahren die Buslinien 140 &gt; Kieferngarten und 141 &gt; D&uuml;lferstra&szlig;e von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 an der (H) Scheidplatz von einer Ersatzhaltestelle s&uuml;dlich der Einm&uuml;ndung Belgradstra&szlig;e / Parzivalstra&szlig;e ab.</div>\n<div>&nbsp;</div>\n<div>In Fahrtrichtung Scheidplatz ist die (H) K&ouml;lner Platz vor die Einm&uuml;ndung Parzivalstra&szlig;e / Bonner Stra&szlig;e verlegt, zus&auml;tzlich wird die (H) Bonner Platz an der Einm&uuml;ndung Karl-Theodor-Stra&szlig;e / Bonner Stra&szlig;e (vor dem Supermarkt) bedient.</div>\r\n",
+    "htmlText": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e fahren die Buslinien 140 &gt; Kieferngarten und 141 &gt; D&uuml;lferstra&szlig;e noch bis vsl. Montag, 11. M&auml;rz 2024 an der (H) Scheidplatz von einer Ersatzhaltestelle s&uuml;dlich der Einm&uuml;ndung Belgradstra&szlig;e / Parzivalstra&szlig;e ab.</div>\n<div>&nbsp;</div>\n<div>In Fahrtrichtung Scheidplatz ist die (H) K&ouml;lner Platz vor die Einm&uuml;ndung Parzivalstra&szlig;e / Bonner Stra&szlig;e verlegt, zus&auml;tzlich wird die (H) Bonner Platz an der Einm&uuml;ndung Karl-Theodor-Stra&szlig;e / Bonner Stra&szlig;e (vor dem Supermarkt) bedient.</div>\r\n",
     "id": "eba2ed43-64a7-4f26-9420-4b4b1ffbd338",
     "incidentDuration": [
       {
         "fromDate": "2023-12-03T23:01:00Z",
-        "toDate": "2024-03-03T22:59:00Z"
+        "toDate": "2024-03-11T22:59:00Z"
       }
     ],
     "incidents": [],
@@ -14788,9 +15252,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-01-29T07:23:46Z",
-    "text": "<div>Wegen Gleisbauarbeiten fahren die Buslinien 140 &gt; Kieferngarten und 141 &gt; D&uuml;lferstra&szlig;e von Montag, 4. Dezember bis vsl. Sonntag, 3. M&auml;rz 2024 an der (H) Scheidplatz von einer Ersatzhaltestelle s&uuml;dlich der Einm&uuml;ndung Belgradstra&szlig;e / Parzivalstra&szlig;e ab.</div>\n<div>&nbsp;</div>\n<div>In Fahrtrichtung Scheidplatz ist die (H) K&ouml;lner Platz vor die Einm&uuml;ndung Parzivalstra&szlig;e / Bonner Stra&szlig;e verlegt, zus&auml;tzlich wird die (H) Bonner Platz an der Einm&uuml;ndung Karl-Theodor-Stra&szlig;e / Bonner Stra&szlig;e (vor dem Supermarkt) bedient.</div>\r\n",
-    "title": "Umleitung bzw. Haltestellenverlegung wegen Gleisbauarbeiten am Scheidplatz",
+    "modificationDate": "2024-02-23T10:32:06Z",
+    "text": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e fahren die Buslinien 140 &gt; Kieferngarten und 141 &gt; D&uuml;lferstra&szlig;e noch bis vsl. Montag, 11. M&auml;rz 2024 an der (H) Scheidplatz von einer Ersatzhaltestelle s&uuml;dlich der Einm&uuml;ndung Belgradstra&szlig;e / Parzivalstra&szlig;e ab.</div>\n<div>&nbsp;</div>\n<div>In Fahrtrichtung Scheidplatz ist die (H) K&ouml;lner Platz vor die Einm&uuml;ndung Parzivalstra&szlig;e / Bonner Stra&szlig;e verlegt, zus&auml;tzlich wird die (H) Bonner Platz an der Einm&uuml;ndung Karl-Theodor-Stra&szlig;e / Bonner Stra&szlig;e (vor dem Supermarkt) bedient.</div>\r\n",
+    "title": "Umleitung bzw. Haltestellenverlegung wegen Umbau der Ampelanlage am Scheidplatz",
     "type": "PLANNED"
   },
   {

@@ -894,6 +894,197 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-23T09:36:00Z",
+      "toDate": "2024-02-23T10:36:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 60 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 11:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "83a521ea-e863-4dbf-a4cc-8cc7b8401e89",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-23T09:36:00Z",
+        "toDate": "2024-02-23T10:36:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-23T09:37:10Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 60 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 11:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

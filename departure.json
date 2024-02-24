@@ -2,26 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 2,
-    "destination": "Feldmoching",
-    "divaId": "010U2",
-    "label": "U2",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1708753620000,
-    "platform": 1,
-    "platformChanged": false,
-    "realtime": true,
-    "realtimeDepartureTime": 1708753740000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:51:51",
-    "trainType": "",
-    "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Petuelring",
     "divaId": "03178",
@@ -366,5 +346,25 @@
     "stopPointGlobalId": "de:09162:750:2:2",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Hohenzollernplatz",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1708755660000,
+    "platform": 2,
+    "platformChanged": false,
+    "realtime": true,
+    "realtimeDepartureTime": 1708755660000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:52",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

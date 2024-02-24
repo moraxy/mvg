@@ -1,6 +1,165 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-24T06:43:00Z",
+      "toDate": "2024-02-24T07:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U1 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "a8ff1cb0-fb98-4e1b-9a58-c9d35f191889",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-24T06:43:00Z",
+        "toDate": "2024-02-24T07:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-24T06:44:29Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U1 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-21T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },
@@ -259,6 +418,141 @@
     "modificationDate": "2024-02-20T07:49:22Z",
     "text": "<div>Bis vsl. Sonntag, 10. M&auml;rz 2024 wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br />&nbsp;<br /><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.</strong><br />&nbsp;<br />Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br />&nbsp;<br />Die gesperrten&nbsp;Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz:</strong> Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e:</strong> Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz:</strong> Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>&nbsp;<br/><strong>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\">Sonderseite mvg.de/u2</a>.</strong></div>",
     "title": "Unterbrechung von Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss zwischen Hauptbahnhof und Hohenzollernplatz, U8 fährt nur Hauptbahnhof <> Neuperlach Zentrum",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-02-24T06:45:00Z",
+      "toDate": "2024-02-24T07:45:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Poccistraße kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U6 in Richtung Garching-Forschungszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "3f512ca5-c0c8-45f3-af6c-5b12f8d08895",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-24T06:45:00Z",
+        "toDate": "2024-02-24T07:45:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-24T06:46:23Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Poccistraße kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U6 in Richtung Garching-Forschungszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

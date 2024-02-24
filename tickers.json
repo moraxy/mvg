@@ -267,7 +267,7 @@
       "toDate": "2024-02-25T00:17:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personen im Gleis kommt es auf der Linie U6 derzeit zu erheblichen Behinderungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen Personen im Gleis kommt es bei der Linie U6 derzeit zu einer Streckenunterbrechung . <ul style='list-style: disc;'><li>Die Linie U6 fährt nur im Abschnitt Westpark <> Garching-Forschungszentrum. </li> <li>Die Haltestellen \tKlinikum Großhadern, Großhadern, Haderner Stern und Holzapfelkreuth können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 01:20 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "82e0f51c-3f7b-43b8-8e7c-94853409fb1a",
     "incidentDuration": [
       {
@@ -503,8 +503,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-24T23:18:05Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personen im Gleis kommt es auf der Linie U6 derzeit zu erheblichen Behinderungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "modificationDate": "2024-02-24T23:23:47Z",
+    "text": "Liebe Fahrgäste, <br/>wegen Personen im Gleis kommt es bei der Linie U6 derzeit zu einer Streckenunterbrechung . <ul style='list-style: disc;'><li>Die Linie U6 fährt nur im Abschnitt Westpark <> Garching-Forschungszentrum. </li> <li>Die Haltestellen \tKlinikum Großhadern, Großhadern, Haderner Stern und Holzapfelkreuth können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 01:20 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Erhebliche Behinderungen wegen Personen im Gleis",
     "type": "DISRUPTION"
   },
@@ -878,413 +878,277 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-02-24T23:08:00Z",
-      "toDate": "2024-02-24T23:25:11Z"
+      "fromDate": "2024-02-24T23:24:00Z",
+      "toDate": "2024-02-25T00:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 20 und 21 gemeldete Behinderung (Grund: Polizeieinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "e060e85d-7624-47df-8a88-d83545b77db6",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 51 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 01:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "42b33aa7-2489-4b0f-9350-14c8836e9e8f",
     "incidentDuration": [
       {
-        "fromDate": "2024-02-24T23:08:00Z",
-        "toDate": "2024-02-24T23:15:11Z"
+        "fromDate": "2024-02-24T23:24:00Z",
+        "toDate": "2024-02-25T00:30:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "20",
-        "name": "20",
+        "id": "51",
+        "name": "51",
         "stations": [
           {
             "id": "de:09162:300",
             "name": "Moosach Bf."
           },
           {
-            "id": "de:09162:301",
-            "name": "Pelkovenstraße"
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
           },
           {
-            "id": "de:09162:302",
-            "name": "Hugo-Troendle-Straße"
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
           },
           {
-            "id": "de:09162:303",
-            "name": "Wintrichring"
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
           },
           {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
           },
           {
-            "id": "de:09162:305",
-            "name": "Borstei"
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
           },
           {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
           },
           {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
           },
           {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
           },
           {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
           },
           {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
+            "id": "de:09162:215",
+            "name": "Romanplatz"
           },
           {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
           },
           {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
           },
           {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
+            "id": "de:09162:225",
+            "name": "Herthastraße"
           },
           {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
           }
         ],
-        "typeOfTransport": "TRAM"
+        "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "20",
-        "name": "20",
+        "id": "51",
+        "name": "51",
         "stations": [
           {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
           },
           {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
           },
           {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
           },
           {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
           },
           {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
           },
           {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
           },
           {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
           },
           {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
           },
           {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
           },
           {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
           },
           {
-            "id": "de:09162:305",
-            "name": "Borstei"
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
           },
           {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
           },
           {
-            "id": "de:09162:303",
-            "name": "Wintrichring"
+            "id": "de:09162:9",
+            "name": "Laim Bf."
           },
           {
-            "id": "de:09162:302",
-            "name": "Hugo-Troendle-Straße"
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
           },
           {
-            "id": "de:09162:301",
-            "name": "Pelkovenstraße"
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
+          },
+          {
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
           },
           {
             "id": "de:09162:300",
             "name": "Moosach Bf."
           }
         ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "21",
-        "name": "21",
-        "stations": [
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:305",
-            "name": "Borstei"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:581",
-            "name": "Max-Weber-Platz (Johannispl.)"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "21",
-        "name": "21",
-        "stations": [
-          {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:305",
-            "name": "Borstei"
-          },
-          {
-            "id": "de:09162:285",
-            "name": "Stadtwerke München"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          }
-        ],
-        "typeOfTransport": "TRAM"
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-24T23:15:11Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linien 20 und 21 gemeldete Behinderung (Grund: Polizeieinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-02-24T23:25:21Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 51 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 01:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Betriebsstörung",
     "type": "DISRUPTION"
   },
   {

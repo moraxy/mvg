@@ -1124,6 +1124,149 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-24T22:00:00Z",
+      "toDate": "2024-02-24T23:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 56 in Richtung Schloss Blutenburg                 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 00:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "c5cf09fe-a826-4f93-9ae3-4c6a7b45682d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-24T22:00:00Z",
+        "toDate": "2024-02-24T23:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "56",
+        "name": "56",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
+          },
+          {
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
+          },
+          {
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
+          },
+          {
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
+          },
+          {
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
+          },
+          {
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
+          },
+          {
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
+          },
+          {
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
+          },
+          {
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
+          },
+          {
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
+          },
+          {
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-24T22:01:28Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 56 in Richtung Schloss Blutenburg                 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 00:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

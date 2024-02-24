@@ -77,6 +77,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Fürstenried West",
     "divaId": "33N41",
     "label": "N41",
@@ -84,7 +85,7 @@
     "network": "swm",
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1708737240000,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1708737240000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",

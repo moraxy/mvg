@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 1,
-    "destination": "OEZ Dessauerstraße",
-    "divaId": "03050",
-    "label": "50",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1708897440000,
-    "realtime": true,
-    "realtimeDepartureTime": 1708897500000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:2:2",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Petuelring",
     "divaId": "03177",
@@ -96,7 +78,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
     "destination": "Johanneskirchen Bf.",
     "divaId": "03050",
     "label": "50",
@@ -104,7 +85,7 @@
     "network": "swm",
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1708898100000,
-    "realtime": true,
+    "realtime": false,
     "realtimeDepartureTime": 1708898100000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",
@@ -374,5 +355,25 @@
     "stopPointGlobalId": "de:09162:750:2:2",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 1,
+    "destination": "Feldmoching",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1708900020000,
+    "platform": 1,
+    "platformChanged": false,
+    "realtime": true,
+    "realtimeDepartureTime": 1708900080000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:51",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

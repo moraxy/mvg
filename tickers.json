@@ -631,6 +631,797 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-26T04:43:00Z",
+      "toDate": "2024-02-26T05:43:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 140, 141 und 160 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "37e4be72-24b9-4276-8840-3caa087f23fa",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-26T04:43:00Z",
+        "toDate": "2024-02-26T05:43:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "140",
+        "name": "140",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "140",
+        "name": "140",
+        "stations": [
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "160",
+        "name": "160",
+        "stations": [
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          },
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          },
+          {
+            "id": "de:09174:6983",
+            "name": "Karlsfeld, Rosenstraße"
+          },
+          {
+            "id": "de:09174:6988",
+            "name": "Karlsfeld, Ostenstraße"
+          },
+          {
+            "id": "de:09174:6986",
+            "name": "Karlsfeld, Hallenbad"
+          },
+          {
+            "id": "de:09174:7060",
+            "name": "Karlsfeld, Rathausstraße"
+          },
+          {
+            "id": "de:09174:7393",
+            "name": "Karlsfeld, Einkaufsmärkte (West)"
+          },
+          {
+            "id": "de:09174:7391",
+            "name": "Karlsfeld, Ackerstraße"
+          },
+          {
+            "id": "de:09174:6990",
+            "name": "Karlsfeld Bahnhof (West)"
+          },
+          {
+            "id": "de:09162:1828",
+            "name": "Otto-Warburg-Straße"
+          },
+          {
+            "id": "de:09162:1860",
+            "name": "Hohenadelweg"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1817",
+            "name": "Steirerstraße"
+          },
+          {
+            "id": "de:09162:1816",
+            "name": "Lochhausener Straße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1799",
+            "name": "Menterstraße"
+          },
+          {
+            "id": "de:09162:1798",
+            "name": "Marsopstraße"
+          },
+          {
+            "id": "de:09162:1797",
+            "name": "Orthstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1664",
+            "name": "Krankenhaus Pasing"
+          },
+          {
+            "id": "de:09162:1666",
+            "name": "Avenariusplatz"
+          },
+          {
+            "id": "de:09162:1668",
+            "name": "Wehnerstraße"
+          },
+          {
+            "id": "de:09162:1672",
+            "name": "Dachstraße"
+          },
+          {
+            "id": "de:09184:2592",
+            "name": "Lochham, Im Birket"
+          },
+          {
+            "id": "de:09184:2594",
+            "name": "Lochham, Eichenstraße"
+          },
+          {
+            "id": "de:09184:2580",
+            "name": "Lochham Bf."
+          },
+          {
+            "id": "de:09184:2596",
+            "name": "Lochham, Radlbäckstraße"
+          },
+          {
+            "id": "de:09184:2598",
+            "name": "Lochham, Würmstraße"
+          },
+          {
+            "id": "de:09184:2602",
+            "name": "Lochham, Am Kirchenhölzl"
+          },
+          {
+            "id": "de:09184:2567",
+            "name": "Gräfelfing, Am Haag"
+          },
+          {
+            "id": "de:09184:2569",
+            "name": "Gräfelfing, Seeholzenstraße"
+          },
+          {
+            "id": "de:09184:2564",
+            "name": "Gräfelfing, Neuer Friedhof"
+          },
+          {
+            "id": "de:09184:2604",
+            "name": "Gräfelfing, Finkenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "160",
+        "name": "160",
+        "stations": [
+          {
+            "id": "de:09184:2604",
+            "name": "Gräfelfing, Finkenstraße"
+          },
+          {
+            "id": "de:09184:2564",
+            "name": "Gräfelfing, Neuer Friedhof"
+          },
+          {
+            "id": "de:09184:2569",
+            "name": "Gräfelfing, Seeholzenstraße"
+          },
+          {
+            "id": "de:09184:2567",
+            "name": "Gräfelfing, Am Haag"
+          },
+          {
+            "id": "de:09184:2602",
+            "name": "Lochham, Am Kirchenhölzl"
+          },
+          {
+            "id": "de:09184:2598",
+            "name": "Lochham, Würmstraße"
+          },
+          {
+            "id": "de:09184:2596",
+            "name": "Lochham, Radlbäckstraße"
+          },
+          {
+            "id": "de:09184:2580",
+            "name": "Lochham Bf."
+          },
+          {
+            "id": "de:09184:2594",
+            "name": "Lochham, Eichenstraße"
+          },
+          {
+            "id": "de:09184:2592",
+            "name": "Lochham, Im Birket"
+          },
+          {
+            "id": "de:09162:1672",
+            "name": "Dachstraße"
+          },
+          {
+            "id": "de:09162:1668",
+            "name": "Wehnerstraße"
+          },
+          {
+            "id": "de:09162:1666",
+            "name": "Avenariusplatz"
+          },
+          {
+            "id": "de:09162:1664",
+            "name": "Krankenhaus Pasing"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1797",
+            "name": "Orthstraße"
+          },
+          {
+            "id": "de:09162:1798",
+            "name": "Marsopstraße"
+          },
+          {
+            "id": "de:09162:1799",
+            "name": "Menterstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1816",
+            "name": "Lochhausener Straße"
+          },
+          {
+            "id": "de:09162:1817",
+            "name": "Steirerstraße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1860",
+            "name": "Hohenadelweg"
+          },
+          {
+            "id": "de:09162:1828",
+            "name": "Otto-Warburg-Straße"
+          },
+          {
+            "id": "de:09174:6990",
+            "name": "Karlsfeld Bahnhof (West)"
+          },
+          {
+            "id": "de:09174:7391",
+            "name": "Karlsfeld, Ackerstraße"
+          },
+          {
+            "id": "de:09174:7393",
+            "name": "Karlsfeld, Einkaufsmärkte (West)"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:6984",
+            "name": "Karlsfeld, Rathaus"
+          },
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-26T04:44:16Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 140, 141 und 160 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

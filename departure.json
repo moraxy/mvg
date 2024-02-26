@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "Feldmoching Bf.",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1708916580000,
-    "realtime": true,
-    "realtimeDepartureTime": 1708916580000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:4:4",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
     "label": "U2",
@@ -341,6 +323,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
     "label": "U2",
@@ -350,11 +333,28 @@
     "plannedDepartureTime": 1708922460000,
     "platform": 2,
     "platformChanged": false,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1708922460000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Dessauerstraße",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1708922640000,
+    "realtime": false,
+    "realtimeDepartureTime": 1708922640000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

@@ -506,7 +506,7 @@
       "toDate": "2024-02-26T15:45:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 12, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 12 in Richtung Kurfürstenplatz fährt nur im Abschnitt Amalienburgstraße <> Leonrodplatz. Die Umleitung verläuft über die Haltestelle Stiglmaierplatz. </li></li> \t<li> Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Hohenzollernplatz und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof. Die Haltestellen Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 12, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Nordbad und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof. Die Haltestellen Hohenzollernplatz, Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li> \t<li>Die Umleitung verläuft über die Haltestellen Hauptbahnhof und Karlsplatz (Stachus). <ul>\n<li>Die Linie 28 verkehrt derzeit nur vom Karlsplatz (Stachus) in Ri. Hohenzollernplatz, weiter als Linie 12 Ri. Amalienburgstr.</li>\n</ul></ul>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "2c6643a2-412b-4dc4-9f1f-1a2540e971c1",
     "incidentDuration": [
       {
@@ -663,11 +663,55 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-26T14:51:19Z",
-    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 12, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 12 in Richtung Kurfürstenplatz fährt nur im Abschnitt Amalienburgstraße <> Leonrodplatz. Die Umleitung verläuft über die Haltestelle Stiglmaierplatz. </li></li> \t<li> Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Hohenzollernplatz und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof. Die Haltestellen Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "modificationDate": "2024-02-26T14:56:35Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 12, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Nordbad und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof. Die Haltestellen Hohenzollernplatz, Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li> \t<li>Die Umleitung verläuft über die Haltestellen Hauptbahnhof und Karlsplatz (Stachus). <ul>\n<li>Die Linie 28 verkehrt derzeit nur vom Karlsplatz (Stachus) in Ri. Hohenzollernplatz, weiter als Linie 12 Ri. Amalienburgstr.</li>\n</ul></ul>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Erhebliche Behinderungen wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },

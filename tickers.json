@@ -503,19 +503,107 @@
   {
     "activeDuration": {
       "fromDate": "2024-02-26T14:45:00Z",
-      "toDate": "2024-02-26T15:45:00Z"
+      "toDate": "2024-02-26T16:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 12, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Nordbad und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof. Die Haltestellen Hohenzollernplatz, Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li> \t<li>Die Umleitung verläuft über die Haltestellen Hauptbahnhof und Karlsplatz (Stachus). <ul>\n<li>Die Linie 28 verkehrt derzeit nur vom Karlsplatz (Stachus) in Ri. Hohenzollernplatz, weiter als Linie 12 Ri. Amalienburgstr.</li>\n</ul></ul>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 12, 27 und 28 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "2c6643a2-412b-4dc4-9f1f-1a2540e971c1",
     "incidentDuration": [
       {
         "fromDate": "2024-02-26T14:45:00Z",
-        "toDate": "2024-02-26T15:45:00Z"
+        "toDate": "2024-02-26T16:00:00Z"
       }
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
       {
         "direction": "2",
         "id": "12",
@@ -665,6 +753,70 @@
         "typeOfTransport": "TRAM"
       },
       {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
         "direction": "1",
         "id": "28",
         "name": "28",
@@ -710,9 +862,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-26T14:56:35Z",
-    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 12, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Nordbad und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof. Die Haltestellen Hohenzollernplatz, Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li> \t<li>Die Umleitung verläuft über die Haltestellen Hauptbahnhof und Karlsplatz (Stachus). <ul>\n<li>Die Linie 28 verkehrt derzeit nur vom Karlsplatz (Stachus) in Ri. Hohenzollernplatz, weiter als Linie 12 Ri. Amalienburgstr.</li>\n</ul></ul>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "title": "Erhebliche Behinderungen wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-02-26T14:58:47Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 12, 27 und 28 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {

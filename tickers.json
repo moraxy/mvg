@@ -869,6 +869,377 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-26T15:27:00Z",
+      "toDate": "2024-02-26T16:27:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung kommt es derzeit zwischen Effnerplatz und St. Emmeram zu Verspätungen auf den Linien 16 und 37. <br>Die Behinderungen werden noch voraussichtlich bis 17:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "e0b87797-649c-4515-bb6f-a0a0ec6e9781",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-26T15:27:00Z",
+        "toDate": "2024-02-26T16:27:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "37",
+        "name": "37",
+        "stations": [
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:91",
+            "name": "Bundesfinanzhof"
+          },
+          {
+            "id": "de:09162:75",
+            "name": "Sternwartstraße"
+          },
+          {
+            "id": "de:09162:74",
+            "name": "Holbeinstraße"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "37",
+        "name": "37",
+        "stations": [
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:74",
+            "name": "Holbeinstraße"
+          },
+          {
+            "id": "de:09162:75",
+            "name": "Sternwartstraße"
+          },
+          {
+            "id": "de:09162:91",
+            "name": "Bundesfinanzhof"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-26T15:27:50Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung kommt es derzeit zwischen Effnerplatz und St. Emmeram zu Verspätungen auf den Linien 16 und 37. <br>Die Behinderungen werden noch voraussichtlich bis 17:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T08:36:00Z",
       "toDate": "2024-06-09T21:59:00Z"
     },

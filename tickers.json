@@ -21367,6 +21367,262 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-18T23:00:00Z",
+      "toDate": "2024-03-10T22:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "0572674b-bb6d-4cae-ab6d-279151c5d9fe_1805064512",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten in der Augsburger Stra&szlig;e werden die Nachtbuslinien N80 und N81 von Montag, 4. M&auml;rz bis vsl. Sonntag, 10. M&auml;rz zwischen den (H) Germering, Rathaus und Puchheim Ort, Kriegerdenkmal umgeleitet. Die (H) Germering, Hochrainweg und Germering, Dorfstra&szlig;e entfallen.&nbsp;</div>\r\n",
+    "id": "0572674b-bb6d-4cae-ab6d-279151c5d9fe",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-03T23:00:00Z",
+        "toDate": "2024-03-10T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "80",
+        "name": "N80",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "81",
+        "name": "N81",
+        "stations": [
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
+          },
+          {
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
+          },
+          {
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1736",
+            "name": "Gilchinger Straße"
+          },
+          {
+            "id": "de:09162:1738",
+            "name": "Allinger Straße"
+          },
+          {
+            "id": "de:09162:1742",
+            "name": "Asmarstraße"
+          },
+          {
+            "id": "de:09162:1810",
+            "name": "Lochhausen Bf."
+          },
+          {
+            "id": "de:09162:1775",
+            "name": "Kleiberweg"
+          },
+          {
+            "id": "de:09162:1744",
+            "name": "Sumpfmeisenweg"
+          },
+          {
+            "id": "de:09162:1752",
+            "name": "Pirolstraße"
+          },
+          {
+            "id": "de:09179:6124",
+            "name": "Gröbenzell, Am Sandberg"
+          },
+          {
+            "id": "de:09179:6122",
+            "name": "Gröbenzell, Am Zillerhof"
+          },
+          {
+            "id": "de:09179:6119",
+            "name": "Gröbenzell, Am Weidegrund"
+          },
+          {
+            "id": "de:09179:6118",
+            "name": "Gröbenzell, Gröbenhüterstraße"
+          },
+          {
+            "id": "de:09179:6116",
+            "name": "Gröbenzell, Puchheimer Straße"
+          },
+          {
+            "id": "de:09179:6114",
+            "name": "Gröbenzell, Bernh.-Rößner-Str."
+          },
+          {
+            "id": "de:09179:6112",
+            "name": "Puchheim Bf., Friedenstraße"
+          },
+          {
+            "id": "de:09179:6108",
+            "name": "Puchheim, Lagerstraße"
+          },
+          {
+            "id": "de:09179:6523",
+            "name": "Puchheim Bf., Weiherstraße"
+          },
+          {
+            "id": "de:09179:6501",
+            "name": "Puchheim Bf., Heussstraße"
+          },
+          {
+            "id": "de:09179:6508",
+            "name": "Puchheim Bf., Edelweißstraße"
+          },
+          {
+            "id": "de:09179:6506",
+            "name": "Puchheim Bf., Zweigstraße"
+          },
+          {
+            "id": "de:09179:6505",
+            "name": "Puchheim Bf., Veilchenstraße"
+          },
+          {
+            "id": "de:09179:6504",
+            "name": "Puchheim Bf., Frh. Schopflach"
+          },
+          {
+            "id": "de:09179:6512",
+            "name": "Puchheim Bf., Laurenzer Weg"
+          },
+          {
+            "id": "de:09179:6373",
+            "name": "Puchheim Ort, Mitterlängstraße"
+          },
+          {
+            "id": "de:09179:6502",
+            "name": "Puchheim Ort, Vogelsangstraße"
+          },
+          {
+            "id": "de:09179:6517",
+            "name": "Puchheim Ort, Schwarzäckerstr."
+          },
+          {
+            "id": "de:09179:6509",
+            "name": "Puchheim, Maibaum"
+          },
+          {
+            "id": "de:09179:6510",
+            "name": "Puchheim Ort, Kirche"
+          },
+          {
+            "id": "de:09179:6536",
+            "name": "Germering, Hochrainweg"
+          },
+          {
+            "id": "de:09179:6370",
+            "name": "Germering, Dorfstraße"
+          },
+          {
+            "id": "de:09179:6368",
+            "name": "Germering, Rathaus"
+          },
+          {
+            "id": "de:09179:6366",
+            "name": "Germering, Beethovenstraße"
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6492",
+            "name": "Germering, Wittelsbacherstraße"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1759",
+            "name": "Ehrenbürgstraße"
+          },
+          {
+            "id": "de:09162:1730",
+            "name": "Neuaubing Bf."
+          },
+          {
+            "id": "de:09162:1737",
+            "name": "Überlinger Weg"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-27T11:13:41Z",
+    "text": "<div>Wegen Bauarbeiten in der Augsburger Stra&szlig;e werden die Nachtbuslinien N80 und N81 von Montag, 4. M&auml;rz bis vsl. Sonntag, 10. M&auml;rz zwischen den (H) Germering, Rathaus und Puchheim Ort, Kriegerdenkmal umgeleitet. Die (H) Germering, Hochrainweg und Germering, Dorfstra&szlig;e entfallen.&nbsp;</div>\r\n",
+    "title": "Puchheim Ort, Kriegerdenkmal <> Germering, Rathaus: Umleitung wegen Bauarbeiten",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-28T23:00:00Z",
       "toDate": null
     },

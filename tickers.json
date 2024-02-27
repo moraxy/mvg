@@ -1,6 +1,245 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-02-26T18:30:00Z",
+      "toDate": "2024-02-28T04:00:59Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Linienteilung der U3 an der Implerstra&szlig;e wegen Schienenerneuerung ab 22:30 Uhr +++<br/>\r\n\r\n",
+    "id": "b297475b-4106-405f-868c-e8cd79b1f4fc",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-02-26T18:30:00Z",
+        "toDate": "2024-02-28T04:00:59Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-02-27T21:31:04Z",
+    "text": "Linienteilung der U3 an der Implerstra&szlig;e wegen Schienenerneuerung ab 22:30 Uhr +++<br/>\r\n\r\n",
+    "title": "Linienteilung der U3 an der Implerstraße wegen Schienenerneuerung ab 22:30 Uhr +++",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T08:36:00Z",
       "toDate": "2024-06-09T21:59:00Z"
     },
@@ -127,69 +366,6 @@
         "typeOfTransport": "TRAM"
       },
       {
-        "direction": "2",
-        "id": "17",
-        "name": "17",
-        "stations": [],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "1",
         "id": "16",
         "name": "16",
@@ -290,11 +466,74 @@
         "typeOfTransport": "TRAM"
       },
       {
+        "direction": "2",
+        "id": "17",
+        "name": "17",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
         "direction": "1",
         "id": "17",
         "name": "17",
         "stations": [],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
       },
       {
         "direction": "2",

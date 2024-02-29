@@ -53,6 +53,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": -2,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
     "label": "N41",
@@ -60,8 +61,8 @@
     "network": "swm",
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709172180000,
-    "realtime": false,
-    "realtimeDepartureTime": 1709172180000,
+    "realtime": true,
+    "realtimeDepartureTime": 1709172060000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",

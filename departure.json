@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "Am Hart",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1709345880000,
-    "realtime": true,
-    "realtimeDepartureTime": 1709345880000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:4:4",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "destination": "Aidenbachstraße",
     "divaId": "33N41",
     "label": "N41",
@@ -37,7 +19,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
+    "delayInMinutes": -2,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
     "label": "N41",
@@ -46,7 +28,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709346780000,
     "realtime": true,
-    "realtimeDepartureTime": 1709346780000,
+    "realtimeDepartureTime": 1709346660000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -73,7 +55,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
+    "delayInMinutes": -2,
     "destination": "Am Hart",
     "divaId": "33N41",
     "label": "N41",
@@ -82,7 +64,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709347680000,
     "realtime": true,
-    "realtimeDepartureTime": 1709347680000,
+    "realtimeDepartureTime": 1709347560000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -359,5 +341,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Petuelring U",
+    "divaId": "03178",
+    "label": "178",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1709352780000,
+    "realtime": false,
+    "realtimeDepartureTime": 1709352780000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

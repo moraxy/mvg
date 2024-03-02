@@ -252,6 +252,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Karlsplatz (Stachus)",
     "divaId": "33N41",
     "label": "N41",
@@ -259,7 +260,7 @@
     "network": "swm",
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709351040000,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1709351040000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",

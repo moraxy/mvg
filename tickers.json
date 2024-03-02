@@ -324,6 +324,157 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-02T18:30:00Z",
+      "toDate": "2024-03-02T19:15:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 16 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "d842295f-8af6-42ea-9743-304a8fd7385e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-02T18:30:00Z",
+        "toDate": "2024-03-02T19:15:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-02T18:51:28Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 16 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T08:36:00Z",
       "toDate": "2024-06-09T21:59:00Z"
     },
@@ -688,325 +839,6 @@
     "modificationDate": "2024-02-21T06:34:42Z",
     "text": "Bis vsl. Sonntag, 9. Juni 2024 werden die Tramlinien 16 und 17 zwischen Karlsplatz (Stachus) und Romanplatz durch Busse ersetzt. Der Abschnitt Romanplatz - Amalienburgstra&szlig;e wird von der Tram 12 bedient. Die NachtTram N17 wird zwischen Karlsplatz (Stachus) und Amalienburgstra&szlig;e durch Busse ersetzt.<br/>\n&nbsp;<br/>\nDurch erh&ouml;hte Staugefahr im Baustellenbereich kann es zu Fahrplanabweichungen bei den Ersatzbussen kommen.<br/>\n&nbsp;<br/>\nDie Busse halten in unmittelbarer N&auml;he der Tramhaltestellen am rechten Fahrbahnrand. Bitte beachten Sie die Informationen an Ihrer Haltestelle sowie auf der <strong><a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\">Sonderseite mvg.de/trambau</a></strong>.<br/>\r\n\r\n",
     "title": "Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten im Bereich Romanplatz / Arnulfstraße",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-02T18:17:00Z",
-      "toDate": "2024-03-02T18:50:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien 183 und 184 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 19:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "16c7718c-15ea-48b1-be7d-ae505a65747c",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-02T18:17:00Z",
-        "toDate": "2024-03-02T18:50:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "183",
-        "name": "183",
-        "stations": [
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:814",
-            "name": "Paul-Henri-Spaak-Straße"
-          },
-          {
-            "id": "de:09162:815",
-            "name": "An der Point"
-          },
-          {
-            "id": "de:09162:805",
-            "name": "Martin-Empl-Ring"
-          },
-          {
-            "id": "de:09162:811",
-            "name": "Graf-Lehndorff-Straße"
-          },
-          {
-            "id": "de:09162:825",
-            "name": "Riemer Straße"
-          },
-          {
-            "id": "de:09162:810",
-            "name": "Tierheim"
-          },
-          {
-            "id": "de:09162:731",
-            "name": "Rennbahnstraße"
-          },
-          {
-            "id": "de:09162:703",
-            "name": "Trabrennbahn"
-          },
-          {
-            "id": "de:09162:702",
-            "name": "Schichtlstraße"
-          },
-          {
-            "id": "de:09162:725",
-            "name": "Kunihohstraße"
-          },
-          {
-            "id": "de:09162:704",
-            "name": "Daglfing Bf. Ost"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:608",
-            "name": "Posener Platz"
-          },
-          {
-            "id": "de:09162:607",
-            "name": "Zoppoter Straße"
-          },
-          {
-            "id": "de:09162:606",
-            "name": "Memeler Straße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "183",
-        "name": "183",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:606",
-            "name": "Memeler Straße"
-          },
-          {
-            "id": "de:09162:607",
-            "name": "Zoppoter Straße"
-          },
-          {
-            "id": "de:09162:608",
-            "name": "Posener Platz"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:704",
-            "name": "Daglfing Bf. Ost"
-          },
-          {
-            "id": "de:09162:725",
-            "name": "Kunihohstraße"
-          },
-          {
-            "id": "de:09162:702",
-            "name": "Schichtlstraße"
-          },
-          {
-            "id": "de:09162:703",
-            "name": "Trabrennbahn"
-          },
-          {
-            "id": "de:09162:731",
-            "name": "Rennbahnstraße"
-          },
-          {
-            "id": "de:09162:810",
-            "name": "Tierheim"
-          },
-          {
-            "id": "de:09162:825",
-            "name": "Riemer Straße"
-          },
-          {
-            "id": "de:09162:811",
-            "name": "Graf-Lehndorff-Straße"
-          },
-          {
-            "id": "de:09162:815",
-            "name": "An der Point"
-          },
-          {
-            "id": "de:09162:814",
-            "name": "Paul-Henri-Spaak-Straße"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "184",
-        "name": "184",
-        "stations": [
-          {
-            "id": "de:09162:636",
-            "name": "Bruno-Walter-Ring"
-          },
-          {
-            "id": "de:09162:635",
-            "name": "Knappertsbuschstraße"
-          },
-          {
-            "id": "de:09162:604",
-            "name": "Freischützstraße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "184",
-        "name": "184",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:604",
-            "name": "Freischützstraße"
-          },
-          {
-            "id": "de:09162:635",
-            "name": "Knappertsbuschstraße"
-          },
-          {
-            "id": "de:09162:636",
-            "name": "Bruno-Walter-Ring"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-02T18:40:21Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien 183 und 184 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 19:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

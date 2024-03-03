@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 1,
-    "destination": "Studentenstadt",
-    "divaId": "03177",
-    "label": "177",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1709452560000,
-    "realtime": true,
-    "realtimeDepartureTime": 1709452620000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:1:1",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Hohenzollernplatz",
     "divaId": "010U2",
@@ -42,7 +24,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 1,
+    "delayInMinutes": 0,
     "destination": "OEZ Dessauerstraße",
     "divaId": "03050",
     "label": "50",
@@ -51,7 +33,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709453040000,
     "realtime": true,
-    "realtimeDepartureTime": 1709453100000,
+    "realtimeDepartureTime": 1709453040000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:2:2",
     "trainType": "",
@@ -382,5 +364,23 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "OEZ Dessauerstraße",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1709455440000,
+    "realtime": true,
+    "realtimeDepartureTime": 1709455440000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

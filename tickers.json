@@ -692,6 +692,117 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-03T20:28:00Z",
+      "toDate": "2024-03-03T21:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie 166 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 22:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "75daf284-c63a-4149-b4f8-a8c471cd7603",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-03T20:28:00Z",
+        "toDate": "2024-03-03T21:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1441",
+            "name": "Maxhofstraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1436",
+            "name": "Tischlerstraße"
+          },
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          },
+          {
+            "id": "de:09162:1454",
+            "name": "Appenzeller Straße"
+          },
+          {
+            "id": "de:09162:1452",
+            "name": "Tessiner Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-03T20:29:20Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie 166 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 22:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-15T23:01:00Z",
       "toDate": "2024-04-14T21:59:00Z"
     },

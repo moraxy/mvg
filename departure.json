@@ -2,29 +2,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "Hohenzollernplatz",
-    "divaId": "010U2",
-    "label": "U2",
-    "messages": [
-      "Fährt nur bis Scheidplatz"
-    ],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1709427600000,
-    "platform": 2,
-    "platformChanged": false,
-    "realtime": true,
-    "realtimeDepartureTime": 1709427600000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:51:52",
-    "trainType": "",
-    "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 4,
+    "delayInMinutes": 3,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
     "label": "N41",
@@ -33,7 +11,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709427780000,
     "realtime": true,
-    "realtimeDepartureTime": 1709428020000,
+    "realtimeDepartureTime": 1709427960000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -60,7 +38,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
+    "delayInMinutes": 1,
     "destination": "Am Hart",
     "divaId": "33N41",
     "label": "N41",
@@ -69,7 +47,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1709428680000,
     "realtime": true,
-    "realtimeDepartureTime": 1709428680000,
+    "realtimeDepartureTime": 1709428740000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -358,5 +336,24 @@
     "stopPointGlobalId": "de:09162:750:3:3",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Hohenzollernplatz",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1709435700000,
+    "platform": 2,
+    "platformChanged": false,
+    "realtime": false,
+    "realtimeDepartureTime": 1709435700000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:52",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

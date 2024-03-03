@@ -2,6 +2,24 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 8,
+    "destination": "Petuelring",
+    "divaId": "03178",
+    "label": "178",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1709453580000,
+    "realtime": true,
+    "realtimeDepartureTime": 1709454060000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Hohenzollernplatz",
     "divaId": "010U2",
@@ -364,23 +382,5 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "OEZ Dessauerstraße",
-    "divaId": "03050",
-    "label": "50",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1709456640000,
-    "realtime": true,
-    "realtimeDepartureTime": 1709456640000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:2:2",
-    "trainType": "",
-    "transportType": "BUS"
   }
 ]

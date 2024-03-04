@@ -17491,6 +17491,247 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-02-26T23:01:00Z",
+      "toDate": "2024-03-27T22:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "b9c3f4f9-25a7-4a79-bf26-fc3b73162122_378986003",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten am Bahn&uuml;bergang Daglfinger Stra&szlig;e wird die Buslinie 183 von Dienstag, 26. M&auml;rz ca. 22:00 Uhr bis vsl. Mittwoch, 27. M&auml;rz 2024 zwischen Hermann-Gmeiner-Weg und Rennbahnstra&szlig;e via Friedrich-Eckart-Stra&szlig;e und Zamdorf Siedlung umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Hermann-Gmeiner-Weg ist in Richtung Messestadt West zur Haltestelle der Buslinie 185 &gt; Iltisstra&szlig;e verlegt, in Richtung Arabellapark wird eine Ersatzhaltestelle in der Ostpreu&szlig;enstra&szlig;e eingerichtet. Die (H) Marienburger Stra&szlig;e, Daglfing Bf., Kunihohstra&szlig;e, Schichtlstra&szlig;e und Trabrennbahn k&ouml;nnen nicht bedient werden.</div>\r\n",
+    "id": "b9c3f4f9-25a7-4a79-bf26-fc3b73162122",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-25T23:01:00Z",
+        "toDate": "2024-03-27T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "183",
+        "name": "183",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
+          },
+          {
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
+          },
+          {
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
+          },
+          {
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:608",
+            "name": "Posener Platz"
+          },
+          {
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
+          },
+          {
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "183",
+        "name": "183",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
+          },
+          {
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
+          },
+          {
+            "id": "de:09162:608",
+            "name": "Posener Platz"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
+          },
+          {
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
+          },
+          {
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
+          },
+          {
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-04T05:47:00Z",
+    "text": "<div>Wegen Bauarbeiten am Bahn&uuml;bergang Daglfinger Stra&szlig;e wird die Buslinie 183 von Dienstag, 26. M&auml;rz ca. 22:00 Uhr bis vsl. Mittwoch, 27. M&auml;rz 2024 zwischen Hermann-Gmeiner-Weg und Rennbahnstra&szlig;e via Friedrich-Eckart-Stra&szlig;e und Zamdorf Siedlung umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Hermann-Gmeiner-Weg ist in Richtung Messestadt West zur Haltestelle der Buslinie 185 &gt; Iltisstra&szlig;e verlegt, in Richtung Arabellapark wird eine Ersatzhaltestelle in der Ostpreu&szlig;enstra&szlig;e eingerichtet. Die (H) Marienburger Stra&szlig;e, Daglfing Bf., Kunihohstra&szlig;e, Schichtlstra&szlig;e und Trabrennbahn k&ouml;nnen nicht bedient werden.</div>\r\n",
+    "title": "Hermann-Gmeiner-Weg <> Rennbahnstraße: Umleitung wegen Bauarbeiten am Bahnübergang Daglfinger Straße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-22T23:01:00Z",
       "toDate": "2024-10-25T21:59:00Z"
     },

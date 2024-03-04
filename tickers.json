@@ -373,7 +373,7 @@
       "toDate": "2024-03-04T19:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 149, 155, 178, 191 und 59 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "9b41d760-6374-4f2c-8ec2-ff1841b33a0d",
     "incidentDuration": [
       {
@@ -383,6 +383,490 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "59",
+        "name": "59",
+        "stations": [
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1064",
+            "name": "Langbürgener Straße"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1027",
+            "name": "Aschheimer Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:921",
+            "name": "Mühldorfstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:663",
+            "name": "Zaubzerstraße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:511",
+            "name": "Osterwaldstraße"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:109",
+            "name": "Friedrichstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:294",
+            "name": "Ackermannbogen"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "59",
+        "name": "59",
+        "stations": [
+          {
+            "id": "de:09162:294",
+            "name": "Ackermannbogen"
+          },
+          {
+            "id": "de:09162:293",
+            "name": "Georg-Birk-Straße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:452",
+            "name": "Pündterplatz"
+          },
+          {
+            "id": "de:09162:455",
+            "name": "Bismarckstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:511",
+            "name": "Osterwaldstraße"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:663",
+            "name": "Zaubzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:921",
+            "name": "Mühldorfstraße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:1027",
+            "name": "Aschheimer Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1064",
+            "name": "Langbürgener Straße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "149",
+        "name": "149",
+        "stations": [
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          },
+          {
+            "id": "de:09162:657",
+            "name": "Ruth-Schaumann-Straße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "149",
+        "name": "149",
+        "stations": [
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:646",
+            "name": "Riedenburger Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "155",
+        "name": "155",
+        "stations": [
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:892",
+            "name": "Ostbahnhof (Bildungszentrum)"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1004",
+            "name": "Hechtseestraße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1037",
+            "name": "Hofangerstraße"
+          },
+          {
+            "id": "de:09162:1038",
+            "name": "Emdenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "155",
+        "name": "155",
+        "stations": [
+          {
+            "id": "de:09162:1038",
+            "name": "Emdenstraße"
+          },
+          {
+            "id": "de:09162:1037",
+            "name": "Hofangerstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1004",
+            "name": "Hechtseestraße"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "2",
         "id": "178",
@@ -566,11 +1050,163 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "191",
+        "name": "191",
+        "stations": [
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          },
+          {
+            "id": "de:09162:657",
+            "name": "Ruth-Schaumann-Straße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:161",
+            "name": "St.-Cajetan-Straße"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "191",
+        "name": "191",
+        "stations": [
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-04T10:34:10Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-03-04T12:15:52Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 149, 155, 178, 191 und 59 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

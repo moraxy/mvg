@@ -373,7 +373,7 @@
       "toDate": "2024-03-05T05:16:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Siegmannstraße kommt es auf der Linie 56 in Richtung Schloss Blutenburg derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 06:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 56 in Richtung Fürstenried West                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "id": "f96d3fd8-2927-415c-b09d-b2fd0b92247e",
     "incidentDuration": [
       {
@@ -384,136 +384,132 @@
     "incidents": [],
     "lines": [
       {
-        "direction": "2",
+        "direction": "1",
         "id": "56",
         "name": "56",
         "stations": [
           {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1437",
-            "name": "Bellinzonastraße"
-          },
-          {
-            "id": "de:09162:1434",
-            "name": "Ehrenmal"
-          },
-          {
-            "id": "de:09162:1432",
-            "name": "Zöllerstraße"
-          },
-          {
-            "id": "de:09162:1426",
-            "name": "Max-Lebsche-Platz"
-          },
-          {
-            "id": "de:09162:1472",
-            "name": "Klinikum Großhadern Ost"
-          },
-          {
-            "id": "de:09162:1424",
-            "name": "Marchioninistraße"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1534",
-            "name": "Am Ährenfeld"
-          },
-          {
-            "id": "de:09162:1536",
-            "name": "Haderunstraße"
-          },
-          {
-            "id": "de:09162:1538",
-            "name": "Krokusstraße"
-          },
-          {
-            "id": "de:09162:1542",
-            "name": "Terofalstraße"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1632",
-            "name": "Seeholzenweg"
-          },
-          {
-            "id": "de:09162:1633",
-            "name": "Perlschneiderstraße"
-          },
-          {
-            "id": "de:09162:1628",
-            "name": "Siegmannstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1801",
-            "name": "Marschnerstraße"
-          },
-          {
-            "id": "de:09162:1802",
-            "name": "Rubensstraße"
-          },
-          {
-            "id": "de:09162:1803",
-            "name": "Polkostraße"
-          },
-          {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
-          },
-          {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
           },
           {
             "id": "de:09162:1806",
             "name": "Bertha-von-Suttner-Weg"
           },
           {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
           },
           {
-            "id": "de:09162:1812",
-            "name": "Schloss Blutenburg"
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
+          },
+          {
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
+          },
+          {
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1622",
+            "name": "Pasinger Marienplatz"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
+          },
+          {
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
+          },
+          {
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
+          },
+          {
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
+          },
+          {
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
+          },
+          {
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
+          },
+          {
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
+          },
+          {
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
+          },
+          {
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-05T04:18:13Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Siegmannstraße kommt es auf der Linie 56 in Richtung Schloss Blutenburg derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 06:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-03-05T04:30:14Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 56 in Richtung Fürstenried West                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {
     "activeDuration": {
       "fromDate": "2024-03-05T04:25:00Z",
-      "toDate": "2024-03-05T05:25:00Z"
+      "toDate": "2024-03-05T04:45:00Z"
     },
     "downloadLinks": [],
     "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 196 in Richtung Neuperlach Süd                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
@@ -521,7 +517,7 @@
     "incidentDuration": [
       {
         "fromDate": "2024-03-05T04:25:00Z",
-        "toDate": "2024-03-05T05:25:00Z"
+        "toDate": "2024-03-05T04:45:00Z"
       }
     ],
     "incidents": [],
@@ -596,7 +592,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-05T04:26:54Z",
+    "modificationDate": "2024-03-05T04:29:08Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 196 in Richtung Neuperlach Süd                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"

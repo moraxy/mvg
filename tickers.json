@@ -464,6 +464,189 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-05T04:32:00Z",
+      "toDate": "2024-03-05T09:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 10:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <ul>\n<li>Ausfall U5:</li>\n<li>Ab <strong>Neuperlach S&uuml;d</strong>&nbsp;in Richtung&nbsp; Laimer Platz</li>\n<li>05:58, 06:08, 06:48, 07:08, 07:18, 07:58, 08:18, 08:28,&nbsp; 09:08, 09:28, 09:38</li>\n<li>Ab <strong>Laimer Platz</strong> in Richtung Neuperlach S&uuml;d:</li>\n<li>06:06, 06:30, 06:40, 07:20, 07:40, 07:50, 08:30, 08:50, 09:00, 09:40</li>\n</ul><br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/> Ihre MVG ",
+    "id": "78cc6637-8add-4df3-8380-189c1a689417",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-05T04:32:00Z",
+        "toDate": "2024-03-05T09:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-05T04:56:33Z",
+    "text": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 10:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <ul>\n<li>Ausfall U5:</li>\n<li>Ab <strong>Neuperlach S&uuml;d</strong>&nbsp;in Richtung&nbsp; Laimer Platz</li>\n<li>05:58, 06:08, 06:48, 07:08, 07:18, 07:58, 08:18, 08:28,&nbsp; 09:08, 09:28, 09:38</li>\n<li>Ab <strong>Laimer Platz</strong> in Richtung Neuperlach S&uuml;d:</li>\n<li>06:06, 06:30, 06:40, 07:20, 07:40, 07:50, 08:30, 08:50, 09:00, 09:40</li>\n</ul><br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/> Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-20T08:36:00Z",
       "toDate": "2024-06-09T21:59:00Z"
     },
@@ -828,6 +1011,105 @@
     "modificationDate": "2024-02-21T06:34:42Z",
     "text": "Bis vsl. Sonntag, 9. Juni 2024 werden die Tramlinien 16 und 17 zwischen Karlsplatz (Stachus) und Romanplatz durch Busse ersetzt. Der Abschnitt Romanplatz - Amalienburgstra&szlig;e wird von der Tram 12 bedient. Die NachtTram N17 wird zwischen Karlsplatz (Stachus) und Amalienburgstra&szlig;e durch Busse ersetzt.<br/>\n&nbsp;<br/>\nDurch erh&ouml;hte Staugefahr im Baustellenbereich kann es zu Fahrplanabweichungen bei den Ersatzbussen kommen.<br/>\n&nbsp;<br/>\nDie Busse halten in unmittelbarer N&auml;he der Tramhaltestellen am rechten Fahrbahnrand. Bitte beachten Sie die Informationen an Ihrer Haltestelle sowie auf der <strong><a href=\"https://www.mvg.de/trambau\" target=\"_blank\" rel=\"noopener\">Sonderseite mvg.de/trambau</a></strong>.<br/>\r\n\r\n",
     "title": "Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten im Bereich Romanplatz / Arnulfstraße",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-05T04:55:00Z",
+      "toDate": "2024-03-05T05:55:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 20 in Richtung Moosach Bf.                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "e78846cc-299d-4245-8969-1eaa6c772fa7",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-05T04:55:00Z",
+        "toDate": "2024-03-05T05:55:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "20",
+        "name": "20",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-05T04:57:11Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 20 in Richtung Moosach Bf.                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Betriebsstörung",
     "type": "DISRUPTION"
   },
   {

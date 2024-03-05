@@ -1,16 +1,16 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-03-05T22:27:00Z",
-      "toDate": "2024-03-05T23:27:00Z"
+      "fromDate": "2024-03-05T22:39:00Z",
+      "toDate": "2024-03-05T23:39:00Z"
     },
     "downloadLinks": [],
     "htmlText": "Liebe Fahrgäste,<br/>wegen eines erkrankten Fahrgastes kommt es auf der Linie U6 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
-    "id": "5af820a6-3f75-4efd-a991-015bb0b931ba",
+    "id": "cf7607d9-afe2-490c-bdd6-755db831ba1e",
     "incidentDuration": [
       {
-        "fromDate": "2024-03-05T22:27:00Z",
-        "toDate": "2024-03-05T23:27:00Z"
+        "fromDate": "2024-03-05T22:39:00Z",
+        "toDate": "2024-03-05T23:39:00Z"
       }
     ],
     "incidents": [],
@@ -241,7 +241,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-05T22:27:41Z",
+    "modificationDate": "2024-03-05T22:39:39Z",
     "text": "Liebe Fahrgäste,<br/>wegen eines erkrankten Fahrgastes kommt es auf der Linie U6 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen eines erkrankten Fahrgastes",
     "type": "DISRUPTION"
@@ -1053,251 +1053,6 @@
     "modificationDate": "2024-02-20T07:56:06Z",
     "text": "<div>Wegen Sanierungsarbeiten am Hohenzollernplatz wird die U2 von Freitag, 15. M&auml;rz ca. 22:30 Uhr bis Sonntag, 17. M&auml;rz sowie von Freitag, 12. April ca. 22:30 Uhr bis Sonntag, 14. April 2024 am Scheidplatz geteilt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum.<br/>&nbsp;<br/>Die Z&uuml;ge der U2 fahren im 10-Minuten-Takt zwischen Feldmoching und Scheidplatz sowie zwischen Scheidplatz, Hauptbahnhof und Messestadt Ost. Zur Weiterfahrt m&uuml;ssen Sie in beiden Fahrtrichtungen am Scheidplatz &uuml;ber das Zwischengeschoss umsteigen.<br/>&nbsp;<br/>Weitere Informationen finden Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie in der Fahrplanauskunft auf mvg.de sowie unserer App MVGO.</div>",
     "title": "Linienteilung der U2 am Scheidplatz, U8 fährt nur Hauptbahnhof <> Neuperlach Zentrum",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-04T23:01:00Z",
-      "toDate": "2024-03-19T22:59:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "5a94a2f3-77f6-4088-ab62-8dacfb7df46d_-218358550",
-        "mimeType": "application/pdf",
-        "name": "Sonderfahrplan U3"
-      }
-    ],
-    "htmlText": "<div>Wegen der Erneuerung der Schienen zwischen Thalkirchen (Tierpark) und Obersendling wird die U3 von Montag, 26. Februar bis vsl. Dienstag, 19. M&auml;rz 2024 <strong>in den N&auml;chten Montag/Dienstag bis Donnerstag/Freitag von ca. 22:30 bis 05:00 Uhr des Folgetags</strong> am U-Bahnhof Implerstra&szlig;e geteilt.<br/>&nbsp;<br/>Die aus Moosach bzw. der Innenstadt kommenden Z&uuml;ge fahren ab Implerstra&szlig;e weiter zum Harras und enden dort.<br/>&nbsp;<br/>Zur Weiterfahrt m&uuml;ssen Sie in beiden Richtungen an der Implerstra&szlig;e umsteigen. Der Umstieg erfolgt dort jeweils auf dem selben Bahnsteig. Bitte achten Sie auf die Durchsagen und Zugzielanzeigen.</div>",
-    "id": "5a94a2f3-77f6-4088-ab62-8dacfb7df46d",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-02-25T23:01:00Z",
-        "toDate": "2024-03-19T22:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "3",
-        "name": "U3",
-        "stations": [
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1490",
-            "name": "Basler Straße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1440",
-            "name": "Thalkirchen (Tierpark)"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:410",
-            "name": "Bonner Platz"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:370",
-            "name": "Moosacher St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "3",
-        "name": "U3",
-        "stations": [
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          },
-          {
-            "id": "de:09162:370",
-            "name": "Moosacher St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:410",
-            "name": "Bonner Platz"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1440",
-            "name": "Thalkirchen (Tierpark)"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1490",
-            "name": "Basler Straße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-05T21:29:27Z",
-    "text": "<div>Wegen der Erneuerung der Schienen zwischen Thalkirchen (Tierpark) und Obersendling wird die U3 von Montag, 26. Februar bis vsl. Dienstag, 19. M&auml;rz 2024 <strong>in den N&auml;chten Montag/Dienstag bis Donnerstag/Freitag von ca. 22:30 bis 05:00 Uhr des Folgetags</strong> am U-Bahnhof Implerstra&szlig;e geteilt.<br/>&nbsp;<br/>Die aus Moosach bzw. der Innenstadt kommenden Z&uuml;ge fahren ab Implerstra&szlig;e weiter zum Harras und enden dort.<br/>&nbsp;<br/>Zur Weiterfahrt m&uuml;ssen Sie in beiden Richtungen an der Implerstra&szlig;e umsteigen. Der Umstieg erfolgt dort jeweils auf dem selben Bahnsteig. Bitte achten Sie auf die Durchsagen und Zugzielanzeigen.</div>",
-    "title": "Linienteilung ab ca. 22:30 Uhr am U-Bf. Implerstraße wegen Schienenerneuerung",
     "type": "PLANNED"
   },
   {

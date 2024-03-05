@@ -2365,7 +2365,7 @@
         "name": "Linienführung Ersatzbus 12"
       }
     ],
-    "htmlText": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e werden die Tramlinien 12 und 28 noch bis vsl. Montag, 11. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Der Ersatzbus 12 f&auml;hrt an der (H) Scheidplatz vom Haltepunkt 4 ab. An der (H) Kurf&uuml;rstenplatz halten die Busse vor dem Eiscafe Venezia (Kurf&uuml;rstenplatz 6-8), die (H) Karl-Theodor-Stra&szlig;e ist beidseitig an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div><strong>Betriebskonzept Tram 12/28 bis Sonntag, 3. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz und weiter als Tram 28 via Pinakotheken zum Sendlinger Tor.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz und weiter als Tram 12 via Leonrodplatz und Romanplatz zur Amalienburgstra&szlig;e.</li>\n</ul>\n<div><strong>Betriebskonzept Tram 12/28 von Montag, 4. M&auml;rz bis vsl. Montag, 11. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz - Karolinenplatz.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz - Nordbad - Petuelring.</li>\n</ul>\r\n",
+    "htmlText": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e werden die Tramlinien 12 und 28 noch bis vsl. Montag, 11. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> bedient den Linienweg Amalienburgstra&szlig;e - Romanplatz - Rotkreuzplatz - Leonrodplatz - Nordbad - Kurf&uuml;rstenplatz - Pinakotheken - Karolinenplatz.</li>\n<li>Die <strong>Tram 28</strong> f&auml;hrt auf dem Linienweg der Tram 27 Sendlinger Tor - Karlsplatz (Stachus) - Pinakotheken - Kurf&uuml;rstenplatz - Nordbad - Petuelring.</li>\n<li>Der <strong>Ersatzbus 12</strong> f&auml;hrt zwischen Scheidplatz und Kurf&uuml;rstenplatz. An der (H) Scheidplatz fahren die Busse vom Haltepunkt 4 ab, die (H) Kurf&uuml;rstenplatz befindet sich an der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e (vor dem Eiscafe Venezia).</li>\n</ul>\n<div>Ab vsl. Dienstag, 12. M&auml;rz 2024 fahren die Tramlinien 12 und 28 wieder auf ihrem regul&auml;ren Linienweg bis/ab Scheidplatz.</div>\r\n",
     "id": "12eff4b4-9778-4e53-bfd6-63a4c637c9a5",
     "incidentDuration": [
       {
@@ -2455,6 +2455,18 @@
           {
             "id": "de:09162:43",
             "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -2465,8 +2477,16 @@
         "name": "12",
         "stations": [
           {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
           },
           {
             "id": "de:09162:43",
@@ -2553,6 +2573,18 @@
         "name": "28",
         "stations": [
           {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
             "id": "de:09162:43",
             "name": "Kurfürstenplatz"
           },
@@ -2593,8 +2625,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-02-23T10:36:03Z",
-    "text": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e werden die Tramlinien 12 und 28 noch bis vsl. Montag, 11. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Der Ersatzbus 12 f&auml;hrt an der (H) Scheidplatz vom Haltepunkt 4 ab. An der (H) Kurf&uuml;rstenplatz halten die Busse vor dem Eiscafe Venezia (Kurf&uuml;rstenplatz 6-8), die (H) Karl-Theodor-Stra&szlig;e ist beidseitig an den rechten Fahrbahnrand verlegt.</div>\n<div>&nbsp;</div>\n<div><strong>Betriebskonzept Tram 12/28 bis Sonntag, 3. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz und weiter als Tram 28 via Pinakotheken zum Sendlinger Tor.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz und weiter als Tram 12 via Leonrodplatz und Romanplatz zur Amalienburgstra&szlig;e.</li>\n</ul>\n<div><strong>Betriebskonzept Tram 12/28 von Montag, 4. M&auml;rz bis vsl. Montag, 11. M&auml;rz:</strong></div>\n<ul>\n<li>Die Tram 12 f&auml;hrt Amalienburgstra&szlig;e - Romanplatz - Leonrodplatz - Kurf&uuml;rstenplatz - Karolinenplatz.</li>\n<li>Die Tram 28 f&auml;hrt Sendlinger Tor - Pinakotheken - Kurf&uuml;rstenplatz - Nordbad - Petuelring.</li>\n</ul>\r\n",
+    "modificationDate": "2024-03-05T06:37:06Z",
+    "text": "<div>Wegen Verz&ouml;gerungen bei der Inbetriebnahme der Ampelanlage Belgrad- / Parzivalstra&szlig;e werden die Tramlinien 12 und 28 noch bis vsl. Montag, 11. M&auml;rz 2024 zwischen Scheidplatz und Kurf&uuml;rstenplatz durch Busse ersetzt.</div>\n<ul>\n<li>Die <strong>Tram 12</strong> bedient den Linienweg Amalienburgstra&szlig;e - Romanplatz - Rotkreuzplatz - Leonrodplatz - Nordbad - Kurf&uuml;rstenplatz - Pinakotheken - Karolinenplatz.</li>\n<li>Die <strong>Tram 28</strong> f&auml;hrt auf dem Linienweg der Tram 27 Sendlinger Tor - Karlsplatz (Stachus) - Pinakotheken - Kurf&uuml;rstenplatz - Nordbad - Petuelring.</li>\n<li>Der <strong>Ersatzbus 12</strong> f&auml;hrt zwischen Scheidplatz und Kurf&uuml;rstenplatz. An der (H) Scheidplatz fahren die Busse vom Haltepunkt 4 ab, die (H) Kurf&uuml;rstenplatz befindet sich an der Einm&uuml;ndung Kurf&uuml;rstenplatz / Hohenzollernstra&szlig;e (vor dem Eiscafe Venezia).</li>\n</ul>\n<div>Ab vsl. Dienstag, 12. M&auml;rz 2024 fahren die Tramlinien 12 und 28 wieder auf ihrem regul&auml;ren Linienweg bis/ab Scheidplatz.</div>\r\n",
     "title": "Scheidplatz <> Kurfürstenplatz: Ersatzverkehr mit Bussen (SEV) wegen Umbau der Ampelanlage am Scheidplatz",
     "type": "PLANNED"
   },

@@ -529,7 +529,7 @@
       "toDate": "2024-03-06T13:46:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Ampfingstraße kommt es auf der Linie 21 zwischen Haidenauplatz und St.-Veit-Straße derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie 21 fährt nur im Abschnitt Westfriedhof <> Haidenauplatz. <li>Die Haltestellen Ampfingstraße, Schlüsselbergstraße, Baumkirchner Straße, Mutschellestraße, Kreillerstraße und St.-Veit-Straße können leider nicht bedient werden.</li></li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Ampfingstraße kommt es auf der Linie 21 zwischen Haidenauplatz und St.-Veit-Straße derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 21 in Richtung Westfriedhof fährt nur im Abschnitt Max-Weber-Platz <> Westfriedhof. \t</li><li>Die Linie 21 in Richtung St.-Veit-Straße fährt nur im Abschnitt Westfriedhof <> Haidenauplatz. \t</li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "9bb1c13c-0213-403c-8661-6c9b3ec89d46",
     "incidentDuration": [
       {
@@ -539,126 +539,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "21",
-        "name": "21",
-        "stations": [
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:305",
-            "name": "Borstei"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:581",
-            "name": "Max-Weber-Platz (Johannispl.)"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
       {
         "direction": "2",
         "id": "21",
@@ -778,11 +658,131 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "21",
+        "name": "21",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-06T12:49:15Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Ampfingstraße kommt es auf der Linie 21 zwischen Haidenauplatz und St.-Veit-Straße derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie 21 fährt nur im Abschnitt Westfriedhof <> Haidenauplatz. <li>Die Haltestellen Ampfingstraße, Schlüsselbergstraße, Baumkirchner Straße, Mutschellestraße, Kreillerstraße und St.-Veit-Straße können leider nicht bedient werden.</li></li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-03-06T13:06:03Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Ampfingstraße kommt es auf der Linie 21 zwischen Haidenauplatz und St.-Veit-Straße derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 21 in Richtung Westfriedhof fährt nur im Abschnitt Max-Weber-Platz <> Westfriedhof. \t</li><li>Die Linie 21 in Richtung St.-Veit-Straße fährt nur im Abschnitt Westfriedhof <> Haidenauplatz. \t</li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Streckenunterbrechung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },

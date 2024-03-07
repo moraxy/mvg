@@ -5,7 +5,7 @@
       "toDate": "2024-03-07T16:12:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie U1 in Richtung Olympia-Einkaufszentrum                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien U1 und U7 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "id": "f85cd808-4c28-4827-b622-12f423d572b2",
     "incidentDuration": [
       {
@@ -15,6 +15,74 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
       {
         "direction": "2",
         "id": "1",
@@ -82,30 +150,7 @@
           }
         ],
         "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-07T15:16:06Z",
-    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie U1 in Richtung Olympia-Einkaufszentrum                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
-    "title": "Verspätungen nach einer bereits behobenen Störung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-07T14:58:00Z",
-      "toDate": "2024-03-07T15:58:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U7 sind noch bis voraussichtlich 17:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
-    "id": "a8b0a498-3049-4d9a-84d3-f5a5f43cc804",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-07T14:58:00Z",
-        "toDate": "2024-03-07T15:58:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
+      },
       {
         "direction": "2",
         "id": "7",
@@ -196,9 +241,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-07T14:58:53Z",
-    "text": "Liebe Fahrgäste, <br/>auf der Linie U7 sind noch bis voraussichtlich 17:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "modificationDate": "2024-03-07T15:21:25Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien U1 und U7 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
@@ -526,6 +571,349 @@
     "modificationDate": "2024-03-07T15:12:03Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 12 und 28 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 18:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-07T15:18:00Z",
+      "toDate": "2024-03-07T16:18:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Nordbad kommt es auf den Linien 12 und 27 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "eea0b15f-6d1e-4b54-9290-0e32759b5b43",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-07T15:18:00Z",
+        "toDate": "2024-03-07T16:18:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-07T15:20:35Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Nordbad kommt es auf den Linien 12 und 27 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Erhebliche Behinderungen wegen eines erkrankten Fahrgastes",
     "type": "DISRUPTION"
   },
   {

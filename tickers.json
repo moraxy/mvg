@@ -1,291 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-03-03T23:01:00Z",
-      "toDate": "2024-06-09T21:59:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "5a70780f-6b25-4e05-a558-743407b9c36c_-1249657538",
-        "mimeType": "image/jpeg",
-        "name": "Linienweg Ersatzbus 18"
-      }
-    ],
-    "htmlText": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
-    "id": "5a70780f-6b25-4e05-a558-743407b9c36c",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-10T23:01:00Z",
-        "toDate": "2024-06-09T21:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "18",
-        "name": "18",
-        "stations": [
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
-          },
-          {
-            "id": "de:09162:1106",
-            "name": "St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:41",
-            "name": "Eduard-Schmid-Straße"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1208",
-            "name": "Fachnerstraße"
-          },
-          {
-            "id": "de:09162:1212",
-            "name": "Säulingstraße"
-          },
-          {
-            "id": "de:09162:1213",
-            "name": "Stegener Weg"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1552",
-            "name": "Senftenauerstraße"
-          },
-          {
-            "id": "de:09162:1554",
-            "name": "Gondrellplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "18",
-        "name": "18",
-        "stations": [
-          {
-            "id": "de:09162:1554",
-            "name": "Gondrellplatz"
-          },
-          {
-            "id": "de:09162:1552",
-            "name": "Senftenauerstraße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1213",
-            "name": "Stegener Weg"
-          },
-          {
-            "id": "de:09162:1212",
-            "name": "Säulingstraße"
-          },
-          {
-            "id": "de:09162:1208",
-            "name": "Fachnerstraße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:41",
-            "name": "Eduard-Schmid-Straße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
-          },
-          {
-            "id": "de:09162:1106",
-            "name": "St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-05T09:22:34Z",
-    "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
-    "title": "Westendstraße <> Gondrellplatz: Ab Montag, 11. März Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-03-07T15:12:00Z",
       "toDate": "2024-03-07T22:25:00Z"
     },
@@ -300,6 +15,198 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
       {
         "direction": "1",
         "id": "21",
@@ -995,12 +902,821 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6448",
+            "name": "Germering, Kerschenst. Schule"
+          },
+          {
+            "id": "de:09179:6450",
+            "name": "Germering, Theodor-Heuss-Straße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6401",
+            "name": "Germering, Bf. West"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6471",
+            "name": "Germering, Kerschenst. Schule Ost"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-07T19:05:34Z",
+    "modificationDate": "2024-03-07T19:11:45Z",
     "text": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-03T23:01:00Z",
+      "toDate": "2024-06-09T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "5a70780f-6b25-4e05-a558-743407b9c36c_-1249657538",
+        "mimeType": "image/jpeg",
+        "name": "Linienweg Ersatzbus 18"
+      }
+    ],
+    "htmlText": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
+    "id": "5a70780f-6b25-4e05-a558-743407b9c36c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-10T23:01:00Z",
+        "toDate": "2024-06-09T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-05T09:22:34Z",
+    "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
+    "title": "Westendstraße <> Gondrellplatz: Ab Montag, 11. März Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
     "type": "DISRUPTION"
   },
   {

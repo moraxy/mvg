@@ -1,6 +1,268 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-01-11T23:01:00Z",
+      "toDate": "2024-03-10T22:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 10. M&auml;rz 2024 wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
+    "id": "748fc5e9-6b37-4d3c-8ae5-bf6b687933f1",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-01-25T23:01:00Z",
+        "toDate": "2024-03-10T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "8",
+        "name": "U8",
+        "stations": [],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-08T21:29:07Z",
+    "text": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 10. M&auml;rz 2024 wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
+    "title": "Unterbrechung der U2 zwischen Hauptbahnhof und Hohenzollernplatz, U8 nur Hauptbahnhof <> Neuperlach Zentrum",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-03T23:01:00Z",
       "toDate": "2024-06-09T21:59:00Z"
     },
@@ -283,268 +545,6 @@
     "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
     "title": "Westendstraße <> Gondrellplatz: Ab Montag, 11. März Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
     "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-01-11T23:01:00Z",
-      "toDate": "2024-03-10T22:59:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 10. M&auml;rz 2024 wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
-    "id": "748fc5e9-6b37-4d3c-8ae5-bf6b687933f1",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-01-25T23:01:00Z",
-        "toDate": "2024-03-10T22:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "8",
-        "name": "U8",
-        "stations": [],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-06T13:45:49Z",
-    "text": "<div>Von Freitag, 26. Januar bis vsl. Sonntag, 10. M&auml;rz 2024 wird die U2 jeweils von <strong>Freitag ca. 22:30 Uhr bis Sonntag Betriebsschluss</strong> zwischen Hauptbahnhof und Hohenzollernplatz unterbrochen.&nbsp;<br/>&nbsp;<br/><strong>Die Z&uuml;ge der U2 fahren Feldmoching &lt;&gt; Hohenzollernplatz und Hauptbahnhof &lt;&gt; Messestadt Ost im 10-Minuten-Takt. Die U8 f&auml;hrt nur im Abschnitt Hauptbahnhof &lt;&gt; Neuperlach Zentrum</strong><br/>&nbsp;<br/>Zur Umfahrung k&ouml;nnen Sie die U3 zwischen Sendlinger Tor, Marienplatz, M&uuml;nchner Freiheit und Scheidplatz nutzen. An den Sperrtagen wird die Tram 27 durch zus&auml;tzliche Fahrten auf dem gesamten Linienweg verst&auml;rkt.<br/>&nbsp;<br/>Die <strong>gesperrten</strong>&nbsp;<strong>Bahnh&ouml;fe K&ouml;nigsplatz, Theresienstra&szlig;e und Josephsplatz</strong> erreichen Sie mit folgenden Buslinien:</div>\n<ul>\n<li><strong>K&ouml;nigsplatz</strong>: Bus 58/68 ab Giselastra&szlig;e, Universit&auml;t und Hauptbahnhof Nord sowie Bus 100 ab Odeonsplatz und Hauptbahnhof Nord</li>\n<li><strong>Theresienstra&szlig;e</strong>: Tram 20/21 bis (H) Sandstra&szlig;e, Bus 58/68 und 100 bis (H) Technische Universit&auml;t oder Bus 153 / 154 bis (H) Augustenstra&szlig;e, von dort jeweils kurzer Fu&szlig;weg</li>\n<li><strong>Josephsplatz</strong>: Bus 153 ab Odeonsplatz, Universit&auml;t, Maillingerstra&szlig;e und Donnersbergerbr&uuml;cke sowie Bus 154 ab Giselastra&szlig;e und Universit&auml;t</li>\n</ul>\n<div>Detaillierte Informationen erhalten Sie auf der <a href=\"https://www.mvg.de/u2\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/u2</strong></a>. Die f&uuml;r Sie beste Verbindung erhalten Sie &uuml;ber die Fahrplanauskunft auf mvg.de sowie in unserer App MVGO.</div>",
-    "title": "Unterbrechung der U2 zwischen Hauptbahnhof und Hohenzollernplatz, U8 nur Hauptbahnhof <> Neuperlach Zentrum",
-    "type": "PLANNED"
   },
   {
     "activeDuration": {

@@ -286,6 +286,117 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-08T04:24:00Z",
+      "toDate": "2024-03-08T20:25:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "62c0c90e-3879-4b61-8b18-668dc9b3a82d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-08T04:24:00Z",
+        "toDate": "2024-03-08T20:25:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1441",
+            "name": "Maxhofstraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1436",
+            "name": "Tischlerstraße"
+          },
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          },
+          {
+            "id": "de:09162:1454",
+            "name": "Appenzeller Straße"
+          },
+          {
+            "id": "de:09162:1452",
+            "name": "Tessiner Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-08T04:26:58Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-01-11T23:01:00Z",
       "toDate": "2024-03-10T22:59:00Z"
     },

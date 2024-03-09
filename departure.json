@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": -1,
-    "destination": "Am Hart",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1709948880000,
-    "realtime": true,
-    "realtimeDepartureTime": 1709948820000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:4:4",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "destination": "Aidenbachstraße",
     "divaId": "33N41",
     "label": "N41",
@@ -287,6 +269,23 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "destination": "Karlsplatz (Stachus)",
+    "divaId": "33N41",
+    "label": "N41",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1709955840000,
+    "realtime": false,
+    "realtimeDepartureTime": 1709955840000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
     "destination": "Feldmoching",
     "divaId": "010U2",
     "label": "U2",
@@ -302,23 +301,6 @@
     "stopPointGlobalId": "de:09162:750:51:51",
     "trainType": "",
     "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "destination": "Karlsplatz (Stachus)",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1709955840000,
-    "realtime": false,
-    "realtimeDepartureTime": 1709955840000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
   },
   {
     "bannerHash": "",
@@ -356,5 +338,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Feldmoching Bf.",
+    "divaId": "33N41",
+    "label": "N41",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1709956980000,
+    "realtime": false,
+    "realtimeDepartureTime": 1709956980000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:4:4",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

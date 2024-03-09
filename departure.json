@@ -3,28 +3,6 @@
     "bannerHash": "",
     "cancelled": false,
     "delayInMinutes": 0,
-    "destination": "Hohenzollernplatz",
-    "divaId": "010U2",
-    "label": "U2",
-    "messages": [
-      "Fährt nur bis Scheidplatz"
-    ],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1710025860000,
-    "platform": 2,
-    "platformChanged": false,
-    "realtime": true,
-    "realtimeDepartureTime": 1710025860000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:51:52",
-    "trainType": "",
-    "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 0,
     "destination": "Petuelring",
     "divaId": "03178",
     "label": "178",
@@ -378,5 +356,27 @@
     "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Hohenzollernplatz",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [
+      "Fährt nur bis Scheidplatz"
+    ],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1710028860000,
+    "platform": 2,
+    "platformChanged": false,
+    "realtime": true,
+    "realtimeDepartureTime": 1710028860000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:52",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

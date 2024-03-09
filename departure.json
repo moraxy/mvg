@@ -2,28 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 1,
-    "destination": "Hohenzollernplatz",
-    "divaId": "010U2",
-    "label": "U2",
-    "messages": [
-      "Fährt nur bis Scheidplatz"
-    ],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1710019860000,
-    "platform": 2,
-    "platformChanged": false,
-    "realtime": true,
-    "realtimeDepartureTime": 1710019920000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:51:52",
-    "trainType": "",
-    "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 2,
     "destination": "Petuelring",
     "divaId": "03178",
@@ -380,6 +358,24 @@
     "realtimeDepartureTime": 1710022380000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Johanneskirchen Bf.",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1710022500000,
+    "realtime": true,
+    "realtimeDepartureTime": 1710022500000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
     "trainType": "",
     "transportType": "BUS"
   }

@@ -295,16 +295,19 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Hohenzollernplatz",
     "divaId": "010U2",
     "label": "U2",
-    "messages": [],
+    "messages": [
+      "Fährt nur bis Scheidplatz"
+    ],
     "network": "swm",
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1710045060000,
     "platform": 2,
     "platformChanged": false,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1710045060000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:52",

@@ -2,29 +2,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "Hohenzollernplatz",
-    "divaId": "010U2",
-    "label": "U2",
-    "messages": [
-      "Fährt nur bis Scheidplatz"
-    ],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1710032400000,
-    "platform": 2,
-    "platformChanged": false,
-    "realtime": true,
-    "realtimeDepartureTime": 1710032400000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:51:52",
-    "trainType": "",
-    "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 4,
+    "delayInMinutes": 2,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
     "label": "N41",
@@ -33,7 +11,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1710032580000,
     "realtime": true,
-    "realtimeDepartureTime": 1710032820000,
+    "realtimeDepartureTime": 1710032700000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -356,5 +334,24 @@
     "stopPointGlobalId": "de:09162:750:3:3",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Hohenzollernplatz",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1710040500000,
+    "platform": 2,
+    "platformChanged": false,
+    "realtime": false,
+    "realtimeDepartureTime": 1710040500000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:52",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

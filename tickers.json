@@ -5,7 +5,7 @@
       "toDate": "2024-03-11T13:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Maxmonument kommt es auf den Linien 16, 19 und 21 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Maxmonument kommt es auf den Linien 16, 19, 21 und 27 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "27255b61-13b6-4729-a574-e14ebb172080",
     "incidentDuration": [
       {
@@ -742,11 +742,139 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-11T11:18:42Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Maxmonument kommt es auf den Linien 16, 19 und 21 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-03-11T11:37:37Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Maxmonument kommt es auf den Linien 16, 19, 21 und 27 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },

@@ -5,7 +5,7 @@
       "toDate": "2024-03-11T10:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 11:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 11:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "id": "6b33ad5b-3353-4219-8822-113d1781593e",
     "incidentDuration": [
       {
@@ -297,9 +297,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-11T09:10:58Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 11:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer Stellwerkstörung",
+    "modificationDate": "2024-03-11T09:29:29Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 11:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
@@ -314,7 +314,7 @@
         "name": "Linienweg Ersatzbus 18"
       }
     ],
-    "htmlText": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
+    "htmlText": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
     "id": "5a70780f-6b25-4e05-a558-743407b9c36c",
     "incidentDuration": [
       {
@@ -424,30 +424,6 @@
           {
             "id": "de:09162:260",
             "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1208",
-            "name": "Fachnerstraße"
-          },
-          {
-            "id": "de:09162:1212",
-            "name": "Säulingstraße"
-          },
-          {
-            "id": "de:09162:1213",
-            "name": "Stegener Weg"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1552",
-            "name": "Senftenauerstraße"
-          },
-          {
-            "id": "de:09162:1554",
-            "name": "Gondrellplatz"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -457,30 +433,6 @@
         "id": "18",
         "name": "18",
         "stations": [
-          {
-            "id": "de:09162:1554",
-            "name": "Gondrellplatz"
-          },
-          {
-            "id": "de:09162:1552",
-            "name": "Senftenauerstraße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1213",
-            "name": "Stegener Weg"
-          },
-          {
-            "id": "de:09162:1212",
-            "name": "Säulingstraße"
-          },
-          {
-            "id": "de:09162:1208",
-            "name": "Fachnerstraße"
-          },
           {
             "id": "de:09162:260",
             "name": "Westendstraße"
@@ -582,9 +534,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-05T09:22:34Z",
-    "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 von Montag, 11. M&auml;rz bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
-    "title": "Westendstraße <> Gondrellplatz: Ab Montag, 11. März Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
+    "modificationDate": "2024-03-11T09:27:47Z",
+    "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
+    "title": "Westendstraße <> Gondrellplatz: Bis vsl. Sonntag, 9. Juni Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
     "type": "DISRUPTION"
   },
   {

@@ -2,79 +2,19 @@
   {
     "activeDuration": {
       "fromDate": "2024-03-11T07:25:00Z",
-      "toDate": "2024-03-11T08:30:00Z"
+      "toDate": "2024-03-11T08:25:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U4 fährt nur im Abschnitt Arabellapark bis Max-Weber-Platz. </li><li>Bitte weichen Sie unter anderem auf die Linie U5 aus. </li>  <li>Die Linie U5 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.</ul><br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "id": "6b33ad5b-3353-4219-8822-113d1781593e",
     "incidentDuration": [
       {
         "fromDate": "2024-03-11T07:25:00Z",
-        "toDate": "2024-03-11T08:30:00Z"
+        "toDate": "2024-03-11T08:25:00Z"
       }
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "2",
-        "id": "4",
-        "name": "U4",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:560",
-            "name": "Böhmerwaldplatz"
-          },
-          {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:590",
-            "name": "Lehel"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
       {
         "direction": "1",
         "id": "4",
@@ -131,6 +71,66 @@
           {
             "id": "de:09162:670",
             "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
           }
         ],
         "typeOfTransport": "METRO"
@@ -297,9 +297,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-11T08:06:07Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U4 fährt nur im Abschnitt Arabellapark bis Max-Weber-Platz. </li><li>Bitte weichen Sie unter anderem auf die Linie U5 aus. </li>  <li>Die Linie U5 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.</ul><br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Streckenunterbrechung wegen einer Stellwerkstörung",
+    "modificationDate": "2024-03-11T08:17:21Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U4 und U5. <br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {

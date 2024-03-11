@@ -2,7 +2,7 @@
   {
     "activeDuration": {
       "fromDate": "2024-03-11T13:48:00Z",
-      "toDate": "2024-03-11T14:48:00Z"
+      "toDate": "2024-03-11T15:00:00Z"
     },
     "downloadLinks": [],
     "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U6 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
@@ -10,7 +10,7 @@
     "incidentDuration": [
       {
         "fromDate": "2024-03-11T13:48:00Z",
-        "toDate": "2024-03-11T14:48:00Z"
+        "toDate": "2024-03-11T15:00:00Z"
       }
     ],
     "incidents": [],
@@ -241,7 +241,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-11T13:49:11Z",
+    "modificationDate": "2024-03-11T14:26:20Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U6 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
@@ -481,6 +481,269 @@
     "modificationDate": "2024-03-11T09:27:47Z",
     "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
     "title": "Westendstraße <> Gondrellplatz: Bis vsl. Sonntag, 9. Juni Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-11T14:24:00Z",
+      "toDate": "2024-03-11T19:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 21 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "95f44913-ef6c-4d35-b3d3-07d673d31866",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-11T14:24:00Z",
+        "toDate": "2024-03-11T19:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "21",
+        "name": "21",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "21",
+        "name": "21",
+        "stations": [
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:285",
+            "name": "Stadtwerke München"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-11T14:25:49Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 21 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
     "type": "DISRUPTION"
   },
   {

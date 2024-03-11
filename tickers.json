@@ -5,7 +5,7 @@
       "toDate": "2024-03-11T08:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung kommt es derzeit im Bereich Odeonsplatz zu Verspätungen zwischen Odeonsplatz und Laimer Platz auf der Linie U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 09:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung kommt es derzeit zwischen Odeonsplatz und Laimer Platz zu Verspätungen auf der Linie U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 09:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "id": "0c138222-fc06-4792-b847-f1e8763440ab",
     "incidentDuration": [
       {
@@ -97,9 +97,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-11T07:01:11Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung kommt es derzeit im Bereich Odeonsplatz zu Verspätungen zwischen Odeonsplatz und Laimer Platz auf der Linie U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 09:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen nach einer bereits behobenen Störung",
+    "modificationDate": "2024-03-11T07:07:17Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung kommt es derzeit zwischen Odeonsplatz und Laimer Platz zu Verspätungen auf der Linie U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 09:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen einer Stellwerkstörung",
     "type": "DISRUPTION"
   },
   {
@@ -19008,6 +19008,42 @@
     "modificationDate": "2024-02-27T09:11:51Z",
     "text": "<div>Wegen Bauarbeiten an der Wartehalle ist die (H) Spertentalstra&szlig;e der Buslinie 195 &gt; Am Hochacker - Neuperlach S&uuml;d von Montag, 11. M&auml;rz ca. 08:00 Uhr bis vsl. Montag, 18. M&auml;rz 2024 ca. 16:00 Uhr um die Ecke in die Gartenstadtstra&szlig;e verlegt.</div>\r\n",
     "title": "Haltestelle Spertentalstraße in Richtung Am Hochacker - Neuperlach Süd verlegt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-10T23:01:00Z",
+      "toDate": null
+    },
+    "downloadLinks": [
+      {
+        "id": "801b08a2-3f4a-49b8-87d4-0a1831dcd7e9_-1909711005",
+        "mimeType": "image/jpeg",
+        "name": "Fahrplanauszug Linie E"
+      }
+    ],
+    "htmlText": "<div>Ab Montag, 8. April 2024 werden die ersten beiden Verst&auml;rkerfahrten ab Eichelh&auml;herstra&szlig;e via Ubostra&szlig;e zum Bildungscampus Freiham um wenige Minuten nach vorne verlegt. Die ge&auml;nderten Aushangfahrpl&auml;ne werden rechtzeitig vor Schulbeginn an den Haltestellen sowie zum Download auf <a href=\"https://www.mvg.de/meinhalt\">mvg.de/meinhalt</a> zur Verf&uuml;gung gestellt.</div>\r\n",
+    "id": "801b08a2-3f4a-49b8-87d4-0a1831dcd7e9",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-07T22:01:00Z",
+        "toDate": null
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "800",
+        "name": "E",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-11T07:02:25Z",
+    "text": "<div>Ab Montag, 8. April 2024 werden die ersten beiden Verst&auml;rkerfahrten ab Eichelh&auml;herstra&szlig;e via Ubostra&szlig;e zum Bildungscampus Freiham um wenige Minuten nach vorne verlegt. Die ge&auml;nderten Aushangfahrpl&auml;ne werden rechtzeitig vor Schulbeginn an den Haltestellen sowie zum Download auf <a href=\"https://www.mvg.de/meinhalt\">mvg.de/meinhalt</a> zur Verf&uuml;gung gestellt.</div>\r\n",
+    "title": "Fahrplananpassung der Frühfahrten ab Eichelhäherstraße zum Bildungscampus Freiham",
     "type": "PLANNED"
   },
   {

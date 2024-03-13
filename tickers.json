@@ -5,7 +5,7 @@
       "toDate": "2024-03-13T09:21:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U5 in Richtung Neuperlach Süd fährt nur im Abschnitt Laimer Platz <> Odeonsplatz. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U5 in Richtung Neuperlach Süd fährt nur im Abschnitt Laimer Platz <> Odeonsplatz. \t</li><li>Die Linie U4 fährt nur im Abschnitt Max-Weber-Platz <> Arabellapark. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "f41e5465-d681-4af4-b91f-177dc21ed127",
     "incidentDuration": [
       {
@@ -15,6 +15,126 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
       {
         "direction": "1",
         "id": "5",
@@ -97,8 +217,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-13T08:31:28Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U5 in Richtung Neuperlach Süd fährt nur im Abschnitt Laimer Platz <> Odeonsplatz. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-03-13T08:37:14Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U5 in Richtung Neuperlach Süd fährt nur im Abschnitt Laimer Platz <> Odeonsplatz. \t</li><li>Die Linie U4 fährt nur im Abschnitt Max-Weber-Platz <> Arabellapark. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Beeinträchtigungen wegen eines Notarzteinsatzes",
     "type": "DISRUPTION"
   },
@@ -1632,298 +1752,6 @@
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "1",
-        "id": "132",
-        "name": "132",
-        "stations": [
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:165",
-            "name": "Schrannenhalle"
-          },
-          {
-            "id": "de:09162:26",
-            "name": "Isartor/Zweibrückenstraße"
-          },
-          {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
-          },
-          {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
-          },
-          {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
-          },
-          {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
-          },
-          {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
-          },
-          {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
-          },
-          {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
-          },
-          {
-            "id": "de:09162:1466",
-            "name": "Südpark"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
-          },
-          {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
-          },
-          {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "132",
-        "name": "132",
-        "stations": [
-          {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
-          },
-          {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
-          },
-          {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1466",
-            "name": "Südpark"
-          },
-          {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
-          },
-          {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
-          },
-          {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
-          },
-          {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1134",
-            "name": "Gotzinger Platz"
-          },
-          {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
-          },
-          {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
-          },
-          {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
-          },
-          {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
-          },
-          {
-            "id": "de:09162:122",
-            "name": "Ludwigsbrücke"
-          },
-          {
-            "id": "de:09162:3",
-            "name": "Isartor"
-          },
-          {
-            "id": "de:09162:93",
-            "name": "Tal"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "2",
         "id": "153",
         "name": "153",
@@ -2257,7 +2085,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-13T08:18:31Z",
+    "modificationDate": "2024-03-13T08:33:56Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 09:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

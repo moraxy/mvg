@@ -1,6 +1,469 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-14T15:03:00Z",
+      "toDate": "2024-03-14T16:03:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf den Linien U3 und U6 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "b2b9bfeb-20fe-442c-94b7-66c9d91f3d94",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-14T15:03:00Z",
+        "toDate": "2024-03-14T16:03:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-14T15:04:19Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf den Linien U3 und U6 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-14T13:59:00Z",
       "toDate": "2024-03-14T16:00:00Z"
     },
@@ -449,485 +912,6 @@
     "modificationDate": "2024-03-11T09:27:47Z",
     "text": "<div>Wegen Gleisbauarbeiten f&uuml;r die Tram-Westtangente wird die Tram 18 bis vsl. Sonntag, 9. Juni 2024 zwischen Westendstra&szlig;e und Gondrellplatz durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Zwischen Gondrellplatz und Stegener Weg weicht der Linienweg der in Richtung Westendstra&szlig;e fahrenden Ersatzbusse erheblich von dem der Tram 18 ab. Bitte beachten Sie die Informationen an Ihrer Haltestelle.</div>\n<div>&nbsp;</div>\n<div>Detaillierte Informationen finden Sie auf unserer <a href=\"https://www.mvg.de/tram18\" target=\"_blank\" rel=\"noopener\"><strong>Sonderseite mvg.de/tram18</strong></a>.</div>\r\n",
     "title": "Westendstraße <> Gondrellplatz: Bis vsl. Sonntag, 9. Juni Ersatzverkehr mit Bussen (SEV) wegen Gleisbauarbeiten",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-14T14:03:00Z",
-      "toDate": "2024-03-14T15:03:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf den Linien 51 und 136 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
-    "id": "488b0df3-4f22-43aa-a78d-9c4b850429cb",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-14T14:03:00Z",
-        "toDate": "2024-03-14T15:03:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "51",
-        "name": "51",
-        "stations": [
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          },
-          {
-            "id": "de:09162:237",
-            "name": "Bunzlauer Platz"
-          },
-          {
-            "id": "de:09162:231",
-            "name": "Baubergerstraße"
-          },
-          {
-            "id": "de:09162:241",
-            "name": "Warschauer Straße"
-          },
-          {
-            "id": "de:09162:230",
-            "name": "Skagerrakstraße"
-          },
-          {
-            "id": "de:09162:239",
-            "name": "Nederlinger Straße (West)"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:227",
-            "name": "Hirschgartenallee"
-          },
-          {
-            "id": "de:09162:226",
-            "name": "Kemnatenstraße"
-          },
-          {
-            "id": "de:09162:225",
-            "name": "Herthastraße"
-          },
-          {
-            "id": "de:09162:238",
-            "name": "Winfriedstraße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1462",
-            "name": "Waldfriedhof Haupteingang"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1324",
-            "name": "Geisenhausenerstraße"
-          },
-          {
-            "id": "de:09162:1303",
-            "name": "Ratzingerplatz"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "51",
-        "name": "51",
-        "stations": [
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1303",
-            "name": "Ratzingerplatz"
-          },
-          {
-            "id": "de:09162:1324",
-            "name": "Geisenhausenerstraße"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1462",
-            "name": "Waldfriedhof Haupteingang"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:238",
-            "name": "Winfriedstraße"
-          },
-          {
-            "id": "de:09162:225",
-            "name": "Herthastraße"
-          },
-          {
-            "id": "de:09162:226",
-            "name": "Kemnatenstraße"
-          },
-          {
-            "id": "de:09162:227",
-            "name": "Hirschgartenallee"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:239",
-            "name": "Nederlinger Straße (West)"
-          },
-          {
-            "id": "de:09162:230",
-            "name": "Skagerrakstraße"
-          },
-          {
-            "id": "de:09162:241",
-            "name": "Warschauer Straße"
-          },
-          {
-            "id": "de:09162:231",
-            "name": "Baubergerstraße"
-          },
-          {
-            "id": "de:09162:237",
-            "name": "Bunzlauer Platz"
-          },
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "136",
-        "name": "136",
-        "stations": [
-          {
-            "id": "de:09162:1161",
-            "name": "Wolfratshauser Straße"
-          },
-          {
-            "id": "de:09162:1333",
-            "name": "Carola-Neher-Straße"
-          },
-          {
-            "id": "de:09162:1301",
-            "name": "Baierbrunner Straße"
-          },
-          {
-            "id": "de:09162:1310",
-            "name": "Siemenswerke"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1158",
-            "name": "Tölzer Straße"
-          },
-          {
-            "id": "de:09162:1361",
-            "name": "Geretsrieder Straße"
-          },
-          {
-            "id": "de:09162:1302",
-            "name": "Hofmannstraße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1337",
-            "name": "Kistlerhofstraße"
-          },
-          {
-            "id": "de:09162:1338",
-            "name": "Leutstettener Straße"
-          },
-          {
-            "id": "de:09162:1339",
-            "name": "Siemensallee"
-          },
-          {
-            "id": "de:09162:1341",
-            "name": "Münsinger Straße"
-          },
-          {
-            "id": "de:09162:1342",
-            "name": "Spindlerplatz"
-          },
-          {
-            "id": "de:09162:1334",
-            "name": "Fertigstraße"
-          },
-          {
-            "id": "de:09162:1332",
-            "name": "Weltistraße"
-          },
-          {
-            "id": "de:09162:1347",
-            "name": "Glötzleweg"
-          },
-          {
-            "id": "de:09162:1344",
-            "name": "Bastian-Schmid-Platz"
-          },
-          {
-            "id": "de:09162:1346",
-            "name": "Hofbrunnstraße"
-          },
-          {
-            "id": "de:09162:1353",
-            "name": "Allescherstraße"
-          },
-          {
-            "id": "de:09162:1318",
-            "name": "Diefenbachstraße"
-          },
-          {
-            "id": "de:09162:1320",
-            "name": "Solln Bf."
-          },
-          {
-            "id": "de:09162:1329",
-            "name": "Solln Bf. Wendeschleife"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "136",
-        "name": "136",
-        "stations": [
-          {
-            "id": "de:09162:1329",
-            "name": "Solln Bf. Wendeschleife"
-          },
-          {
-            "id": "de:09162:1320",
-            "name": "Solln Bf."
-          },
-          {
-            "id": "de:09162:1318",
-            "name": "Diefenbachstraße"
-          },
-          {
-            "id": "de:09162:1353",
-            "name": "Allescherstraße"
-          },
-          {
-            "id": "de:09162:1346",
-            "name": "Hofbrunnstraße"
-          },
-          {
-            "id": "de:09162:1344",
-            "name": "Bastian-Schmid-Platz"
-          },
-          {
-            "id": "de:09162:1347",
-            "name": "Glötzleweg"
-          },
-          {
-            "id": "de:09162:1332",
-            "name": "Weltistraße"
-          },
-          {
-            "id": "de:09162:1334",
-            "name": "Fertigstraße"
-          },
-          {
-            "id": "de:09162:1342",
-            "name": "Spindlerplatz"
-          },
-          {
-            "id": "de:09162:1341",
-            "name": "Münsinger Straße"
-          },
-          {
-            "id": "de:09162:1339",
-            "name": "Siemensallee"
-          },
-          {
-            "id": "de:09162:1338",
-            "name": "Leutstettener Straße"
-          },
-          {
-            "id": "de:09162:1337",
-            "name": "Kistlerhofstraße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1303",
-            "name": "Ratzingerplatz"
-          },
-          {
-            "id": "de:09162:1302",
-            "name": "Hofmannstraße"
-          },
-          {
-            "id": "de:09162:1361",
-            "name": "Geretsrieder Straße"
-          },
-          {
-            "id": "de:09162:1158",
-            "name": "Tölzer Straße"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1310",
-            "name": "Siemenswerke"
-          },
-          {
-            "id": "de:09162:1301",
-            "name": "Baierbrunner Straße"
-          },
-          {
-            "id": "de:09162:1333",
-            "name": "Carola-Neher-Straße"
-          },
-          {
-            "id": "de:09162:1161",
-            "name": "Wolfratshauser Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-14T14:09:14Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf den Linien 51 und 136 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
-    "title": "Verspätungen und einzelne Ausfälle wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

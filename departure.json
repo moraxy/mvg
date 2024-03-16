@@ -1,6 +1,23 @@
 [
   {
     "bannerHash": "",
+    "cancelled": true,
+    "destination": "Fürstenried West",
+    "divaId": "33N41",
+    "label": "N41",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1710558900000,
+    "realtime": false,
+    "realtimeDepartureTime": 1709958960000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
     "cancelled": false,
     "delayInMinutes": -1,
     "destination": "Aidenbachstraße",
@@ -50,24 +67,6 @@
     "realtimeDepartureTime": 1710558780000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": -1,
-    "destination": "Fürstenried West",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1710558900000,
-    "realtime": true,
-    "realtimeDepartureTime": 1710558840000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
     "trainType": "",
     "transportType": "BUS"
   },

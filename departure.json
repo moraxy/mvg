@@ -23,24 +23,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": -1,
-    "destination": "Aidenbachstraße",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1710646200000,
-    "realtime": true,
-    "realtimeDepartureTime": 1710646140000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
@@ -365,6 +347,23 @@
     "realtimeDepartureTime": 1710651300000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Studentenstadt U",
+    "divaId": "03177",
+    "label": "177",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1710651360000,
+    "realtime": false,
+    "realtimeDepartureTime": 1710651360000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
     "transportType": "BUS"
   }

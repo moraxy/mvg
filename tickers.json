@@ -933,113 +933,6 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-03-18T19:47:00Z",
-      "toDate": "2024-03-18T20:15:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Max-Wönner-Straße kommt es auf der Linie 60 in Richtung Dülferstraße derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 60 in Richtung Dülferstraße wird zwischen Lassallestraße und Robinienstraße umgeleitet. Die Haltestellen Franz-Sperr-Weg, Max-Wönner-Straße, Lerchenauer See und Himmelschlüsselstraße in Fahrtrichtung Dülferstraße können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 21:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "165ef0f4-48d6-4785-aff4-5ef0b0e88fa7",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-18T19:47:00Z",
-        "toDate": "2024-03-18T20:15:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "60",
-        "name": "60",
-        "stations": [
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:341",
-            "name": "Himmelschlüsselstraße"
-          },
-          {
-            "id": "de:09162:342",
-            "name": "Lerchenauer See"
-          },
-          {
-            "id": "de:09162:343",
-            "name": "Max-Wönner-Straße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:354",
-            "name": "Goldlackplatz"
-          },
-          {
-            "id": "de:09162:363",
-            "name": "Pulverturmstraße"
-          },
-          {
-            "id": "de:09162:355",
-            "name": "Gundermannstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-18T19:50:40Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Max-Wönner-Straße kommt es auf der Linie 60 in Richtung Dülferstraße derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 60 in Richtung Dülferstraße wird zwischen Lassallestraße und Robinienstraße umgeleitet. Die Haltestellen Franz-Sperr-Weg, Max-Wönner-Straße, Lerchenauer See und Himmelschlüsselstraße in Fahrtrichtung Dülferstraße können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 21:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Verkehrsunfalls",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-03-18T19:32:00Z",
       "toDate": "2024-03-18T20:32:00Z"
     },
@@ -1151,6 +1044,409 @@
     "modificationDate": "2024-03-18T19:43:11Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 140 in Richtung Kieferngarten                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-18T20:13:00Z",
+      "toDate": "2024-03-19T00:10:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "5c845a69-d2fe-4789-9c5b-e752ee3655e0",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-18T20:13:00Z",
+        "toDate": "2024-03-19T00:10:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "193",
+        "name": "193",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:993",
+            "name": "Wasserburger Landstraße"
+          },
+          {
+            "id": "de:09162:994",
+            "name": "Kulturzentrum Trudering"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:939",
+            "name": "Drosselweg"
+          },
+          {
+            "id": "de:09162:930",
+            "name": "Bahnstraße"
+          },
+          {
+            "id": "de:09162:931",
+            "name": "Phantasiestraße"
+          },
+          {
+            "id": "de:09162:995",
+            "name": "Jagdhornstraße"
+          },
+          {
+            "id": "de:09162:932",
+            "name": "Von-Erckert-Straße"
+          },
+          {
+            "id": "de:09184:2170",
+            "name": "Haar, Hans-Stießberger-Straße"
+          },
+          {
+            "id": "de:09184:2168",
+            "name": "Haar, Ludwig-Moser-Straße"
+          },
+          {
+            "id": "de:09184:2194",
+            "name": "Haar, Wieselweg"
+          },
+          {
+            "id": "de:09184:2359",
+            "name": "Haar, Am Jagdfeldzentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "193",
+        "name": "193",
+        "stations": [
+          {
+            "id": "de:09184:2359",
+            "name": "Haar, Am Jagdfeldzentrum"
+          },
+          {
+            "id": "de:09184:2168",
+            "name": "Haar, Ludwig-Moser-Straße"
+          },
+          {
+            "id": "de:09184:2170",
+            "name": "Haar, Hans-Stießberger-Straße"
+          },
+          {
+            "id": "de:09162:932",
+            "name": "Von-Erckert-Straße"
+          },
+          {
+            "id": "de:09162:995",
+            "name": "Jagdhornstraße"
+          },
+          {
+            "id": "de:09162:931",
+            "name": "Phantasiestraße"
+          },
+          {
+            "id": "de:09162:930",
+            "name": "Bahnstraße"
+          },
+          {
+            "id": "de:09162:939",
+            "name": "Drosselweg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:994",
+            "name": "Kulturzentrum Trudering"
+          },
+          {
+            "id": "de:09162:993",
+            "name": "Wasserburger Landstraße"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "198",
+        "name": "198",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:964",
+            "name": "Im Gefilde"
+          },
+          {
+            "id": "de:09162:976",
+            "name": "Isengaustraße"
+          },
+          {
+            "id": "de:09162:977",
+            "name": "Klara-Ziegler-Bogen"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "198",
+        "name": "198",
+        "stations": [
+          {
+            "id": "de:09162:977",
+            "name": "Klara-Ziegler-Bogen"
+          },
+          {
+            "id": "de:09162:976",
+            "name": "Isengaustraße"
+          },
+          {
+            "id": "de:09162:964",
+            "name": "Im Gefilde"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-18T20:16:26Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

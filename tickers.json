@@ -2498,6 +2498,173 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-18T16:20:00Z",
+      "toDate": "2024-03-18T23:33:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "6a81324d-3667-4f58-9a89-ef19b8cb4305",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-18T16:20:00Z",
+        "toDate": "2024-03-18T23:33:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:314",
+            "name": "Riesstraße"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-18T16:22:24Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-09T23:00:00Z",
       "toDate": "2024-04-09T21:59:00Z"
     },

@@ -238,6 +238,183 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-18T11:16:00Z",
+      "toDate": "2024-03-18T12:16:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "1288750b-0e20-4404-bbac-b3733f8cf0a1_1131740074",
+        "mimeType": "image/jpeg",
+        "name": "Tram 37 Sperrung Nord"
+      }
+    ],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Taimerhofstraße kommt es auf der Linie 37 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie 37 fährt nur im Abschnitt Effnerplatz <> Max-Weber-Platz. <li>Die Haltestellen St. Emmeram, Fritz-Meyer-Weg, Regina-Ullmann-Straße, Taimerhofstraße, Prinz-Eugen-Park, Schlösselgarten, Cosimabad, Arabellapark (Klinikum Bogenhausen) und Arabellastraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 13:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "1288750b-0e20-4404-bbac-b3733f8cf0a1",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-18T11:16:00Z",
+        "toDate": "2024-03-18T12:16:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "37",
+        "name": "37",
+        "stations": [
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:91",
+            "name": "Bundesfinanzhof"
+          },
+          {
+            "id": "de:09162:75",
+            "name": "Sternwartstraße"
+          },
+          {
+            "id": "de:09162:74",
+            "name": "Holbeinstraße"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "37",
+        "name": "37",
+        "stations": [
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:74",
+            "name": "Holbeinstraße"
+          },
+          {
+            "id": "de:09162:75",
+            "name": "Sternwartstraße"
+          },
+          {
+            "id": "de:09162:91",
+            "name": "Bundesfinanzhof"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-18T11:20:07Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Taimerhofstraße kommt es auf der Linie 37 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie 37 fährt nur im Abschnitt Effnerplatz <> Max-Weber-Platz. <li>Die Haltestellen St. Emmeram, Fritz-Meyer-Weg, Regina-Ullmann-Straße, Taimerhofstraße, Prinz-Eugen-Park, Schlösselgarten, Cosimabad, Arabellapark (Klinikum Bogenhausen) und Arabellastraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 13:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Streckenunterbrechung wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-09T23:00:00Z",
       "toDate": "2024-04-09T21:59:00Z"
     },

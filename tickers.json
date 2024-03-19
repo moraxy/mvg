@@ -1,16 +1,16 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-03-19T14:10:00Z",
-      "toDate": "2024-03-19T15:10:00Z"
+      "fromDate": "2024-03-19T14:18:00Z",
+      "toDate": "2024-03-19T15:18:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Fraunhoferstraße kommt es derzeit zu Verspätungen auf den Linien U1 in Richtung Olympia-Einkaufszentrum und U2 in Richtung Feldmoching Bf. . <br>Die Behinderungen werden noch voraussichtlich bis 16:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "id": "75fe814d-33e8-4e8d-84e6-7f5b5ca95f65",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf den Linien U1 in Richtung Olympia-Einkaufszentrum, U2 in Richtung Feldmoching Bf. und U7 in Richtung Olympia-Einkaufszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "cef1970f-4fd8-4425-bd5a-7f1e8b5b6e2f",
     "incidentDuration": [
       {
-        "fromDate": "2024-03-19T14:10:00Z",
-        "toDate": "2024-03-19T15:10:00Z"
+        "fromDate": "2024-03-19T14:18:00Z",
+        "toDate": "2024-03-19T15:18:00Z"
       }
     ],
     "incidents": [],
@@ -198,12 +198,56 @@
           }
         ],
         "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-19T14:11:42Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Fraunhoferstraße kommt es derzeit zu Verspätungen auf den Linien U1 in Richtung Olympia-Einkaufszentrum und U2 in Richtung Feldmoching Bf. . <br>Die Behinderungen werden noch voraussichtlich bis 16:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen wegen einer technischen Störung",
+    "modificationDate": "2024-03-19T14:19:38Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf den Linien U1 in Richtung Olympia-Einkaufszentrum, U2 in Richtung Feldmoching Bf. und U7 in Richtung Olympia-Einkaufszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer technischen Störung",
     "type": "DISRUPTION"
   },
   {

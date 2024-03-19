@@ -1,88 +1,20 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-03-19T15:05:00Z",
-      "toDate": "2024-03-19T16:05:00Z"
+      "fromDate": "2024-03-19T15:09:00Z",
+      "toDate": "2024-03-19T16:09:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf den Linien U1, U2 und U7. <br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "id": "7ec1c204-493e-41a2-a223-207ed3ab4d1a",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es auf den Linien U1 und U2 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien U1, U2 und U7 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.</ul><br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Es ist mit Verspätungen zu rechnen. Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "89e19270-aa6b-4d06-9e3a-1b85391ef45b",
     "incidentDuration": [
       {
-        "fromDate": "2024-03-19T15:05:00Z",
-        "toDate": "2024-03-19T16:05:00Z"
+        "fromDate": "2024-03-19T15:09:00Z",
+        "toDate": "2024-03-19T16:09:00Z"
       }
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
       {
         "direction": "2",
         "id": "1",
@@ -147,6 +79,74 @@
           {
             "id": "de:09162:360",
             "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
           }
         ],
         "typeOfTransport": "METRO"
@@ -473,8 +473,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-19T15:06:03Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf den Linien U1, U2 und U7. <br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "modificationDate": "2024-03-19T15:11:46Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es auf den Linien U1 und U2 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien U1, U2 und U7 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.</ul><br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Es ist mit Verspätungen zu rechnen. Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen und einzelne Ausfälle wegen einer technischen Störung",
     "type": "DISRUPTION"
   },
@@ -659,6 +659,341 @@
     "modificationDate": "2024-03-19T14:32:43Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U5 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-19T15:09:00Z",
+      "toDate": "2024-03-19T16:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 62 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "5b107860-af80-47ee-8161-97bf2cd4b2e0",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-19T15:09:00Z",
+        "toDate": "2024-03-19T16:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-19T15:10:37Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 62 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen eines Rettungseinsatzes",
     "type": "DISRUPTION"
   },
   {

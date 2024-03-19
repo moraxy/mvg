@@ -5,7 +5,7 @@
       "toDate": "2024-03-19T16:09:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es auf den Linien U1 und U2 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien U1 und U2 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. U7 entfällt zur Zeit+++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es auf den Linien U1 und U2 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien U1 und U2 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.</ul><br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "89e19270-aa6b-4d06-9e3a-1b85391ef45b",
     "incidentDuration": [
       {
@@ -385,8 +385,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-19T15:26:21Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es auf den Linien U1 und U2 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien U1 und U2 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. U7 entfällt zur Zeit+++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-03-19T15:32:08Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer technischen Störung im Bereich Sendlinger Tor kommt es auf den Linien U1 und U2 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien U1 und U2 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.</ul><br>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer technischen Störung",
     "type": "DISRUPTION"
   },
@@ -571,6 +571,181 @@
     "modificationDate": "2024-03-19T14:32:43Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U5 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-19T15:29:00Z",
+      "toDate": "2024-03-19T16:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Nordbad kommt es auf der Linie 53 in Richtung Aidenbachstraße derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "a47572d4-bdd3-4d0f-a874-ad475d697dca",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-19T15:29:00Z",
+        "toDate": "2024-03-19T16:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "53",
+        "name": "53",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:109",
+            "name": "Friedrichstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:87",
+            "name": "Bergmannstraße"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:27",
+            "name": "Ridlerstraße"
+          },
+          {
+            "id": "de:09162:1101",
+            "name": "Ganghoferbrücke"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1103",
+            "name": "Sendlinger Kirche"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1321",
+            "name": "Adunistraße"
+          },
+          {
+            "id": "de:09162:1322",
+            "name": "Schneemannstraße"
+          },
+          {
+            "id": "de:09162:1323",
+            "name": "Zielstattstraße"
+          },
+          {
+            "id": "de:09162:1302",
+            "name": "Hofmannstraße"
+          },
+          {
+            "id": "de:09162:1327",
+            "name": "Gmunder Straße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-19T15:30:22Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Nordbad kommt es auf der Linie 53 in Richtung Aidenbachstraße derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
@@ -906,197 +1081,6 @@
     "modificationDate": "2024-03-19T15:10:37Z",
     "text": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 62 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen eines Rettungseinsatzes",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-19T15:05:00Z",
-      "toDate": "2024-03-19T15:30:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 180 in Richtung Kieferngarten                 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 16:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "aadd27d1-6b3b-4758-a8bc-b3d8534f1839",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-19T15:05:00Z",
-        "toDate": "2024-03-19T15:30:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "180",
-        "name": "180",
-        "stations": [
-          {
-            "id": "de:09162:1859",
-            "name": "Berduxstraße"
-          },
-          {
-            "id": "de:09162:1846",
-            "name": "Peter-Anders-Straße"
-          },
-          {
-            "id": "de:09162:1847",
-            "name": "Paul-Gerhardt-Allee"
-          },
-          {
-            "id": "de:09162:1848",
-            "name": "Am Durchblick"
-          },
-          {
-            "id": "de:09162:1901",
-            "name": "Frauendorferstraße"
-          },
-          {
-            "id": "de:09162:1900",
-            "name": "Obermenzing Bf."
-          },
-          {
-            "id": "de:09162:235",
-            "name": "Lustheimstraße"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
-          },
-          {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:304",
-            "name": "Hanauer Straße"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:369",
-            "name": "Riesstraße Süd"
-          },
-          {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:781",
-            "name": "Helene-Mayer-Ring"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
-          },
-          {
-            "id": "de:09162:753",
-            "name": "Max-Diamand-Straße"
-          },
-          {
-            "id": "de:09162:752",
-            "name": "Knorrstraße"
-          },
-          {
-            "id": "de:09162:756",
-            "name": "Am Hart Süd"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:414",
-            "name": "Sudetendeutsche Straße"
-          },
-          {
-            "id": "de:09162:439",
-            "name": "Gundelkoferstraße"
-          },
-          {
-            "id": "de:09162:451",
-            "name": "Kollwitzstraße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:441",
-            "name": "Paracelsusstraße"
-          },
-          {
-            "id": "de:09162:442",
-            "name": "Grusonstraße"
-          },
-          {
-            "id": "de:09162:440",
-            "name": "Werner-Egk-Bogen"
-          },
-          {
-            "id": "de:09162:443",
-            "name": "Euro-Industriepark Nord"
-          },
-          {
-            "id": "de:09162:444",
-            "name": "Paul-Hindemith-Allee"
-          },
-          {
-            "id": "de:09162:445",
-            "name": "Bernsteinweg"
-          },
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-19T15:05:55Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 180 in Richtung Kieferngarten                 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 16:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },
   {

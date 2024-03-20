@@ -1,6 +1,245 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-20T05:00:00Z",
+      "toDate": "2024-03-20T09:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U3 sind noch bis voraussichtlich 10:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "id": "aee4d81e-fa2e-481b-a16c-9bfde7b77ad1",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-20T05:00:00Z",
+        "toDate": "2024-03-20T09:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-20T03:18:57Z",
+    "text": "Liebe Fahrgäste, <br/>auf der Linie U3 sind noch bis voraussichtlich 10:30 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-09T23:00:00Z",
       "toDate": "2024-04-09T21:59:00Z"
     },
@@ -16075,311 +16314,6 @@
     "modificationDate": "2024-03-11T07:02:25Z",
     "text": "<div>Ab Montag, 8. April 2024 werden die ersten beiden Verst&auml;rkerfahrten ab Eichelh&auml;herstra&szlig;e via Ubostra&szlig;e zum Bildungscampus Freiham um wenige Minuten nach vorne verlegt. Die ge&auml;nderten Aushangfahrpl&auml;ne werden rechtzeitig vor Schulbeginn an den Haltestellen sowie zum Download auf <a href=\"https://www.mvg.de/meinhalt\">mvg.de/meinhalt</a> zur Verf&uuml;gung gestellt.</div>\r\n",
     "title": "Fahrplananpassung der Frühfahrten ab Eichelhäherstraße zum Bildungscampus Freiham",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-02-25T23:01:00Z",
-      "toDate": "2024-03-20T05:00:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "3259be38-24b3-4cf5-802e-757da5a9b9d4_-1339290913",
-        "mimeType": "image/jpeg",
-        "name": "Umleitungskarte"
-      }
-    ],
-    "htmlText": "<div>Wegen Kranarbeiten (Fahrtreppeneinhub) in der Prielmayerstra&szlig;e werden die Ersatzbuslinien 16 &gt; Romanplatz und N17 &gt; Amalienburgstra&szlig;e in den N&auml;chten</div>\n<ul>\n<li>Montag/Dienstag, 11./12. M&auml;rz von ca. 20:00 bis 06:00 Uhr und</li>\n<li>Dienstag/Mittwoch, 19./20. M&auml;rz von ca. 20:00 bis 06:00 Uhr</li>\n</ul>\n<div>zwischen Karlsplatz (Stachus) und Hauptbahnhof Nord umgeleitet. Die (H) Hauptbahnhof ist zur Haltestelle der Tram 20 &gt; Moosach Bf. s&uuml;dlich der Einm&uuml;ndung Bahnhofplatz / Sch&uuml;tzenstra&szlig;e (vor der Post) verlegt.</div>\r\n",
-    "id": "3259be38-24b3-4cf5-802e-757da5a9b9d4",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-10T23:01:00Z",
-        "toDate": "2024-03-20T05:00:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "717",
-        "name": "SEV N17",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "717",
-        "name": "SEV N17",
-        "stations": [
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-02-27T06:47:44Z",
-    "text": "<div>Wegen Kranarbeiten (Fahrtreppeneinhub) in der Prielmayerstra&szlig;e werden die Ersatzbuslinien 16 &gt; Romanplatz und N17 &gt; Amalienburgstra&szlig;e in den N&auml;chten</div>\n<ul>\n<li>Montag/Dienstag, 11./12. M&auml;rz von ca. 20:00 bis 06:00 Uhr und</li>\n<li>Dienstag/Mittwoch, 19./20. M&auml;rz von ca. 20:00 bis 06:00 Uhr</li>\n</ul>\n<div>zwischen Karlsplatz (Stachus) und Hauptbahnhof Nord umgeleitet. Die (H) Hauptbahnhof ist zur Haltestelle der Tram 20 &gt; Moosach Bf. s&uuml;dlich der Einm&uuml;ndung Bahnhofplatz / Sch&uuml;tzenstra&szlig;e (vor der Post) verlegt.</div>\r\n",
-    "title": "Karlsplatz (Stachus) > Hauptbahnhof Nord: Umleitung wegen Kranarbeiten in zwei Nächten",
     "type": "PLANNED"
   },
   {

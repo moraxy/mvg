@@ -1,6 +1,89 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-22T20:48:00Z",
+      "toDate": "2024-03-22T21:48:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U4 in Richtung Westendstraße . <br>Die Behinderungen werden noch voraussichtlich bis 22:50 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "3138dcaf-59e2-4c00-af61-dfc31f67268c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-22T20:48:00Z",
+        "toDate": "2024-03-22T21:48:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-22T20:49:15Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Max-Weber-Platz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U4 in Richtung Westendstraße . <br>Die Behinderungen werden noch voraussichtlich bis 22:50 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-22T20:26:00Z",
       "toDate": "2024-03-23T00:00:00Z"
     },

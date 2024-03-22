@@ -1,6 +1,85 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-22T20:26:00Z",
+      "toDate": "2024-03-23T00:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 161 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "23825691-cdbf-475e-a415-525553e5dc0b",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-22T20:26:00Z",
+        "toDate": "2024-03-23T00:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "161",
+        "name": "161",
+        "stations": [
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1858",
+            "name": "Erna-Eckstein-Straße"
+          },
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "161",
+        "name": "161",
+        "stations": [
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-22T20:28:07Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 161 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-09T23:00:00Z",
       "toDate": "2024-04-09T21:59:00Z"
     },

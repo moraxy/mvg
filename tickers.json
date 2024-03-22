@@ -1,6 +1,145 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-22T06:40:00Z",
+      "toDate": "2024-03-22T07:14:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie U2 in Richtung Messestadt Ost                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "bd351e26-4e29-413a-bab4-d23a1165c641",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-22T06:40:00Z",
+        "toDate": "2024-03-22T07:14:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-22T06:42:14Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie U2 in Richtung Messestadt Ost                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-22T03:50:00Z",
       "toDate": "2024-03-22T09:25:00Z"
     },
@@ -235,612 +374,6 @@
     "links": [],
     "modificationDate": "2024-03-22T05:06:25Z",
     "text": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:30 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
-    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-22T05:04:00Z",
-      "toDate": "2024-03-22T06:40:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 139 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "c428772e-df09-4f29-97e8-267fadd7aad8",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-22T05:04:00Z",
-        "toDate": "2024-03-22T06:40:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "139",
-        "name": "139",
-        "stations": [
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:824",
-            "name": "Paul-Wassermann-Straße"
-          },
-          {
-            "id": "de:09162:803",
-            "name": "Friedhof Riem"
-          },
-          {
-            "id": "de:09162:802",
-            "name": "Truchthari-Anger"
-          },
-          {
-            "id": "de:09162:801",
-            "name": "Kirchtruderinger Straße"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:911",
-            "name": "Halligenplatz"
-          },
-          {
-            "id": "de:09162:912",
-            "name": "St.-Augustinus-Straße"
-          },
-          {
-            "id": "de:09162:913",
-            "name": "Matterhornstraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1016",
-            "name": "Jakob-Kaiser-Straße"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1021",
-            "name": "Neuer Südfriedhof"
-          },
-          {
-            "id": "de:09162:1058",
-            "name": "Mitterweg"
-          },
-          {
-            "id": "de:09162:1022",
-            "name": "Hochäckerstraße"
-          },
-          {
-            "id": "de:09162:1023",
-            "name": "Ständlerstraße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          },
-          {
-            "id": "de:09162:1178",
-            "name": "Frasdorfer Straße"
-          },
-          {
-            "id": "de:09162:1177",
-            "name": "Stadelheimer Straße"
-          },
-          {
-            "id": "de:09162:1189",
-            "name": "Peter-Auzinger-Straße"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          },
-          {
-            "id": "de:09162:1211",
-            "name": "Mangfallplatz Süd"
-          },
-          {
-            "id": "de:09162:1174",
-            "name": "Säbener Straße"
-          },
-          {
-            "id": "de:09162:1173",
-            "name": "Griechenstraße"
-          },
-          {
-            "id": "de:09162:1172",
-            "name": "Autharistraße"
-          },
-          {
-            "id": "de:09162:1171",
-            "name": "Theodolindenstraße"
-          },
-          {
-            "id": "de:09162:1123",
-            "name": "Klinikum Harlaching"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "139",
-        "name": "139",
-        "stations": [
-          {
-            "id": "de:09162:1123",
-            "name": "Klinikum Harlaching"
-          },
-          {
-            "id": "de:09162:1171",
-            "name": "Theodolindenstraße"
-          },
-          {
-            "id": "de:09162:1172",
-            "name": "Autharistraße"
-          },
-          {
-            "id": "de:09162:1173",
-            "name": "Griechenstraße"
-          },
-          {
-            "id": "de:09162:1174",
-            "name": "Säbener Straße"
-          },
-          {
-            "id": "de:09162:1211",
-            "name": "Mangfallplatz Süd"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          },
-          {
-            "id": "de:09162:1189",
-            "name": "Peter-Auzinger-Straße"
-          },
-          {
-            "id": "de:09162:1177",
-            "name": "Stadelheimer Straße"
-          },
-          {
-            "id": "de:09162:1178",
-            "name": "Frasdorfer Straße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1023",
-            "name": "Ständlerstraße"
-          },
-          {
-            "id": "de:09162:1022",
-            "name": "Hochäckerstraße"
-          },
-          {
-            "id": "de:09162:1058",
-            "name": "Mitterweg"
-          },
-          {
-            "id": "de:09162:1024",
-            "name": "Neuer Südfriedhof West"
-          },
-          {
-            "id": "de:09162:1021",
-            "name": "Neuer Südfriedhof"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1016",
-            "name": "Jakob-Kaiser-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:913",
-            "name": "Matterhornstraße"
-          },
-          {
-            "id": "de:09162:912",
-            "name": "St.-Augustinus-Straße"
-          },
-          {
-            "id": "de:09162:911",
-            "name": "Halligenplatz"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:801",
-            "name": "Kirchtruderinger Straße"
-          },
-          {
-            "id": "de:09162:802",
-            "name": "Truchthari-Anger"
-          },
-          {
-            "id": "de:09162:803",
-            "name": "Friedhof Riem"
-          },
-          {
-            "id": "de:09162:824",
-            "name": "Paul-Wassermann-Straße"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-22T05:05:20Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 139 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-22T05:19:00Z",
-      "toDate": "2024-03-22T06:40:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 183 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "06169c46-669c-4d3b-84b6-345a37f615da",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-22T05:19:00Z",
-        "toDate": "2024-03-22T06:40:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "183",
-        "name": "183",
-        "stations": [
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:814",
-            "name": "Paul-Henri-Spaak-Straße"
-          },
-          {
-            "id": "de:09162:815",
-            "name": "An der Point"
-          },
-          {
-            "id": "de:09162:805",
-            "name": "Martin-Empl-Ring"
-          },
-          {
-            "id": "de:09162:811",
-            "name": "Graf-Lehndorff-Straße"
-          },
-          {
-            "id": "de:09162:825",
-            "name": "Riemer Straße"
-          },
-          {
-            "id": "de:09162:810",
-            "name": "Tierheim"
-          },
-          {
-            "id": "de:09162:731",
-            "name": "Rennbahnstraße"
-          },
-          {
-            "id": "de:09162:703",
-            "name": "Trabrennbahn"
-          },
-          {
-            "id": "de:09162:702",
-            "name": "Schichtlstraße"
-          },
-          {
-            "id": "de:09162:725",
-            "name": "Kunihohstraße"
-          },
-          {
-            "id": "de:09162:704",
-            "name": "Daglfing Bf. Ost"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:608",
-            "name": "Posener Platz"
-          },
-          {
-            "id": "de:09162:607",
-            "name": "Zoppoter Straße"
-          },
-          {
-            "id": "de:09162:606",
-            "name": "Memeler Straße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "183",
-        "name": "183",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:606",
-            "name": "Memeler Straße"
-          },
-          {
-            "id": "de:09162:607",
-            "name": "Zoppoter Straße"
-          },
-          {
-            "id": "de:09162:608",
-            "name": "Posener Platz"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:704",
-            "name": "Daglfing Bf. Ost"
-          },
-          {
-            "id": "de:09162:725",
-            "name": "Kunihohstraße"
-          },
-          {
-            "id": "de:09162:702",
-            "name": "Schichtlstraße"
-          },
-          {
-            "id": "de:09162:703",
-            "name": "Trabrennbahn"
-          },
-          {
-            "id": "de:09162:731",
-            "name": "Rennbahnstraße"
-          },
-          {
-            "id": "de:09162:810",
-            "name": "Tierheim"
-          },
-          {
-            "id": "de:09162:825",
-            "name": "Riemer Straße"
-          },
-          {
-            "id": "de:09162:811",
-            "name": "Graf-Lehndorff-Straße"
-          },
-          {
-            "id": "de:09162:815",
-            "name": "An der Point"
-          },
-          {
-            "id": "de:09162:814",
-            "name": "Paul-Henri-Spaak-Straße"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-22T05:20:36Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 183 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
     "type": "DISRUPTION"
   },

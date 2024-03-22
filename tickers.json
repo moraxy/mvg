@@ -1,6 +1,245 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-22T03:50:00Z",
+      "toDate": "2024-03-22T09:25:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:30 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
+    "id": "ed303b42-016c-4628-b252-b4e8d0c99e6d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-22T03:50:00Z",
+        "toDate": "2024-03-22T09:25:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-22T05:06:25Z",
+    "text": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:30 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-22T04:38:00Z",
       "toDate": "2024-03-22T05:38:00Z"
     },
@@ -324,6 +563,377 @@
     "modificationDate": "2024-03-22T04:40:30Z",
     "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 53 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-22T05:04:00Z",
+      "toDate": "2024-03-22T06:40:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 139 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "c428772e-df09-4f29-97e8-267fadd7aad8",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-22T05:04:00Z",
+        "toDate": "2024-03-22T06:40:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1024",
+            "name": "Neuer Südfriedhof West"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-22T05:05:20Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 139 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
     "type": "DISRUPTION"
   },
   {

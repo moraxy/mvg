@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": -1,
-    "destination": "Aidenbachstraße",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1711164600000,
-    "realtime": true,
-    "realtimeDepartureTime": 1711164540000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
@@ -76,7 +58,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
+    "delayInMinutes": 1,
     "destination": "Am Hart",
     "divaId": "33N41",
     "label": "N41",
@@ -85,7 +67,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1711165560000,
     "realtime": true,
-    "realtimeDepartureTime": 1711165560000,
+    "realtimeDepartureTime": 1711165620000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -359,5 +341,25 @@
     "stopPointGlobalId": "de:09162:750:2:2",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Feldmoching",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1711169280000,
+    "platform": 1,
+    "platformChanged": false,
+    "realtime": true,
+    "realtimeDepartureTime": 1711169280000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:51",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

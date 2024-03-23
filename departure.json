@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 2,
-    "destination": "Petuelring",
-    "divaId": "03177",
-    "label": "177",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1711169100000,
-    "realtime": true,
-    "realtimeDepartureTime": 1711169220000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:2:2",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Feldmoching",
     "divaId": "010U2",
@@ -40,7 +22,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
+    "delayInMinutes": 2,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
     "label": "U2",
@@ -51,7 +33,7 @@
     "platform": 2,
     "platformChanged": false,
     "realtime": true,
-    "realtimeDepartureTime": 1711169460000,
+    "realtimeDepartureTime": 1711169580000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
@@ -244,7 +226,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 2,
+    "delayInMinutes": 1,
     "destination": "Studentenstadt",
     "divaId": "03177",
     "label": "177",
@@ -253,7 +235,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1711170960000,
     "realtime": true,
-    "realtimeDepartureTime": 1711171080000,
+    "realtimeDepartureTime": 1711171020000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
@@ -368,5 +350,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Petuelring U",
+    "divaId": "03178",
+    "label": "178",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1711171980000,
+    "realtime": false,
+    "realtimeDepartureTime": 1711171980000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

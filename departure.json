@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": -1,
-    "destination": "Fürstenried West",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1711163700000,
-    "realtime": true,
-    "realtimeDepartureTime": 1711163640000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 1,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
@@ -361,6 +343,23 @@
     "realtimeDepartureTime": 1711168500000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Studentenstadt U",
+    "divaId": "03177",
+    "label": "177",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1711168560000,
+    "realtime": false,
+    "realtimeDepartureTime": 1711168560000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
     "transportType": "BUS"
   }

@@ -240,6 +240,109 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-23T18:54:00Z",
+      "toDate": "2024-03-23T19:54:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Feuerwehreinsatzes kommt es bei der Linie SEV 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li>Die Linie SEV 18 in Richtung Gondrellplatz wird zwischen Ammerseestraße und Senftenauerstraße umgeleitet. Die Haltestellen Senftenauerstraße, Menaristraße und Gondrellplatz in Fahrtrichtung Gondrellplatz können leider nicht bedient werden. </li></li> \t<li>Die Linie SEV 18 in Richtung Westendstraße wird zwischen Senftenauerstraße Süd und Andreas-Vöst-Straße umgeleitet. Die Haltestellen Senftenauerstraße Süd und Gondrellplatz in Fahrtrichtung Westendstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 20:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "35a6ff5e-4659-4bb0-9a69-1725a0f8625e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-23T18:54:00Z",
+        "toDate": "2024-03-23T19:54:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          },
+          {
+            "id": "de:09162:1501",
+            "name": "Senftenauerstraße Süd"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-23T18:56:57Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Feuerwehreinsatzes kommt es bei der Linie SEV 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li>Die Linie SEV 18 in Richtung Gondrellplatz wird zwischen Ammerseestraße und Senftenauerstraße umgeleitet. Die Haltestellen Senftenauerstraße, Menaristraße und Gondrellplatz in Fahrtrichtung Gondrellplatz können leider nicht bedient werden. </li></li> \t<li>Die Linie SEV 18 in Richtung Westendstraße wird zwischen Senftenauerstraße Süd und Andreas-Vöst-Straße umgeleitet. Die Haltestellen Senftenauerstraße Süd und Gondrellplatz in Fahrtrichtung Westendstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 20:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-09T23:00:00Z",
       "toDate": "2024-04-09T21:59:00Z"
     },

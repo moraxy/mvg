@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": -1,
-    "destination": "Fürstenried West",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1711160100000,
-    "realtime": true,
-    "realtimeDepartureTime": 1711160040000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 6,
     "destination": "Am Hart",
     "divaId": "33N41",
@@ -128,7 +110,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 3,
+    "delayInMinutes": 4,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
     "label": "N41",
@@ -137,7 +119,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1711162860000,
     "realtime": true,
-    "realtimeDepartureTime": 1711163040000,
+    "realtimeDepartureTime": 1711163100000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -361,5 +343,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Petuelring U",
+    "divaId": "03178",
+    "label": "178",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1711167180000,
+    "realtime": false,
+    "realtimeDepartureTime": 1711167180000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

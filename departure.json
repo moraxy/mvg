@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 7,
-    "destination": "Johanneskirchen Bf.",
-    "divaId": "03050",
-    "label": "50",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1711313700000,
-    "realtime": true,
-    "realtimeDepartureTime": 1711314120000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 2,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
@@ -152,7 +134,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
+    "delayInMinutes": 1,
     "destination": "Studentenstadt",
     "divaId": "03177",
     "label": "177",
@@ -161,7 +143,7 @@
     "occupancy": "UNKNOWN",
     "plannedDepartureTime": 1711314960000,
     "realtime": true,
-    "realtimeDepartureTime": 1711314960000,
+    "realtimeDepartureTime": 1711315020000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
@@ -376,5 +358,23 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "OEZ Dessauerstraße",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1711316640000,
+    "realtime": true,
+    "realtimeDepartureTime": 1711316640000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

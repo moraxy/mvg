@@ -396,7 +396,7 @@
       "toDate": "2024-03-25T00:24:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 141, 142 und 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 140, 171, 174, 180 und 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "a177194b-9546-40d8-887e-b240ce19ec83",
     "incidentDuration": [
       {
@@ -408,8 +408,8 @@
     "lines": [
       {
         "direction": "2",
-        "id": "141",
-        "name": "141",
+        "id": "140",
+        "name": "140",
         "stations": [
           {
             "id": "de:09162:400",
@@ -464,56 +464,156 @@
             "name": "Heidemannstraße"
           },
           {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
           },
           {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
           },
           {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
+            "id": "de:09162:449",
+            "name": "Untere Länge"
           },
           {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
           },
           {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
           },
           {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
           },
           {
-            "id": "de:09162:770",
-            "name": "Harthof"
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
           },
           {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "1",
-        "id": "141",
-        "name": "141",
+        "id": "140",
+        "name": "140",
         "stations": [
           {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "171",
+        "name": "171",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
           },
           {
             "id": "de:09162:405",
@@ -532,28 +632,156 @@
             "name": "Harthof"
           },
           {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
+            "id": "de:09162:402",
+            "name": "Röblingweg"
           },
           {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
           },
           {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "171",
+        "name": "171",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
           },
           {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
           },
           {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
+            "id": "de:09162:402",
+            "name": "Röblingweg"
           },
           {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:358",
+            "name": "Hasenberglstraße"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "174",
+        "name": "174",
+        "stations": [
+          {
+            "id": "de:09162:406",
+            "name": "Dientzenhoferstraße"
+          },
+          {
+            "id": "de:09162:402",
+            "name": "Röblingweg"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "174",
+        "name": "174",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:413",
+            "name": "Siedlung am Hart"
+          },
+          {
+            "id": "de:09162:406",
+            "name": "Dientzenhoferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "180",
+        "name": "180",
+        "stations": [
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:443",
+            "name": "Euro-Industriepark Nord"
+          },
+          {
+            "id": "de:09162:440",
+            "name": "Werner-Egk-Bogen"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
           },
           {
             "id": "de:09162:438",
@@ -568,128 +796,68 @@
             "name": "Gundelkoferstraße"
           },
           {
-            "id": "de:09162:415",
-            "name": "Euro-Industriepark West"
+            "id": "de:09162:414",
+            "name": "Sudetendeutsche Straße"
           },
           {
-            "id": "de:09162:426",
-            "name": "Ingolstädter Straße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:423",
-            "name": "Griegstraße"
-          },
-          {
-            "id": "de:09162:458",
-            "name": "Freiligrathstraße"
-          },
-          {
-            "id": "de:09162:432",
-            "name": "Wilhelm-Hertz-Straße"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "142",
-        "name": "142",
-        "stations": [
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:419",
-            "name": "Rümannstraße"
-          },
-          {
-            "id": "de:09162:513",
-            "name": "Barlachstraße"
-          },
-          {
-            "id": "de:09162:424",
-            "name": "Klopstockstraße"
-          },
-          {
-            "id": "de:09162:418",
-            "name": "Mildred-Scheel-Bogen"
-          },
-          {
-            "id": "de:09162:431",
-            "name": "Heckscherstraße"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:434",
-            "name": "Potsdamer Straße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:760",
+            "name": "Am Hart"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "142",
-        "name": "142",
+        "id": "180",
+        "name": "180",
         "stations": [
           {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:760",
+            "name": "Am Hart"
           },
           {
-            "id": "de:09162:434",
-            "name": "Potsdamer Straße"
+            "id": "de:09162:414",
+            "name": "Sudetendeutsche Straße"
           },
           {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
           },
           {
-            "id": "de:09162:431",
-            "name": "Heckscherstraße"
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
           },
           {
-            "id": "de:09162:418",
-            "name": "Mildred-Scheel-Bogen"
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
           },
           {
-            "id": "de:09162:424",
-            "name": "Klopstockstraße"
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
           },
           {
-            "id": "de:09162:419",
-            "name": "Rümannstraße"
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
           },
           {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
+            "id": "de:09162:440",
+            "name": "Werner-Egk-Bogen"
+          },
+          {
+            "id": "de:09162:443",
+            "name": "Euro-Industriepark Nord"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
           }
         ],
         "typeOfTransport": "BUS"
@@ -808,8 +976,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-24T13:57:10Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 141, 142 und 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-03-24T14:25:46Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 140, 171, 174, 180 und 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

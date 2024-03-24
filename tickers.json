@@ -84,6 +84,74 @@
         "typeOfTransport": "METRO"
       },
       {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
         "direction": "2",
         "id": "2",
         "name": "U2",
@@ -195,74 +263,6 @@
           {
             "id": "de:09162:320",
             "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
           }
         ],
         "typeOfTransport": "METRO"
@@ -388,6 +388,429 @@
     "modificationDate": "2024-03-24T11:06:01Z",
     "text": "<div>Wegen eines Gleiswechsels im Bereich Kolumbusplatz verkehren die U1 und U2 von Sonntag, 24. M&auml;rz bis vsl. Dienstag, 9. April in verschiedenen Zeitr&auml;umen jeweils <strong>von 23:45 bis Betriebsschluss</strong> eingeschr&auml;nkt.&nbsp;<br />&nbsp;<br /><strong>Sonntag, 24. M&auml;rz bis Mittwoch 27. M&auml;rz</strong><br /><strong>Montag, 1. April bis Donnerstag, 4. April</strong><br /><strong>Sonntag, 7. April bis Dienstag, 9. April</strong><br />&nbsp;<br />Die U1 verkehrt in oben genannten Zeitr&auml;umen nur in den Abschnitten Olympia-Einkaufszentrum - Hauptbahnhof und Kolumbusplatz - Mangfallplatz. Weichen Sie bitte im Abschnitt Hauptbahnhof - Kolumbusplatz auf die U2 aus.<br />&nbsp;<br />Die U2 verkehrt in den Abschnitten Feldmoching - Hauptbahnhof und Hauptbahnhof - Messestadt Ost im 20-Minuten Takt. Zur Weiterfahrt ist am Hauptbahnhof ein Umstieg &uuml;ber das Zwischengeschoss notwendig.&nbsp;<br />&nbsp;<br />Bitte beachten Sie, dass an den Bahnh&ouml;fen St.-Quirin-Platz bis Kolumbusplatz, Untersbergstra&szlig;e bis Sendlinger Tor und am Stiglmaierplatz die U-Bahnen in beiden Richtungen vom selben Gleis abfahren. Achten Sie hierf&uuml;r auf die &ouml;rtlichen Wegweiser und Zugzielanzeigen.</div>",
     "title": "Einschränkungen wegen eines Gleiswechsels",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-24T13:48:00Z",
+      "toDate": "2024-03-25T00:24:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 141, 142 und 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "a177194b-9546-40d8-887e-b240ce19ec83",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-24T13:48:00Z",
+        "toDate": "2024-03-25T00:24:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "142",
+        "name": "142",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:513",
+            "name": "Barlachstraße"
+          },
+          {
+            "id": "de:09162:424",
+            "name": "Klopstockstraße"
+          },
+          {
+            "id": "de:09162:418",
+            "name": "Mildred-Scheel-Bogen"
+          },
+          {
+            "id": "de:09162:431",
+            "name": "Heckscherstraße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "142",
+        "name": "142",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:431",
+            "name": "Heckscherstraße"
+          },
+          {
+            "id": "de:09162:418",
+            "name": "Mildred-Scheel-Bogen"
+          },
+          {
+            "id": "de:09162:424",
+            "name": "Klopstockstraße"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "194",
+        "name": "194",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:955",
+            "name": "Hippelstraße"
+          },
+          {
+            "id": "de:09162:956",
+            "name": "Lamprechtstraße"
+          },
+          {
+            "id": "de:09162:957",
+            "name": "Friesplatz"
+          },
+          {
+            "id": "de:09162:958",
+            "name": "Nauestraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "194",
+        "name": "194",
+        "stations": [
+          {
+            "id": "de:09162:958",
+            "name": "Nauestraße"
+          },
+          {
+            "id": "de:09162:957",
+            "name": "Friesplatz"
+          },
+          {
+            "id": "de:09162:956",
+            "name": "Lamprechtstraße"
+          },
+          {
+            "id": "de:09162:955",
+            "name": "Hippelstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-24T13:57:10Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 141, 142 und 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

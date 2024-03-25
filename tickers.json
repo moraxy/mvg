@@ -635,7 +635,7 @@
       "toDate": "2024-03-25T07:45:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Arabellapark kommt es auf den Linien 179 und 184 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Arabellapark kommt es auf den Linien 150 und 184 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "a32092f9-d6ae-482d-b739-ebf0ded44d1a",
     "incidentDuration": [
       {
@@ -647,72 +647,136 @@
     "lines": [
       {
         "direction": "1",
-        "id": "179",
-        "name": "179",
+        "id": "150",
+        "name": "150",
         "stations": [
           {
-            "id": "de:09162:399",
-            "name": "Olschewskibogen"
-          },
-          {
-            "id": "de:09162:401",
-            "name": "Augustin-Rösch-Straße"
-          },
-          {
-            "id": "de:09162:397",
-            "name": "Pulverturm"
-          },
-          {
-            "id": "de:09162:337",
-            "name": "Detmoldstraße"
-          },
-          {
-            "id": "de:09162:753",
-            "name": "Max-Diamand-Straße"
-          },
-          {
-            "id": "de:09162:752",
-            "name": "Knorrstraße"
+            "id": "de:09162:745",
+            "name": "Bremer Straße"
           },
           {
             "id": "de:09162:750",
             "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "179",
-        "name": "179",
+        "id": "150",
+        "name": "150",
         "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:518",
+            "name": "Amsterdamer Straße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
           {
             "id": "de:09162:750",
             "name": "Frankfurter Ring"
           },
           {
-            "id": "de:09162:752",
-            "name": "Knorrstraße"
-          },
-          {
-            "id": "de:09162:753",
-            "name": "Max-Diamand-Straße"
-          },
-          {
-            "id": "de:09162:337",
-            "name": "Detmoldstraße"
-          },
-          {
-            "id": "de:09162:397",
-            "name": "Pulverturm"
-          },
-          {
-            "id": "de:09162:401",
-            "name": "Augustin-Rösch-Straße"
-          },
-          {
-            "id": "de:09162:399",
-            "name": "Olschewskibogen"
+            "id": "de:09162:745",
+            "name": "Bremer Straße"
           }
         ],
         "typeOfTransport": "BUS"
@@ -803,8 +867,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-25T06:35:19Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Arabellapark kommt es auf den Linien 179 und 184 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-03-25T07:25:28Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Arabellapark kommt es auf den Linien 150 und 184 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },

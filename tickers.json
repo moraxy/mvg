@@ -84,6 +84,74 @@
         "typeOfTransport": "METRO"
       },
       {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
         "direction": "2",
         "id": "2",
         "name": "U2",
@@ -195,74 +263,6 @@
           {
             "id": "de:09162:320",
             "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
           }
         ],
         "typeOfTransport": "METRO"
@@ -388,6 +388,293 @@
     "modificationDate": "2024-03-24T11:06:01Z",
     "text": "<div>Wegen eines Gleiswechsels im Bereich Kolumbusplatz verkehren die U1 und U2 von Sonntag, 24. M&auml;rz bis vsl. Dienstag, 9. April in verschiedenen Zeitr&auml;umen jeweils <strong>von 23:45 bis Betriebsschluss</strong> eingeschr&auml;nkt.&nbsp;<br />&nbsp;<br /><strong>Sonntag, 24. M&auml;rz bis Mittwoch 27. M&auml;rz</strong><br /><strong>Montag, 1. April bis Donnerstag, 4. April</strong><br /><strong>Sonntag, 7. April bis Dienstag, 9. April</strong><br />&nbsp;<br />Die U1 verkehrt in oben genannten Zeitr&auml;umen nur in den Abschnitten Olympia-Einkaufszentrum - Hauptbahnhof und Kolumbusplatz - Mangfallplatz. Weichen Sie bitte im Abschnitt Hauptbahnhof - Kolumbusplatz auf die U2 aus.<br />&nbsp;<br />Die U2 verkehrt in den Abschnitten Feldmoching - Hauptbahnhof und Hauptbahnhof - Messestadt Ost im 20-Minuten Takt. Zur Weiterfahrt ist am Hauptbahnhof ein Umstieg &uuml;ber das Zwischengeschoss notwendig.&nbsp;<br />&nbsp;<br />Bitte beachten Sie, dass an den Bahnh&ouml;fen St.-Quirin-Platz bis Kolumbusplatz, Untersbergstra&szlig;e bis Sendlinger Tor und am Stiglmaierplatz die U-Bahnen in beiden Richtungen vom selben Gleis abfahren. Achten Sie hierf&uuml;r auf die &ouml;rtlichen Wegweiser und Zugzielanzeigen.</div>",
     "title": "Einschränkungen wegen eines Gleiswechsels",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-25T13:32:00Z",
+      "toDate": "2024-03-25T14:32:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Rettungseinsatzes im Bereich Marienplatz (Theatinerstraße) kommt es auf den Linien 19 in Richtung Pasing Bf. und 21 in Richtung Westfriedhof derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 15:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "45db0477-18a1-4bb1-be63-9d7687e4f2ca",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-25T13:32:00Z",
+        "toDate": "2024-03-25T14:32:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "19",
+        "name": "19",
+        "stations": [
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:646",
+            "name": "Riedenburger Straße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:1604",
+            "name": "Agnes-Bernauer-Platz"
+          },
+          {
+            "id": "de:09162:1606",
+            "name": "Willibaldplatz"
+          },
+          {
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
+          },
+          {
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "21",
+        "name": "21",
+        "stations": [
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:285",
+            "name": "Stadtwerke München"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-25T13:34:25Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Rettungseinsatzes im Bereich Marienplatz (Theatinerstraße) kommt es auf den Linien 19 in Richtung Pasing Bf. und 21 in Richtung Westfriedhof derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 15:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen eines Rettungseinsatzes",
     "type": "DISRUPTION"
   },
   {

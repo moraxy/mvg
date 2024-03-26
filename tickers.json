@@ -648,15 +648,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-03-26T12:43:00Z",
-      "toDate": "2024-03-26T13:43:00Z"
+      "toDate": "2024-03-26T14:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Holzapfelstraße kommt es auf den Linien 18 und 19 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Holzapfelstraße kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 18 fährt nur im Abschnitt Schwanseestraße <> Karlsplatz (Stachus) und wird ab Karlsplatz (Stachus) bis zur Haltestelle Karolinenplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Ottostraße. Die Haltestellen Westendstraße, Hans-Thonauer-Straße, Siglstraße, Lautensackstraße, Am Lokschuppen, Barthstraße, Trappentreustraße, Schrenkstraße, Holzapfelstraße, Hermann-Lingg-Straße, Holzkirchner Bahnhof und Hauptbahnhof Süd entfallen in beiden Richtungen. </li></li><li>Die Linie 19 in Richtung Pasing Bf. fährt nur im Abschnitt Berg am Laim Bf. <> Hermann-Lingg-Straße. \t</li><li>Die Linie 19 in Richtung Berg am Laim Bf. fährt nur im Abschnitt Pasing Bf. <> Agnes-Bernauer-Straße und wird ab Agnes-Bernauer-Straße bis zur Haltestelle Westendstraße umgeleitet. Die Umleitung verläuft über die Haltestelle Siglstraße. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 15:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "aa48e498-e8b2-4fca-86e3-5f11cc019003",
     "incidentDuration": [
       {
         "fromDate": "2024-03-26T12:43:00Z",
-        "toDate": "2024-03-26T13:43:00Z"
+        "toDate": "2024-03-26T14:30:00Z"
       }
     ],
     "incidents": [],
@@ -870,150 +870,6 @@
         "typeOfTransport": "TRAM"
       },
       {
-        "direction": "1",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
         "direction": "2",
         "id": "19",
         "name": "19",
@@ -1156,12 +1012,156 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "19",
+        "name": "19",
+        "stations": [
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
+          },
+          {
+            "id": "de:09162:1606",
+            "name": "Willibaldplatz"
+          },
+          {
+            "id": "de:09162:1604",
+            "name": "Agnes-Bernauer-Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:646",
+            "name": "Riedenburger Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-26T12:49:15Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Holzapfelstraße kommt es auf den Linien 18 und 19 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Erhebliche Behinderungen wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-03-26T12:57:25Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Holzapfelstraße kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 18 fährt nur im Abschnitt Schwanseestraße <> Karlsplatz (Stachus) und wird ab Karlsplatz (Stachus) bis zur Haltestelle Karolinenplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Ottostraße. Die Haltestellen Westendstraße, Hans-Thonauer-Straße, Siglstraße, Lautensackstraße, Am Lokschuppen, Barthstraße, Trappentreustraße, Schrenkstraße, Holzapfelstraße, Hermann-Lingg-Straße, Holzkirchner Bahnhof und Hauptbahnhof Süd entfallen in beiden Richtungen. </li></li><li>Die Linie 19 in Richtung Pasing Bf. fährt nur im Abschnitt Berg am Laim Bf. <> Hermann-Lingg-Straße. \t</li><li>Die Linie 19 in Richtung Berg am Laim Bf. fährt nur im Abschnitt Pasing Bf. <> Agnes-Bernauer-Straße und wird ab Agnes-Bernauer-Straße bis zur Haltestelle Westendstraße umgeleitet. Die Umleitung verläuft über die Haltestelle Siglstraße. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 15:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {
@@ -14436,12 +14436,12 @@
     },
     "downloadLinks": [
       {
-        "id": "bf739c90-751b-48a6-8337-cf3ba7b77a0b_658975048",
+        "id": "bf739c90-751b-48a6-8337-cf3ba7b77a0b_94150632",
         "mimeType": "image/jpeg",
         "name": "Umleitungskarte"
       }
     ],
-    "htmlText": "<div>Wegen eines Wasserrohrbruchs in der Hugo-Wolf-Stra&szlig;e werden die Buslinien 141 und 170 von Mittwoch, 27. M&auml;rz bis vsl. Freitag, 5. April 2024 im Bereich Harthof / Weyprechtstra&szlig;e umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Caracciolastra&szlig;e (in Richtung Scheidplatz bzw. Kieferngarten) sowie die (H) Weyprechtstra&szlig;e und Harthof entfallen. Die (H) Weitlstra&szlig;e wird an diesen Tagen von der Buslinie 170 &gt; Feldmoching Bf. bedient.</div>\r\n",
+    "htmlText": "<div>Wegen eines Wasserrohrbruchs in der Hugo-Wolf-Stra&szlig;e werden die Buslinien 141 und 170 von Mittwoch, 27. M&auml;rz bis vsl. Freitag, 5. April 2024 im Bereich Harthof / Weyprechtstra&szlig;e umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Caracciolastra&szlig;e (&gt; Scheidplatz / D&uuml;lferstra&szlig;e / Kieferngarten) sowie die (H) Weyprechtstra&szlig;e und Harthof entfallen. Die (H) Weitlstra&szlig;e wird an diesen Tagen von der Buslinie 170 &gt; Feldmoching Bf. bedient.</div>\r\n",
     "id": "bf739c90-751b-48a6-8337-cf3ba7b77a0b",
     "incidentDuration": [
       {
@@ -14865,8 +14865,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-26T11:26:56Z",
-    "text": "<div>Wegen eines Wasserrohrbruchs in der Hugo-Wolf-Stra&szlig;e werden die Buslinien 141 und 170 von Mittwoch, 27. M&auml;rz bis vsl. Freitag, 5. April 2024 im Bereich Harthof / Weyprechtstra&szlig;e umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Caracciolastra&szlig;e (in Richtung Scheidplatz bzw. Kieferngarten) sowie die (H) Weyprechtstra&szlig;e und Harthof entfallen. Die (H) Weitlstra&szlig;e wird an diesen Tagen von der Buslinie 170 &gt; Feldmoching Bf. bedient.</div>\r\n",
+    "modificationDate": "2024-03-26T12:57:10Z",
+    "text": "<div>Wegen eines Wasserrohrbruchs in der Hugo-Wolf-Stra&szlig;e werden die Buslinien 141 und 170 von Mittwoch, 27. M&auml;rz bis vsl. Freitag, 5. April 2024 im Bereich Harthof / Weyprechtstra&szlig;e umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Caracciolastra&szlig;e (&gt; Scheidplatz / D&uuml;lferstra&szlig;e / Kieferngarten) sowie die (H) Weyprechtstra&szlig;e und Harthof entfallen. Die (H) Weitlstra&szlig;e wird an diesen Tagen von der Buslinie 170 &gt; Feldmoching Bf. bedient.</div>\r\n",
     "title": "Weitlstraße/Carraciolastraße <> Frauenmantelanger: Umleitung wegen eines Wasserrohrbruchs",
     "type": "PLANNED"
   },

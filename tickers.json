@@ -84,74 +84,6 @@
         "typeOfTransport": "METRO"
       },
       {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
         "direction": "2",
         "id": "2",
         "name": "U2",
@@ -263,6 +195,74 @@
           {
             "id": "de:09162:320",
             "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
           }
         ],
         "typeOfTransport": "METRO"
@@ -388,109 +388,6 @@
     "modificationDate": "2024-03-24T11:06:01Z",
     "text": "<div>Wegen eines Gleiswechsels im Bereich Kolumbusplatz verkehren die U1 und U2 von Sonntag, 24. M&auml;rz bis vsl. Dienstag, 9. April in verschiedenen Zeitr&auml;umen jeweils <strong>von 23:45 bis Betriebsschluss</strong> eingeschr&auml;nkt.&nbsp;<br />&nbsp;<br /><strong>Sonntag, 24. M&auml;rz bis Mittwoch 27. M&auml;rz</strong><br /><strong>Montag, 1. April bis Donnerstag, 4. April</strong><br /><strong>Sonntag, 7. April bis Dienstag, 9. April</strong><br />&nbsp;<br />Die U1 verkehrt in oben genannten Zeitr&auml;umen nur in den Abschnitten Olympia-Einkaufszentrum - Hauptbahnhof und Kolumbusplatz - Mangfallplatz. Weichen Sie bitte im Abschnitt Hauptbahnhof - Kolumbusplatz auf die U2 aus.<br />&nbsp;<br />Die U2 verkehrt in den Abschnitten Feldmoching - Hauptbahnhof und Hauptbahnhof - Messestadt Ost im 20-Minuten Takt. Zur Weiterfahrt ist am Hauptbahnhof ein Umstieg &uuml;ber das Zwischengeschoss notwendig.&nbsp;<br />&nbsp;<br />Bitte beachten Sie, dass an den Bahnh&ouml;fen St.-Quirin-Platz bis Kolumbusplatz, Untersbergstra&szlig;e bis Sendlinger Tor und am Stiglmaierplatz die U-Bahnen in beiden Richtungen vom selben Gleis abfahren. Achten Sie hierf&uuml;r auf die &ouml;rtlichen Wegweiser und Zugzielanzeigen.</div>",
     "title": "Einschränkungen wegen eines Gleiswechsels",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-26T18:54:00Z",
-      "toDate": "2024-03-26T19:54:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Gondrellplatz kommt es auf der Linie SEV 18 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'>Die Haltestellen Menariestr. und Gondrellplatz k&ouml;nnen nicht bedient werden+++</ul><br>Die Behinderungen werden noch voraussichtlich bis 20:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "9fb84d99-458c-4ad9-b675-225028f62741",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-03-26T18:54:00Z",
-        "toDate": "2024-03-26T19:54:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "518",
-        "name": "SEV 18",
-        "stations": [
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1208",
-            "name": "Fachnerstraße"
-          },
-          {
-            "id": "de:09162:1212",
-            "name": "Säulingstraße"
-          },
-          {
-            "id": "de:09162:1213",
-            "name": "Stegener Weg"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1552",
-            "name": "Senftenauerstraße"
-          },
-          {
-            "id": "de:09162:1654",
-            "name": "Menaristraße"
-          },
-          {
-            "id": "de:09162:1554",
-            "name": "Gondrellplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "518",
-        "name": "SEV 18",
-        "stations": [
-          {
-            "id": "de:09162:1554",
-            "name": "Gondrellplatz"
-          },
-          {
-            "id": "de:09162:1501",
-            "name": "Senftenauerstraße Süd"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1213",
-            "name": "Stegener Weg"
-          },
-          {
-            "id": "de:09162:1212",
-            "name": "Säulingstraße"
-          },
-          {
-            "id": "de:09162:1208",
-            "name": "Fachnerstraße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-26T19:04:24Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Gondrellplatz kommt es auf der Linie SEV 18 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'>Die Haltestellen Menariestr. und Gondrellplatz k&ouml;nnen nicht bedient werden+++</ul><br>Die Behinderungen werden noch voraussichtlich bis 20:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Streckenunterbrechung wegen Falschparker",
     "type": "DISRUPTION"
   },
   {

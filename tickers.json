@@ -84,6 +84,74 @@
         "typeOfTransport": "METRO"
       },
       {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
         "direction": "2",
         "id": "2",
         "name": "U2",
@@ -195,74 +263,6 @@
           {
             "id": "de:09162:320",
             "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
           }
         ],
         "typeOfTransport": "METRO"
@@ -388,6 +388,321 @@
     "modificationDate": "2024-03-27T12:28:20Z",
     "text": "<div>Wegen eines Gleiswechsels im Bereich Kolumbusplatz verkehren die U1 und U2 von Sonntag, 24. M&auml;rz bis vsl. Dienstag, 9. April in verschiedenen Zeitr&auml;umen jeweils <strong>von 23:45 bis Betriebsschluss</strong> eingeschr&auml;nkt.&nbsp;<br />&nbsp;<br /><strong>Sonntag, 24. M&auml;rz bis Mittwoch 27. M&auml;rz</strong><br /><strong>Montag, 1. April bis Donnerstag, 4. April</strong><br /><strong>Sonntag, 7. April bis Dienstag, 9. April</strong><br />&nbsp;<br />Die U1 verkehrt in oben genannten Zeitr&auml;umen nur in den Abschnitten Olympia-Einkaufszentrum - Hauptbahnhof und Kolumbusplatz - Mangfallplatz. Weichen Sie bitte im Abschnitt Hauptbahnhof - Kolumbusplatz auf die U2 aus.<br />&nbsp;<br />Die U2 verkehrt in den Abschnitten Feldmoching - Hauptbahnhof und Hauptbahnhof - Messestadt Ost im 20-Minuten Takt. Zur Weiterfahrt ist am Hauptbahnhof ein Umstieg &uuml;ber das Zwischengeschoss notwendig.&nbsp;<br />&nbsp;<br />Bitte beachten Sie, dass an den Bahnh&ouml;fen St.-Quirin-Platz bis Kolumbusplatz, Untersbergstra&szlig;e bis Sendlinger Tor und am Stiglmaierplatz die U-Bahnen in beiden Richtungen vom selben Gleis abfahren. Achten Sie hierf&uuml;r auf die &ouml;rtlichen Wegweiser und Zugzielanzeigen.</div>",
     "title": "Einschränkungen wegen eines Gleiswechsels",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-27T14:52:00Z",
+      "toDate": "2024-03-27T15:52:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "ea1fb91e-81cc-4e63-94ff-8ee4385714f6",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-27T14:52:00Z",
+        "toDate": "2024-03-27T15:52:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1134",
+            "name": "Gotzinger Platz"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:122",
+            "name": "Ludwigsbrücke"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:93",
+            "name": "Tal"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-27T14:53:31Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

@@ -392,6 +392,213 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-27T14:52:00Z",
+      "toDate": "2024-03-27T17:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 178 wird in beiden Richtungen zwischen Petuelring und Moosacher Straße umgeleitet. Die Haltestellen Anhalter Platz, Lüneburger Straße und Schopenhauerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "ea1fb91e-81cc-4e63-94ff-8ee4385714f6",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-27T14:52:00Z",
+        "toDate": "2024-03-27T17:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "178",
+        "name": "178",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:335",
+            "name": "Schopenhauerstraße"
+          },
+          {
+            "id": "de:09162:336",
+            "name": "Lüneburger Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:757",
+            "name": "Oberhofer Weg"
+          },
+          {
+            "id": "de:09162:762",
+            "name": "Hufelandstraße"
+          },
+          {
+            "id": "de:09162:758",
+            "name": "Anton-Ditt-Bogen"
+          },
+          {
+            "id": "de:09162:767",
+            "name": "Lotte-Branz-Straße"
+          },
+          {
+            "id": "de:09162:771",
+            "name": "Helene-Wessel-Bogen"
+          },
+          {
+            "id": "de:09162:768",
+            "name": "Margot-Kalinke-Straße"
+          },
+          {
+            "id": "de:09162:769",
+            "name": "Maria-Probst-Straße"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:464",
+            "name": "Edmund-Rumpler-Straße"
+          },
+          {
+            "id": "de:09162:463",
+            "name": "Alois-Wolfmüller-Straße"
+          },
+          {
+            "id": "de:09162:466",
+            "name": "Freimanner Hölzl"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "178",
+        "name": "178",
+        "stations": [
+          {
+            "id": "de:09162:466",
+            "name": "Freimanner Hölzl"
+          },
+          {
+            "id": "de:09162:465",
+            "name": "Lindberghstraße"
+          },
+          {
+            "id": "de:09162:463",
+            "name": "Alois-Wolfmüller-Straße"
+          },
+          {
+            "id": "de:09162:464",
+            "name": "Edmund-Rumpler-Straße"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:769",
+            "name": "Maria-Probst-Straße"
+          },
+          {
+            "id": "de:09162:768",
+            "name": "Margot-Kalinke-Straße"
+          },
+          {
+            "id": "de:09162:767",
+            "name": "Lotte-Branz-Straße"
+          },
+          {
+            "id": "de:09162:758",
+            "name": "Anton-Ditt-Bogen"
+          },
+          {
+            "id": "de:09162:762",
+            "name": "Hufelandstraße"
+          },
+          {
+            "id": "de:09162:757",
+            "name": "Oberhofer Weg"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:336",
+            "name": "Lüneburger Straße"
+          },
+          {
+            "id": "de:09162:335",
+            "name": "Schopenhauerstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-27T16:05:05Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 178 wird in beiden Richtungen zwischen Petuelring und Moosacher Straße umgeleitet. Die Haltestellen Anhalter Platz, Lüneburger Straße und Schopenhauerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-27T15:40:00Z",
       "toDate": "2024-03-27T18:30:00Z"
     },

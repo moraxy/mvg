@@ -599,6 +599,165 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-27T17:22:00Z",
+      "toDate": "2024-03-27T21:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 196 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "25018215-c51d-4ea1-93a3-abaa069e4fd0",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-27T17:22:00Z",
+        "toDate": "2024-03-27T21:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "196",
+        "name": "196",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1029",
+            "name": "Wolframstraße"
+          },
+          {
+            "id": "de:09162:1000",
+            "name": "Perlach Bf."
+          },
+          {
+            "id": "de:09162:998",
+            "name": "Weidener Straße"
+          },
+          {
+            "id": "de:09162:999",
+            "name": "Bayerwaldstraße"
+          },
+          {
+            "id": "de:09162:1002",
+            "name": "Nailastraße"
+          },
+          {
+            "id": "de:09162:1006",
+            "name": "Rudolf-Zorn-Straße"
+          },
+          {
+            "id": "de:09162:1008",
+            "name": "Hermann-Pünder-Straße"
+          },
+          {
+            "id": "de:09162:1012",
+            "name": "Ludwig-Linsert-Straße"
+          },
+          {
+            "id": "de:09162:1013",
+            "name": "Ludwig-Erhard-Allee"
+          },
+          {
+            "id": "de:09162:1018",
+            "name": "Curd-Jürgens-Straße"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "196",
+        "name": "196",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:1018",
+            "name": "Curd-Jürgens-Straße"
+          },
+          {
+            "id": "de:09162:1013",
+            "name": "Ludwig-Erhard-Allee"
+          },
+          {
+            "id": "de:09162:1012",
+            "name": "Ludwig-Linsert-Straße"
+          },
+          {
+            "id": "de:09162:1008",
+            "name": "Hermann-Pünder-Straße"
+          },
+          {
+            "id": "de:09162:1006",
+            "name": "Rudolf-Zorn-Straße"
+          },
+          {
+            "id": "de:09162:1002",
+            "name": "Nailastraße"
+          },
+          {
+            "id": "de:09162:999",
+            "name": "Bayerwaldstraße"
+          },
+          {
+            "id": "de:09162:998",
+            "name": "Weidener Straße"
+          },
+          {
+            "id": "de:09162:1000",
+            "name": "Perlach Bf."
+          },
+          {
+            "id": "de:09162:1029",
+            "name": "Wolframstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-27T17:23:56Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 196 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-27T15:40:00Z",
       "toDate": "2024-03-27T18:30:00Z"
     },

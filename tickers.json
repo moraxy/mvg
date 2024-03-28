@@ -1,6 +1,109 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-28T19:33:00Z",
+      "toDate": "2024-03-28T20:33:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 23 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 21:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "c79c1fa7-cac1-4c1d-b2cb-eb7ec8096650",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-28T19:33:00Z",
+        "toDate": "2024-03-28T20:33:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "23",
+        "name": "23",
+        "stations": [
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:988",
+            "name": "Anni-Albers-Straße"
+          },
+          {
+            "id": "de:09162:501",
+            "name": "Am Münchner Tor"
+          },
+          {
+            "id": "de:09162:459",
+            "name": "Schwabinger Tor"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "23",
+        "name": "23",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:459",
+            "name": "Schwabinger Tor"
+          },
+          {
+            "id": "de:09162:501",
+            "name": "Am Münchner Tor"
+          },
+          {
+            "id": "de:09162:988",
+            "name": "Anni-Albers-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-28T19:36:10Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 23 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 21:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-28T19:20:00Z",
       "toDate": "2024-03-28T21:00:00Z"
     },

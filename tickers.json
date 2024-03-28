@@ -84,6 +84,74 @@
         "typeOfTransport": "METRO"
       },
       {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
         "direction": "2",
         "id": "2",
         "name": "U2",
@@ -195,74 +263,6 @@
           {
             "id": "de:09162:320",
             "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
           }
         ],
         "typeOfTransport": "METRO"
@@ -388,6 +388,253 @@
     "modificationDate": "2024-03-27T12:28:20Z",
     "text": "<div>Wegen eines Gleiswechsels im Bereich Kolumbusplatz verkehren die U1 und U2 von Sonntag, 24. M&auml;rz bis vsl. Dienstag, 9. April in verschiedenen Zeitr&auml;umen jeweils <strong>von 23:45 bis Betriebsschluss</strong> eingeschr&auml;nkt.&nbsp;<br />&nbsp;<br /><strong>Sonntag, 24. M&auml;rz bis Mittwoch 27. M&auml;rz</strong><br /><strong>Montag, 1. April bis Donnerstag, 4. April</strong><br /><strong>Sonntag, 7. April bis Dienstag, 9. April</strong><br />&nbsp;<br />Die U1 verkehrt in oben genannten Zeitr&auml;umen nur in den Abschnitten Olympia-Einkaufszentrum - Hauptbahnhof und Kolumbusplatz - Mangfallplatz. Weichen Sie bitte im Abschnitt Hauptbahnhof - Kolumbusplatz auf die U2 aus.<br />&nbsp;<br />Die U2 verkehrt in den Abschnitten Feldmoching - Hauptbahnhof und Hauptbahnhof - Messestadt Ost im 20-Minuten Takt. Zur Weiterfahrt ist am Hauptbahnhof ein Umstieg &uuml;ber das Zwischengeschoss notwendig.&nbsp;<br />&nbsp;<br />Bitte beachten Sie, dass an den Bahnh&ouml;fen St.-Quirin-Platz bis Kolumbusplatz, Untersbergstra&szlig;e bis Sendlinger Tor und am Stiglmaierplatz die U-Bahnen in beiden Richtungen vom selben Gleis abfahren. Achten Sie hierf&uuml;r auf die &ouml;rtlichen Wegweiser und Zugzielanzeigen.</div>",
     "title": "Einschränkungen wegen eines Gleiswechsels",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-28T04:13:00Z",
+      "toDate": "2024-03-28T05:13:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U6 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "ffec258b-0324-4562-86a5-e7c863ae0b89",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-28T04:13:00Z",
+        "toDate": "2024-03-28T05:13:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-28T04:15:07Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U6 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

@@ -5,7 +5,7 @@
       "toDate": "2024-03-28T18:47:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 19:50 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U2 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "id": "63534a74-5895-422c-a916-11c06bc06baf",
     "incidentDuration": [
       {
@@ -249,9 +249,60 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-28T17:47:26Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 19:50 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "modificationDate": "2024-03-28T17:47:40Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U2 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-03-28T17:48:00Z",
+      "toDate": "2024-03-28T18:48:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Rettungseinsatzes im Bereich Kafkastraße kommt es auf den Linien 197 Außenring und 197 Innenring derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 19:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "1bddb400-7c55-4b61-a2e5-9fcfd76c5300",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-28T17:48:00Z",
+        "toDate": "2024-03-28T18:48:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-28T17:52:04Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Rettungseinsatzes im Bereich Kafkastraße kommt es auf den Linien 197 Außenring und 197 Innenring derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 19:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen wegen eines Rettungseinsatzes",
     "type": "DISRUPTION"
   },
   {

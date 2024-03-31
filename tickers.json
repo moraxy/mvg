@@ -1,6 +1,117 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-03-31T20:09:00Z",
+      "toDate": "2024-03-31T21:09:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Feuerwehreinsatzes kommt es auf der Linie 166 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "d5ef0fed-a4a1-40da-a6c9-8c9327dbd085",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-31T20:09:00Z",
+        "toDate": "2024-03-31T21:09:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1441",
+            "name": "Maxhofstraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1436",
+            "name": "Tischlerstraße"
+          },
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          },
+          {
+            "id": "de:09162:1454",
+            "name": "Appenzeller Straße"
+          },
+          {
+            "id": "de:09162:1452",
+            "name": "Tessiner Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-31T20:10:21Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Feuerwehreinsatzes kommt es auf der Linie 166 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T08:00:00Z",
       "toDate": "2024-04-08T00:39:00Z"
     },

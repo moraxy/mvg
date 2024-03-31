@@ -392,6 +392,113 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-31T22:55:00Z",
+      "toDate": "2024-03-31T23:09:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "e47e1c99-0a31-4579-a93b-1108491e8bed",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-03-31T22:55:00Z",
+        "toDate": "2024-03-31T23:09:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "142",
+        "name": "142",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:513",
+            "name": "Barlachstraße"
+          },
+          {
+            "id": "de:09162:424",
+            "name": "Klopstockstraße"
+          },
+          {
+            "id": "de:09162:418",
+            "name": "Mildred-Scheel-Bogen"
+          },
+          {
+            "id": "de:09162:431",
+            "name": "Heckscherstraße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "142",
+        "name": "142",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:431",
+            "name": "Heckscherstraße"
+          },
+          {
+            "id": "de:09162:418",
+            "name": "Mildred-Scheel-Bogen"
+          },
+          {
+            "id": "de:09162:424",
+            "name": "Klopstockstraße"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-31T19:25:43Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T08:00:00Z",
       "toDate": "2024-04-08T00:39:00Z"
     },

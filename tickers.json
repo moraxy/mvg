@@ -1556,15 +1556,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-03-31T12:01:00Z",
-      "toDate": "2024-03-31T13:01:00Z"
+      "toDate": "2024-03-31T14:01:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Schrankenstörung im Bereich Franz-Sperr-Weg kommt es auf den Linien 60 und 173 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Schrankenstörung im Bereich Franz-Sperr-Weg kommt es auf den Linien 60, 140, 141 und 173 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "602ddc61-a2a1-4b0b-ac42-ee7e527d65a6",
     "incidentDuration": [
       {
         "fromDate": "2024-03-31T12:01:00Z",
-        "toDate": "2024-03-31T13:01:00Z"
+        "toDate": "2024-03-31T14:01:00Z"
       }
     ],
     "incidents": [],
@@ -1739,6 +1739,394 @@
       },
       {
         "direction": "2",
+        "id": "140",
+        "name": "140",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "140",
+        "name": "140",
+        "stations": [
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "141",
+        "name": "141",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:415",
+            "name": "Euro-Industriepark West"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:423",
+            "name": "Griegstraße"
+          },
+          {
+            "id": "de:09162:458",
+            "name": "Freiligrathstraße"
+          },
+          {
+            "id": "de:09162:432",
+            "name": "Wilhelm-Hertz-Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
         "id": "173",
         "name": "173",
         "stations": [
@@ -1867,9 +2255,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-31T12:02:08Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Schrankenstörung im Bereich Franz-Sperr-Weg kommt es auf den Linien 60 und 173 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Erhebliche Behinderungen wegen einer Schrankenstörung",
+    "modificationDate": "2024-03-31T12:14:52Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Schrankenstörung im Bereich Franz-Sperr-Weg kommt es auf den Linien 60, 140, 141 und 173 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer Schrankenstörung",
     "type": "DISRUPTION"
   },
   {

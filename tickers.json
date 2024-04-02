@@ -1,6 +1,113 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-02T03:54:00Z",
+      "toDate": "2024-04-02T11:20:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "b8713aac-be89-4f5d-9cb1-a3fb37b0e5dd",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-02T03:54:00Z",
+        "toDate": "2024-04-02T11:20:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "158",
+        "name": "158",
+        "stations": [
+          {
+            "id": "de:09162:1768",
+            "name": "Im Wismat"
+          },
+          {
+            "id": "de:09162:1769",
+            "name": "Thuillestraße"
+          },
+          {
+            "id": "de:09162:1770",
+            "name": "Bauseweinallee"
+          },
+          {
+            "id": "de:09162:1771",
+            "name": "Stücklenstraße"
+          },
+          {
+            "id": "de:09162:1772",
+            "name": "Heerstraße West"
+          },
+          {
+            "id": "de:09162:1773",
+            "name": "Karwinskistraße Ost"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "158",
+        "name": "158",
+        "stations": [
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1766",
+            "name": "Karwinskistraße West"
+          },
+          {
+            "id": "de:09162:1767",
+            "name": "Benderstraße"
+          },
+          {
+            "id": "de:09162:1768",
+            "name": "Im Wismat"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-02T03:55:43Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T08:00:00Z",
       "toDate": "2024-04-08T00:39:00Z"
     },

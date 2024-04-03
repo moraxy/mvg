@@ -1,6 +1,233 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-03T13:12:00Z",
+      "toDate": "2024-04-03T15:15:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "9fb9e9ac-1a38-410a-8914-f4a790320010",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-03T13:12:00Z",
+        "toDate": "2024-04-03T15:15:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "195",
+        "name": "195",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:970",
+            "name": "Otto-Hahn-Ring"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:996",
+            "name": "Franz-Heubl-Straße"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:959",
+            "name": "Alois-Hahn-Weg"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:950",
+            "name": "Zauberwaldstraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:946",
+            "name": "Simplonstraße"
+          },
+          {
+            "id": "de:09162:945",
+            "name": "Mönchbergstraße"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:944",
+            "name": "Gnadenwaldplatz"
+          },
+          {
+            "id": "de:09162:943",
+            "name": "Rofanstraße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:1007",
+            "name": "Heinrich-Wieland-Straße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "195",
+        "name": "195",
+        "stations": [
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1007",
+            "name": "Heinrich-Wieland-Straße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:943",
+            "name": "Rofanstraße"
+          },
+          {
+            "id": "de:09162:944",
+            "name": "Gnadenwaldplatz"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:945",
+            "name": "Mönchbergstraße"
+          },
+          {
+            "id": "de:09162:946",
+            "name": "Simplonstraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:950",
+            "name": "Zauberwaldstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:959",
+            "name": "Alois-Hahn-Weg"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:970",
+            "name": "Otto-Hahn-Ring"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-03T13:12:56Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T08:00:00Z",
       "toDate": "2024-04-08T00:39:00Z"
     },

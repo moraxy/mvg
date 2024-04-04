@@ -1,11 +1,102 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-04T03:17:00Z",
+      "toDate": "2024-04-04T04:13:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U1 sind noch bis voraussichtlich 06:10 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <div>Ausfall U1:</div>\n<div>Ab Mangfallplatz 05:44 in Richtung Olympia-Einkaufszentrum.</div><br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/> Ihre MVG ",
+    "id": "124c0fd6-2311-4afd-bb51-c71f5a543a79",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-04T03:17:00Z",
+        "toDate": "2024-04-04T04:13:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-04T03:36:02Z",
+    "text": "Liebe Fahrgäste, <br/>auf der Linie U1 sind noch bis voraussichtlich 06:10 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <div>Ausfall U1:</div>\n<div>Ab Mangfallplatz 05:44 in Richtung Olympia-Einkaufszentrum.</div><br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/> Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-04T03:07:00Z",
       "toDate": "2024-04-04T04:07:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Polizeieinsatzes kommt es auf der Linie 21 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Polizeieinsatzes kommt es auf der Linie 21 in Richtung St.-Veit-Straße                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "id": "19fe7568-5f91-4d9f-9fe0-7abb006e9e68",
     "incidentDuration": [
       {
@@ -134,131 +225,11 @@
           }
         ],
         "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "21",
-        "name": "21",
-        "stations": [
-          {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:305",
-            "name": "Borstei"
-          },
-          {
-            "id": "de:09162:285",
-            "name": "Stadtwerke München"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          }
-        ],
-        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-04T03:32:19Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Polizeieinsatzes kommt es auf der Linie 21 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "modificationDate": "2024-04-04T03:34:21Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Polizeieinsatzes kommt es auf der Linie 21 in Richtung St.-Veit-Straße                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen eines Polizeieinsatzes",
     "type": "DISRUPTION"
   },

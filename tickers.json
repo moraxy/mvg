@@ -241,15 +241,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-04T05:09:00Z",
-      "toDate": "2024-04-04T06:09:00Z"
+      "toDate": "2024-04-04T05:30:17Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Hauptbahnhof kommt es auf der Linie 20 in Richtung Moosach Bf. derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Linie 20 Richtung Moosach Bf. fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Die Linie 20 fährt am Hauptbahnhof in Richtung Moosach an der Haltestelle der Linie 19 Richtung Berg am Laim Bf ab !+++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 08:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 20 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "1f6d81f1-1d48-46a8-8283-02eac85679c9",
     "incidentDuration": [
       {
         "fromDate": "2024-04-04T05:09:00Z",
-        "toDate": "2024-04-04T06:09:00Z"
+        "toDate": "2024-04-04T05:20:17Z"
       }
     ],
     "incidents": [],
@@ -332,9 +332,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-04T05:16:24Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Hauptbahnhof kommt es auf der Linie 20 in Richtung Moosach Bf. derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Linie 20 Richtung Moosach Bf. fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Die Linie 20 fährt am Hauptbahnhof in Richtung Moosach an der Haltestelle der Linie 19 Richtung Berg am Laim Bf ab !+++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 08:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-04-04T05:20:17Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 20 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -353,174 +353,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "60",
-        "name": "60",
-        "stations": [
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:355",
-            "name": "Gundermannstraße"
-          },
-          {
-            "id": "de:09162:363",
-            "name": "Pulverturmstraße"
-          },
-          {
-            "id": "de:09162:354",
-            "name": "Goldlackplatz"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:343",
-            "name": "Max-Wönner-Straße"
-          },
-          {
-            "id": "de:09162:342",
-            "name": "Lerchenauer See"
-          },
-          {
-            "id": "de:09162:341",
-            "name": "Himmelschlüsselstraße"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "60",
-        "name": "60",
-        "stations": [
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:341",
-            "name": "Himmelschlüsselstraße"
-          },
-          {
-            "id": "de:09162:342",
-            "name": "Lerchenauer See"
-          },
-          {
-            "id": "de:09162:343",
-            "name": "Max-Wönner-Straße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:354",
-            "name": "Goldlackplatz"
-          },
-          {
-            "id": "de:09162:363",
-            "name": "Pulverturmstraße"
-          },
-          {
-            "id": "de:09162:355",
-            "name": "Gundermannstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
       {
         "direction": "1",
         "id": "171",
@@ -635,7 +467,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-04T04:54:05Z",
+    "modificationDate": "2024-04-04T05:21:01Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

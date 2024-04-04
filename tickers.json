@@ -1,6 +1,89 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-04T04:57:00Z",
+      "toDate": "2024-04-04T05:20:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie U4 in Richtung Arabellapark                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "59376a6e-91bd-42d2-9d84-eee388f59195",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-04T04:57:00Z",
+        "toDate": "2024-04-04T05:20:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-04T04:58:03Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie U4 in Richtung Arabellapark                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-04T03:11:00Z",
       "toDate": "2024-04-04T08:16:00Z"
     },
@@ -15,6 +98,174 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "1",
         "id": "171",
@@ -126,382 +377,10 @@
           }
         ],
         "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "141",
-        "name": "141",
-        "stations": [
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:432",
-            "name": "Wilhelm-Hertz-Straße"
-          },
-          {
-            "id": "de:09162:458",
-            "name": "Freiligrathstraße"
-          },
-          {
-            "id": "de:09162:423",
-            "name": "Griegstraße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:426",
-            "name": "Ingolstädter Straße"
-          },
-          {
-            "id": "de:09162:415",
-            "name": "Euro-Industriepark West"
-          },
-          {
-            "id": "de:09162:439",
-            "name": "Gundelkoferstraße"
-          },
-          {
-            "id": "de:09162:451",
-            "name": "Kollwitzstraße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
-          },
-          {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
-          },
-          {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
-          },
-          {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
-          },
-          {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
-          },
-          {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "141",
-        "name": "141",
-        "stations": [
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:405",
-            "name": "Weitlstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
-          },
-          {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
-          },
-          {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
-          },
-          {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
-          },
-          {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
-          },
-          {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:451",
-            "name": "Kollwitzstraße"
-          },
-          {
-            "id": "de:09162:439",
-            "name": "Gundelkoferstraße"
-          },
-          {
-            "id": "de:09162:415",
-            "name": "Euro-Industriepark West"
-          },
-          {
-            "id": "de:09162:426",
-            "name": "Ingolstädter Straße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:423",
-            "name": "Griegstraße"
-          },
-          {
-            "id": "de:09162:458",
-            "name": "Freiligrathstraße"
-          },
-          {
-            "id": "de:09162:432",
-            "name": "Wilhelm-Hertz-Straße"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "60",
-        "name": "60",
-        "stations": [
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:355",
-            "name": "Gundermannstraße"
-          },
-          {
-            "id": "de:09162:363",
-            "name": "Pulverturmstraße"
-          },
-          {
-            "id": "de:09162:354",
-            "name": "Goldlackplatz"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:343",
-            "name": "Max-Wönner-Straße"
-          },
-          {
-            "id": "de:09162:342",
-            "name": "Lerchenauer See"
-          },
-          {
-            "id": "de:09162:341",
-            "name": "Himmelschlüsselstraße"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "60",
-        "name": "60",
-        "stations": [
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:341",
-            "name": "Himmelschlüsselstraße"
-          },
-          {
-            "id": "de:09162:342",
-            "name": "Lerchenauer See"
-          },
-          {
-            "id": "de:09162:343",
-            "name": "Max-Wönner-Straße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:354",
-            "name": "Goldlackplatz"
-          },
-          {
-            "id": "de:09162:363",
-            "name": "Pulverturmstraße"
-          },
-          {
-            "id": "de:09162:355",
-            "name": "Gundermannstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-04T04:45:48Z",
+    "modificationDate": "2024-04-04T04:54:05Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

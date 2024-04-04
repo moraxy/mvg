@@ -1,85 +1,340 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-04T04:57:00Z",
-      "toDate": "2024-04-04T05:20:00Z"
+      "fromDate": "2024-04-04T04:58:00Z",
+      "toDate": "2024-04-04T08:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie U4 in Richtung Arabellapark                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
-    "id": "59376a6e-91bd-42d2-9d84-eee388f59195",
+    "htmlText": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:00 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
+    "id": "fa7c3bb1-3023-4275-8c10-d351d66037ea",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-04T04:57:00Z",
-        "toDate": "2024-04-04T05:20:00Z"
+        "fromDate": "2024-04-04T04:58:00Z",
+        "toDate": "2024-04-04T08:00:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "4",
-        "name": "U4",
+        "id": "3",
+        "name": "U3",
         "stations": [
           {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
           },
           {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
           },
           {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           },
           {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
           },
           {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
           },
           {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
           },
           {
             "id": "de:09162:60",
             "name": "Odeonsplatz"
           },
           {
-            "id": "de:09162:590",
-            "name": "Lehel"
+            "id": "de:09162:2",
+            "name": "Marienplatz"
           },
           {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           },
           {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
           },
           {
-            "id": "de:09162:560",
-            "name": "Böhmerwaldplatz"
+            "id": "de:09162:30",
+            "name": "Poccistraße"
           },
           {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
           },
           {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
           }
         ],
         "typeOfTransport": "METRO"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-04T04:58:03Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie U4 in Richtung Arabellapark                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen einer Betriebsstörung",
+    "modificationDate": "2024-04-04T05:09:48Z",
+    "text": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:00 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
+    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-04T05:09:00Z",
+      "toDate": "2024-04-04T06:09:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Hauptbahnhof kommt es auf der Linie 20 in Richtung Moosach Bf. derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 08:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "1f6d81f1-1d48-46a8-8283-02eac85679c9",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-04T05:09:00Z",
+        "toDate": "2024-04-04T06:09:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "20",
+        "name": "20",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-04T05:11:19Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Hauptbahnhof kommt es auf der Linie 20 in Richtung Moosach Bf. derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 08:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

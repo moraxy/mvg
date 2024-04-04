@@ -1,16 +1,16 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-04T04:58:00Z",
-      "toDate": "2024-04-04T08:00:00Z"
+      "fromDate": "2024-04-04T07:48:00Z",
+      "toDate": "2024-04-04T08:48:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:00 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
-    "id": "fa7c3bb1-3023-4275-8c10-d351d66037ea",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien U3 und U6 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "528623a5-a76e-43c7-b590-a45469243399",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-04T04:58:00Z",
-        "toDate": "2024-04-04T08:00:00Z"
+        "fromDate": "2024-04-04T07:48:00Z",
+        "toDate": "2024-04-04T08:48:00Z"
       }
     ],
     "incidents": [],
@@ -230,12 +230,236 @@
           }
         ],
         "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-04T05:09:48Z",
-    "text": "Liebe Fahrg&auml;ste, auf der Linie U3 sind noch bis voraussichtlich 10:00 Uhr nicht alle planm&auml;&szlig;igen Z&uuml;ge im Einsatz. Es kann daher vereinzelt zu Taktl&uuml;cken und l&auml;ngeren Wartezeiten kommen. Wir bitten um Entschuldigung.<br />Ihre MVG<br/>\r\n\r\n",
-    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "modificationDate": "2024-04-04T07:48:45Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien U3 und U6 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

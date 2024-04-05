@@ -2,25 +2,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 1,
-    "destination": "Fürstenried West",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1712275140000,
-    "realtime": true,
-    "realtimeDepartureTime": 1712275200000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 1,
+    "delayInMinutes": 2,
     "destination": "Feldmoching Bf.",
     "divaId": "33N41",
     "label": "N41",
@@ -29,7 +11,7 @@
     "occupancy": "LOW",
     "plannedDepartureTime": 1712275260000,
     "realtime": true,
-    "realtimeDepartureTime": 1712275320000,
+    "realtimeDepartureTime": 1712275380000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
     "trainType": "",
@@ -355,5 +337,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Petuelring U",
+    "divaId": "03178",
+    "label": "178",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "MEDIUM",
+    "plannedDepartureTime": 1712287980000,
+    "realtime": false,
+    "realtimeDepartureTime": 1712287980000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

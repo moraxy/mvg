@@ -1,465 +1,141 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-05T16:18:00Z",
-      "toDate": "2024-04-05T20:30:00Z"
+      "fromDate": "2024-04-05T19:58:00Z",
+      "toDate": "2024-04-05T20:58:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Münchner Freiheit kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U3 und U6. <br>Die Behinderungen werden noch voraussichtlich bis 22:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "id": "87b77620-ba72-4af5-8382-01f2c1e3798b",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer technischen Störung kommt es auf der Linie U2 in Richtung Feldmoching Bf.                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "53b0a008-1bd0-4aea-a68f-43ee6d2759e8",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-05T16:18:00Z",
-        "toDate": "2024-04-05T20:30:00Z"
+        "fromDate": "2024-04-05T19:58:00Z",
+        "toDate": "2024-04-05T20:58:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "1",
-        "id": "3",
-        "name": "U3",
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
         "stations": [
           {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
           },
           {
-            "id": "de:09162:370",
-            "name": "Moosacher St.-Martins-Platz"
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
           },
           {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
           },
           {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
           },
           {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
           },
           {
-            "id": "de:09162:340",
-            "name": "Petuelring"
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
           },
           {
             "id": "de:09162:400",
             "name": "Scheidplatz"
           },
           {
-            "id": "de:09162:410",
-            "name": "Bonner Platz"
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
           },
           {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
           },
           {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
+            "id": "de:09162:760",
+            "name": "Am Hart"
           },
           {
-            "id": "de:09162:70",
-            "name": "Universität"
+            "id": "de:09162:770",
+            "name": "Harthof"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           },
           {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1440",
-            "name": "Thalkirchen (Tierpark)"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1490",
-            "name": "Basler Straße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "3",
-        "name": "U3",
-        "stations": [
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1490",
-            "name": "Basler Straße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1440",
-            "name": "Thalkirchen (Tierpark)"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:410",
-            "name": "Bonner Platz"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:370",
-            "name": "Moosacher St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "6",
-        "name": "U6",
-        "stations": [
-          {
-            "id": "de:09162:1540",
-            "name": "Klinikum Großhadern"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1520",
-            "name": "Haderner Stern"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1340",
-            "name": "Westpark"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:510",
-            "name": "Dietlindenstraße"
-          },
-          {
-            "id": "de:09162:520",
-            "name": "Nordfriedhof"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:420",
-            "name": "Freimann"
-          },
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          },
-          {
-            "id": "de:09162:470",
-            "name": "Fröttmaning"
-          },
-          {
-            "id": "de:09184:480",
-            "name": "Garching-Hochbrück"
-          },
-          {
-            "id": "de:09184:490",
-            "name": "Garching"
-          },
-          {
-            "id": "de:09184:460",
-            "name": "Garching-Forschungszentrum"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "6",
-        "name": "U6",
-        "stations": [
-          {
-            "id": "de:09184:460",
-            "name": "Garching-Forschungszentrum"
-          },
-          {
-            "id": "de:09184:490",
-            "name": "Garching"
-          },
-          {
-            "id": "de:09184:480",
-            "name": "Garching-Hochbrück"
-          },
-          {
-            "id": "de:09162:470",
-            "name": "Fröttmaning"
-          },
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          },
-          {
-            "id": "de:09162:420",
-            "name": "Freimann"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:520",
-            "name": "Nordfriedhof"
-          },
-          {
-            "id": "de:09162:510",
-            "name": "Dietlindenstraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1340",
-            "name": "Westpark"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1520",
-            "name": "Haderner Stern"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1540",
-            "name": "Klinikum Großhadern"
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
           }
         ],
         "typeOfTransport": "METRO"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-05T19:30:02Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Münchner Freiheit kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf den Linien U3 und U6. <br>Die Behinderungen werden noch voraussichtlich bis 22:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
+    "modificationDate": "2024-04-05T19:59:37Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer technischen Störung kommt es auf der Linie U2 in Richtung Feldmoching Bf.                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer technischen Störung",
     "type": "DISRUPTION"
   },
   {

@@ -1413,6 +1413,161 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-06T07:15:00Z",
+      "toDate": "2024-04-06T11:50:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Toni-Merkens-Weg kommt es auf der Linie 144 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "2275af9f-00e6-4f0b-ba4b-1c915a6e6787",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T07:15:00Z",
+        "toDate": "2024-04-06T11:50:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:291",
+            "name": "Sapporobogen"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:164",
+            "name": "Hanebergstraße"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:158",
+            "name": "Hubertusbrunnen"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:163",
+            "name": "Volkartstraße Ost"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T10:48:29Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Toni-Merkens-Weg kommt es auf der Linie 144 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T08:00:00Z",
       "toDate": "2024-04-08T00:39:00Z"
     },

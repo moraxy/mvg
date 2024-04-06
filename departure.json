@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 5,
-    "destination": "Feldmoching Bf.",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1712363460000,
-    "realtime": true,
-    "realtimeDepartureTime": 1712363760000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:4:4",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Fürstenried West",
     "divaId": "33N41",
@@ -356,5 +338,23 @@
     "stopPointGlobalId": "de:09162:750:51:51",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Am Hart",
+    "divaId": "33N41",
+    "label": "N41",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "LOW",
+    "plannedDepartureTime": 1712371560000,
+    "realtime": true,
+    "realtimeDepartureTime": 1712371560000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:4:4",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

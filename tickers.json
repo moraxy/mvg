@@ -1,205 +1,145 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-06T15:59:00Z",
-      "toDate": "2024-04-06T17:30:00Z"
+      "fromDate": "2024-04-06T16:31:00Z",
+      "toDate": "2024-04-06T17:31:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Spixstraße kommt es auf der Linie 54 in Richtung Lorettoplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 54 in Richtung Lorettoplatz wird zwischen Valeppstraße und Tegernseer Landstraße umgeleitet. Die Haltestelle Spixstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "366f247d-13c3-42dc-9a1e-b3ca12f7109f",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 56 in Richtung Schloss Blutenburg                 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "3478621a-4d51-4079-a606-f8adfe962b9d",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-06T15:59:00Z",
-        "toDate": "2024-04-06T17:30:00Z"
+        "fromDate": "2024-04-06T16:31:00Z",
+        "toDate": "2024-04-06T17:31:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "1",
-        "id": "54",
-        "name": "54",
+        "direction": "2",
+        "id": "56",
+        "name": "56",
         "stations": [
           {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
           },
           {
-            "id": "de:09162:108",
-            "name": "Hohenzollernstraße"
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
           },
           {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
           },
           {
-            "id": "de:09162:136",
-            "name": "Thiemestraße"
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
           },
           {
-            "id": "de:09162:135",
-            "name": "Chinesischer Turm"
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
           },
           {
-            "id": "de:09162:132",
-            "name": "Hirschauer Straße"
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
           },
           {
-            "id": "de:09162:137",
-            "name": "Am Tucherpark"
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
           },
           {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
+            "id": "de:09162:1530",
+            "name": "Großhadern"
           },
           {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
           },
           {
-            "id": "de:09162:134",
-            "name": "Wehrlestraße"
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
           },
           {
-            "id": "de:09162:133",
-            "name": "Galileiplatz"
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
           },
           {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
           },
           {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
+            "id": "de:09162:1634",
+            "name": "Blumenau"
           },
           {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
           },
           {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
           },
           {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
           },
           {
-            "id": "de:09162:92",
-            "name": "Kustermannpark"
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
           },
           {
-            "id": "de:09162:1025",
-            "name": "St.-Martin-Straße Ost"
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
           },
           {
-            "id": "de:09162:1026",
-            "name": "Thomasiusplatz"
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
           },
           {
-            "id": "de:09162:1044",
-            "name": "Ungsteiner Straße"
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
           },
           {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
           },
           {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
           },
           {
-            "id": "de:09162:1045",
-            "name": "Fockensteinstraße"
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
           },
           {
-            "id": "de:09162:1046",
-            "name": "Valeppstraße"
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
           },
           {
-            "id": "de:09162:1146",
-            "name": "Spixstraße"
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
           },
           {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
           },
           {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
           },
           {
-            "id": "de:09162:1191",
-            "name": "Gerhardstraße"
-          },
-          {
-            "id": "de:09162:1148",
-            "name": "Schäftlarnstraße"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1431",
-            "name": "Sylvensteinstraße"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1305",
-            "name": "Drachenseestraße"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1306",
-            "name": "Fernpaßstraße"
-          },
-          {
-            "id": "de:09162:1307",
-            "name": "Luise-Kiesselbach-Platz"
-          },
-          {
-            "id": "de:09162:1308",
-            "name": "Ettalstraße"
-          },
-          {
-            "id": "de:09162:1309",
-            "name": "Werdenfelsstraße"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1502",
-            "name": "Kornwegerstraße"
-          },
-          {
-            "id": "de:09162:1402",
-            "name": "Aurikelstraße"
-          },
-          {
-            "id": "de:09162:1404",
-            "name": "Lorettoplatz"
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T16:22:08Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Spixstraße kommt es auf der Linie 54 in Richtung Lorettoplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 54 in Richtung Lorettoplatz wird zwischen Valeppstraße und Tegernseer Landstraße umgeleitet. Die Haltestelle Spixstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-04-06T16:32:36Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 56 in Richtung Schloss Blutenburg                 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

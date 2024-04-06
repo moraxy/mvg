@@ -132,141 +132,6 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-06T04:43:00Z",
-      "toDate": "2024-04-06T05:43:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Marienplatz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U6 in Richtung Garching-Forschungszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 07:40 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "id": "1b1ec3e8-8814-4162-b963-cda5fd4bddad",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-06T04:43:00Z",
-        "toDate": "2024-04-06T05:43:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "6",
-        "name": "U6",
-        "stations": [
-          {
-            "id": "de:09162:1540",
-            "name": "Klinikum Großhadern"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1520",
-            "name": "Haderner Stern"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1340",
-            "name": "Westpark"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:510",
-            "name": "Dietlindenstraße"
-          },
-          {
-            "id": "de:09162:520",
-            "name": "Nordfriedhof"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:420",
-            "name": "Freimann"
-          },
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          },
-          {
-            "id": "de:09162:470",
-            "name": "Fröttmaning"
-          },
-          {
-            "id": "de:09184:480",
-            "name": "Garching-Hochbrück"
-          },
-          {
-            "id": "de:09184:490",
-            "name": "Garching"
-          },
-          {
-            "id": "de:09184:460",
-            "name": "Garching-Forschungszentrum"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-06T04:54:56Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Marienplatz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U6 in Richtung Garching-Forschungszentrum . <br>Die Behinderungen werden noch voraussichtlich bis 07:40 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen und einzelne Ausfälle nach einer bereits behobenen Störung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-06T03:21:00Z",
       "toDate": "2024-04-06T08:00:00Z"
     },
@@ -442,7 +307,7 @@
       "toDate": "2024-04-06T11:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 57, 59 und 63 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 52, 57, 59, 63 und 162 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "fc910c7a-1565-449e-b165-e035cb8aec82",
     "incidentDuration": [
       {
@@ -452,6 +317,174 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "2",
         "id": "57",
@@ -1258,6 +1291,422 @@
       },
       {
         "direction": "2",
+        "id": "162",
+        "name": "162",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:299",
+            "name": "Margarete-Steiff-Straße"
+          },
+          {
+            "id": "de:09162:1936",
+            "name": "Lauinger Straße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1928",
+            "name": "Manzostraße"
+          },
+          {
+            "id": "de:09162:1926",
+            "name": "Gruithuisenstraße"
+          },
+          {
+            "id": "de:09162:1924",
+            "name": "Korbinian-Beer-Straße"
+          },
+          {
+            "id": "de:09162:1918",
+            "name": "Krautheimstraße"
+          },
+          {
+            "id": "de:09162:1921",
+            "name": "Von-Reuter-Straße"
+          },
+          {
+            "id": "de:09162:1916",
+            "name": "Karl-von-Roth-Straße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1914",
+            "name": "Finsterwalderstraße"
+          },
+          {
+            "id": "de:09162:1912",
+            "name": "Kunstmannstraße"
+          },
+          {
+            "id": "de:09162:1908",
+            "name": "Heerstraße"
+          },
+          {
+            "id": "de:09162:1906",
+            "name": "Reginbaldstraße"
+          },
+          {
+            "id": "de:09162:1904",
+            "name": "Fasanenstraße"
+          },
+          {
+            "id": "de:09162:1903",
+            "name": "Tannenweg"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1737",
+            "name": "Überlinger Weg"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1728",
+            "name": "Plankenfelser Straße"
+          },
+          {
+            "id": "de:09162:1732",
+            "name": "Limesstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1736",
+            "name": "Gilchinger Straße"
+          },
+          {
+            "id": "de:09162:1738",
+            "name": "Allinger Straße"
+          },
+          {
+            "id": "de:09162:1742",
+            "name": "Asmarstraße"
+          },
+          {
+            "id": "de:09162:1810",
+            "name": "Lochhausen Bf."
+          },
+          {
+            "id": "de:09162:1746",
+            "name": "Ziegeleistraße"
+          },
+          {
+            "id": "de:09162:1748",
+            "name": "Federseestraße"
+          },
+          {
+            "id": "de:09162:1750",
+            "name": "Erlbachstraße"
+          },
+          {
+            "id": "de:09162:1756",
+            "name": "Eichelhäherstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "162",
+        "name": "162",
+        "stations": [
+          {
+            "id": "de:09162:1756",
+            "name": "Eichelhäherstraße"
+          },
+          {
+            "id": "de:09162:1750",
+            "name": "Erlbachstraße"
+          },
+          {
+            "id": "de:09162:1748",
+            "name": "Federseestraße"
+          },
+          {
+            "id": "de:09162:1746",
+            "name": "Ziegeleistraße"
+          },
+          {
+            "id": "de:09162:1810",
+            "name": "Lochhausen Bf."
+          },
+          {
+            "id": "de:09162:1742",
+            "name": "Asmarstraße"
+          },
+          {
+            "id": "de:09162:1738",
+            "name": "Allinger Straße"
+          },
+          {
+            "id": "de:09162:1736",
+            "name": "Gilchinger Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1732",
+            "name": "Limesstraße"
+          },
+          {
+            "id": "de:09162:1728",
+            "name": "Plankenfelser Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1737",
+            "name": "Überlinger Weg"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:1903",
+            "name": "Tannenweg"
+          },
+          {
+            "id": "de:09162:1904",
+            "name": "Fasanenstraße"
+          },
+          {
+            "id": "de:09162:1906",
+            "name": "Reginbaldstraße"
+          },
+          {
+            "id": "de:09162:1908",
+            "name": "Heerstraße"
+          },
+          {
+            "id": "de:09162:1912",
+            "name": "Kunstmannstraße"
+          },
+          {
+            "id": "de:09162:1914",
+            "name": "Finsterwalderstraße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1916",
+            "name": "Karl-von-Roth-Straße"
+          },
+          {
+            "id": "de:09162:1921",
+            "name": "Von-Reuter-Straße"
+          },
+          {
+            "id": "de:09162:1918",
+            "name": "Krautheimstraße"
+          },
+          {
+            "id": "de:09162:1924",
+            "name": "Korbinian-Beer-Straße"
+          },
+          {
+            "id": "de:09162:1926",
+            "name": "Gruithuisenstraße"
+          },
+          {
+            "id": "de:09162:1928",
+            "name": "Manzostraße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1936",
+            "name": "Lauinger Straße"
+          },
+          {
+            "id": "de:09162:299",
+            "name": "Margarete-Steiff-Straße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
         "id": "518",
         "name": "SEV 18",
         "stations": [
@@ -1338,8 +1787,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T03:09:33Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 57, 59 und 63 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-04-06T05:13:12Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 52, 57, 59, 63 und 162 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

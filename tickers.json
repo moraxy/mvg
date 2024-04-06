@@ -1,6 +1,209 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-06T15:59:00Z",
+      "toDate": "2024-04-06T16:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Spixstraße kommt es auf der Linie 54 in Richtung Lorettoplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 54 in Richtung Lorettoplatz wird zwischen Valeppstraße und Tegernseer Landstraße umgeleitet. Die Haltestelle Spixstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "366f247d-13c3-42dc-9a1e-b3ca12f7109f",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T15:59:00Z",
+        "toDate": "2024-04-06T16:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T16:01:01Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Spixstraße kommt es auf der Linie 54 in Richtung Lorettoplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 54 in Richtung Lorettoplatz wird zwischen Valeppstraße und Tegernseer Landstraße umgeleitet. Die Haltestelle Spixstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-06T15:10:00Z",
       "toDate": "2024-04-06T23:00:00Z"
     },

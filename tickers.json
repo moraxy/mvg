@@ -1,231 +1,16 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-06T11:54:00Z",
-      "toDate": "2024-04-06T12:54:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Volkartstraße kommt es auf der Linie 12 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "ae0a1003-3d5d-4cbf-9a72-b0a66de7c60e",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-06T11:54:00Z",
-        "toDate": "2024-04-06T12:54:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:421",
-            "name": "Karl-Theodor-Straße"
-          },
-          {
-            "id": "de:09162:422",
-            "name": "Clemensstraße"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "12",
-        "name": "12",
-        "stations": [
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:221",
-            "name": "Hubertusstraße"
-          },
-          {
-            "id": "de:09162:220",
-            "name": "Renatastraße"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:205",
-            "name": "Volkartstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:422",
-            "name": "Clemensstraße"
-          },
-          {
-            "id": "de:09162:421",
-            "name": "Karl-Theodor-Straße"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-06T11:55:07Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Volkartstraße kommt es auf der Linie 12 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-06T09:14:00Z",
-      "toDate": "2024-04-06T13:00:00Z"
+      "toDate": "2024-04-06T14:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen starken Verkehrsaufkommens im Bereich Tierpark (Alemannenstraße) kommt es auf der Linie 52 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 52 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Fahrgäste zum Tierpark nutzen bitte die U3! </ul><br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen starken Verkehrsaufkommens im Bereich Tierpark (Alemannenstraße) kommt es auf der Linie 52 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 52 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Fahrgäste zum Tierpark nutzen bitte die U3! </ul><br>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "28597a6b-e265-478f-a3d8-7a38716d113c",
     "incidentDuration": [
       {
         "fromDate": "2024-04-06T09:14:00Z",
-        "toDate": "2024-04-06T13:00:00Z"
+        "toDate": "2024-04-06T14:00:00Z"
       }
     ],
     "incidents": [],
@@ -400,8 +185,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T11:38:12Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen starken Verkehrsaufkommens im Bereich Tierpark (Alemannenstraße) kommt es auf der Linie 52 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 52 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Fahrgäste zum Tierpark nutzen bitte die U3! </ul><br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-04-06T12:54:34Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen starken Verkehrsaufkommens im Bereich Tierpark (Alemannenstraße) kommt es auf der Linie 52 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 52 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Fahrgäste zum Tierpark nutzen bitte die U3! </ul><br>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },
@@ -411,7 +196,7 @@
       "toDate": "2024-04-06T23:12:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen Personalengpässen kommt es bei der Linie SEV 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie SEV 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<br>Bitte weichen Sie unter anderem auf die Linien 168, 51 und 151 aus. </ul><br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG",
+    "htmlText": "Wegen Personalmangel sind viele Busse auf der Linie SEV 18 nicht im Einsatz! Um Wartezeiten zu vermeiden, weichen Sie bitte auf die Linie 168 am H&ouml;nigschmidplatz (N&auml;he Gondrellplatz) und zur Menaristra&szlig;e (N&auml;he Senftenauerstr.) aus. Von und zur Ammerseestra&szlig;e nutzen Sie bitte die Buslinien 51 und 151 von und zum Laimer Platz (U5).<br/>\n&nbsp;<br/>\nWir bitten um Entschuldigung,<br/>\nIhre MVG<br/>\r\n\r\n",
     "id": "926fa890-7134-43ad-8236-346f570d9757",
     "incidentDuration": [
       {
@@ -503,9 +288,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T12:40:32Z",
-    "text": "Liebe Fahrgäste, <br/>wegen Personalengpässen kommt es bei der Linie SEV 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie SEV 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<br>Bitte weichen Sie unter anderem auf die Linien 168, 51 und 151 aus. </ul><br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
+    "modificationDate": "2024-04-06T12:52:54Z",
+    "text": "Wegen Personalmangel sind viele Busse auf der Linie SEV 18 nicht im Einsatz! Um Wartezeiten zu vermeiden, weichen Sie bitte auf die Linie 168 am H&ouml;nigschmidplatz (N&auml;he Gondrellplatz) und zur Menaristra&szlig;e (N&auml;he Senftenauerstr.) aus. Von und zur Ammerseestra&szlig;e nutzen Sie bitte die Buslinien 51 und 151 von und zum Laimer Platz (U5).<br/>\n&nbsp;<br/>\nWir bitten um Entschuldigung,<br/>\nIhre MVG<br/>\r\n\r\n",
+    "title": "Ausfälle wegen Personalmangel",
     "type": "DISRUPTION"
   },
   {

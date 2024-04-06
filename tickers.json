@@ -888,7 +888,7 @@
       "toDate": "2024-04-06T19:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18 und 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "fc910c7a-1565-449e-b165-e035cb8aec82",
     "incidentDuration": [
       {
@@ -1045,7 +1045,30 @@
           }
         ],
         "typeOfTransport": "BUS"
-      },
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T12:22:28Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-06T12:18:00Z",
+      "toDate": "2024-04-06T21:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen Personalengpässen kommt es bei der Linie SEV 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie SEV 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<br>Bitte weichen Sie unter anderem auf die Linien 168, 51 und 151 aus. </ul><br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG",
+    "id": "926fa890-7134-43ad-8236-346f570d9757",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T12:18:00Z",
+        "toDate": "2024-04-06T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
       {
         "direction": "2",
         "id": "518",
@@ -1128,8 +1151,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T11:57:32Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18 und 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-04-06T12:21:49Z",
+    "text": "Liebe Fahrgäste, <br/>wegen Personalengpässen kommt es bei der Linie SEV 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie SEV 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<br>Bitte weichen Sie unter anderem auf die Linien 168, 51 und 151 aus. </ul><br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

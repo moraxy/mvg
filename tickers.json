@@ -550,7 +550,313 @@
           }
         ],
         "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T21:11:57Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-06T20:19:00Z",
+      "toDate": "2024-04-06T21:19:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 55 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "0e58299a-f6d8-4170-af1d-21c57012a8c4",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T20:19:00Z",
+        "toDate": "2024-04-06T21:19:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "55",
+        "name": "55",
+        "stations": [
+          {
+            "id": "de:09184:2172",
+            "name": "Putzbrunn, M.-Haslbeck-Straße"
+          },
+          {
+            "id": "de:09184:2174",
+            "name": "Putzbrunn, W.-v.-Braun-Straße"
+          },
+          {
+            "id": "de:09184:2176",
+            "name": "Putzbrunn, Kirchenzentrum"
+          },
+          {
+            "id": "de:09184:2287",
+            "name": "Putzbrunn, Brennerei"
+          },
+          {
+            "id": "de:09184:2288",
+            "name": "Putzbrunn, Waldkolonie"
+          },
+          {
+            "id": "de:09184:2265",
+            "name": "Putzbrunn, Seemannsiedlung"
+          },
+          {
+            "id": "de:09162:981",
+            "name": "Am Hain"
+          },
+          {
+            "id": "de:09162:966",
+            "name": "Waldheimplatz"
+          },
+          {
+            "id": "de:09162:967",
+            "name": "Waldperlach"
+          },
+          {
+            "id": "de:09162:966",
+            "name": "Waldheimplatz"
+          },
+          {
+            "id": "de:09162:965",
+            "name": "Eulenspiegelstraße"
+          },
+          {
+            "id": "de:09162:964",
+            "name": "Im Gefilde"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1015",
+            "name": "Thomas-Dehler-Straße"
+          },
+          {
+            "id": "de:09162:1035",
+            "name": "Friedhof Perlach"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1033",
+            "name": "Weddigenstraße"
+          },
+          {
+            "id": "de:09162:1047",
+            "name": "Adilostraße"
+          },
+          {
+            "id": "de:09162:1032",
+            "name": "Woferlstraße"
+          },
+          {
+            "id": "de:09162:1031",
+            "name": "Diakon-Kerolt-Weg"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
       },
+      {
+        "direction": "1",
+        "id": "55",
+        "name": "55",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1031",
+            "name": "Diakon-Kerolt-Weg"
+          },
+          {
+            "id": "de:09162:1032",
+            "name": "Woferlstraße"
+          },
+          {
+            "id": "de:09162:1047",
+            "name": "Adilostraße"
+          },
+          {
+            "id": "de:09162:1033",
+            "name": "Weddigenstraße"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1035",
+            "name": "Friedhof Perlach"
+          },
+          {
+            "id": "de:09162:1015",
+            "name": "Thomas-Dehler-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:964",
+            "name": "Im Gefilde"
+          },
+          {
+            "id": "de:09162:965",
+            "name": "Eulenspiegelstraße"
+          },
+          {
+            "id": "de:09162:966",
+            "name": "Waldheimplatz"
+          },
+          {
+            "id": "de:09162:967",
+            "name": "Waldperlach"
+          },
+          {
+            "id": "de:09162:966",
+            "name": "Waldheimplatz"
+          },
+          {
+            "id": "de:09162:981",
+            "name": "Am Hain"
+          },
+          {
+            "id": "de:09184:2265",
+            "name": "Putzbrunn, Seemannsiedlung"
+          },
+          {
+            "id": "de:09184:2288",
+            "name": "Putzbrunn, Waldkolonie"
+          },
+          {
+            "id": "de:09184:2287",
+            "name": "Putzbrunn, Brennerei"
+          },
+          {
+            "id": "de:09184:2176",
+            "name": "Putzbrunn, Kirchenzentrum"
+          },
+          {
+            "id": "de:09184:2174",
+            "name": "Putzbrunn, W.-v.-Braun-Straße"
+          },
+          {
+            "id": "de:09184:2172",
+            "name": "Putzbrunn, M.-Haslbeck-Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T20:20:39Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 55 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-06T21:10:00Z",
+      "toDate": "2024-04-06T23:15:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 134 und 166 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "93a8bbbc-3969-4370-90fa-783bb976f145",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T21:10:00Z",
+        "toDate": "2024-04-06T23:15:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
       {
         "direction": "1",
         "id": "134",
@@ -949,292 +1255,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T20:44:36Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-06T20:19:00Z",
-      "toDate": "2024-04-06T21:19:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 55 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
-    "id": "0e58299a-f6d8-4170-af1d-21c57012a8c4",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-06T20:19:00Z",
-        "toDate": "2024-04-06T21:19:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "55",
-        "name": "55",
-        "stations": [
-          {
-            "id": "de:09184:2172",
-            "name": "Putzbrunn, M.-Haslbeck-Straße"
-          },
-          {
-            "id": "de:09184:2174",
-            "name": "Putzbrunn, W.-v.-Braun-Straße"
-          },
-          {
-            "id": "de:09184:2176",
-            "name": "Putzbrunn, Kirchenzentrum"
-          },
-          {
-            "id": "de:09184:2287",
-            "name": "Putzbrunn, Brennerei"
-          },
-          {
-            "id": "de:09184:2288",
-            "name": "Putzbrunn, Waldkolonie"
-          },
-          {
-            "id": "de:09184:2265",
-            "name": "Putzbrunn, Seemannsiedlung"
-          },
-          {
-            "id": "de:09162:981",
-            "name": "Am Hain"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:967",
-            "name": "Waldperlach"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:965",
-            "name": "Eulenspiegelstraße"
-          },
-          {
-            "id": "de:09162:964",
-            "name": "Im Gefilde"
-          },
-          {
-            "id": "de:09162:963",
-            "name": "Tribulaunstraße"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1015",
-            "name": "Thomas-Dehler-Straße"
-          },
-          {
-            "id": "de:09162:1035",
-            "name": "Friedhof Perlach"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1033",
-            "name": "Weddigenstraße"
-          },
-          {
-            "id": "de:09162:1047",
-            "name": "Adilostraße"
-          },
-          {
-            "id": "de:09162:1032",
-            "name": "Woferlstraße"
-          },
-          {
-            "id": "de:09162:1031",
-            "name": "Diakon-Kerolt-Weg"
-          },
-          {
-            "id": "de:09162:1003",
-            "name": "Ramersdorf"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1001",
-            "name": "Anzinger Straße"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "55",
-        "name": "55",
-        "stations": [
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:92",
-            "name": "Kustermannpark"
-          },
-          {
-            "id": "de:09162:1001",
-            "name": "Anzinger Straße"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1003",
-            "name": "Ramersdorf"
-          },
-          {
-            "id": "de:09162:1031",
-            "name": "Diakon-Kerolt-Weg"
-          },
-          {
-            "id": "de:09162:1032",
-            "name": "Woferlstraße"
-          },
-          {
-            "id": "de:09162:1047",
-            "name": "Adilostraße"
-          },
-          {
-            "id": "de:09162:1033",
-            "name": "Weddigenstraße"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1035",
-            "name": "Friedhof Perlach"
-          },
-          {
-            "id": "de:09162:1015",
-            "name": "Thomas-Dehler-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:963",
-            "name": "Tribulaunstraße"
-          },
-          {
-            "id": "de:09162:964",
-            "name": "Im Gefilde"
-          },
-          {
-            "id": "de:09162:965",
-            "name": "Eulenspiegelstraße"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:967",
-            "name": "Waldperlach"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:981",
-            "name": "Am Hain"
-          },
-          {
-            "id": "de:09184:2265",
-            "name": "Putzbrunn, Seemannsiedlung"
-          },
-          {
-            "id": "de:09184:2288",
-            "name": "Putzbrunn, Waldkolonie"
-          },
-          {
-            "id": "de:09184:2287",
-            "name": "Putzbrunn, Brennerei"
-          },
-          {
-            "id": "de:09184:2176",
-            "name": "Putzbrunn, Kirchenzentrum"
-          },
-          {
-            "id": "de:09184:2174",
-            "name": "Putzbrunn, W.-v.-Braun-Straße"
-          },
-          {
-            "id": "de:09184:2172",
-            "name": "Putzbrunn, M.-Haslbeck-Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-06T20:20:39Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 55 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
-    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-04-06T21:11:48Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 134 und 166 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
     "type": "DISRUPTION"
   },
   {

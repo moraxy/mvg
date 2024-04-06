@@ -1,11 +1,102 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-06T07:23:00Z",
+      "toDate": "2024-04-06T08:23:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Olympia-Einkaufszentrum kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U1 in Richtung Mangfallplatz . <br>Die Behinderungen werden noch voraussichtlich bis 10:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "36bb3595-f976-496f-a351-792c5d2fc4fb",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T07:23:00Z",
+        "toDate": "2024-04-06T08:23:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T07:23:57Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Olympia-Einkaufszentrum kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U1 in Richtung Mangfallplatz . <br>Die Behinderungen werden noch voraussichtlich bis 10:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-06T03:06:00Z",
       "toDate": "2024-04-06T19:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 53, 54 und 192 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 53 und 54 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "fc910c7a-1565-449e-b165-e035cb8aec82",
     "incidentDuration": [
       {
@@ -678,151 +769,11 @@
           }
         ],
         "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "192",
-        "name": "192",
-        "stations": [
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
-          },
-          {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
-          },
-          {
-            "id": "de:09162:975",
-            "name": "Ottilienstraße"
-          },
-          {
-            "id": "de:09162:951",
-            "name": "Markgrafenstraße"
-          },
-          {
-            "id": "de:09162:952",
-            "name": "Vogesenstraße"
-          },
-          {
-            "id": "de:09162:954",
-            "name": "Am Hochacker"
-          },
-          {
-            "id": "de:09162:953",
-            "name": "Feldbergstraße"
-          },
-          {
-            "id": "de:09162:989",
-            "name": "Bergerwaldstraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "192",
-        "name": "192",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:989",
-            "name": "Bergerwaldstraße"
-          },
-          {
-            "id": "de:09162:953",
-            "name": "Feldbergstraße"
-          },
-          {
-            "id": "de:09162:954",
-            "name": "Am Hochacker"
-          },
-          {
-            "id": "de:09162:952",
-            "name": "Vogesenstraße"
-          },
-          {
-            "id": "de:09162:951",
-            "name": "Markgrafenstraße"
-          },
-          {
-            "id": "de:09162:975",
-            "name": "Ottilienstraße"
-          },
-          {
-            "id": "de:09162:933",
-            "name": "Florastraße"
-          },
-          {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
-          },
-          {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T07:22:01Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 53, 54 und 192 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-04-06T07:23:26Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 53 und 54 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

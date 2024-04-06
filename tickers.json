@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-06T10:56:00Z",
-      "toDate": "2024-04-06T12:20:00Z"
+      "toDate": "2024-04-06T11:46:24Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Volkartstraße kommt es auf der Linie 12 in Richtung Amalienburgstraße derzeit zu  einer Umleitung. <ul style='list-style: disc;'><li>Die Linie 12 in Richtung Amalienburgstraße fährt nur im Abschnitt Scheidplatz <> Leonrodplatz und wird ab Leonrodplatz bis zur Haltestelle Westfriedhof umgeleitet. Bitte weichen Sie unter anderem auf die Linien 53 und 151 aus. </li>Am Leonrodplatz fährt die Linie 12 Richtung Scheidplatz an der Haltestelle 1 ab. Der SEV mit Taxis ist eingerichtet zwischen Rotkreuzplatz und Amalienburgstraße. </li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 12 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "d30a7c86-bdad-4d43-828e-48c149a91c3f",
     "incidentDuration": [
       {
         "fromDate": "2024-04-06T10:56:00Z",
-        "toDate": "2024-04-06T12:20:00Z"
+        "toDate": "2024-04-06T11:36:24Z"
       }
     ],
     "incidents": [],
@@ -113,9 +113,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T11:21:41Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Volkartstraße kommt es auf der Linie 12 in Richtung Amalienburgstraße derzeit zu  einer Umleitung. <ul style='list-style: disc;'><li>Die Linie 12 in Richtung Amalienburgstraße fährt nur im Abschnitt Scheidplatz <> Leonrodplatz und wird ab Leonrodplatz bis zur Haltestelle Westfriedhof umgeleitet. Bitte weichen Sie unter anderem auf die Linien 53 und 151 aus. </li>Am Leonrodplatz fährt die Linie 12 Richtung Scheidplatz an der Haltestelle 1 ab. Der SEV mit Taxis ist eingerichtet zwischen Rotkreuzplatz und Amalienburgstraße. </li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-04-06T11:36:38Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 12 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -311,11 +311,166 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-06T07:15:00Z",
+      "toDate": "2024-04-06T11:50:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Toni-Merkens-Weg kommt es auf der Linie 144 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "2275af9f-00e6-4f0b-ba4b-1c915a6e6787",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-06T07:15:00Z",
+        "toDate": "2024-04-06T11:50:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:291",
+            "name": "Sapporobogen"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:164",
+            "name": "Hanebergstraße"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:158",
+            "name": "Hubertusbrunnen"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:163",
+            "name": "Volkartstraße Ost"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-06T10:48:29Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Toni-Merkens-Weg kommt es auf der Linie 144 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-06T03:06:00Z",
       "toDate": "2024-04-06T19:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 53, 162, 163, 169 und 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 162, 163, 169 und 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "fc910c7a-1565-449e-b165-e035cb8aec82",
     "incidentDuration": [
       {
@@ -325,302 +480,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "53",
-        "name": "53",
-        "stations": [
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:108",
-            "name": "Hohenzollernstraße"
-          },
-          {
-            "id": "de:09162:109",
-            "name": "Friedrichstraße"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:29",
-            "name": "Landshuter Allee"
-          },
-          {
-            "id": "de:09162:103",
-            "name": "Schlörstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:8",
-            "name": "Donnersbergerbrücke"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:102",
-            "name": "Gollierplatz"
-          },
-          {
-            "id": "de:09162:85",
-            "name": "Kazmairstraße"
-          },
-          {
-            "id": "de:09162:87",
-            "name": "Bergmannstraße"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:27",
-            "name": "Ridlerstraße"
-          },
-          {
-            "id": "de:09162:1101",
-            "name": "Ganghoferbrücke"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1103",
-            "name": "Sendlinger Kirche"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1321",
-            "name": "Adunistraße"
-          },
-          {
-            "id": "de:09162:1322",
-            "name": "Schneemannstraße"
-          },
-          {
-            "id": "de:09162:1323",
-            "name": "Zielstattstraße"
-          },
-          {
-            "id": "de:09162:1302",
-            "name": "Hofmannstraße"
-          },
-          {
-            "id": "de:09162:1327",
-            "name": "Gmunder Straße"
-          },
-          {
-            "id": "de:09162:1337",
-            "name": "Kistlerhofstraße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "53",
-        "name": "53",
-        "stations": [
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1302",
-            "name": "Hofmannstraße"
-          },
-          {
-            "id": "de:09162:1323",
-            "name": "Zielstattstraße"
-          },
-          {
-            "id": "de:09162:1322",
-            "name": "Schneemannstraße"
-          },
-          {
-            "id": "de:09162:1321",
-            "name": "Adunistraße"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1103",
-            "name": "Sendlinger Kirche"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1101",
-            "name": "Ganghoferbrücke"
-          },
-          {
-            "id": "de:09162:27",
-            "name": "Ridlerstraße"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:87",
-            "name": "Bergmannstraße"
-          },
-          {
-            "id": "de:09162:85",
-            "name": "Kazmairstraße"
-          },
-          {
-            "id": "de:09162:102",
-            "name": "Gollierplatz"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:8",
-            "name": "Donnersbergerbrücke"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:103",
-            "name": "Schlörstraße"
-          },
-          {
-            "id": "de:09162:29",
-            "name": "Landshuter Allee"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:104",
-            "name": "Albrechtstraße"
-          },
-          {
-            "id": "de:09162:105",
-            "name": "Fasaneriestraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:106",
-            "name": "Infanteriestraße"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:452",
-            "name": "Pündterplatz"
-          },
-          {
-            "id": "de:09162:455",
-            "name": "Bismarckstraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
       {
         "direction": "2",
         "id": "162",
@@ -1410,164 +1269,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-06T11:04:38Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 53, 162, 163, 169 und 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-04-06T11:33:52Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 162, 163, 169 und 178 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-06T07:15:00Z",
-      "toDate": "2024-04-06T11:50:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Toni-Merkens-Weg kommt es auf der Linie 144 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "2275af9f-00e6-4f0b-ba4b-1c915a6e6787",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-06T07:15:00Z",
-        "toDate": "2024-04-06T11:50:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "144",
-        "name": "144",
-        "stations": [
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:292",
-            "name": "Angererstraße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:296",
-            "name": "Deidesheimer Straße"
-          },
-          {
-            "id": "de:09162:9015",
-            "name": "Spiridon-Louis-Ring"
-          },
-          {
-            "id": "de:09162:9029",
-            "name": "Olympiaberg"
-          },
-          {
-            "id": "de:09162:290",
-            "name": "Olympiasee"
-          },
-          {
-            "id": "de:09162:8888",
-            "name": "Toni-Merkens-Weg"
-          },
-          {
-            "id": "de:09162:291",
-            "name": "Sapporobogen"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:164",
-            "name": "Hanebergstraße"
-          },
-          {
-            "id": "de:09162:153",
-            "name": "Dom-Pedro-Straße"
-          },
-          {
-            "id": "de:09162:158",
-            "name": "Hubertusbrunnen"
-          },
-          {
-            "id": "de:09162:204",
-            "name": "Neuhausen"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "144",
-        "name": "144",
-        "stations": [
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:29",
-            "name": "Landshuter Allee"
-          },
-          {
-            "id": "de:09162:163",
-            "name": "Volkartstraße Ost"
-          },
-          {
-            "id": "de:09162:153",
-            "name": "Dom-Pedro-Straße"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:8888",
-            "name": "Toni-Merkens-Weg"
-          },
-          {
-            "id": "de:09162:290",
-            "name": "Olympiasee"
-          },
-          {
-            "id": "de:09162:9029",
-            "name": "Olympiaberg"
-          },
-          {
-            "id": "de:09162:9015",
-            "name": "Spiridon-Louis-Ring"
-          },
-          {
-            "id": "de:09162:296",
-            "name": "Deidesheimer Straße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:292",
-            "name": "Angererstraße"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-06T10:48:29Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Toni-Merkens-Weg kommt es auf der Linie 144 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

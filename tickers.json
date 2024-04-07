@@ -1,6 +1,45 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-07T20:02:00Z",
+      "toDate": "2024-04-07T21:02:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>momentan fährt die S-Bahn am Bahnhof Hauptbahnhof ohne Halt durch. Weitere Infos dazu finden Sie auf der Website der S-Bahn München unter dem nachfolgenden Link. www.s-bahn-muenchen.de <br/>Bitte beachten Sie, dass es dadurch auch bei U-Bahn, Bus und Tram zu erhöhtem Fahrgastaufkommen und entsprechenden Abweichungen im Fahrplan kommen kann. <br/>Ihre MVG\r\n",
+    "id": "125058da-df84-40a9-aff8-2c3346ccd56c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-07T20:02:00Z",
+        "toDate": "2024-04-07T21:02:00Z"
+      }
+    ],
+    "incidents": [
+      "MAIN_LINE"
+    ],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "302",
+        "name": "U",
+        "stations": [],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "302",
+        "name": "U",
+        "stations": [],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-07T20:07:07Z",
+    "text": "Liebe Fahrgäste,<br/>momentan fährt die S-Bahn am Bahnhof Hauptbahnhof ohne Halt durch. Weitere Infos dazu finden Sie auf der Website der S-Bahn München unter dem nachfolgenden Link. www.s-bahn-muenchen.de <br/>Bitte beachten Sie, dass es dadurch auch bei U-Bahn, Bus und Tram zu erhöhtem Fahrgastaufkommen und entsprechenden Abweichungen im Fahrplan kommen kann. <br/>Ihre MVG\r\n",
+    "title": "S-Bahn kein Halt",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T08:00:00Z",
       "toDate": "2024-04-08T00:39:00Z"
     },

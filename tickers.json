@@ -1,41 +1,105 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-07T20:02:00Z",
-      "toDate": "2024-04-07T21:02:00Z"
+      "fromDate": "2024-04-07T20:12:00Z",
+      "toDate": "2024-04-07T21:12:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>momentan fährt die S-Bahn am Bahnhof Hauptbahnhof ohne Halt durch. Weitere Infos dazu finden Sie auf der Website der S-Bahn München unter dem nachfolgenden Link. www.s-bahn-muenchen.de <br/>Bitte beachten Sie, dass es dadurch auch bei U-Bahn, Bus und Tram zu erhöhtem Fahrgastaufkommen und entsprechenden Abweichungen im Fahrplan kommen kann. <br/>Ihre MVG\r\n",
-    "id": "125058da-df84-40a9-aff8-2c3346ccd56c",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Gondrellplatz kommt es auf der Linie SEV 18 derzeit zu Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 23:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "afdac52b-a6dc-4d5c-ba5e-85774889c296",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-07T20:02:00Z",
-        "toDate": "2024-04-07T21:02:00Z"
+        "fromDate": "2024-04-07T20:12:00Z",
+        "toDate": "2024-04-07T21:12:00Z"
       }
     ],
-    "incidents": [
-      "MAIN_LINE"
-    ],
+    "incidents": [],
     "lines": [
       {
-        "direction": "1",
-        "id": "302",
-        "name": "U",
-        "stations": [],
-        "typeOfTransport": "METRO"
+        "direction": "2",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
       },
       {
-        "direction": "2",
-        "id": "302",
-        "name": "U",
-        "stations": [],
-        "typeOfTransport": "METRO"
+        "direction": "1",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          },
+          {
+            "id": "de:09162:1501",
+            "name": "Senftenauerstraße Süd"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-07T20:07:07Z",
-    "text": "Liebe Fahrgäste,<br/>momentan fährt die S-Bahn am Bahnhof Hauptbahnhof ohne Halt durch. Weitere Infos dazu finden Sie auf der Website der S-Bahn München unter dem nachfolgenden Link. www.s-bahn-muenchen.de <br/>Bitte beachten Sie, dass es dadurch auch bei U-Bahn, Bus und Tram zu erhöhtem Fahrgastaufkommen und entsprechenden Abweichungen im Fahrplan kommen kann. <br/>Ihre MVG\r\n",
-    "title": "S-Bahn kein Halt",
+    "modificationDate": "2024-04-07T20:12:59Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Gondrellplatz kommt es auf der Linie SEV 18 derzeit zu Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 23:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Behinderungen wegen Falschparker",
     "type": "DISRUPTION"
   },
   {

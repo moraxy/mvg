@@ -42,6 +42,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Messestadt Ost",
     "divaId": "010U2",
     "label": "U2",
@@ -51,7 +52,7 @@
     "plannedDepartureTime": 1712544660000,
     "platform": 2,
     "platformChanged": false,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1712544660000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:52",
@@ -218,6 +219,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Feldmoching",
     "divaId": "010U2",
     "label": "U2",
@@ -227,7 +229,7 @@
     "plannedDepartureTime": 1712546880000,
     "platform": 1,
     "platformChanged": false,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1712546880000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:51",

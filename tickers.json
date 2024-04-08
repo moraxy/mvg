@@ -13804,6 +13804,327 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-07T22:00:00Z",
+      "toDate": "2024-04-30T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "fd70c09a-8b1f-489e-8232-15a86091a162_59014308",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten in der Zweibr&uuml;ckenstra&szlig;e, wird die Buslinie 132 von <strong>Montag, 22. April bis Donnerstag, 25. April und Montag, 29. April bis Dienstag, 30. April 2024 jeweils ab ca. 20:00 Uhr bis Betriebsschluss</strong> zwischen den (H) Fraunhoferstra&szlig;e und Marienplatz umgeleitet.&nbsp;</div>\n<div>&nbsp;</div>\n<div>In beide Fahrtrichtungen entfallen die (H) Boschbr&uuml;cke, Isartor und Ludwigsbr&uuml;cke. Die (H) Schrannenhalle wird in diesen Zeitr&auml;umen nur in Fahrtrichtung Marienplatz bedient.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Die (H) Corneliusbr&uuml;cke in Fahrtrichtung Implerstra&szlig;e - Forstenrieder Park ist zur (H) Baaderstra&szlig;e der Buslinien 52 &gt; Tierpark und 62 &gt; Ostbahnhof verlegt.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Auf dem Umleitungsweg werden die (H) Baaderstra&szlig;e, G&auml;rtnerplatztheater und Blumenstra&szlig;e mitbedient.&nbsp;</div>\r\n",
+    "id": "fd70c09a-8b1f-489e-8232-15a86091a162",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-21T22:00:00Z",
+        "toDate": "2024-04-30T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1134",
+            "name": "Gotzinger Platz"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:122",
+            "name": "Ludwigsbrücke"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:93",
+            "name": "Tal"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-08T05:29:13Z",
+    "text": "<div>Wegen Stra&szlig;enbauarbeiten in der Zweibr&uuml;ckenstra&szlig;e, wird die Buslinie 132 von <strong>Montag, 22. April bis Donnerstag, 25. April und Montag, 29. April bis Dienstag, 30. April 2024 jeweils ab ca. 20:00 Uhr bis Betriebsschluss</strong> zwischen den (H) Fraunhoferstra&szlig;e und Marienplatz umgeleitet.&nbsp;</div>\n<div>&nbsp;</div>\n<div>In beide Fahrtrichtungen entfallen die (H) Boschbr&uuml;cke, Isartor und Ludwigsbr&uuml;cke. Die (H) Schrannenhalle wird in diesen Zeitr&auml;umen nur in Fahrtrichtung Marienplatz bedient.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Die (H) Corneliusbr&uuml;cke in Fahrtrichtung Implerstra&szlig;e - Forstenrieder Park ist zur (H) Baaderstra&szlig;e der Buslinien 52 &gt; Tierpark und 62 &gt; Ostbahnhof verlegt.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Auf dem Umleitungsweg werden die (H) Baaderstra&szlig;e, G&auml;rtnerplatztheater und Blumenstra&szlig;e mitbedient.&nbsp;</div>\r\n",
+    "title": "Fraunhoferstraße <> Marienplatz: Umleitung wegen Straßenbauarbeiten",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-05T06:00:00Z",
       "toDate": "2024-04-12T21:59:00Z"
     },

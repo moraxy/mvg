@@ -108,7 +108,7 @@
       "toDate": "2024-04-09T09:15:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ottostraße kommt es auf den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li>Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Karolinenplatz und Ottostraße umgeleitet. Die Haltestellen Karlsplatz (Stachus) und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li> \t<li> Die Linie 27 in Richtung Petuelring wird zwischen Karlsplatz (Stachus) und Kurfürstenplatz umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof Nord, Leonrodplatz, Nordbad. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße und Elisabethplatz in Fahrtrichtung Petuelring können leider nicht bedient werden. </li><li> Die Linie 28 in Richtung Scheidplatz wird zwischen Karlsplatz (Stachus) und Kurfürstenplatz umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof Nord, Leonrodplatz, Nordbad. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße und Elisabethplatz in Fahrtrichtung Scheidplatz können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ottostraße kommt es auf den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 27 fährt nur im Abschnitt Karolinenplatz <> Petuelring. <li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "b9a560be-52a2-4f53-b492-573b34900f85",
     "incidentDuration": [
       {
@@ -118,6 +118,70 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
       {
         "direction": "1",
         "id": "27",
@@ -184,70 +248,6 @@
       },
       {
         "direction": "2",
-        "id": "27",
-        "name": "27",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:311",
-            "name": "Herzogstraße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:308",
-            "name": "Gartenstraße"
-          },
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
         "id": "28",
         "name": "28",
         "stations": [
@@ -301,12 +301,68 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-09T08:30:43Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ottostraße kommt es auf den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li>Die Linie 27 in Richtung Karlsplatz (Stachus) wird zwischen Karolinenplatz und Ottostraße umgeleitet. Die Haltestellen Karlsplatz (Stachus) und Ottostraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li> \t<li> Die Linie 27 in Richtung Petuelring wird zwischen Karlsplatz (Stachus) und Kurfürstenplatz umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof Nord, Leonrodplatz, Nordbad. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße und Elisabethplatz in Fahrtrichtung Petuelring können leider nicht bedient werden. </li><li> Die Linie 28 in Richtung Scheidplatz wird zwischen Karlsplatz (Stachus) und Kurfürstenplatz umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof Nord, Leonrodplatz, Nordbad. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße und Elisabethplatz in Fahrtrichtung Scheidplatz können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen Falschparker",
+    "modificationDate": "2024-04-09T08:33:41Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ottostraße kommt es auf den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 27 fährt nur im Abschnitt Karolinenplatz <> Petuelring. <li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Beeinträchtigungen wegen Falschparker",
     "type": "DISRUPTION"
   },
   {

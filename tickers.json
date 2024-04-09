@@ -17125,6 +17125,138 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-07T22:00:00Z",
+      "toDate": "2024-05-17T08:00:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "606f2f9d-2424-468f-8d0c-dff99f81e9a3_-979645524",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte 176 N71"
+      }
+    ],
+    "htmlText": "<div>Wegen Wasserleitungsarbeiten in der Kristallstra&szlig;e werden die Buslinien 176 &gt; Karlsfelder Stra&szlig;e und N71 &gt; Karlsfeld, Gartenstra&szlig;e von Montag, 22. April bis vsl. Freitag, 17. Mai 2024 ca. 10:00 Uhr zwischen den (H) Kristallstra&szlig;e und Karlsfelder Stra&szlig;e umgeleitet. Die (H) Opalstra&szlig;e und MAN Siedlung entfallen. Die (H) Kristallstra&szlig;e ist zur Halteposition der Linien 172 und 710 &gt; Dachau Bf. in der Dachauer Stra&szlig;e verlegt.</div>\r\n",
+    "id": "606f2f9d-2424-468f-8d0c-dff99f81e9a3",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-21T22:00:00Z",
+        "toDate": "2024-05-17T08:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1975",
+            "name": "MAN, Siedlung"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "71",
+        "name": "N71",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-09T08:38:51Z",
+    "text": "<div>Wegen Wasserleitungsarbeiten in der Kristallstra&szlig;e werden die Buslinien 176 &gt; Karlsfelder Stra&szlig;e und N71 &gt; Karlsfeld, Gartenstra&szlig;e von Montag, 22. April bis vsl. Freitag, 17. Mai 2024 ca. 10:00 Uhr zwischen den (H) Kristallstra&szlig;e und Karlsfelder Stra&szlig;e umgeleitet. Die (H) Opalstra&szlig;e und MAN Siedlung entfallen. Die (H) Kristallstra&szlig;e ist zur Halteposition der Linien 172 und 710 &gt; Dachau Bf. in der Dachauer Stra&szlig;e verlegt.</div>\r\n",
+    "title": "Kristallstraße > Karlsfelder Straße: Umleitung wegen Wasserleitungsarbeiten",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-22T23:01:00Z",
       "toDate": "2024-10-25T21:59:00Z"
     },

@@ -1,261 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-09T08:51:00Z",
-      "toDate": "2024-04-10T13:00:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrg&auml;ste,<br/>\naufgrund von Bauarbeiten im Bereich Messestadt Ost kommt es derzeit auf der U2 zu folgenden Beeintr&auml;chtigungen:<br/>\n<ul>\n<li>Im Abschnitt Messestadt Ost bis Messestadt West ist nur ein <strong>10 Min-Takt&nbsp;</strong>m&ouml;glich.</li>\n<li>Ab Messestadt Ost fahren nur die Z&uuml;ge mit Abfahrt zur Minute 5.</li>\n<li>Verst&auml;rkerz&uuml;ge verkehren nur im Abschnitt<strong> Feldmoching - Messestadt West </strong>(5 Min-Takt).</li>\n</ul>\nAchten Sie bitte dazu auch auf Durchsagen im Zug und am Bahnsteig.<br/>\nDie Behinderung wird voraussichtlich noch bis ca. 14 Uhr andauern.<br/>\n&nbsp;<br/>\nWir bitten um Verst&auml;ndnis.<br/>\nIhre MVG<br/>\r\n\r\n",
-    "id": "5aad9bca-3ead-4291-9d09-757146245d13",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-09T08:51:00Z",
-        "toDate": "2024-04-10T13:00:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-10T11:51:50Z",
-    "text": "Liebe Fahrg&auml;ste,<br/>\naufgrund von Bauarbeiten im Bereich Messestadt Ost kommt es derzeit auf der U2 zu folgenden Beeintr&auml;chtigungen:<br/>\n<ul>\n<li>Im Abschnitt Messestadt Ost bis Messestadt West ist nur ein <strong>10 Min-Takt&nbsp;</strong>m&ouml;glich.</li>\n<li>Ab Messestadt Ost fahren nur die Z&uuml;ge mit Abfahrt zur Minute 5.</li>\n<li>Verst&auml;rkerz&uuml;ge verkehren nur im Abschnitt<strong> Feldmoching - Messestadt West </strong>(5 Min-Takt).</li>\n</ul>\nAchten Sie bitte dazu auch auf Durchsagen im Zug und am Bahnsteig.<br/>\nDie Behinderung wird voraussichtlich noch bis ca. 14 Uhr andauern.<br/>\n&nbsp;<br/>\nWir bitten um Verst&auml;ndnis.<br/>\nIhre MVG<br/>\r\n\r\n",
-    "title": "Beeinträchtigungen wegen Bauarbeiten",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-10T07:04:00Z",
       "toDate": "2024-04-10T19:15:00Z"
     },
@@ -12799,7 +12544,7 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-03-14T06:00:00Z",
+      "fromDate": "2024-03-18T06:00:00Z",
       "toDate": "2024-05-17T21:59:00Z"
     },
     "downloadLinks": [
@@ -12809,11 +12554,11 @@
         "name": "Umleitungskarte"
       }
     ],
-    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten im Kreuzungsbereich Balan-/Hoch&auml;ckerstra&szlig;e kann die Buslinie 139 &gt; Giesing Bf. - Klinikum Harlaching die (H) Hoch&auml;ckerstra&szlig;e von Donnerstag, 11. April bis vsl. Freitag, 17. Mai 2024 nicht bedienen. Bitte nutzen Sie die nahen (H) Mitterweg bzw. St&auml;ndlerstra&szlig;e.</div>\r\n",
+    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten im Kreuzungsbereich Balan-/Hoch&auml;ckerstra&szlig;e kann die Buslinie 139 &gt; Giesing Bf. - Klinikum Harlaching die (H) Hoch&auml;ckerstra&szlig;e von Montag, 15. April bis vsl. Freitag, 17. Mai 2024 nicht bedienen. Bitte nutzen Sie die nahen (H) Mitterweg bzw. St&auml;ndlerstra&szlig;e.</div>\r\n",
     "id": "761705cd-a2d6-44f5-8c65-6cea5421d333",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-10T22:01:00Z",
+        "fromDate": "2024-04-14T22:01:00Z",
         "toDate": "2024-05-17T21:59:00Z"
       }
     ],
@@ -13165,8 +12910,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-08T04:53:42Z",
-    "text": "<div>Wegen Stra&szlig;enbauarbeiten im Kreuzungsbereich Balan-/Hoch&auml;ckerstra&szlig;e kann die Buslinie 139 &gt; Giesing Bf. - Klinikum Harlaching die (H) Hoch&auml;ckerstra&szlig;e von Donnerstag, 11. April bis vsl. Freitag, 17. Mai 2024 nicht bedienen. Bitte nutzen Sie die nahen (H) Mitterweg bzw. St&auml;ndlerstra&szlig;e.</div>\r\n",
+    "modificationDate": "2024-04-10T12:13:10Z",
+    "text": "<div>Wegen Stra&szlig;enbauarbeiten im Kreuzungsbereich Balan-/Hoch&auml;ckerstra&szlig;e kann die Buslinie 139 &gt; Giesing Bf. - Klinikum Harlaching die (H) Hoch&auml;ckerstra&szlig;e von Montag, 15. April bis vsl. Freitag, 17. Mai 2024 nicht bedienen. Bitte nutzen Sie die nahen (H) Mitterweg bzw. St&auml;ndlerstra&szlig;e.</div>\r\n",
     "title": "Haltestelle Hochäckerstraße in Richtung Giesing Bf. - Klinikum Harlaching entfällt",
     "type": "PLANNED"
   },

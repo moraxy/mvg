@@ -172,269 +172,6 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-10T15:57:00Z",
-      "toDate": "2024-04-10T16:57:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Westfriedhof kommt es auf der Linie 21 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "e6c670d1-a865-468e-9d50-8ba22c0e0447",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-10T15:57:00Z",
-        "toDate": "2024-04-10T16:57:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "21",
-        "name": "21",
-        "stations": [
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:305",
-            "name": "Borstei"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:581",
-            "name": "Max-Weber-Platz (Johannispl.)"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "21",
-        "name": "21",
-        "stations": [
-          {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
-          },
-          {
-            "id": "de:09162:305",
-            "name": "Borstei"
-          },
-          {
-            "id": "de:09162:285",
-            "name": "Stadtwerke München"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-10T15:57:41Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Westfriedhof kommt es auf der Linie 21 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen wegen einer Fahrzeugstörung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-10T07:04:00Z",
       "toDate": "2024-04-10T19:15:00Z"
     },
@@ -1871,6 +1608,173 @@
     "modificationDate": "2024-04-09T12:21:19Z",
     "text": "<div>Wegen eines Gaslecks in der Waltherstra&szlig;e wird die Buslinie 62 &gt; Rotkreuzplatz bis vsl. Freitag, 19. April 2024 zwischen den (H) Sendlinger Tor und Kapuzinerstra&szlig;e umgeleitet. Die (H) Maistra&szlig;e und Waltherstra&szlig;e entfallen.</div>\n<div>&nbsp;</div>\n<div>Auf dem Umleitungsweg liegende Haltestellen werden nicht mitbedient.&nbsp;</div>\r\n",
     "title": "Sendlinger Tor > Kapuzinerstraße: Umleitung wegen eines Gaslecks",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-10T16:55:00Z",
+      "toDate": "2024-04-10T19:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer Demonstration im Bereich Marienplatz kommt es auf den Linien 16, 52, 62 und 132 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li>Die Linie 132 in Richtung Forstenrieder Park wird zwischen Schrannenhalle und Isartor/Zweibrückenstraße umgeleitet. Die Haltestellen Marienplatz, Viktualienmarkt und Schrannenhalle in Fahrtrichtung Forstenrieder Park können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 21:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "68757e07-8a91-4239-84d1-e0266939c7d2",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-10T16:55:00Z",
+        "toDate": "2024-04-10T19:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-10T16:58:01Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer Demonstration im Bereich Marienplatz kommt es auf den Linien 16, 52, 62 und 132 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li>Die Linie 132 in Richtung Forstenrieder Park wird zwischen Schrannenhalle und Isartor/Zweibrückenstraße umgeleitet. Die Haltestellen Marienplatz, Viktualienmarkt und Schrannenhalle in Fahrtrichtung Forstenrieder Park können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 21:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen einer Demonstration",
     "type": "DISRUPTION"
   },
   {

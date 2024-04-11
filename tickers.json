@@ -352,6 +352,757 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-11T14:11:00Z",
+      "toDate": "2024-04-11T20:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "841dfb1a-7b88-4b52-a653-0688fd2785e8",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-11T14:11:00Z",
+        "toDate": "2024-04-11T20:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "30",
+        "name": "X30",
+        "stations": [
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "30",
+        "name": "X30",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1024",
+            "name": "Neuer Südfriedhof West"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-11T17:47:16Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-11T14:42:00Z",
       "toDate": "2024-04-11T18:00:00Z"
     },
@@ -1674,701 +2425,6 @@
     "modificationDate": "2024-04-09T12:21:19Z",
     "text": "<div>Wegen eines Gaslecks in der Waltherstra&szlig;e wird die Buslinie 62 &gt; Rotkreuzplatz bis vsl. Freitag, 19. April 2024 zwischen den (H) Sendlinger Tor und Kapuzinerstra&szlig;e umgeleitet. Die (H) Maistra&szlig;e und Waltherstra&szlig;e entfallen.</div>\n<div>&nbsp;</div>\n<div>Auf dem Umleitungsweg liegende Haltestellen werden nicht mitbedient.&nbsp;</div>\r\n",
     "title": "Sendlinger Tor > Kapuzinerstraße: Umleitung wegen eines Gaslecks",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-11T14:11:00Z",
-      "toDate": "2024-04-11T20:30:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "id": "841dfb1a-7b88-4b52-a653-0688fd2785e8",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-11T14:11:00Z",
-        "toDate": "2024-04-11T20:30:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "139",
-        "name": "139",
-        "stations": [
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:824",
-            "name": "Paul-Wassermann-Straße"
-          },
-          {
-            "id": "de:09162:803",
-            "name": "Friedhof Riem"
-          },
-          {
-            "id": "de:09162:802",
-            "name": "Truchthari-Anger"
-          },
-          {
-            "id": "de:09162:801",
-            "name": "Kirchtruderinger Straße"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:911",
-            "name": "Halligenplatz"
-          },
-          {
-            "id": "de:09162:912",
-            "name": "St.-Augustinus-Straße"
-          },
-          {
-            "id": "de:09162:913",
-            "name": "Matterhornstraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1016",
-            "name": "Jakob-Kaiser-Straße"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1021",
-            "name": "Neuer Südfriedhof"
-          },
-          {
-            "id": "de:09162:1058",
-            "name": "Mitterweg"
-          },
-          {
-            "id": "de:09162:1023",
-            "name": "Ständlerstraße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          },
-          {
-            "id": "de:09162:1178",
-            "name": "Frasdorfer Straße"
-          },
-          {
-            "id": "de:09162:1177",
-            "name": "Stadelheimer Straße"
-          },
-          {
-            "id": "de:09162:1189",
-            "name": "Peter-Auzinger-Straße"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          },
-          {
-            "id": "de:09162:1211",
-            "name": "Mangfallplatz Süd"
-          },
-          {
-            "id": "de:09162:1174",
-            "name": "Säbener Straße"
-          },
-          {
-            "id": "de:09162:1173",
-            "name": "Griechenstraße"
-          },
-          {
-            "id": "de:09162:1172",
-            "name": "Autharistraße"
-          },
-          {
-            "id": "de:09162:1171",
-            "name": "Theodolindenstraße"
-          },
-          {
-            "id": "de:09162:1123",
-            "name": "Klinikum Harlaching"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "139",
-        "name": "139",
-        "stations": [
-          {
-            "id": "de:09162:1123",
-            "name": "Klinikum Harlaching"
-          },
-          {
-            "id": "de:09162:1171",
-            "name": "Theodolindenstraße"
-          },
-          {
-            "id": "de:09162:1172",
-            "name": "Autharistraße"
-          },
-          {
-            "id": "de:09162:1173",
-            "name": "Griechenstraße"
-          },
-          {
-            "id": "de:09162:1174",
-            "name": "Säbener Straße"
-          },
-          {
-            "id": "de:09162:1211",
-            "name": "Mangfallplatz Süd"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          },
-          {
-            "id": "de:09162:1189",
-            "name": "Peter-Auzinger-Straße"
-          },
-          {
-            "id": "de:09162:1177",
-            "name": "Stadelheimer Straße"
-          },
-          {
-            "id": "de:09162:1178",
-            "name": "Frasdorfer Straße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1023",
-            "name": "Ständlerstraße"
-          },
-          {
-            "id": "de:09162:1022",
-            "name": "Hochäckerstraße"
-          },
-          {
-            "id": "de:09162:1058",
-            "name": "Mitterweg"
-          },
-          {
-            "id": "de:09162:1024",
-            "name": "Neuer Südfriedhof West"
-          },
-          {
-            "id": "de:09162:1021",
-            "name": "Neuer Südfriedhof"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1016",
-            "name": "Jakob-Kaiser-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:913",
-            "name": "Matterhornstraße"
-          },
-          {
-            "id": "de:09162:912",
-            "name": "St.-Augustinus-Straße"
-          },
-          {
-            "id": "de:09162:911",
-            "name": "Halligenplatz"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:801",
-            "name": "Kirchtruderinger Straße"
-          },
-          {
-            "id": "de:09162:802",
-            "name": "Truchthari-Anger"
-          },
-          {
-            "id": "de:09162:803",
-            "name": "Friedhof Riem"
-          },
-          {
-            "id": "de:09162:824",
-            "name": "Paul-Wassermann-Straße"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "176",
-        "name": "176",
-        "stations": [
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          },
-          {
-            "id": "de:09162:366",
-            "name": "Gröbenzeller Straße"
-          },
-          {
-            "id": "de:09162:1962",
-            "name": "Eininger Straße"
-          },
-          {
-            "id": "de:09162:1967",
-            "name": "Haylerstraße"
-          },
-          {
-            "id": "de:09162:1963",
-            "name": "Max-Born-Straße"
-          },
-          {
-            "id": "de:09162:1965",
-            "name": "Rangierbahnhof"
-          },
-          {
-            "id": "de:09162:1964",
-            "name": "Ferchenbachstraße"
-          },
-          {
-            "id": "de:09162:1968",
-            "name": "Kristallstraße"
-          },
-          {
-            "id": "de:09162:1974",
-            "name": "Opalstraße"
-          },
-          {
-            "id": "de:09162:1975",
-            "name": "MAN, Siedlung"
-          },
-          {
-            "id": "de:09162:1976",
-            "name": "Karlsfelder Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "176",
-        "name": "176",
-        "stations": [
-          {
-            "id": "de:09162:1976",
-            "name": "Karlsfelder Straße"
-          },
-          {
-            "id": "de:09162:1968",
-            "name": "Kristallstraße"
-          },
-          {
-            "id": "de:09162:1964",
-            "name": "Ferchenbachstraße"
-          },
-          {
-            "id": "de:09162:1965",
-            "name": "Rangierbahnhof"
-          },
-          {
-            "id": "de:09162:1963",
-            "name": "Max-Born-Straße"
-          },
-          {
-            "id": "de:09162:1967",
-            "name": "Haylerstraße"
-          },
-          {
-            "id": "de:09162:1962",
-            "name": "Eininger Straße"
-          },
-          {
-            "id": "de:09162:366",
-            "name": "Gröbenzeller Straße"
-          },
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "188",
-        "name": "188",
-        "stations": [
-          {
-            "id": "de:09184:2100",
-            "name": "Unterföhring, Fichtenstraße"
-          },
-          {
-            "id": "de:09184:2098",
-            "name": "Unterföhring, Ahornstraße"
-          },
-          {
-            "id": "de:09184:2096",
-            "name": "Unterföhring, Bergstraße"
-          },
-          {
-            "id": "de:09184:2490",
-            "name": "Unterföhring, Rathaus"
-          },
-          {
-            "id": "de:09184:2092",
-            "name": "Unterföhring, Alte Münch. Str."
-          },
-          {
-            "id": "de:09184:2090",
-            "name": "Unterföhring, Siedlerstraße"
-          },
-          {
-            "id": "de:09184:2102",
-            "name": "Unterföhring, Feringastraße"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09162:627",
-            "name": "Bernheimerstraße"
-          },
-          {
-            "id": "de:09162:626",
-            "name": "Oberföhring Post"
-          },
-          {
-            "id": "de:09162:628",
-            "name": "Muspillistraße"
-          },
-          {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
-          },
-          {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:623",
-            "name": "Wahnfriedallee"
-          },
-          {
-            "id": "de:09162:622",
-            "name": "Odinstraße"
-          },
-          {
-            "id": "de:09162:621",
-            "name": "Mahirstraße"
-          },
-          {
-            "id": "de:09162:620",
-            "name": "Isarring"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:638",
-            "name": "Pühnstraße"
-          },
-          {
-            "id": "de:09162:609",
-            "name": "Warthestraße"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "188",
-        "name": "188",
-        "stations": [
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:609",
-            "name": "Warthestraße"
-          },
-          {
-            "id": "de:09162:638",
-            "name": "Pühnstraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:620",
-            "name": "Isarring"
-          },
-          {
-            "id": "de:09162:621",
-            "name": "Mahirstraße"
-          },
-          {
-            "id": "de:09162:622",
-            "name": "Odinstraße"
-          },
-          {
-            "id": "de:09162:623",
-            "name": "Wahnfriedallee"
-          },
-          {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
-          },
-          {
-            "id": "de:09162:628",
-            "name": "Muspillistraße"
-          },
-          {
-            "id": "de:09162:626",
-            "name": "Oberföhring Post"
-          },
-          {
-            "id": "de:09162:627",
-            "name": "Bernheimerstraße"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09184:2102",
-            "name": "Unterföhring, Feringastraße"
-          },
-          {
-            "id": "de:09184:2090",
-            "name": "Unterföhring, Siedlerstraße"
-          },
-          {
-            "id": "de:09184:2092",
-            "name": "Unterföhring, Alte Münch. Str."
-          },
-          {
-            "id": "de:09184:2490",
-            "name": "Unterföhring, Rathaus"
-          },
-          {
-            "id": "de:09184:2096",
-            "name": "Unterföhring, Bergstraße"
-          },
-          {
-            "id": "de:09184:2098",
-            "name": "Unterföhring, Ahornstraße"
-          },
-          {
-            "id": "de:09184:2100",
-            "name": "Unterföhring, Fichtenstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-11T17:28:32Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

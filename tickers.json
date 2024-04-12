@@ -342,6 +342,109 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-12T13:36:00Z",
+      "toDate": "2024-04-12T15:12:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie SEV 18 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "b42be3da-e8e8-4f31-ad0c-f43cfed34a79",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-12T13:36:00Z",
+        "toDate": "2024-04-12T15:12:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          },
+          {
+            "id": "de:09162:1501",
+            "name": "Senftenauerstraße Süd"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-12T13:37:08Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie SEV 18 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },

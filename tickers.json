@@ -2000,7 +2000,7 @@
       "toDate": "2024-04-12T17:15:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 183 und 189 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 164, 183 und 189 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "b42be3da-e8e8-4f31-ad0c-f43cfed34a79",
     "incidentDuration": [
       {
@@ -2010,6 +2010,258 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "164",
+        "name": "164",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1931",
+            "name": "Zaunerstraße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1820",
+            "name": "Willi-Wien-Straße"
+          },
+          {
+            "id": "de:09162:1814",
+            "name": "Von-Kahr-Straße"
+          },
+          {
+            "id": "de:09162:1815",
+            "name": "Campingplatz Obermenzing"
+          },
+          {
+            "id": "de:09162:1851",
+            "name": "Goteboldstraße"
+          },
+          {
+            "id": "de:09162:1830",
+            "name": "Gerlachweg"
+          },
+          {
+            "id": "de:09162:1838",
+            "name": "Auenbruggerstraße"
+          },
+          {
+            "id": "de:09162:1834",
+            "name": "Pasinger Heuweg"
+          },
+          {
+            "id": "de:09162:1832",
+            "name": "Riederstraße"
+          },
+          {
+            "id": "de:09162:1831",
+            "name": "Hauseggerstraße"
+          },
+          {
+            "id": "de:09162:1829",
+            "name": "Servetstraße"
+          },
+          {
+            "id": "de:09162:1839",
+            "name": "Eversbuschstraße"
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1837",
+            "name": "Pregerstraße"
+          },
+          {
+            "id": "de:09162:1836",
+            "name": "Karl-Hänel-Straße"
+          },
+          {
+            "id": "de:09162:1835",
+            "name": "Augustenfelder Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "164",
+        "name": "164",
+        "stations": [
+          {
+            "id": "de:09162:1835",
+            "name": "Augustenfelder Straße"
+          },
+          {
+            "id": "de:09162:1836",
+            "name": "Karl-Hänel-Straße"
+          },
+          {
+            "id": "de:09162:1837",
+            "name": "Pregerstraße"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1839",
+            "name": "Eversbuschstraße"
+          },
+          {
+            "id": "de:09162:1829",
+            "name": "Servetstraße"
+          },
+          {
+            "id": "de:09162:1831",
+            "name": "Hauseggerstraße"
+          },
+          {
+            "id": "de:09162:1832",
+            "name": "Riederstraße"
+          },
+          {
+            "id": "de:09162:1834",
+            "name": "Pasinger Heuweg"
+          },
+          {
+            "id": "de:09162:1838",
+            "name": "Auenbruggerstraße"
+          },
+          {
+            "id": "de:09162:1830",
+            "name": "Gerlachweg"
+          },
+          {
+            "id": "de:09162:1851",
+            "name": "Goteboldstraße"
+          },
+          {
+            "id": "de:09162:1815",
+            "name": "Campingplatz Obermenzing"
+          },
+          {
+            "id": "de:09162:1814",
+            "name": "Von-Kahr-Straße"
+          },
+          {
+            "id": "de:09162:1820",
+            "name": "Willi-Wien-Straße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1931",
+            "name": "Zaunerstraße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "2",
         "id": "183",
@@ -2540,8 +2792,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-12T14:47:10Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 183 und 189 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-04-12T14:52:53Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien SEV 18, 164, 183 und 189 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

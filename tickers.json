@@ -1028,106 +1028,6 @@
     "incidents": [],
     "lines": [
       {
-        "direction": "1",
-        "id": "435",
-        "name": "X35",
-        "stations": [
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          },
-          {
-            "id": "de:09162:237",
-            "name": "Bunzlauer Platz"
-          },
-          {
-            "id": "de:09162:301",
-            "name": "Pelkovenstraße"
-          },
-          {
-            "id": "de:09162:370",
-            "name": "Moosacher St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:503",
-            "name": "Schwabing Nord"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "435",
-        "name": "X35",
-        "stations": [
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:503",
-            "name": "Schwabing Nord"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:370",
-            "name": "Moosacher St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:301",
-            "name": "Pelkovenstraße"
-          },
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "2",
         "id": "436",
         "name": "X36",
@@ -1256,138 +1156,66 @@
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "2",
-        "id": "55",
-        "name": "55",
-        "stations": [
-          {
-            "id": "de:09184:2172",
-            "name": "Putzbrunn, M.-Haslbeck-Straße"
-          },
-          {
-            "id": "de:09184:2174",
-            "name": "Putzbrunn, W.-v.-Braun-Straße"
-          },
-          {
-            "id": "de:09184:2176",
-            "name": "Putzbrunn, Kirchenzentrum"
-          },
-          {
-            "id": "de:09184:2287",
-            "name": "Putzbrunn, Brennerei"
-          },
-          {
-            "id": "de:09184:2288",
-            "name": "Putzbrunn, Waldkolonie"
-          },
-          {
-            "id": "de:09184:2265",
-            "name": "Putzbrunn, Seemannsiedlung"
-          },
-          {
-            "id": "de:09162:981",
-            "name": "Am Hain"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:967",
-            "name": "Waldperlach"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:965",
-            "name": "Eulenspiegelstraße"
-          },
-          {
-            "id": "de:09162:964",
-            "name": "Im Gefilde"
-          },
-          {
-            "id": "de:09162:963",
-            "name": "Tribulaunstraße"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1015",
-            "name": "Thomas-Dehler-Straße"
-          },
-          {
-            "id": "de:09162:1035",
-            "name": "Friedhof Perlach"
-          },
-          {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
-          },
-          {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
-          },
-          {
-            "id": "de:09162:1033",
-            "name": "Weddigenstraße"
-          },
-          {
-            "id": "de:09162:1047",
-            "name": "Adilostraße"
-          },
-          {
-            "id": "de:09162:1032",
-            "name": "Woferlstraße"
-          },
-          {
-            "id": "de:09162:1031",
-            "name": "Diakon-Kerolt-Weg"
-          },
-          {
-            "id": "de:09162:1003",
-            "name": "Ramersdorf"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1001",
-            "name": "Anzinger Straße"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "1",
-        "id": "55",
-        "name": "55",
+        "id": "54",
+        "name": "54",
         "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
           {
             "id": "de:09162:5",
             "name": "Ostbahnhof"
@@ -1401,116 +1229,296 @@
             "name": "Kustermannpark"
           },
           {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1149",
+            "name": "Heckenstallerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
             "id": "de:09162:1001",
             "name": "Anzinger Straße"
           },
           {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
           },
           {
-            "id": "de:09162:1003",
-            "name": "Ramersdorf"
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
           },
           {
-            "id": "de:09162:1031",
-            "name": "Diakon-Kerolt-Weg"
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
           },
           {
-            "id": "de:09162:1032",
-            "name": "Woferlstraße"
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
           },
           {
-            "id": "de:09162:1047",
-            "name": "Adilostraße"
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
           },
           {
-            "id": "de:09162:1033",
-            "name": "Weddigenstraße"
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
           },
           {
-            "id": "de:09162:1019",
-            "name": "Pfanzeltplatz"
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
           },
           {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
           },
           {
-            "id": "de:09162:1035",
-            "name": "Friedhof Perlach"
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
           },
           {
-            "id": "de:09162:1015",
-            "name": "Thomas-Dehler-Straße"
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
           },
           {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
           },
           {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
           },
           {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
           },
           {
-            "id": "de:09162:963",
-            "name": "Tribulaunstraße"
+            "id": "de:09162:80",
+            "name": "Giselastraße"
           },
           {
-            "id": "de:09162:964",
-            "name": "Im Gefilde"
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
           },
           {
-            "id": "de:09162:965",
-            "name": "Eulenspiegelstraße"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:967",
-            "name": "Waldperlach"
-          },
-          {
-            "id": "de:09162:966",
-            "name": "Waldheimplatz"
-          },
-          {
-            "id": "de:09162:981",
-            "name": "Am Hain"
-          },
-          {
-            "id": "de:09184:2265",
-            "name": "Putzbrunn, Seemannsiedlung"
-          },
-          {
-            "id": "de:09184:2288",
-            "name": "Putzbrunn, Waldkolonie"
-          },
-          {
-            "id": "de:09184:2287",
-            "name": "Putzbrunn, Brennerei"
-          },
-          {
-            "id": "de:09184:2176",
-            "name": "Putzbrunn, Kirchenzentrum"
-          },
-          {
-            "id": "de:09184:2174",
-            "name": "Putzbrunn, W.-v.-Braun-Straße"
-          },
-          {
-            "id": "de:09184:2172",
-            "name": "Putzbrunn, M.-Haslbeck-Straße"
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
           }
         ],
         "typeOfTransport": "BUS"
@@ -2889,7 +2897,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-12T15:36:55Z",
+    "modificationDate": "2024-04-12T16:11:55Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

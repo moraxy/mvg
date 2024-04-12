@@ -342,6 +342,709 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-12T10:05:00Z",
+      "toDate": "2024-04-12T11:05:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Marienburger Straße kommt es auf den Linien 183, 188 und 189 derzeit zu vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 13:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "91bcdc1f-f992-4cbe-bd84-c07cfc24b050",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-12T10:05:00Z",
+        "toDate": "2024-04-12T11:05:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "183",
+        "name": "183",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
+          },
+          {
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
+          },
+          {
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
+          },
+          {
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:608",
+            "name": "Posener Platz"
+          },
+          {
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
+          },
+          {
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "183",
+        "name": "183",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
+          },
+          {
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
+          },
+          {
+            "id": "de:09162:608",
+            "name": "Posener Platz"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
+          },
+          {
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
+          },
+          {
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
+          },
+          {
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "189",
+        "name": "189",
+        "stations": [
+          {
+            "id": "de:09184:2030",
+            "name": "Unterföhring"
+          },
+          {
+            "id": "de:09184:2107",
+            "name": "Unterföhring, Gutenbergstraße"
+          },
+          {
+            "id": "de:09184:2494",
+            "name": "Unterföhring, ZDF-Straße "
+          },
+          {
+            "id": "de:09184:2510",
+            "name": "Unterföhring, Heinrich-Hildebrand-Weg"
+          },
+          {
+            "id": "de:09184:2498",
+            "name": "Unterföhring, Beta-Straße"
+          },
+          {
+            "id": "de:09184:2013",
+            "name": "Unterföhring, Lohwiesenweg"
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "189",
+        "name": "189",
+        "stations": [
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2013",
+            "name": "Unterföhring, Lohwiesenweg"
+          },
+          {
+            "id": "de:09184:2498",
+            "name": "Unterföhring, Beta-Straße"
+          },
+          {
+            "id": "de:09184:2510",
+            "name": "Unterföhring, Heinrich-Hildebrand-Weg"
+          },
+          {
+            "id": "de:09184:2494",
+            "name": "Unterföhring, ZDF-Straße "
+          },
+          {
+            "id": "de:09184:2030",
+            "name": "Unterföhring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-12T10:06:19Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Marienburger Straße kommt es auf den Linien 183, 188 und 189 derzeit zu vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 13:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Vorzeitige Wendung wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },

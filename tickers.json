@@ -1022,6 +1022,117 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-12T15:37:00Z",
+      "toDate": "2024-04-12T17:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Betriebsstörung kommt es bei der Linie U7 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U7 verkehrt momentan leider nicht. </li></ul>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "2f76f499-c4c1-425b-a7b5-1844a736427d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-12T15:37:00Z",
+        "toDate": "2024-04-12T17:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-12T15:40:15Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Betriebsstörung kommt es bei der Linie U7 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie U7 verkehrt momentan leider nicht. </li></ul>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Beeinträchtigungen wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-12T14:13:00Z",
       "toDate": "2024-04-12T18:00:00Z"
     },

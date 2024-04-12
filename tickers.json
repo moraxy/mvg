@@ -343,231 +343,19 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-12T10:05:00Z",
-      "toDate": "2024-04-12T11:05:00Z"
+      "toDate": "2024-04-12T11:25:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Marienburger Straße kommt es auf den Linien 183, 188 und 189 derzeit zu vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 13:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Marienburger Straße kommt es auf den Linien 183, 188 und 189 derzeit zu vorzeitigen Wendungen. <ul style='list-style: disc;'><li>Die Linie 188 fährt nur im Abschnitt Unterföhring, Fichtenstraße <> Hermann-Gmeiner-Weg. <li>Die Linie 189 fährt nur im Abschnitt Unterföhring <> Hermann-Gmeiner-Weg. <li>Die Haltestellen Marienburger Straße und Daglfing Bf. West können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 13:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "91bcdc1f-f992-4cbe-bd84-c07cfc24b050",
     "incidentDuration": [
       {
         "fromDate": "2024-04-12T10:05:00Z",
-        "toDate": "2024-04-12T11:05:00Z"
+        "toDate": "2024-04-12T11:25:00Z"
       }
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "2",
-        "id": "183",
-        "name": "183",
-        "stations": [
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:814",
-            "name": "Paul-Henri-Spaak-Straße"
-          },
-          {
-            "id": "de:09162:815",
-            "name": "An der Point"
-          },
-          {
-            "id": "de:09162:805",
-            "name": "Martin-Empl-Ring"
-          },
-          {
-            "id": "de:09162:811",
-            "name": "Graf-Lehndorff-Straße"
-          },
-          {
-            "id": "de:09162:825",
-            "name": "Riemer Straße"
-          },
-          {
-            "id": "de:09162:810",
-            "name": "Tierheim"
-          },
-          {
-            "id": "de:09162:731",
-            "name": "Rennbahnstraße"
-          },
-          {
-            "id": "de:09162:703",
-            "name": "Trabrennbahn"
-          },
-          {
-            "id": "de:09162:702",
-            "name": "Schichtlstraße"
-          },
-          {
-            "id": "de:09162:725",
-            "name": "Kunihohstraße"
-          },
-          {
-            "id": "de:09162:704",
-            "name": "Daglfing Bf. Ost"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:608",
-            "name": "Posener Platz"
-          },
-          {
-            "id": "de:09162:607",
-            "name": "Zoppoter Straße"
-          },
-          {
-            "id": "de:09162:606",
-            "name": "Memeler Straße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "183",
-        "name": "183",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          },
-          {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:634",
-            "name": "Wilhelm-Dieß-Weg"
-          },
-          {
-            "id": "de:09162:605",
-            "name": "Englschalkinger Straße"
-          },
-          {
-            "id": "de:09162:606",
-            "name": "Memeler Straße"
-          },
-          {
-            "id": "de:09162:607",
-            "name": "Zoppoter Straße"
-          },
-          {
-            "id": "de:09162:608",
-            "name": "Posener Platz"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:701",
-            "name": "Marienburger Straße"
-          },
-          {
-            "id": "de:09162:705",
-            "name": "Daglfing Bf. West"
-          },
-          {
-            "id": "de:09162:704",
-            "name": "Daglfing Bf. Ost"
-          },
-          {
-            "id": "de:09162:725",
-            "name": "Kunihohstraße"
-          },
-          {
-            "id": "de:09162:702",
-            "name": "Schichtlstraße"
-          },
-          {
-            "id": "de:09162:703",
-            "name": "Trabrennbahn"
-          },
-          {
-            "id": "de:09162:731",
-            "name": "Rennbahnstraße"
-          },
-          {
-            "id": "de:09162:810",
-            "name": "Tierheim"
-          },
-          {
-            "id": "de:09162:825",
-            "name": "Riemer Straße"
-          },
-          {
-            "id": "de:09162:811",
-            "name": "Graf-Lehndorff-Straße"
-          },
-          {
-            "id": "de:09162:815",
-            "name": "An der Point"
-          },
-          {
-            "id": "de:09162:814",
-            "name": "Paul-Henri-Spaak-Straße"
-          },
-          {
-            "id": "de:09162:813",
-            "name": "Am Messesee"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
       {
         "direction": "1",
         "id": "188",
@@ -1038,8 +826,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-12T10:06:19Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Marienburger Straße kommt es auf den Linien 183, 188 und 189 derzeit zu vorzeitigen Wendungen. <br>Die Behinderungen werden noch voraussichtlich bis 13:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-04-12T10:12:47Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Marienburger Straße kommt es auf den Linien 183, 188 und 189 derzeit zu vorzeitigen Wendungen. <ul style='list-style: disc;'><li>Die Linie 188 fährt nur im Abschnitt Unterföhring, Fichtenstraße <> Hermann-Gmeiner-Weg. <li>Die Linie 189 fährt nur im Abschnitt Unterföhring <> Hermann-Gmeiner-Weg. <li>Die Haltestellen Marienburger Straße und Daglfing Bf. West können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 13:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Vorzeitige Wendung wegen eines Feuerwehreinsatzes",
     "type": "DISRUPTION"
   },

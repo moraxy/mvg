@@ -1812,7 +1812,7 @@
       "toDate": "2024-04-13T10:35:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines erkrankten Fahrgastes kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. Die Behinderungen werden noch voraussichtlich bis 12:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines erkrankten Fahrgastes kommt es auf den Linien 18 und 19 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 12:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "5570add8-d157-4ed5-a324-de082c541562",
     "incidentDuration": [
       {
@@ -2320,9 +2320,272 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-13T09:35:49Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines erkrankten Fahrgastes kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. Die Behinderungen werden noch voraussichtlich bis 12:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Beeinträchtigungen wegen eines erkrankten Fahrgastes",
+    "modificationDate": "2024-04-13T09:50:37Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines erkrankten Fahrgastes kommt es auf den Linien 18 und 19 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 12:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen eines erkrankten Fahrgastes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-13T09:39:00Z",
+      "toDate": "2024-04-13T16:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer Demonstration im Bereich Karolinenplatz kommt es auf den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li> Die Linie 28 wird in beiden Richtungen zwischen Karlsplatz (Stachus) und Kurfürstenplatz umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof, Karlstraße, Stiglmaierplatz, Hochschule München (Lothstraße), Leonrodplatz, Infanteriestraße, Nordbad. Die Haltestellen Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße können leider nicht bedient werden. </li> <li> Die Linie 27 wird in beiden Richtungen zwischen Hohenzollernplatz und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof, Karlstraße, Stiglmaierplatz, Hochschule München (Lothstraße), Leonrodplatz, Infanteriestraße, Nordbad. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße, Elisabethplatz und Kurfürstenplatz können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "5e81d813-3174-4171-95a7-cbe550551cd2",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-13T09:39:00Z",
+        "toDate": "2024-04-13T16:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-13T09:51:46Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer Demonstration im Bereich Karolinenplatz kommt es auf den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li> Die Linie 28 wird in beiden Richtungen zwischen Karlsplatz (Stachus) und Kurfürstenplatz umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof, Karlstraße, Stiglmaierplatz, Hochschule München (Lothstraße), Leonrodplatz, Infanteriestraße, Nordbad. Die Haltestellen Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße können leider nicht bedient werden. </li> <li> Die Linie 27 wird in beiden Richtungen zwischen Hohenzollernplatz und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Hauptbahnhof, Karlstraße, Stiglmaierplatz, Hochschule München (Lothstraße), Leonrodplatz, Infanteriestraße, Nordbad. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße, Elisabethplatz und Kurfürstenplatz können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen einer Demonstration",
     "type": "DISRUPTION"
   },
   {

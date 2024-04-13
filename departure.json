@@ -2,23 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "destination": "Aidenbachstraße",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1712968140000,
-    "realtime": false,
-    "realtimeDepartureTime": 1712968140000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Feldmoching",
     "divaId": "010U2",
@@ -350,6 +333,23 @@
     "realtimeDepartureTime": 1712975460000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:4:4",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Karlsplatz (Stachus)",
+    "divaId": "33N41",
+    "label": "N41",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "LOW",
+    "plannedDepartureTime": 1712976240000,
+    "realtime": false,
+    "realtimeDepartureTime": 1712976240000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
     "trainType": "",
     "transportType": "BUS"
   }

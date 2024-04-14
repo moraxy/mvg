@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 2,
-    "destination": "OEZ Dessauerstraße",
-    "divaId": "03050",
-    "label": "50",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1713132240000,
-    "realtime": true,
-    "realtimeDepartureTime": 1713132360000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:2:2",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Scheidplatz",
     "divaId": "010U2",
@@ -372,5 +354,25 @@
     "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
     "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Messestadt Ost",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "LOW",
+    "plannedDepartureTime": 1713135600000,
+    "platform": 2,
+    "platformChanged": false,
+    "realtime": true,
+    "realtimeDepartureTime": 1713135600000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:52",
+    "trainType": "",
+    "transportType": "UBAHN"
   }
 ]

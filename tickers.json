@@ -5,7 +5,7 @@
       "toDate": "2024-04-15T12:23:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf den Linien 16 und 27 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li>Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Bitte weichen Sie auf die S-Bahn am Isartor und die Buslinien 52 und 62 an der Blumenstraße aus. Die Haltestelle der Linie 27 Richtung Petuelring ist für die Dauer der Störung in die Prielmayerstraße verlegt - Halteposition 6. </ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf den Linien 16 und 27 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li>Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Bitte weichen Sie auf die S-Bahn am Isartor und die Buslinien 52 und 62 an der Blumenstraße aus. Die Haltestelle der Linie 27 Richtung Petuelring ist f&uuml;r die Dauer der St&ouml;rung in die Prielmayerstra&szlig;e verlegt - Halteposition 6.</ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "190e3afd-5b4e-4c65-a134-968d12ec8c3e",
     "incidentDuration": [
       {
@@ -114,11 +114,75 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-15T11:42:30Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf den Linien 16 und 27 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li>Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Bitte weichen Sie auf die S-Bahn am Isartor und die Buslinien 52 und 62 an der Blumenstraße aus. Die Haltestelle der Linie 27 Richtung Petuelring ist für die Dauer der Störung in die Prielmayerstraße verlegt - Halteposition 6. </ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-04-15T11:44:10Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf den Linien 16 und 27 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li>Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Bitte weichen Sie auf die S-Bahn am Isartor und die Buslinien 52 und 62 an der Blumenstraße aus. Die Haltestelle der Linie 27 Richtung Petuelring ist f&uuml;r die Dauer der St&ouml;rung in die Prielmayerstra&szlig;e verlegt - Halteposition 6.</ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Umleitung wegen Falschparker",
     "type": "DISRUPTION"
   },

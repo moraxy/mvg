@@ -1,6 +1,129 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-15T11:23:00Z",
+      "toDate": "2024-04-15T12:23:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf der Linie 16 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li>Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Bitte weichen Sie auf die S-Bahn am Isartor und die Buslinien 52 und 62 an der Blumenstraße aus. </ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "190e3afd-5b4e-4c65-a134-968d12ec8c3e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-15T11:23:00Z",
+        "toDate": "2024-04-15T12:23:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-15T11:29:21Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf der Linie 16 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li>Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Bitte weichen Sie auf die S-Bahn am Isartor und die Buslinien 52 und 62 an der Blumenstraße aus. </ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen Falschparker",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-08T22:00:00Z",
       "toDate": "2024-04-18T22:00:00Z"
     },

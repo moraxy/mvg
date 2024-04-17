@@ -1,183 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-17T06:39:00Z",
-      "toDate": "2024-04-17T06:59:23Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "06e2760b-eba5-481e-9e89-2419b1128314_-1702761446",
-        "mimeType": "image/jpeg",
-        "name": "Tram 37 Umleitung"
-      }
-    ],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 37 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "06e2760b-eba5-481e-9e89-2419b1128314",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-17T06:39:00Z",
-        "toDate": "2024-04-17T06:49:23Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "37",
-        "name": "37",
-        "stations": [
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:91",
-            "name": "Bundesfinanzhof"
-          },
-          {
-            "id": "de:09162:75",
-            "name": "Sternwartstraße"
-          },
-          {
-            "id": "de:09162:74",
-            "name": "Holbeinstraße"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "37",
-        "name": "37",
-        "stations": [
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:74",
-            "name": "Holbeinstraße"
-          },
-          {
-            "id": "de:09162:75",
-            "name": "Sternwartstraße"
-          },
-          {
-            "id": "de:09162:91",
-            "name": "Bundesfinanzhof"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-17T06:49:23Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 37 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-17T06:53:00Z",
       "toDate": "2024-04-17T07:42:00Z"
     },
@@ -1355,6 +1178,469 @@
     "modificationDate": "2024-03-20T12:47:01Z",
     "text": "<div>Wegen eingeschr&auml;nkter Fahrzeugverf&uuml;gbarkeit sind die Z&uuml;ge auf der U1 und U7 montags bis freitags k&uuml;rzer als gewohnt. Bitte achten Sie auf die Aufkleber im Gleisbereich. Sie zeigen an, wo die Z&uuml;ge halten.</div>",
     "title": "Kürzere Züge im Einsatz",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-17T07:00:00Z",
+      "toDate": "2024-04-17T21:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Liebe Fahrg&auml;ste,<br/>heute findet um 21:00 Uhr das Fu&szlig;ballspiel FC Bayern M&uuml;nchen gegen FC Arsenal in Fr&ouml;ttmaning statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen auf den Linien U3 und U6 von ca. 18:00 Uhr bis Spielbeginn, sowie nach Ende der Partie ab 23:00 Uhr zu rechnen. Zudem kann es in den oben genannten Zeitr&auml;umen zu Versp&auml;tungen kommen. Wir empfehlen daher, auch die Busse ab S-Bf. Donnersbergerbr&uuml;cke zum Stadion von 18:30 Uhr bis 20:30 Uhr zu nutzen oder auf alternative Routen und Verkehrsmittel auszuweichen.<br/>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>Ihre MVG<br/>&nbsp;</div>",
+    "id": "2722cecf-b6b4-4c5a-a281-a20828830921",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-17T07:00:00Z",
+        "toDate": "2024-04-17T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-15T11:11:27Z",
+    "text": "<div>Liebe Fahrg&auml;ste,<br/>heute findet um 21:00 Uhr das Fu&szlig;ballspiel FC Bayern M&uuml;nchen gegen FC Arsenal in Fr&ouml;ttmaning statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen auf den Linien U3 und U6 von ca. 18:00 Uhr bis Spielbeginn, sowie nach Ende der Partie ab 23:00 Uhr zu rechnen. Zudem kann es in den oben genannten Zeitr&auml;umen zu Versp&auml;tungen kommen. Wir empfehlen daher, auch die Busse ab S-Bf. Donnersbergerbr&uuml;cke zum Stadion von 18:30 Uhr bis 20:30 Uhr zu nutzen oder auf alternative Routen und Verkehrsmittel auszuweichen.<br/>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>Ihre MVG<br/>&nbsp;</div>",
+    "title": "Beeinträchtigungen wg. eines Fußballspiels in Fröttmaning.",
     "type": "PLANNED"
   },
   {

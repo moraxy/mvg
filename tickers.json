@@ -1,1580 +1,145 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-17T13:12:00Z",
-      "toDate": "2024-04-17T13:28:28Z"
+      "fromDate": "2024-04-17T13:24:00Z",
+      "toDate": "2024-04-17T14:24:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien U1, U2, U4, U5 und U7 gemeldete Behinderung (Grund: Feuerwehreinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "f132ab80-f17e-4375-903a-4aed8f96cc42",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Max-Weber-Platz (Johannispl.) kommt es auf der Linie 21 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 21 in Richtung St.-Veit-Straße wird zwischen Maximilianeum und Haidenauplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Max-Weber-Platz. Die Haltestellen Ostbahnhof, Wörthstraße und Max-Weber-Platz (Johannispl.) in Fahrtrichtung St.-Veit-Straße können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "edbf04f7-9fad-40cd-a6a6-4fc68c8ae11c",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-17T13:12:00Z",
-        "toDate": "2024-04-17T13:18:28Z"
+        "fromDate": "2024-04-17T13:24:00Z",
+        "toDate": "2024-04-17T14:24:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "1",
-        "name": "U1",
+        "id": "21",
+        "name": "21",
         "stations": [
           {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
           },
           {
             "id": "de:09162:200",
             "name": "Westfriedhof"
           },
           {
-            "id": "de:09162:990",
-            "name": "Gern"
+            "id": "de:09162:305",
+            "name": "Borstei"
           },
           {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
           },
           {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
           },
           {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
           },
           {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
           },
           {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "1",
-        "name": "U1",
-        "stations": [
-          {
-            "id": "de:09162:1210",
-            "name": "Mangfallplatz"
-          },
-          {
-            "id": "de:09162:1200",
-            "name": "St.-Quirin-Platz"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
+            "id": "de:09162:13",
+            "name": "Sandstraße"
           },
           {
             "id": "de:09162:170",
             "name": "Stiglmaierplatz"
           },
           {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
+            "id": "de:09162:15",
+            "name": "Karlstraße"
           },
           {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "4",
-        "name": "U4",
-        "stations": [
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
           },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
           },
           {
-            "id": "de:09162:590",
-            "name": "Lehel"
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
           },
           {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
           },
           {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
           },
           {
-            "id": "de:09162:560",
-            "name": "Böhmerwaldplatz"
+            "id": "de:09162:19",
+            "name": "Maxmonument"
           },
           {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
           },
           {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "4",
-        "name": "U4",
-        "stations": [
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
           },
           {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:560",
-            "name": "Böhmerwaldplatz"
-          },
-          {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:590",
-            "name": "Lehel"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "5",
-        "name": "U5",
-        "stations": [
-          {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
-          },
-          {
-            "id": "de:09162:1020",
-            "name": "Therese-Giehse-Allee"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
           },
           {
             "id": "de:09162:5",
             "name": "Ostbahnhof"
           },
           {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
           },
           {
-            "id": "de:09162:590",
-            "name": "Lehel"
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
           },
           {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
           },
           {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
           },
           {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
           },
           {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:270",
-            "name": "Friedenheimer Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
           }
         ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "5",
-        "name": "U5",
-        "stations": [
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:270",
-            "name": "Friedenheimer Straße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:590",
-            "name": "Lehel"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1020",
-            "name": "Therese-Giehse-Allee"
-          },
-          {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "7",
-        "name": "U7",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "1",
-        "id": "7",
-        "name": "U7",
-        "stations": [
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:990",
-            "name": "Gern"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "METRO"
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-17T13:18:31Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linien U1, U2, U4, U5 und U7 gemeldete Behinderung (Grund: Feuerwehreinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-17T13:04:00Z",
-      "toDate": "2024-04-17T13:25:39Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 57 und 157 gemeldete Behinderung (Grund: Straßensperrung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "181aa204-927a-4a91-8e35-3d90c273a628",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-17T13:04:00Z",
-        "toDate": "2024-04-17T13:15:39Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "57",
-        "name": "57",
-        "stations": [
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1646",
-            "name": "Stroblstraße"
-          },
-          {
-            "id": "de:09162:1644",
-            "name": "Mitterfeldstraße"
-          },
-          {
-            "id": "de:09162:1643",
-            "name": "Fischer-v.-Erlach-Straße"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1727",
-            "name": "Benedikterstraße"
-          },
-          {
-            "id": "de:09162:1627",
-            "name": "Weinbergerstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1683",
-            "name": "Volmstraße"
-          },
-          {
-            "id": "de:09162:1682",
-            "name": "Varnhagenstraße"
-          },
-          {
-            "id": "de:09162:1681",
-            "name": "Heimburgstraße"
-          },
-          {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
-          },
-          {
-            "id": "de:09162:1702",
-            "name": "Ravensburger Ring"
-          },
-          {
-            "id": "de:09162:1704",
-            "name": "Mainaustraße"
-          },
-          {
-            "id": "de:09162:1706",
-            "name": "Sipplinger Straße"
-          },
-          {
-            "id": "de:09162:1708",
-            "name": "Wertheimer Straße"
-          },
-          {
-            "id": "de:09162:1712",
-            "name": "Altenburgstraße"
-          },
-          {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
-          },
-          {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
-          },
-          {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
-          },
-          {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
-          },
-          {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
-          },
-          {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
-          },
-          {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
-          },
-          {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
-          },
-          {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
-          },
-          {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "57",
-        "name": "57",
-        "stations": [
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
-          },
-          {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
-          },
-          {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
-          },
-          {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
-          },
-          {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
-          },
-          {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
-          },
-          {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
-          },
-          {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
-          },
-          {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
-          },
-          {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
-          },
-          {
-            "id": "de:09162:1712",
-            "name": "Altenburgstraße"
-          },
-          {
-            "id": "de:09162:1708",
-            "name": "Wertheimer Straße"
-          },
-          {
-            "id": "de:09162:1706",
-            "name": "Sipplinger Straße"
-          },
-          {
-            "id": "de:09162:1704",
-            "name": "Mainaustraße"
-          },
-          {
-            "id": "de:09162:1702",
-            "name": "Ravensburger Ring"
-          },
-          {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
-          },
-          {
-            "id": "de:09162:1681",
-            "name": "Heimburgstraße"
-          },
-          {
-            "id": "de:09162:1682",
-            "name": "Varnhagenstraße"
-          },
-          {
-            "id": "de:09162:1683",
-            "name": "Volmstraße"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1622",
-            "name": "Pasinger Marienplatz"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1627",
-            "name": "Weinbergerstraße"
-          },
-          {
-            "id": "de:09162:1727",
-            "name": "Benedikterstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1643",
-            "name": "Fischer-v.-Erlach-Straße"
-          },
-          {
-            "id": "de:09162:1644",
-            "name": "Mitterfeldstraße"
-          },
-          {
-            "id": "de:09162:1646",
-            "name": "Stroblstraße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "157",
-        "name": "157",
-        "stations": [
-          {
-            "id": "de:09179:6478",
-            "name": "Neue Gautinger Straße"
-          },
-          {
-            "id": "de:09179:6479",
-            "name": "Germering, Riegerstraße"
-          },
-          {
-            "id": "de:09179:6458",
-            "name": "Germering, An der Markung"
-          },
-          {
-            "id": "de:09179:6456",
-            "name": "Germering, Montessoristraße"
-          },
-          {
-            "id": "de:09179:6448",
-            "name": "Germering, Kerschenst. Schule"
-          },
-          {
-            "id": "de:09179:6450",
-            "name": "Germering, Theodor-Heuss-Straße"
-          },
-          {
-            "id": "de:09179:6452",
-            "name": "Germering, Kurt-Schumacher-Straße"
-          },
-          {
-            "id": "de:09179:6454",
-            "name": "Germering, Ringstraße"
-          },
-          {
-            "id": "de:09179:6462",
-            "name": "Germering, Masurenweg"
-          },
-          {
-            "id": "de:09179:6468",
-            "name": "Germering, Salzstraße"
-          },
-          {
-            "id": "de:09179:6401",
-            "name": "Germering, Bf. West"
-          },
-          {
-            "id": "de:09179:6250",
-            "name": "Germering-Unterpfaffenhofen"
-          },
-          {
-            "id": "de:09179:6499",
-            "name": "Germering, Stadthalle"
-          },
-          {
-            "id": "de:09179:6457",
-            "name": "Germering, Oskar-von-Miller-Str."
-          },
-          {
-            "id": "de:09179:5992",
-            "name": "Germering, Industriestraße (Spange)"
-          },
-          {
-            "id": "de:09179:6235",
-            "name": "Germering, Industriestraße"
-          },
-          {
-            "id": "de:09179:6606",
-            "name": "Germering, GEP"
-          },
-          {
-            "id": "de:09179:6111",
-            "name": "Germering, Münchener Straße"
-          },
-          {
-            "id": "de:09179:6455",
-            "name": "Germering, Königsberger Straße"
-          },
-          {
-            "id": "de:09179:6497",
-            "name": "Germering, Wotanstraße"
-          },
-          {
-            "id": "de:09162:1760",
-            "name": "Freiham Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
-          },
-          {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
-          },
-          {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
-          },
-          {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
-          },
-          {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
-          },
-          {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
-          },
-          {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
-          },
-          {
-            "id": "de:09162:1710",
-            "name": "Aubing Bf."
-          },
-          {
-            "id": "de:09162:1711",
-            "name": "Ubostraße"
-          },
-          {
-            "id": "de:09162:1733",
-            "name": "Germeringer Weg"
-          },
-          {
-            "id": "de:09162:1711",
-            "name": "Ubostraße"
-          },
-          {
-            "id": "de:09162:1705",
-            "name": "Aubing-Ost-Straße"
-          },
-          {
-            "id": "de:09162:1735",
-            "name": "Elisabeth-Jost-Straße"
-          },
-          {
-            "id": "de:09162:1739",
-            "name": "Joseph-Suder-Bogen"
-          },
-          {
-            "id": "de:09162:1741",
-            "name": "Ilse-Fehling-Straße"
-          },
-          {
-            "id": "de:09162:1743",
-            "name": "Staufener Straße"
-          },
-          {
-            "id": "de:09162:1745",
-            "name": "Englburgstraße"
-          },
-          {
-            "id": "de:09162:1747",
-            "name": "Hellensteinstraße"
-          },
-          {
-            "id": "de:09162:1749",
-            "name": "Tettnanger Straße"
-          },
-          {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
-          },
-          {
-            "id": "de:09162:1701",
-            "name": "Betschartstraße"
-          },
-          {
-            "id": "de:09162:1662",
-            "name": "Scapinellistraße"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1215",
-            "name": "Veldener Straße"
-          },
-          {
-            "id": "de:09162:1605",
-            "name": "Pörtschacher Straße"
-          },
-          {
-            "id": "de:09162:1648",
-            "name": "Pronnerplatz"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1203",
-            "name": "Schäufeleinstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1222",
-            "name": "Garmischer Straße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1234",
-            "name": "Fuggerstraße"
-          },
-          {
-            "id": "de:09162:1236",
-            "name": "Ortlerstraße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "157",
-        "name": "157",
-        "stations": [
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1236",
-            "name": "Ortlerstraße"
-          },
-          {
-            "id": "de:09162:1234",
-            "name": "Fuggerstraße"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1159",
-            "name": "Heimeranplatz Süd"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1203",
-            "name": "Schäufeleinstraße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1648",
-            "name": "Pronnerplatz"
-          },
-          {
-            "id": "de:09162:1605",
-            "name": "Pörtschacher Straße"
-          },
-          {
-            "id": "de:09162:1215",
-            "name": "Veldener Straße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1662",
-            "name": "Scapinellistraße"
-          },
-          {
-            "id": "de:09162:1701",
-            "name": "Betschartstraße"
-          },
-          {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
-          },
-          {
-            "id": "de:09162:1749",
-            "name": "Tettnanger Straße"
-          },
-          {
-            "id": "de:09162:1747",
-            "name": "Hellensteinstraße"
-          },
-          {
-            "id": "de:09162:1745",
-            "name": "Englburgstraße"
-          },
-          {
-            "id": "de:09162:1743",
-            "name": "Staufener Straße"
-          },
-          {
-            "id": "de:09162:1741",
-            "name": "Ilse-Fehling-Straße"
-          },
-          {
-            "id": "de:09162:1739",
-            "name": "Joseph-Suder-Bogen"
-          },
-          {
-            "id": "de:09162:1735",
-            "name": "Elisabeth-Jost-Straße"
-          },
-          {
-            "id": "de:09162:1705",
-            "name": "Aubing-Ost-Straße"
-          },
-          {
-            "id": "de:09162:1711",
-            "name": "Ubostraße"
-          },
-          {
-            "id": "de:09162:1733",
-            "name": "Germeringer Weg"
-          },
-          {
-            "id": "de:09162:1711",
-            "name": "Ubostraße"
-          },
-          {
-            "id": "de:09162:1710",
-            "name": "Aubing Bf."
-          },
-          {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
-          },
-          {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
-          },
-          {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
-          },
-          {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
-          },
-          {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
-          },
-          {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
-          },
-          {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
-          },
-          {
-            "id": "de:09162:1760",
-            "name": "Freiham Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09179:6497",
-            "name": "Germering, Wotanstraße"
-          },
-          {
-            "id": "de:09179:6455",
-            "name": "Germering, Königsberger Straße"
-          },
-          {
-            "id": "de:09179:6111",
-            "name": "Germering, Münchener Straße"
-          },
-          {
-            "id": "de:09179:6606",
-            "name": "Germering, GEP"
-          },
-          {
-            "id": "de:09179:6235",
-            "name": "Germering, Industriestraße"
-          },
-          {
-            "id": "de:09179:5992",
-            "name": "Germering, Industriestraße (Spange)"
-          },
-          {
-            "id": "de:09179:6457",
-            "name": "Germering, Oskar-von-Miller-Str."
-          },
-          {
-            "id": "de:09179:6499",
-            "name": "Germering, Stadthalle"
-          },
-          {
-            "id": "de:09179:6250",
-            "name": "Germering-Unterpfaffenhofen"
-          },
-          {
-            "id": "de:09179:6468",
-            "name": "Germering, Salzstraße"
-          },
-          {
-            "id": "de:09179:6462",
-            "name": "Germering, Masurenweg"
-          },
-          {
-            "id": "de:09179:6454",
-            "name": "Germering, Ringstraße"
-          },
-          {
-            "id": "de:09179:6452",
-            "name": "Germering, Kurt-Schumacher-Straße"
-          },
-          {
-            "id": "de:09179:6471",
-            "name": "Germering, Kerschenst. Schule Ost"
-          },
-          {
-            "id": "de:09179:6456",
-            "name": "Germering, Montessoristraße"
-          },
-          {
-            "id": "de:09179:6458",
-            "name": "Germering, An der Markung"
-          },
-          {
-            "id": "de:09179:6479",
-            "name": "Germering, Riegerstraße"
-          },
-          {
-            "id": "de:09179:6478",
-            "name": "Neue Gautinger Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-17T13:15:45Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linien 57 und 157 gemeldete Behinderung (Grund: Straßensperrung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-04-17T13:26:46Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Max-Weber-Platz (Johannispl.) kommt es auf der Linie 21 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 21 in Richtung St.-Veit-Straße wird zwischen Maximilianeum und Haidenauplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Max-Weber-Platz. Die Haltestellen Ostbahnhof, Wörthstraße und Max-Weber-Platz (Johannispl.) in Fahrtrichtung St.-Veit-Straße können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Notarzteinsatzes",
     "type": "DISRUPTION"
   },
   {
@@ -2203,6 +768,31 @@
     "modificationDate": "2024-04-17T12:58:13Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 187 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-17T13:02:00Z",
+      "toDate": "2024-04-17T17:02:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Wegen starkem Verkehrsaufkommen kommt es leider auf einigen Linien zu Versp&auml;tungen.<br/>\n&nbsp;<br/>\nIhre MVG<br/>\r\n\r\n",
+    "id": "a285ce90-ae3e-4d65-868c-c5c42a8fe48d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-17T13:02:00Z",
+        "toDate": "2024-04-17T17:02:00Z"
+      }
+    ],
+    "incidents": [
+      "BUS",
+      "TRAM"
+    ],
+    "lines": [],
+    "links": [],
+    "modificationDate": "2024-04-17T13:24:24Z",
+    "text": "Wegen starkem Verkehrsaufkommen kommt es leider auf einigen Linien zu Versp&auml;tungen.<br/>\n&nbsp;<br/>\nIhre MVG<br/>\r\n\r\n",
+    "title": "Hauptverkehrszeit",
     "type": "DISRUPTION"
   },
   {

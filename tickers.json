@@ -2664,6 +2664,326 @@
         "typeOfTransport": "BUS"
       },
       {
+        "direction": "2",
+        "id": "100",
+        "name": "100",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:121",
+            "name": "Reitmorstraße/Sammlung Schack"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:123",
+            "name": "Königinstraße"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:97",
+            "name": "Amalienstraße"
+          },
+          {
+            "id": "de:09162:86",
+            "name": "Maxvorstadt/Samml. Brandhorst"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:95",
+            "name": "Technische Universität"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "100",
+        "name": "100",
+        "stations": [
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:156",
+            "name": "Elisenstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:95",
+            "name": "Technische Universität"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:197",
+            "name": "Oskar-von-Miller-Ring"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:123",
+            "name": "Königinstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:121",
+            "name": "Reitmorstraße/Sammlung Schack"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
         "direction": "1",
         "id": "132",
         "name": "132",
@@ -5688,6 +6008,214 @@
         "typeOfTransport": "BUS"
       },
       {
+        "direction": "2",
+        "id": "170",
+        "name": "170",
+        "stations": [
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:358",
+            "name": "Hasenberglstraße"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "170",
+        "name": "170",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:396",
+            "name": "Frauenmantelanger"
+          },
+          {
+            "id": "de:09162:404",
+            "name": "Trenkleweg"
+          },
+          {
+            "id": "de:09162:446",
+            "name": "Rockefellerstraße"
+          },
+          {
+            "id": "de:09162:447",
+            "name": "Rose-Pichler-Weg"
+          },
+          {
+            "id": "de:09162:436",
+            "name": "Neuherbergstraße"
+          },
+          {
+            "id": "de:09162:437",
+            "name": "Anton-Will-Straße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:449",
+            "name": "Untere Länge"
+          },
+          {
+            "id": "de:09162:453",
+            "name": "Keilberthstraße"
+          },
+          {
+            "id": "de:09162:454",
+            "name": "Gustav-Mahler-Straße"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
         "direction": "1",
         "id": "516",
         "name": "SEV 16",
@@ -5885,7 +6413,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-18T15:12:51Z",
+    "modificationDate": "2024-04-18T15:17:15Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

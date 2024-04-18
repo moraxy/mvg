@@ -6832,6 +6832,237 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-18T16:30:00Z",
+      "toDate": "2024-04-18T18:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Theodolindenplatz kommt es auf der Linie 25 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 25 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war ein Verkehrsunfall ! +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 20:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "9c01a0bc-38ed-4f9e-b7b5-65027e75e46d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-18T16:30:00Z",
+        "toDate": "2024-04-18T18:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-18T17:48:22Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Theodolindenplatz kommt es auf der Linie 25 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 25 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war ein Verkehrsunfall ! +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 20:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer bereits behobenen Störung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-18T03:35:00Z",
       "toDate": "2024-04-18T21:00:00Z"
     },

@@ -62,6 +62,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Johanneskirchen Bf.",
     "divaId": "03050",
     "label": "50",
@@ -69,7 +70,7 @@
     "network": "swm",
     "occupancy": "LOW",
     "plannedDepartureTime": 1713408900000,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1713408900000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",

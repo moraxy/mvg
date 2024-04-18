@@ -1,8 +1,171 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-18T11:58:00Z",
+      "toDate": "2024-04-18T12:58:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Odeonsplatz kommt es derzeit zu Verspätungen auf den Linien U4 in Richtung Westendstraße und U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "cac47d00-72be-473f-bcc2-68a8f09bba03",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-18T11:58:00Z",
+        "toDate": "2024-04-18T12:58:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-18T11:59:18Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Odeonsplatz kommt es derzeit zu Verspätungen auf den Linien U4 in Richtung Westendstraße und U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen einer Stellwerkstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-18T11:36:00Z",
-      "toDate": "2024-04-18T13:00:00Z"
+      "toDate": "2024-04-18T13:01:00Z"
     },
     "downloadLinks": [],
     "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Maximilianeum kommt es auf den Linien 19 und 21 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 19 fährt nur in den Abschnitten Pasing Bf. <> Maxmonument und Max-Weber-Platz <> Berg am Laim Bf..  <li>Die Haltestelle Maximilianeum kann leider nicht bedient werden.</li></li><li>Die Linie 21 fährt nur in den Abschnitten Westfriedhof <> Maxmonument und Max-Weber-Platz (Johannispl.) <> St.-Veit-Straße.  <li>Die Haltestelle Maximilianeum kann leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
@@ -10,7 +173,7 @@
     "incidentDuration": [
       {
         "fromDate": "2024-04-18T11:36:00Z",
-        "toDate": "2024-04-18T13:00:00Z"
+        "toDate": "2024-04-18T13:01:00Z"
       }
     ],
     "incidents": [],
@@ -545,9 +708,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-18T11:41:44Z",
+    "modificationDate": "2024-04-18T12:02:21Z",
     "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Maximilianeum kommt es auf den Linien 19 und 21 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 19 fährt nur in den Abschnitten Pasing Bf. <> Maxmonument und Max-Weber-Platz <> Berg am Laim Bf..  <li>Die Haltestelle Maximilianeum kann leider nicht bedient werden.</li></li><li>Die Linie 21 fährt nur in den Abschnitten Westfriedhof <> Maxmonument und Max-Weber-Platz (Johannispl.) <> St.-Veit-Straße.  <li>Die Haltestelle Maximilianeum kann leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Behinderungen wegen eines Verkehrsunfalls",
+    "title": "Streckenunterbrechung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

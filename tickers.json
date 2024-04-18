@@ -383,16 +383,16 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-18T15:55:00Z",
-      "toDate": "2024-04-18T16:30:44Z"
+      "fromDate": "2024-04-18T16:28:00Z",
+      "toDate": "2024-04-18T17:28:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 18 und 19 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "da7479e3-d828-4876-ac06-5f4b110e3e20",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Hauptbahnhof Süd kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien 18 und 19 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund dafür war ein Verkehrsunfall ! +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "36fb46c4-b515-4f4a-b6dc-2766077d57aa",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-18T15:55:00Z",
-        "toDate": "2024-04-18T16:20:44Z"
+        "fromDate": "2024-04-18T16:28:00Z",
+        "toDate": "2024-04-18T17:28:00Z"
       }
     ],
     "incidents": [],
@@ -895,9 +895,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-18T16:20:44Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linien 18 und 19 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-04-18T16:29:43Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Hauptbahnhof Süd kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>   <li>Die Linien 18 und 19 fahren derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund dafür war ein Verkehrsunfall ! +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
@@ -1161,6 +1161,237 @@
     "modificationDate": "2024-04-18T16:27:46Z",
     "text": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Wörthstraße kommt es auf der Linie 21 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 21 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund dafür war ein Verkehrsunfall !+++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen und einzelne Ausfälle wegen einer bereits behobenen Störung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-18T16:30:00Z",
+      "toDate": "2024-04-18T17:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Theodolindenplatz kommt es auf der Linie 25 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 25 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war ein Verkehrsunfall ! +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "9c01a0bc-38ed-4f9e-b7b5-65027e75e46d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-18T16:30:00Z",
+        "toDate": "2024-04-18T17:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-18T16:31:49Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Theodolindenplatz kommt es auf der Linie 25 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 25 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war ein Verkehrsunfall ! +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {

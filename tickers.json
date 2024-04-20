@@ -342,6 +342,161 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-20T07:01:00Z",
+      "toDate": "2024-04-20T11:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer Veranstaltung im Bereich Olympiaberg kommt es auf der Linie 144 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 144 wird in beiden Richtungen zwischen Spiridon-Louis-Ring und Sapporobogen umgeleitet. Die Haltestellen Toni-Merkens-Weg, Olympiasee und Olympiaberg können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "411137b3-e258-49bc-9c74-5dc13fbaeffb",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-20T07:01:00Z",
+        "toDate": "2024-04-20T11:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:291",
+            "name": "Sapporobogen"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:164",
+            "name": "Hanebergstraße"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:158",
+            "name": "Hubertusbrunnen"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:163",
+            "name": "Volkartstraße Ost"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-20T07:04:23Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer Veranstaltung im Bereich Olympiaberg kommt es auf der Linie 144 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 144 wird in beiden Richtungen zwischen Spiridon-Louis-Ring und Sapporobogen umgeleitet. Die Haltestellen Toni-Merkens-Weg, Olympiasee und Olympiaberg können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen einer Veranstaltung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },

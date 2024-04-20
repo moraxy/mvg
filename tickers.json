@@ -12228,6 +12228,167 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-20T22:00:00Z",
+      "toDate": "2024-05-05T13:00:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "4a2fd1e4-eba6-42b1-91fb-c577d4e5fc2a_-385534920",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen einer Veranstaltung im Olympiapark wird die Buslinie 144 am Sonntag, 5. Mai 2024 von ca. 11:00 bis 15:00 Uhr zwischen den (H) Olympiapark West und Spiridon-Louis-Ring umgeleitet. Die (H) Olympiaberg, Olympiasee, Toni-Merkens-Weg und Sapporobogen k&ouml;nnen nicht bedient werden.</div>\r\n",
+    "id": "4a2fd1e4-eba6-42b1-91fb-c577d4e5fc2a",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-04T22:00:00Z",
+        "toDate": "2024-05-05T13:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:163",
+            "name": "Volkartstraße Ost"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:291",
+            "name": "Sapporobogen"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:164",
+            "name": "Hanebergstraße"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:158",
+            "name": "Hubertusbrunnen"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-02T13:15:44Z",
+    "text": "<div>Wegen einer Veranstaltung im Olympiapark wird die Buslinie 144 am Sonntag, 5. Mai 2024 von ca. 11:00 bis 15:00 Uhr zwischen den (H) Olympiapark West und Spiridon-Louis-Ring umgeleitet. Die (H) Olympiaberg, Olympiasee, Toni-Merkens-Weg und Sapporobogen k&ouml;nnen nicht bedient werden.</div>\r\n",
+    "title": "Olympiapark West <> Spiridon-Louis-Ring: Umleitung wegen einer Veranstaltung",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T23:01:00Z",
       "toDate": "2024-06-09T21:59:00Z"
     },

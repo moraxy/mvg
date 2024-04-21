@@ -1,39 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-21T05:00:00Z",
-      "toDate": "2024-04-21T16:00:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "<div>Liebe Fahrg&auml;ste,</div>\n<div>heute findet ab ca.10:00 Uhr eine Radsternfahrt im Umland und im Stadtgebiet von M&uuml;nchen statt. Aus diesem Grund kommt es im gesamten Bereich bei einigen Bussen und Tramlinien zu Beeintr&auml;chtigungen und Versp&auml;tungen.</div>\n<div>Wir empfehlen daher auch die U Bahn zu nutzen oder auf alternative Routen und Verkehrsmittel auszuweichen.</div>\n<div>&nbsp;</div>\n<div>Bitte achten Sie auch auf Anzeiger und Lautsprecherdurchsagen.</div>\n<div>&nbsp;</div>\n<div>Ihre MVG</div>\r\n",
-    "id": "6deab94a-2c7a-4ee3-ae4c-51311a8a68d3",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-21T05:15:00Z",
-        "toDate": "2024-04-21T16:00:00Z"
-      }
-    ],
-    "incidents": [
-      "BUS",
-      "TRAM"
-    ],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "302",
-        "name": "U",
-        "stations": [],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-21T05:21:57Z",
-    "text": "<div>Liebe Fahrg&auml;ste,</div>\n<div>heute findet ab ca.10:00 Uhr eine Radsternfahrt im Umland und im Stadtgebiet von M&uuml;nchen statt. Aus diesem Grund kommt es im gesamten Bereich bei einigen Bussen und Tramlinien zu Beeintr&auml;chtigungen und Versp&auml;tungen.</div>\n<div>Wir empfehlen daher auch die U Bahn zu nutzen oder auf alternative Routen und Verkehrsmittel auszuweichen.</div>\n<div>&nbsp;</div>\n<div>Bitte achten Sie auch auf Anzeiger und Lautsprecherdurchsagen.</div>\n<div>&nbsp;</div>\n<div>Ihre MVG</div>\r\n",
-    "title": "Demo Radsternfahrt im Umland und Stadtgebiet von München",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-08T22:00:00Z",
       "toDate": "2024-04-23T22:00:00Z"
     },
@@ -371,6 +338,31 @@
     "modificationDate": "2024-04-18T04:34:54Z",
     "text": "<div>Wegen eines Gaslecks in der Waltherstra&szlig;e wird die Buslinie 62 bis vsl. Mittwoch, 24. April 2024 zwischen den (H) Sendlinger Tor und Kapuzinerstra&szlig;e umgeleitet. Die (H) Maistra&szlig;e und Waltherstra&szlig;e entfallen.</div>\n<div>&nbsp;</div>\n<div>Auf dem Umleitungsweg liegende Haltestellen werden Richtung Rotkreuzplatz nicht mitbedient.&nbsp;</div>\r\n",
     "title": "Sendlinger Tor > Kapuzinerstraße: Umleitung wegen eines Gaslecks",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-21T05:24:00Z",
+      "toDate": "2024-04-21T16:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrg&auml;ste,<br />heute findet ab ca.10:00 Uhr eine Radsternfahrt im Umland und im Stadtgebiet von M&uuml;nchen statt. Aus diesem Grund kommt es im gesamten Bereich bei einigen Bussen und Tramlinien zu Beeintr&auml;chtigungen und Versp&auml;tungen.<br />Wir empfehlen daher auch die U Bahn zu nutzen oder auf alternative Routen und Verkehrsmittel auszuweichen.<br />&nbsp;<br />Bitte achten Sie auch auf Anzeiger und Lautsprecherdurchsagen.<br />&nbsp;<br />Ihre MVG<br/>\r\n\r\n",
+    "id": "4005a83e-3739-421c-942e-0feb00bf910a",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-21T05:24:00Z",
+        "toDate": "2024-04-21T16:00:00Z"
+      }
+    ],
+    "incidents": [
+      "BUS",
+      "TRAM"
+    ],
+    "lines": [],
+    "links": [],
+    "modificationDate": "2024-04-21T05:27:43Z",
+    "text": "Liebe Fahrg&auml;ste,<br />heute findet ab ca.10:00 Uhr eine Radsternfahrt im Umland und im Stadtgebiet von M&uuml;nchen statt. Aus diesem Grund kommt es im gesamten Bereich bei einigen Bussen und Tramlinien zu Beeintr&auml;chtigungen und Versp&auml;tungen.<br />Wir empfehlen daher auch die U Bahn zu nutzen oder auf alternative Routen und Verkehrsmittel auszuweichen.<br />&nbsp;<br />Bitte achten Sie auch auf Anzeiger und Lautsprecherdurchsagen.<br />&nbsp;<br />Ihre MVG<br/>\r\n\r\n",
+    "title": "Demo Radsternfahrt im Umland und Stadtgebiet von München",
     "type": "DISRUPTION"
   },
   {

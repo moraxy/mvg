@@ -3844,6 +3844,972 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-21T10:30:00Z",
+      "toDate": "2024-05-05T13:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Wegen des Wings for Life World Runs werden die Buslinien 50, 60, 143, 175, 176 und 710 am Sonntag, 5. Mai von ca. 12:30 bis 15:00 Uhr umgeleitet bzw. unterbrochen.&nbsp;</div>\n<ul>\n<li>Die Buslinie 50 wird ab der (H) Lerchenauer Stra&szlig;e zur (H) Olympiazentrum umgeleitet. Hierdurch entfallen die (H) Oberwiesenfeld, Olympiapark Nord, Lassallestra&szlig;e, Olympia-Einkaufszentrum und Dessauerstra&szlig;e.&nbsp;</li>\n<li>Die Buslinie 60 beginnt/endet vorzeitig an der (H) Lassallestra&szlig;e. Die (H) Olympia-Einkaufszentrum und Dessauerstra&szlig;e k&ouml;nnen nicht bedient werden.</li>\n<li>Die Buslinie 143 beginnt/endet vorzeitig an der (H) Georg-Brauchle-Ring. Die (H) Olympia-Einkaufszentrum entf&auml;llt.&nbsp;</li>\n<li>Die Buslinie 175 wird ab der (H) Fasanerie Bf. via Lassallestra&szlig;e und Olympiapark Nord umgeleitet. Hierdurch entfallen die (H) Merseburger Stra&szlig;e, Bingener Stra&szlig;e, Claudiusplatz, Olympia-Einkaufszentrum, Riesstra&szlig;e und G&auml;rtnerstra&szlig;e. An der (H) Georg-Brauchle-Ring erfolgt die Abfahrt in Richtung Ludwigsfeld an der Haltestelle der Buslinie 143 &gt; Olympia-Einkaufszentrum.</li>\n<li>Die Buslinien 176 und 710 sind w&auml;hrend der Sperrung der Dachauer Stra&szlig;e vor&uuml;bergehend eingestellt. Nach Freigabe der Strecke wird die Buslinie 176 noch zwischen Rangierbahnhof und Kristallstra&szlig;e umgeleitet. Die (H) Ferchenbachstra&szlig;e entf&auml;llt.</li>\n</ul>\n<div>Das Olympia-Einkaufszentrum erreichen Sie weiterhin mit den U-Bahnlinien U1 (ab Georg-Brauchle-Ring) und U3 (ab Olympiazentrum / Oberwiesenfeld).&nbsp;</div>\r\n",
+    "id": "4c44a637-375d-4ce6-816b-2c18a56f33f3",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-05T10:30:00Z",
+        "toDate": "2024-05-05T13:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2101",
+            "name": "Unterföhring, Feringastr. Ost"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:721",
+            "name": "Johanneskirchen Bf. (West)"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2101",
+            "name": "Unterföhring, Feringastr. Ost"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "143",
+        "name": "143",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:233",
+            "name": "Amphionpark"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
+          },
+          {
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
+          },
+          {
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "143",
+        "name": "143",
+        "stations": [
+          {
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
+          },
+          {
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
+          },
+          {
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:233",
+            "name": "Amphionpark"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:314",
+            "name": "Riesstraße"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1975",
+            "name": "MAN, Siedlung"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "710",
+        "name": "710",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-19T07:23:51Z",
+    "text": "<div>Wegen des Wings for Life World Runs werden die Buslinien 50, 60, 143, 175, 176 und 710 am Sonntag, 5. Mai von ca. 12:30 bis 15:00 Uhr umgeleitet bzw. unterbrochen.&nbsp;</div>\n<ul>\n<li>Die Buslinie 50 wird ab der (H) Lerchenauer Stra&szlig;e zur (H) Olympiazentrum umgeleitet. Hierdurch entfallen die (H) Oberwiesenfeld, Olympiapark Nord, Lassallestra&szlig;e, Olympia-Einkaufszentrum und Dessauerstra&szlig;e.&nbsp;</li>\n<li>Die Buslinie 60 beginnt/endet vorzeitig an der (H) Lassallestra&szlig;e. Die (H) Olympia-Einkaufszentrum und Dessauerstra&szlig;e k&ouml;nnen nicht bedient werden.</li>\n<li>Die Buslinie 143 beginnt/endet vorzeitig an der (H) Georg-Brauchle-Ring. Die (H) Olympia-Einkaufszentrum entf&auml;llt.&nbsp;</li>\n<li>Die Buslinie 175 wird ab der (H) Fasanerie Bf. via Lassallestra&szlig;e und Olympiapark Nord umgeleitet. Hierdurch entfallen die (H) Merseburger Stra&szlig;e, Bingener Stra&szlig;e, Claudiusplatz, Olympia-Einkaufszentrum, Riesstra&szlig;e und G&auml;rtnerstra&szlig;e. An der (H) Georg-Brauchle-Ring erfolgt die Abfahrt in Richtung Ludwigsfeld an der Haltestelle der Buslinie 143 &gt; Olympia-Einkaufszentrum.</li>\n<li>Die Buslinien 176 und 710 sind w&auml;hrend der Sperrung der Dachauer Stra&szlig;e vor&uuml;bergehend eingestellt. Nach Freigabe der Strecke wird die Buslinie 176 noch zwischen Rangierbahnhof und Kristallstra&szlig;e umgeleitet. Die (H) Ferchenbachstra&szlig;e entf&auml;llt.</li>\n</ul>\n<div>Das Olympia-Einkaufszentrum erreichen Sie weiterhin mit den U-Bahnlinien U1 (ab Georg-Brauchle-Ring) und U3 (ab Olympiazentrum / Oberwiesenfeld).&nbsp;</div>\r\n",
+    "title": "Umleitungen und Unterbrechungen wegen des Wings for Life WorldRun",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-18T23:01:00Z",
       "toDate": "2024-04-26T21:59:00Z"
     },

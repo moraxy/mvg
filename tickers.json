@@ -1,6 +1,237 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-22T06:58:00Z",
+      "toDate": "2024-04-22T07:58:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 25 derzeit zu vorzeitigen Wendungen. <ul style='list-style: disc;'><li>Die Linie 25 fährt nur im Abschnitt Max-Weber-Platz (Johannispl.) <> Großhesseloher Brücke. <li>Die Haltestellen Schilcherweg, Grünwald, Bavariafilmplatz, Grünwald, Robert-Koch-Straße, Grünwald, Parkplatz, Grünwald, Ludwig-Thoma-Straße und Grünwald, Derbolfinger Platz können leider nicht bedient werden.</li></li><li>Den nicht angefahrenen Streckenabschnitt der Tram erreichen Sie für die Dauer der Störung mit SEV-Bussen. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul>Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "667b2168-28a6-4185-b44d-bef6be13923e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-22T06:58:00Z",
+        "toDate": "2024-04-22T07:58:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-22T06:59:52Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 25 derzeit zu vorzeitigen Wendungen. <ul style='list-style: disc;'><li>Die Linie 25 fährt nur im Abschnitt Max-Weber-Platz (Johannispl.) <> Großhesseloher Brücke. <li>Die Haltestellen Schilcherweg, Grünwald, Bavariafilmplatz, Grünwald, Robert-Koch-Straße, Grünwald, Parkplatz, Grünwald, Ludwig-Thoma-Straße und Grünwald, Derbolfinger Platz können leider nicht bedient werden.</li></li><li>Den nicht angefahrenen Streckenabschnitt der Tram erreichen Sie für die Dauer der Störung mit SEV-Bussen. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul>Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Vorzeitige Wendung wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-22T06:32:00Z",
       "toDate": "2024-04-22T08:30:00Z"
     },
@@ -9899,6 +10130,347 @@
     "modificationDate": "2024-04-02T05:54:22Z",
     "text": "<div>Wegen Tiefbauarbeiten in der Reisingerstra&szlig;e wird die Buslinie 62 &gt; Ostbahnhof von Montag, 19. Februar ca. 09:00 bis vsl. Freitag, 26. Juli 2024 zwischen Kapuzinerstra&szlig;e und Sendlinger Tor umgeleitet. Die (H) Waltherstra&szlig;e und Stephansplatz entfallen. Die (H) Kapuzinerstra&szlig;e ist zur Haltestelle der Buslinie 58 (vor Penny) verlegt.</div>\n<div>&nbsp;</div>\n<div>Auf dem Umleitungsweg werden die (H) Kapuzinerplatz (Arbeitsagentur) und Goetheplatz mitbedient.</div>\r\n",
     "title": "Kapuzinerstraße > Sendlinger Tor: Umleitung wegen Tiefbauarbeiten in der Reisingerstraße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-22T07:00:00Z",
+      "toDate": "2025-02-28T22:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "27de24e6-4ace-4bd8-a489-8eb35d6bfb90_114761656",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten an der Eisenbahnbr&uuml;cke Tumblingerstra&szlig;e wird die Buslinie 62 &gt; Rotkreuzplatz von Montag, 6. Mai ca. 09:00 Uhr bis vsl. Freitag, 28. Februar 2025 zwischen den (H) Zenettistra&szlig;e und Tumblingerstra&szlig;e umgeleitet. Die (H) Ehrengutstra&szlig;e und Lagerhausstra&szlig;e entfallen. Die (H) Zenettistra&szlig;e ist vor die Einm&uuml;ndung Thalkirchner Stra&szlig;e / Zenettistra&szlig;e verlegt.</div>\r\n",
+    "id": "27de24e6-4ace-4bd8-a489-8eb35d6bfb90",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-06T07:00:00Z",
+        "toDate": "2025-02-28T22:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-19T07:29:38Z",
+    "text": "<div>Wegen Bauarbeiten an der Eisenbahnbr&uuml;cke Tumblingerstra&szlig;e wird die Buslinie 62 &gt; Rotkreuzplatz von Montag, 6. Mai ca. 09:00 Uhr bis vsl. Freitag, 28. Februar 2025 zwischen den (H) Zenettistra&szlig;e und Tumblingerstra&szlig;e umgeleitet. Die (H) Ehrengutstra&szlig;e und Lagerhausstra&szlig;e entfallen. Die (H) Zenettistra&szlig;e ist vor die Einm&uuml;ndung Thalkirchner Stra&szlig;e / Zenettistra&szlig;e verlegt.</div>\r\n",
+    "title": "Zenettistraße > Tumblingerstraße: Umleitung wegen Brückenbauarbeiten",
     "type": "PLANNED"
   },
   {

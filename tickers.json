@@ -1,6 +1,1568 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-23T06:56:00Z",
+      "toDate": "2024-04-23T07:56:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Trudering Bf. kommt es derzeit zu erheblichen Behinderungen auf den Linien U2, 139, 185, 192, 193 und 194. <br>Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "a01edef7-7eae-4966-870a-c6de971e7f90",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-23T06:56:00Z",
+        "toDate": "2024-04-23T07:56:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "139",
+        "name": "139",
+        "stations": [
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1171",
+            "name": "Theodolindenstraße"
+          },
+          {
+            "id": "de:09162:1172",
+            "name": "Autharistraße"
+          },
+          {
+            "id": "de:09162:1173",
+            "name": "Griechenstraße"
+          },
+          {
+            "id": "de:09162:1174",
+            "name": "Säbener Straße"
+          },
+          {
+            "id": "de:09162:1211",
+            "name": "Mangfallplatz Süd"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1189",
+            "name": "Peter-Auzinger-Straße"
+          },
+          {
+            "id": "de:09162:1177",
+            "name": "Stadelheimer Straße"
+          },
+          {
+            "id": "de:09162:1178",
+            "name": "Frasdorfer Straße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1058",
+            "name": "Mitterweg"
+          },
+          {
+            "id": "de:09162:1024",
+            "name": "Neuer Südfriedhof West"
+          },
+          {
+            "id": "de:09162:1021",
+            "name": "Neuer Südfriedhof"
+          },
+          {
+            "id": "de:09162:1019",
+            "name": "Pfanzeltplatz"
+          },
+          {
+            "id": "de:09162:1014",
+            "name": "Wilhelm-Hoegner-Straße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1016",
+            "name": "Jakob-Kaiser-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:913",
+            "name": "Matterhornstraße"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:911",
+            "name": "Halligenplatz"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:801",
+            "name": "Kirchtruderinger Straße"
+          },
+          {
+            "id": "de:09162:802",
+            "name": "Truchthari-Anger"
+          },
+          {
+            "id": "de:09162:803",
+            "name": "Friedhof Riem"
+          },
+          {
+            "id": "de:09162:824",
+            "name": "Paul-Wassermann-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "185",
+        "name": "185",
+        "stations": [
+          {
+            "id": "de:09162:940",
+            "name": "Iltisstraße"
+          },
+          {
+            "id": "de:09162:938",
+            "name": "Sperberstraße"
+          },
+          {
+            "id": "de:09162:937",
+            "name": "Togostraße"
+          },
+          {
+            "id": "de:09162:936",
+            "name": "Birkhahnweg"
+          },
+          {
+            "id": "de:09162:935",
+            "name": "Turnerstraße"
+          },
+          {
+            "id": "de:09162:934",
+            "name": "Edeltraudstraße"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:927",
+            "name": "Truderinger Straße"
+          },
+          {
+            "id": "de:09162:923",
+            "name": "Truderinger Straße, Brücke"
+          },
+          {
+            "id": "de:09162:942",
+            "name": "Thomas-Hauser-Straße"
+          },
+          {
+            "id": "de:09162:941",
+            "name": "Ursberger Straße"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:698",
+            "name": "Nettelbeckstraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:652",
+            "name": "Elektrastraße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "185",
+        "name": "185",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:652",
+            "name": "Elektrastraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:698",
+            "name": "Nettelbeckstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:941",
+            "name": "Ursberger Straße"
+          },
+          {
+            "id": "de:09162:942",
+            "name": "Thomas-Hauser-Straße"
+          },
+          {
+            "id": "de:09162:923",
+            "name": "Truderinger Straße, Brücke"
+          },
+          {
+            "id": "de:09162:927",
+            "name": "Truderinger Straße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:934",
+            "name": "Edeltraudstraße"
+          },
+          {
+            "id": "de:09162:935",
+            "name": "Turnerstraße"
+          },
+          {
+            "id": "de:09162:936",
+            "name": "Birkhahnweg"
+          },
+          {
+            "id": "de:09162:937",
+            "name": "Togostraße"
+          },
+          {
+            "id": "de:09162:938",
+            "name": "Sperberstraße"
+          },
+          {
+            "id": "de:09162:940",
+            "name": "Iltisstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "193",
+        "name": "193",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:993",
+            "name": "Wasserburger Landstraße"
+          },
+          {
+            "id": "de:09162:994",
+            "name": "Kulturzentrum Trudering"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:939",
+            "name": "Drosselweg"
+          },
+          {
+            "id": "de:09162:930",
+            "name": "Bahnstraße"
+          },
+          {
+            "id": "de:09162:931",
+            "name": "Phantasiestraße"
+          },
+          {
+            "id": "de:09162:995",
+            "name": "Jagdhornstraße"
+          },
+          {
+            "id": "de:09162:932",
+            "name": "Von-Erckert-Straße"
+          },
+          {
+            "id": "de:09184:2170",
+            "name": "Haar, Hans-Stießberger-Straße"
+          },
+          {
+            "id": "de:09184:2168",
+            "name": "Haar, Ludwig-Moser-Straße"
+          },
+          {
+            "id": "de:09184:2194",
+            "name": "Haar, Wieselweg"
+          },
+          {
+            "id": "de:09184:2359",
+            "name": "Haar, Am Jagdfeldzentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "193",
+        "name": "193",
+        "stations": [
+          {
+            "id": "de:09184:2359",
+            "name": "Haar, Am Jagdfeldzentrum"
+          },
+          {
+            "id": "de:09184:2168",
+            "name": "Haar, Ludwig-Moser-Straße"
+          },
+          {
+            "id": "de:09184:2170",
+            "name": "Haar, Hans-Stießberger-Straße"
+          },
+          {
+            "id": "de:09162:932",
+            "name": "Von-Erckert-Straße"
+          },
+          {
+            "id": "de:09162:995",
+            "name": "Jagdhornstraße"
+          },
+          {
+            "id": "de:09162:931",
+            "name": "Phantasiestraße"
+          },
+          {
+            "id": "de:09162:930",
+            "name": "Bahnstraße"
+          },
+          {
+            "id": "de:09162:939",
+            "name": "Drosselweg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:994",
+            "name": "Kulturzentrum Trudering"
+          },
+          {
+            "id": "de:09162:993",
+            "name": "Wasserburger Landstraße"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "194",
+        "name": "194",
+        "stations": [
+          {
+            "id": "de:09162:800",
+            "name": "Riem Bf."
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:973",
+            "name": "Moosfeld Gewerbegebiet"
+          },
+          {
+            "id": "de:09162:972",
+            "name": "Karl-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:971",
+            "name": "Stahlgruberring"
+          },
+          {
+            "id": "de:09162:969",
+            "name": "Schatzbogen"
+          },
+          {
+            "id": "de:09162:807",
+            "name": "Heltauer Straße"
+          },
+          {
+            "id": "de:09162:926",
+            "name": "Halfinger Straße"
+          },
+          {
+            "id": "de:09162:927",
+            "name": "Truderinger Straße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:955",
+            "name": "Hippelstraße"
+          },
+          {
+            "id": "de:09162:956",
+            "name": "Lamprechtstraße"
+          },
+          {
+            "id": "de:09162:957",
+            "name": "Friesplatz"
+          },
+          {
+            "id": "de:09162:958",
+            "name": "Nauestraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "194",
+        "name": "194",
+        "stations": [
+          {
+            "id": "de:09162:958",
+            "name": "Nauestraße"
+          },
+          {
+            "id": "de:09162:957",
+            "name": "Friesplatz"
+          },
+          {
+            "id": "de:09162:956",
+            "name": "Lamprechtstraße"
+          },
+          {
+            "id": "de:09162:955",
+            "name": "Hippelstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:927",
+            "name": "Truderinger Straße"
+          },
+          {
+            "id": "de:09162:926",
+            "name": "Halfinger Straße"
+          },
+          {
+            "id": "de:09162:807",
+            "name": "Heltauer Straße"
+          },
+          {
+            "id": "de:09162:969",
+            "name": "Schatzbogen"
+          },
+          {
+            "id": "de:09162:971",
+            "name": "Stahlgruberring"
+          },
+          {
+            "id": "de:09162:972",
+            "name": "Karl-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:973",
+            "name": "Moosfeld Gewerbegebiet"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:800",
+            "name": "Riem Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-23T06:57:50Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Trudering Bf. kommt es derzeit zu erheblichen Behinderungen auf den Linien U2, 139, 185, 192, 193 und 194. <br>Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Erhebliche Behinderungen wegen eines Notarzteinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-23T06:56:00Z",
+      "toDate": "2024-04-23T07:56:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Trudering Bf. kommt es auf der Linie U2 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'> <li>Die Züge der Linie U2 halten aktuell nicht am U-Bahnhof Trudering Bf.. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "d8bcbe39-2a34-4c18-9be6-1d48f8d921d0",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-23T06:56:00Z",
+        "toDate": "2024-04-23T07:56:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-23T06:58:22Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Trudering Bf. kommt es auf der Linie U2 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'> <li>Die Züge der Linie U2 halten aktuell nicht am U-Bahnhof Trudering Bf.. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Streckenunterbrechung wegen eines Notarzteinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-23T06:25:00Z",
       "toDate": "2024-04-23T08:00:00Z"
     },

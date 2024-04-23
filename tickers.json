@@ -140,6 +140,173 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-23T13:49:00Z",
+      "toDate": "2024-04-23T14:49:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Königinstraße kommt es auf der Linie 100 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "16f48d27-aebe-471d-907c-fa3ae16ac563",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-23T13:49:00Z",
+        "toDate": "2024-04-23T14:49:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "100",
+        "name": "100",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:121",
+            "name": "Reitmorstraße/Sammlung Schack"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:123",
+            "name": "Königinstraße"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:97",
+            "name": "Amalienstraße"
+          },
+          {
+            "id": "de:09162:86",
+            "name": "Maxvorstadt/Samml. Brandhorst"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:95",
+            "name": "Technische Universität"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "100",
+        "name": "100",
+        "stations": [
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:156",
+            "name": "Elisenstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:95",
+            "name": "Technische Universität"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:197",
+            "name": "Oskar-von-Miller-Ring"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:123",
+            "name": "Königinstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:121",
+            "name": "Reitmorstraße/Sammlung Schack"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-23T13:50:25Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Königinstraße kommt es auf der Linie 100 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-23T12:49:00Z",
       "toDate": "2024-04-23T14:30:00Z"
     },

@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-23T14:49:00Z",
-      "toDate": "2024-04-23T16:14:00Z"
+      "toDate": "2024-04-23T15:41:38Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich St. Pius kommt es auf der Linie 59 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 59 in Richtung Giesing Bf. wird zwischen Mühldorfstraße und Karl-Preis-Platz umgeleitet. Die Haltestellen Aschheimer Straße und St. Pius in Fahrtrichtung Giesing Bf. können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 59 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "5aa24884-7f62-43e1-a9db-d48cec81f54a",
     "incidentDuration": [
       {
         "fromDate": "2024-04-23T14:49:00Z",
-        "toDate": "2024-04-23T16:14:00Z"
+        "toDate": "2024-04-23T15:31:38Z"
       }
     ],
     "incidents": [],
@@ -137,9 +137,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-23T15:21:29Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich St. Pius kommt es auf der Linie 59 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 59 in Richtung Giesing Bf. wird zwischen Mühldorfstraße und Karl-Preis-Platz umgeleitet. Die Haltestellen Aschheimer Straße und St. Pius in Fahrtrichtung Giesing Bf. können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-04-23T15:31:38Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 59 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -301,10 +301,278 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "191",
+        "name": "191",
+        "stations": [
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          },
+          {
+            "id": "de:09162:657",
+            "name": "Ruth-Schaumann-Straße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "191",
+        "name": "191",
+        "stations": [
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-23T14:59:18Z",
+    "modificationDate": "2024-04-23T15:30:30Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

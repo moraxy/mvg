@@ -240,6 +240,569 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-23T05:41:00Z",
+      "toDate": "2024-04-23T08:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 51 und 63 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "d1f54850-99f2-44ec-8b0b-ecd4b55ed8c8",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-23T05:41:00Z",
+        "toDate": "2024-04-23T08:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "51",
+        "name": "51",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
+          },
+          {
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
+          },
+          {
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "51",
+        "name": "51",
+        "stations": [
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
+          },
+          {
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-23T05:44:44Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 51 und 63 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen starken Verkehrsaufkommens",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-08T22:00:00Z",
       "toDate": "2024-04-23T22:00:00Z"
     },

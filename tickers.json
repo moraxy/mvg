@@ -480,6 +480,36 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-23T12:49:00Z",
+      "toDate": "2024-04-23T13:49:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 197 Außenring derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 15:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "e4cd905f-352c-4eeb-a6da-2a4bfe772533",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-23T12:49:00Z",
+        "toDate": "2024-04-23T13:49:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-23T13:06:36Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 197 Außenring derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 15:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Erhebliche Behinderungen wegen eines Rettungseinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-08T22:00:00Z",
       "toDate": "2024-04-23T22:00:00Z"
     },

@@ -1,149 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-04-23T14:49:00Z",
-      "toDate": "2024-04-23T15:41:38Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 59 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "5aa24884-7f62-43e1-a9db-d48cec81f54a",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-23T14:49:00Z",
-        "toDate": "2024-04-23T15:31:38Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "59",
-        "name": "59",
-        "stations": [
-          {
-            "id": "de:09162:294",
-            "name": "Ackermannbogen"
-          },
-          {
-            "id": "de:09162:293",
-            "name": "Georg-Birk-Straße"
-          },
-          {
-            "id": "de:09162:107",
-            "name": "Barbarastraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:452",
-            "name": "Pündterplatz"
-          },
-          {
-            "id": "de:09162:455",
-            "name": "Bismarckstraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:434",
-            "name": "Potsdamer Straße"
-          },
-          {
-            "id": "de:09162:510",
-            "name": "Dietlindenstraße"
-          },
-          {
-            "id": "de:09162:511",
-            "name": "Osterwaldstraße"
-          },
-          {
-            "id": "de:09162:512",
-            "name": "Herzogpark"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
-          },
-          {
-            "id": "de:09162:560",
-            "name": "Böhmerwaldplatz"
-          },
-          {
-            "id": "de:09162:663",
-            "name": "Zaubzerstraße"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:921",
-            "name": "Mühldorfstraße"
-          },
-          {
-            "id": "de:09162:898",
-            "name": "St. Pius"
-          },
-          {
-            "id": "de:09162:1027",
-            "name": "Aschheimer Straße"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1003",
-            "name": "Ramersdorf"
-          },
-          {
-            "id": "de:09162:1064",
-            "name": "Langbürgener Straße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-23T15:31:38Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 59 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-23T14:57:00Z",
       "toDate": "2024-04-23T18:00:00Z"
     },
@@ -303,6 +160,122 @@
         "typeOfTransport": "BUS"
       },
       {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
         "direction": "2",
         "id": "191",
         "name": "191",
@@ -450,122 +423,6 @@
           {
             "id": "de:09162:648",
             "name": "Zamilapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
           }
         ],
         "typeOfTransport": "BUS"

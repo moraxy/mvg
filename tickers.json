@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-23T19:44:00Z",
-      "toDate": "2024-04-23T21:00:00Z"
+      "toDate": "2024-04-23T21:25:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Olympiapark West kommt es auf der Linie 20 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 20 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war eine Fahrzeugstörung. +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 23:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Olympiapark West kommt es auf der Linie 20 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 20 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war eine Fahrzeugstörung. +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 23:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "67d58ed0-30c3-4924-9f66-eaa174945363",
     "incidentDuration": [
       {
         "fromDate": "2024-04-23T19:44:00Z",
-        "toDate": "2024-04-23T21:00:00Z"
+        "toDate": "2024-04-23T21:25:00Z"
       }
     ],
     "incidents": [],
@@ -165,8 +165,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-23T20:48:01Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Olympiapark West kommt es auf der Linie 20 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 20 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war eine Fahrzeugstörung. +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 23:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-04-23T20:50:21Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Olympiapark West kommt es auf der Linie 20 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 20 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen. Grund war eine Fahrzeugstörung. +++ </ul><br>Die Behinderungen werden noch voraussichtlich bis 23:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
@@ -358,117 +358,6 @@
     "links": [],
     "modificationDate": "2024-04-23T20:43:25Z",
     "text": "Liebe Fahrgäste,<br/>die für die Linie 139 gemeldete Behinderung (Grund: Falschparker) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-23T20:32:00Z",
-      "toDate": "2024-04-23T20:50:32Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 166 gemeldete Behinderung (Grund: Falschparker) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "42730a47-b249-4310-9de3-7d389b7615d1",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-23T20:32:00Z",
-        "toDate": "2024-04-23T20:40:32Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "166",
-        "name": "166",
-        "stations": [
-          {
-            "id": "de:09162:1448",
-            "name": "Kemptener Straße"
-          },
-          {
-            "id": "de:09162:1446",
-            "name": "Allgäuer Straße"
-          },
-          {
-            "id": "de:09162:1444",
-            "name": "Vinzenz-Schüpfer-Straße"
-          },
-          {
-            "id": "de:09162:1442",
-            "name": "Gautinger Straße"
-          },
-          {
-            "id": "de:09162:1441",
-            "name": "Maxhofstraße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1437",
-            "name": "Bellinzonastraße"
-          },
-          {
-            "id": "de:09162:1436",
-            "name": "Tischlerstraße"
-          },
-          {
-            "id": "de:09162:1438",
-            "name": "Forst-Kasten-Allee"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "166",
-        "name": "166",
-        "stations": [
-          {
-            "id": "de:09162:1438",
-            "name": "Forst-Kasten-Allee"
-          },
-          {
-            "id": "de:09162:1454",
-            "name": "Appenzeller Straße"
-          },
-          {
-            "id": "de:09162:1452",
-            "name": "Tessiner Straße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1442",
-            "name": "Gautinger Straße"
-          },
-          {
-            "id": "de:09162:1444",
-            "name": "Vinzenz-Schüpfer-Straße"
-          },
-          {
-            "id": "de:09162:1446",
-            "name": "Allgäuer Straße"
-          },
-          {
-            "id": "de:09162:1448",
-            "name": "Kemptener Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-23T20:40:32Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 166 gemeldete Behinderung (Grund: Falschparker) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },

@@ -5,7 +5,7 @@
       "toDate": "2024-04-24T19:07:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Quiddestraße kommt es derzeit zu Beeinträchtigungen auf der Linie U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 21:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Quiddestraße kommt es derzeit zu Beeinträchtigungen auf den Linien U5 in Richtung Laimer Platz und U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 21:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "id": "64df3b05-5002-43fc-8520-0951f590a82d",
     "incidentDuration": [
       {
@@ -15,6 +15,86 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
       {
         "direction": "1",
         "id": "5",
@@ -97,8 +177,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T18:08:08Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Quiddestraße kommt es derzeit zu Beeinträchtigungen auf der Linie U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 21:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "modificationDate": "2024-04-24T18:14:50Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Quiddestraße kommt es derzeit zu Beeinträchtigungen auf den Linien U5 in Richtung Laimer Platz und U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 21:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "title": "Beeinträchtigungen wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },

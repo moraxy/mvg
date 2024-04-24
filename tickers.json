@@ -244,7 +244,7 @@
       "toDate": "2024-04-24T07:16:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 27 fährt nur im Abschnitt Petuelring <> Karolinenplatz. <li>Die Haltestellen Ottostraße und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Ostfriedhof und wird ab Ostfriedhof bis zur Haltestelle Wettersteinplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Silberhornstraße. </li></li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Holzapfelstraße. \t</li><li>Die Linie 16 fährt nur im Abschnitt St. Emmeram <> Maxmonument. <li>Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz, Müllerstraße, Sendlinger Tor und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "49015af5-bd1b-41fc-9262-04488affb82f",
     "incidentDuration": [
       {
@@ -455,110 +455,6 @@
         "typeOfTransport": "TRAM"
       },
       {
-        "direction": "1",
-        "id": "18",
-        "name": "18",
-        "stations": [
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:41",
-            "name": "Eduard-Schmid-Straße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
-          },
-          {
-            "id": "de:09162:1106",
-            "name": "St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
         "direction": "2",
         "id": "18",
         "name": "18",
@@ -658,6 +554,110 @@
           {
             "id": "de:09162:260",
             "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -904,9 +904,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T06:16:58Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Erhebliche Behinderungen wegen eines Oberleitungsschadens",
+    "modificationDate": "2024-04-24T06:22:00Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 27 fährt nur im Abschnitt Petuelring <> Karolinenplatz. <li>Die Haltestellen Ottostraße und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Ostfriedhof und wird ab Ostfriedhof bis zur Haltestelle Wettersteinplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Silberhornstraße. </li></li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Holzapfelstraße. \t</li><li>Die Linie 16 fährt nur im Abschnitt St. Emmeram <> Maxmonument. <li>Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz, Müllerstraße, Sendlinger Tor und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Oberleitungsschadens",
     "type": "DISRUPTION"
   },
   {

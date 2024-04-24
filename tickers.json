@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-24T17:33:00Z",
-      "toDate": "2024-04-24T18:33:00Z"
+      "toDate": "2024-04-24T18:20:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf der Linie 16 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Sendlinger Tor umgeleitet. Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz und Müllerstraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Reichenbachplatz kommt es auf der Linie 16 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "7ae6df67-db76-4251-8582-01e51e01572c",
     "incidentDuration": [
       {
         "fromDate": "2024-04-24T17:33:00Z",
-        "toDate": "2024-04-24T18:33:00Z"
+        "toDate": "2024-04-24T18:20:00Z"
       }
     ],
     "incidents": [],
@@ -114,26 +114,126 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "16",
+        "name": "16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T17:35:29Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Reichenbachplatz kommt es auf der Linie 16 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 16 in Richtung Karlsplatz (Stachus) wird zwischen Maxmonument und Sendlinger Tor umgeleitet. Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz und Müllerstraße in Fahrtrichtung Karlsplatz (Stachus) können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen Falschparker",
+    "modificationDate": "2024-04-24T17:50:30Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Reichenbachplatz kommt es auf der Linie 16 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
     "activeDuration": {
       "fromDate": "2024-04-24T16:31:00Z",
-      "toDate": "2024-04-24T18:00:00Z"
+      "toDate": "2024-04-24T18:10:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 19 und 21 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 19 und 21 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "f634feb2-d7bc-44c6-b044-c501a2e2a0a1",
     "incidentDuration": [
       {
         "fromDate": "2024-04-24T16:31:00Z",
-        "toDate": "2024-04-24T18:00:00Z"
+        "toDate": "2024-04-24T18:10:00Z"
       }
     ],
     "incidents": [],
@@ -668,8 +768,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T17:33:52Z",
-    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 19 und 21 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "modificationDate": "2024-04-24T17:50:53Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 19 und 21 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
@@ -1758,150 +1858,6 @@
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "2",
-        "id": "100",
-        "name": "100",
-        "stations": [
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:121",
-            "name": "Reitmorstraße/Sammlung Schack"
-          },
-          {
-            "id": "de:09162:81",
-            "name": "Nationalmuseum/Haus der Kunst"
-          },
-          {
-            "id": "de:09162:123",
-            "name": "Königinstraße"
-          },
-          {
-            "id": "de:09162:124",
-            "name": "Von-der-Tann-Straße"
-          },
-          {
-            "id": "de:09162:97",
-            "name": "Amalienstraße"
-          },
-          {
-            "id": "de:09162:86",
-            "name": "Maxvorstadt/Samml. Brandhorst"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:95",
-            "name": "Technische Universität"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "100",
-        "name": "100",
-        "stations": [
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:156",
-            "name": "Elisenstraße"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:95",
-            "name": "Technische Universität"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:197",
-            "name": "Oskar-von-Miller-Ring"
-          },
-          {
-            "id": "de:09162:124",
-            "name": "Von-der-Tann-Straße"
-          },
-          {
-            "id": "de:09162:123",
-            "name": "Königinstraße"
-          },
-          {
-            "id": "de:09162:81",
-            "name": "Nationalmuseum/Haus der Kunst"
-          },
-          {
-            "id": "de:09162:121",
-            "name": "Reitmorstraße/Sammlung Schack"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "1",
         "id": "132",
         "name": "132",
@@ -2189,630 +2145,6 @@
           {
             "id": "de:09162:2",
             "name": "Marienplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "134",
-        "name": "134",
-        "stations": [
-          {
-            "id": "de:09162:251",
-            "name": "Theresienhöhe"
-          },
-          {
-            "id": "de:09162:25",
-            "name": "Alter Messeplatz"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:27",
-            "name": "Ridlerstraße"
-          },
-          {
-            "id": "de:09162:1101",
-            "name": "Ganghoferbrücke"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1234",
-            "name": "Fuggerstraße"
-          },
-          {
-            "id": "de:09162:1236",
-            "name": "Ortlerstraße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1431",
-            "name": "Sylvensteinstraße"
-          },
-          {
-            "id": "de:09162:1149",
-            "name": "Heckenstallerstraße"
-          },
-          {
-            "id": "de:09162:1151",
-            "name": "Neuhofen"
-          },
-          {
-            "id": "de:09162:1152",
-            "name": "Steinerstraße"
-          },
-          {
-            "id": "de:09162:1157",
-            "name": "Flößergasse"
-          },
-          {
-            "id": "de:09162:1158",
-            "name": "Tölzer Straße"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1154",
-            "name": "Rupert-Mayer-Straße"
-          },
-          {
-            "id": "de:09162:1162",
-            "name": "Neunkirchner Straße"
-          },
-          {
-            "id": "de:09162:1161",
-            "name": "Wolfratshauser Straße"
-          },
-          {
-            "id": "de:09162:1156",
-            "name": "Krankenhaus Martha Maria"
-          },
-          {
-            "id": "de:09162:1328",
-            "name": "Friedastraße"
-          },
-          {
-            "id": "de:09162:1320",
-            "name": "Solln Bf."
-          },
-          {
-            "id": "de:09162:1325",
-            "name": "Sollner Straße"
-          },
-          {
-            "id": "de:09162:1359",
-            "name": "Stridbeckstraße"
-          },
-          {
-            "id": "de:09162:1358",
-            "name": "Bleibtreustraße"
-          },
-          {
-            "id": "de:09162:1357",
-            "name": "Eberlestraße"
-          },
-          {
-            "id": "de:09162:1352",
-            "name": "Parkstadt Solln"
-          },
-          {
-            "id": "de:09162:1351",
-            "name": "Gulbranssonstraße"
-          },
-          {
-            "id": "de:09162:1354",
-            "name": "Stäblistraße"
-          },
-          {
-            "id": "de:09162:1415",
-            "name": "Bad Forstenried"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1355",
-            "name": "Nesselwanger Straße"
-          },
-          {
-            "id": "de:09162:1416",
-            "name": "Neurieder Straße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "134",
-        "name": "134",
-        "stations": [
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1416",
-            "name": "Neurieder Straße"
-          },
-          {
-            "id": "de:09162:1355",
-            "name": "Nesselwanger Straße"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1415",
-            "name": "Bad Forstenried"
-          },
-          {
-            "id": "de:09162:1354",
-            "name": "Stäblistraße"
-          },
-          {
-            "id": "de:09162:1351",
-            "name": "Gulbranssonstraße"
-          },
-          {
-            "id": "de:09162:1352",
-            "name": "Parkstadt Solln"
-          },
-          {
-            "id": "de:09162:1357",
-            "name": "Eberlestraße"
-          },
-          {
-            "id": "de:09162:1358",
-            "name": "Bleibtreustraße"
-          },
-          {
-            "id": "de:09162:1359",
-            "name": "Stridbeckstraße"
-          },
-          {
-            "id": "de:09162:1325",
-            "name": "Sollner Straße"
-          },
-          {
-            "id": "de:09162:1320",
-            "name": "Solln Bf."
-          },
-          {
-            "id": "de:09162:1328",
-            "name": "Friedastraße"
-          },
-          {
-            "id": "de:09162:1156",
-            "name": "Krankenhaus Martha Maria"
-          },
-          {
-            "id": "de:09162:1161",
-            "name": "Wolfratshauser Straße"
-          },
-          {
-            "id": "de:09162:1162",
-            "name": "Neunkirchner Straße"
-          },
-          {
-            "id": "de:09162:1154",
-            "name": "Rupert-Mayer-Straße"
-          },
-          {
-            "id": "de:09162:1450",
-            "name": "Obersendling"
-          },
-          {
-            "id": "de:09162:1158",
-            "name": "Tölzer Straße"
-          },
-          {
-            "id": "de:09162:1157",
-            "name": "Flößergasse"
-          },
-          {
-            "id": "de:09162:1152",
-            "name": "Steinerstraße"
-          },
-          {
-            "id": "de:09162:1151",
-            "name": "Neuhofen"
-          },
-          {
-            "id": "de:09162:1149",
-            "name": "Heckenstallerstraße"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1236",
-            "name": "Ortlerstraße"
-          },
-          {
-            "id": "de:09162:1234",
-            "name": "Fuggerstraße"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1101",
-            "name": "Ganghoferbrücke"
-          },
-          {
-            "id": "de:09162:27",
-            "name": "Ridlerstraße"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:25",
-            "name": "Alter Messeplatz"
-          },
-          {
-            "id": "de:09162:251",
-            "name": "Theresienhöhe"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "153",
-        "name": "153",
-        "stations": [
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:125",
-            "name": "Türkenstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:126",
-            "name": "Arcisstraße"
-          },
-          {
-            "id": "de:09162:127",
-            "name": "Luisenstraße"
-          },
-          {
-            "id": "de:09162:128",
-            "name": "Augustenstraße"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:35",
-            "name": "Görresstraße"
-          },
-          {
-            "id": "de:09162:45",
-            "name": "Infanteriestraße Süd"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:185",
-            "name": "Gaiglstraße"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:29",
-            "name": "Landshuter Allee"
-          },
-          {
-            "id": "de:09162:103",
-            "name": "Schlörstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:8",
-            "name": "Donnersbergerbrücke"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:102",
-            "name": "Gollierplatz"
-          },
-          {
-            "id": "de:09162:85",
-            "name": "Kazmairstraße"
-          },
-          {
-            "id": "de:09162:87",
-            "name": "Bergmannstraße"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:27",
-            "name": "Ridlerstraße"
-          },
-          {
-            "id": "de:09162:1101",
-            "name": "Ganghoferbrücke"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1103",
-            "name": "Sendlinger Kirche"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1431",
-            "name": "Sylvensteinstraße"
-          },
-          {
-            "id": "de:09162:1149",
-            "name": "Heckenstallerstraße"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1148",
-            "name": "Schäftlarnstraße"
-          },
-          {
-            "id": "de:09162:1191",
-            "name": "Gerhardstraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
-          },
-          {
-            "id": "de:09162:1146",
-            "name": "Spixstraße"
-          },
-          {
-            "id": "de:09162:1046",
-            "name": "Valeppstraße"
-          },
-          {
-            "id": "de:09162:1045",
-            "name": "Fockensteinstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "153",
-        "name": "153",
-        "stations": [
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1045",
-            "name": "Fockensteinstraße"
-          },
-          {
-            "id": "de:09162:1046",
-            "name": "Valeppstraße"
-          },
-          {
-            "id": "de:09162:1146",
-            "name": "Spixstraße"
-          },
-          {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1191",
-            "name": "Gerhardstraße"
-          },
-          {
-            "id": "de:09162:1148",
-            "name": "Schäftlarnstraße"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1431",
-            "name": "Sylvensteinstraße"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1103",
-            "name": "Sendlinger Kirche"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1101",
-            "name": "Ganghoferbrücke"
-          },
-          {
-            "id": "de:09162:27",
-            "name": "Ridlerstraße"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:87",
-            "name": "Bergmannstraße"
-          },
-          {
-            "id": "de:09162:85",
-            "name": "Kazmairstraße"
-          },
-          {
-            "id": "de:09162:102",
-            "name": "Gollierplatz"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:8",
-            "name": "Donnersbergerbrücke"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:103",
-            "name": "Schlörstraße"
-          },
-          {
-            "id": "de:09162:29",
-            "name": "Landshuter Allee"
-          },
-          {
-            "id": "de:09162:180",
-            "name": "Maillingerstraße"
-          },
-          {
-            "id": "de:09162:185",
-            "name": "Gaiglstraße"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:45",
-            "name": "Infanteriestraße Süd"
-          },
-          {
-            "id": "de:09162:35",
-            "name": "Görresstraße"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:128",
-            "name": "Augustenstraße"
-          },
-          {
-            "id": "de:09162:127",
-            "name": "Luisenstraße"
-          },
-          {
-            "id": "de:09162:126",
-            "name": "Arcisstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:125",
-            "name": "Türkenstraße"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
           }
         ],
         "typeOfTransport": "BUS"
@@ -3111,7 +2443,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T17:32:52Z",
+    "modificationDate": "2024-04-24T17:51:26Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

@@ -240,6 +240,321 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-24T05:30:00Z",
+      "toDate": "2024-04-24T06:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Boschbrücke kommt es auf der Linie 132 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 08:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "32829a77-a544-4a27-8a5c-3e9d5c1c628c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-24T05:30:00Z",
+        "toDate": "2024-04-24T06:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1134",
+            "name": "Gotzinger Platz"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:122",
+            "name": "Ludwigsbrücke"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:93",
+            "name": "Tal"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-24T05:31:02Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Boschbrücke kommt es auf der Linie 132 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 08:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },
@@ -4679,662 +4994,6 @@
     "modificationDate": "2024-04-19T07:23:51Z",
     "text": "<div>Wegen des Wings for Life World Runs werden die Buslinien 50, 60, 143, 175, 176 und 710 am Sonntag, 5. Mai von ca. 12:30 bis 15:00 Uhr umgeleitet bzw. unterbrochen.&nbsp;</div>\n<ul>\n<li>Die Buslinie 50 wird ab der (H) Lerchenauer Stra&szlig;e zur (H) Olympiazentrum umgeleitet. Hierdurch entfallen die (H) Oberwiesenfeld, Olympiapark Nord, Lassallestra&szlig;e, Olympia-Einkaufszentrum und Dessauerstra&szlig;e.&nbsp;</li>\n<li>Die Buslinie 60 beginnt/endet vorzeitig an der (H) Lassallestra&szlig;e. Die (H) Olympia-Einkaufszentrum und Dessauerstra&szlig;e k&ouml;nnen nicht bedient werden.</li>\n<li>Die Buslinie 143 beginnt/endet vorzeitig an der (H) Georg-Brauchle-Ring. Die (H) Olympia-Einkaufszentrum entf&auml;llt.&nbsp;</li>\n<li>Die Buslinie 175 wird ab der (H) Fasanerie Bf. via Lassallestra&szlig;e und Olympiapark Nord umgeleitet. Hierdurch entfallen die (H) Merseburger Stra&szlig;e, Bingener Stra&szlig;e, Claudiusplatz, Olympia-Einkaufszentrum, Riesstra&szlig;e und G&auml;rtnerstra&szlig;e. An der (H) Georg-Brauchle-Ring erfolgt die Abfahrt in Richtung Ludwigsfeld an der Haltestelle der Buslinie 143 &gt; Olympia-Einkaufszentrum.</li>\n<li>Die Buslinien 176 und 710 sind w&auml;hrend der Sperrung der Dachauer Stra&szlig;e vor&uuml;bergehend eingestellt. Nach Freigabe der Strecke wird die Buslinie 176 noch zwischen Rangierbahnhof und Kristallstra&szlig;e umgeleitet. Die (H) Ferchenbachstra&szlig;e entf&auml;llt.</li>\n</ul>\n<div>Das Olympia-Einkaufszentrum erreichen Sie weiterhin mit den U-Bahnlinien U1 (ab Georg-Brauchle-Ring) und U3 (ab Olympiazentrum / Oberwiesenfeld).&nbsp;</div>\r\n",
     "title": "Umleitungen und Unterbrechungen wegen des Wings for Life WorldRun",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-18T23:01:00Z",
-      "toDate": "2024-04-26T21:59:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "e563c06e-2c13-42f1-8195-e8ebda2af645_-937179479",
-        "mimeType": "image/jpeg",
-        "name": "Übersichtskarte"
-      }
-    ],
-    "htmlText": "<div>Wegen Bauarbeiten ist die (H) F&uuml;rstenrieder Stra&szlig;e der Buslinien 51 &gt; Moosach Bf., 151 &gt; Westfriedhof, 168 &gt; Nymphenburg S&uuml;d und N78 &gt; Blutenburg von Dienstag, 9. April bis vsl. Sonntag, 26. April 2024 vor F&uuml;rstenrieder Stra&szlig;e 27 (n&ouml;rdlich der Einm&uuml;ndung Agnes-Bernauer-Stra&szlig;e) verlegt.</div>\r\n",
-    "id": "e563c06e-2c13-42f1-8195-e8ebda2af645",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-08T22:01:00Z",
-        "toDate": "2024-04-26T21:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "51",
-        "name": "51",
-        "stations": [
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1303",
-            "name": "Ratzingerplatz"
-          },
-          {
-            "id": "de:09162:1324",
-            "name": "Geisenhausenerstraße"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1462",
-            "name": "Waldfriedhof Haupteingang"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:238",
-            "name": "Winfriedstraße"
-          },
-          {
-            "id": "de:09162:225",
-            "name": "Herthastraße"
-          },
-          {
-            "id": "de:09162:226",
-            "name": "Kemnatenstraße"
-          },
-          {
-            "id": "de:09162:227",
-            "name": "Hirschgartenallee"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:239",
-            "name": "Nederlinger Straße (West)"
-          },
-          {
-            "id": "de:09162:230",
-            "name": "Skagerrakstraße"
-          },
-          {
-            "id": "de:09162:241",
-            "name": "Warschauer Straße"
-          },
-          {
-            "id": "de:09162:231",
-            "name": "Baubergerstraße"
-          },
-          {
-            "id": "de:09162:237",
-            "name": "Bunzlauer Platz"
-          },
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "51",
-        "name": "51",
-        "stations": [
-          {
-            "id": "de:09162:300",
-            "name": "Moosach Bf."
-          },
-          {
-            "id": "de:09162:237",
-            "name": "Bunzlauer Platz"
-          },
-          {
-            "id": "de:09162:231",
-            "name": "Baubergerstraße"
-          },
-          {
-            "id": "de:09162:241",
-            "name": "Warschauer Straße"
-          },
-          {
-            "id": "de:09162:230",
-            "name": "Skagerrakstraße"
-          },
-          {
-            "id": "de:09162:239",
-            "name": "Nederlinger Straße (West)"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:227",
-            "name": "Hirschgartenallee"
-          },
-          {
-            "id": "de:09162:226",
-            "name": "Kemnatenstraße"
-          },
-          {
-            "id": "de:09162:225",
-            "name": "Herthastraße"
-          },
-          {
-            "id": "de:09162:238",
-            "name": "Winfriedstraße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1462",
-            "name": "Waldfriedhof Haupteingang"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1470",
-            "name": "Machtlfinger Straße"
-          },
-          {
-            "id": "de:09162:1324",
-            "name": "Geisenhausenerstraße"
-          },
-          {
-            "id": "de:09162:1303",
-            "name": "Ratzingerplatz"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "151",
-        "name": "151",
-        "stations": [
-          {
-            "id": "de:09162:1352",
-            "name": "Parkstadt Solln"
-          },
-          {
-            "id": "de:09162:1351",
-            "name": "Gulbranssonstraße"
-          },
-          {
-            "id": "de:09162:1354",
-            "name": "Stäblistraße"
-          },
-          {
-            "id": "de:09162:1350",
-            "name": "Munckerstraße"
-          },
-          {
-            "id": "de:09162:1405",
-            "name": "Staffelseestraße"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1462",
-            "name": "Waldfriedhof Haupteingang"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:238",
-            "name": "Winfriedstraße"
-          },
-          {
-            "id": "de:09162:225",
-            "name": "Herthastraße"
-          },
-          {
-            "id": "de:09162:226",
-            "name": "Kemnatenstraße"
-          },
-          {
-            "id": "de:09162:227",
-            "name": "Hirschgartenallee"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
-          },
-          {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "151",
-        "name": "151",
-        "stations": [
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
-          },
-          {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:213",
-            "name": "Dall'Armistraße"
-          },
-          {
-            "id": "de:09162:214",
-            "name": "Schloss Nymphenburg"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:227",
-            "name": "Hirschgartenallee"
-          },
-          {
-            "id": "de:09162:226",
-            "name": "Kemnatenstraße"
-          },
-          {
-            "id": "de:09162:225",
-            "name": "Herthastraße"
-          },
-          {
-            "id": "de:09162:238",
-            "name": "Winfriedstraße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:1516",
-            "name": "Ammerseestraße"
-          },
-          {
-            "id": "de:09162:1514",
-            "name": "Andreas-Vöst-Straße"
-          },
-          {
-            "id": "de:09162:1510",
-            "name": "Holzapfelkreuth"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1462",
-            "name": "Waldfriedhof Haupteingang"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1405",
-            "name": "Staffelseestraße"
-          },
-          {
-            "id": "de:09162:1350",
-            "name": "Munckerstraße"
-          },
-          {
-            "id": "de:09162:1354",
-            "name": "Stäblistraße"
-          },
-          {
-            "id": "de:09162:1351",
-            "name": "Gulbranssonstraße"
-          },
-          {
-            "id": "de:09162:1352",
-            "name": "Parkstadt Solln"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "168",
-        "name": "168",
-        "stations": [
-          {
-            "id": "de:09162:1544",
-            "name": "Wastl-Witt-Straße"
-          },
-          {
-            "id": "de:09162:1542",
-            "name": "Terofalstraße"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1636",
-            "name": "Silberdistelstraße"
-          },
-          {
-            "id": "de:09162:1638",
-            "name": "Willibaldstraße"
-          },
-          {
-            "id": "de:09162:1652",
-            "name": "Hönigschmidplatz"
-          },
-          {
-            "id": "de:09162:1654",
-            "name": "Menaristraße"
-          },
-          {
-            "id": "de:09162:1656",
-            "name": "Guido-Schneble-Straße"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:157",
-            "name": "Nymphenburg Süd"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "168",
-        "name": "168",
-        "stations": [
-          {
-            "id": "de:09162:157",
-            "name": "Nymphenburg Süd"
-          },
-          {
-            "id": "de:09162:9",
-            "name": "Laim Bf."
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1518",
-            "name": "Aindorferstraße"
-          },
-          {
-            "id": "de:09162:1656",
-            "name": "Guido-Schneble-Straße"
-          },
-          {
-            "id": "de:09162:1654",
-            "name": "Menaristraße"
-          },
-          {
-            "id": "de:09162:1652",
-            "name": "Hönigschmidplatz"
-          },
-          {
-            "id": "de:09162:1638",
-            "name": "Willibaldstraße"
-          },
-          {
-            "id": "de:09162:1636",
-            "name": "Silberdistelstraße"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1543",
-            "name": "Flemischweg"
-          },
-          {
-            "id": "de:09162:1544",
-            "name": "Wastl-Witt-Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "78",
-        "name": "N78",
-        "stations": [],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-21T08:48:21Z",
-    "text": "<div>Wegen Bauarbeiten ist die (H) F&uuml;rstenrieder Stra&szlig;e der Buslinien 51 &gt; Moosach Bf., 151 &gt; Westfriedhof, 168 &gt; Nymphenburg S&uuml;d und N78 &gt; Blutenburg von Dienstag, 9. April bis vsl. Sonntag, 26. April 2024 vor F&uuml;rstenrieder Stra&szlig;e 27 (n&ouml;rdlich der Einm&uuml;ndung Agnes-Bernauer-Stra&szlig;e) verlegt.</div>\r\n",
-    "title": "Haltestelle Fürstenrieder Straße in Richtung Laim Bf. wegen Bauarbeiten verlegt",
     "type": "PLANNED"
   },
   {

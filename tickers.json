@@ -457,7 +457,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T14:11:45Z",
+    "modificationDate": "2024-04-24T14:24:42Z",
     "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien U3 und U6 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
@@ -1741,10 +1741,482 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1134",
+            "name": "Gotzinger Platz"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:122",
+            "name": "Ludwigsbrücke"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:93",
+            "name": "Tal"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T14:06:11Z",
+    "modificationDate": "2024-04-24T14:26:35Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

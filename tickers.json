@@ -244,7 +244,7 @@
       "toDate": "2024-04-24T07:16:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Ostfriedhof und wird ab Ostfriedhof bis zur Haltestelle Wettersteinplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Silberhornstraße. </li></li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Holzapfelstraße. \tSEV mit Taxis zwischen Karlsplatz und Ostfriedhof. </li><li>Die Linie 16 fährt nur im Abschnitt St. Emmeram <> Maxmonument. <li>Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz, Müllerstraße, Sendlinger Tor und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li><li>Die Linie 27 fährt nur im Abschnitt Petuelring <> Ottostraße und wird ab Ottostraße bis zur Haltestelle Hauptbahnhof umgeleitet. </li></li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 27 fährt nur im Abschnitt Karolinenplatz <> Petuelring. <li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Ostfriedhof und wird ab Ostfriedhof bis zur Haltestelle Wettersteinplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Silberhornstraße. </li>SEV mit Taxis zwischen Ostfriedhof und Karlsplatz. </li><li>Die Linie 16 fährt nur im Abschnitt St. Emmeram <> Maxmonument. <li>Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz, Müllerstraße, Sendlinger Tor und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Hauptbahnhof Süd und wird ab Hauptbahnhof Süd bis zur Haltestelle Karlsplatz (Stachus) umgeleitet. </li>SEV mit Taxis zwischen Karlsplatz und Ostfriedhof. </li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "49015af5-bd1b-41fc-9262-04488affb82f",
     "incidentDuration": [
       {
@@ -663,70 +663,6 @@
         "typeOfTransport": "TRAM"
       },
       {
-        "direction": "1",
-        "id": "27",
-        "name": "27",
-        "stations": [
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:308",
-            "name": "Gartenstraße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:311",
-            "name": "Herzogstraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
         "direction": "2",
         "id": "27",
         "name": "27",
@@ -786,6 +722,70 @@
           {
             "id": "de:09162:340",
             "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -904,8 +904,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-24T06:32:40Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Ostfriedhof und wird ab Ostfriedhof bis zur Haltestelle Wettersteinplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Silberhornstraße. </li></li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Holzapfelstraße. \tSEV mit Taxis zwischen Karlsplatz und Ostfriedhof. </li><li>Die Linie 16 fährt nur im Abschnitt St. Emmeram <> Maxmonument. <li>Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz, Müllerstraße, Sendlinger Tor und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li><li>Die Linie 27 fährt nur im Abschnitt Petuelring <> Ottostraße und wird ab Ottostraße bis zur Haltestelle Hauptbahnhof umgeleitet. </li></li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-04-24T06:36:53Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Sendlinger Tor kommt es auf den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 27 fährt nur im Abschnitt Karolinenplatz <> Petuelring. <li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Ostfriedhof und wird ab Ostfriedhof bis zur Haltestelle Wettersteinplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Silberhornstraße. </li>SEV mit Taxis zwischen Ostfriedhof und Karlsplatz. </li><li>Die Linie 16 fährt nur im Abschnitt St. Emmeram <> Maxmonument. <li>Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz, Müllerstraße, Sendlinger Tor und Karlsplatz (Stachus) können leider nicht bedient werden.</li></li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Hauptbahnhof Süd und wird ab Hauptbahnhof Süd bis zur Haltestelle Karlsplatz (Stachus) umgeleitet. </li>SEV mit Taxis zwischen Karlsplatz und Ostfriedhof. </li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Umleitung wegen eines Oberleitungsschadens",
     "type": "DISRUPTION"
   },

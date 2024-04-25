@@ -1,6 +1,253 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-21T22:01:00Z",
+      "toDate": "2024-06-13T21:59:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "<div>Wegen einer Weichenerneuerung am U-Bf. Fr&ouml;ttmaning wird die U6 bis vsl. Donnerstag, 13. Juni 2024 am Kieferngarten geteilt. Zur Weiterfahrt m&uuml;ssen Sie dort in beiden Richtungen (teilweise &uuml;ber das Zwischengeschoss) umsteigen.<br/>&nbsp;<br/>Die Z&uuml;ge fahren im Abschnitt Garching-Forschungszentrum &lt;&gt; Kieferngarten im 15- bzw. 20-Minuten-Takt sowie&nbsp; zwischen Kieferngarten, Marienplatz und Klinikum Gro&szlig;hadern nach regul&auml;rem Fahrplan.<br/>&nbsp;<br/><strong>In den elektronischen Auskunftsmedien wird der Pendelzug derzeit leider nicht oder nur eingeschr&auml;nkt ausgegeben. Wir arbeiten mit Hochdruck an der Fehlerbehebung und bitten um Entschuldigung.</strong><br/>&nbsp;<br/><strong>Die Aushangfahrpl&auml;ne des Pendelzugs finden Sie auf <a href=\"https://www.mvg.de/meinhalt\" target=\"_blank\" rel=\"noopener\">mvg.de/meinhalt</a>.</strong><br/>&nbsp;<br/>Weitere Fahrtalternativen mit den bestehenden Express- und Regionalbuslinien finden Sie auf <a href=\"https://www.mvg.de/weichen\" target=\"_blank\" rel=\"noopener\">mvg.de/weichen</a>.</div>",
+    "id": "20b74b2d-3dc5-4ee8-a423-01ebc38ccaca",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-21T22:01:00Z",
+        "toDate": "2024-06-13T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-25T10:23:07Z",
+    "text": "<div>Wegen einer Weichenerneuerung am U-Bf. Fr&ouml;ttmaning wird die U6 bis vsl. Donnerstag, 13. Juni 2024 am Kieferngarten geteilt. Zur Weiterfahrt m&uuml;ssen Sie dort in beiden Richtungen (teilweise &uuml;ber das Zwischengeschoss) umsteigen.<br/>&nbsp;<br/>Die Z&uuml;ge fahren im Abschnitt Garching-Forschungszentrum &lt;&gt; Kieferngarten im 15- bzw. 20-Minuten-Takt sowie&nbsp; zwischen Kieferngarten, Marienplatz und Klinikum Gro&szlig;hadern nach regul&auml;rem Fahrplan.<br/>&nbsp;<br/><strong>In den elektronischen Auskunftsmedien wird der Pendelzug derzeit leider nicht oder nur eingeschr&auml;nkt ausgegeben. Wir arbeiten mit Hochdruck an der Fehlerbehebung und bitten um Entschuldigung.</strong><br/>&nbsp;<br/><strong>Die Aushangfahrpl&auml;ne des Pendelzugs finden Sie auf <a href=\"https://www.mvg.de/meinhalt\" target=\"_blank\" rel=\"noopener\">mvg.de/meinhalt</a>.</strong><br/>&nbsp;<br/>Weitere Fahrtalternativen mit den bestehenden Express- und Regionalbuslinien finden Sie auf <a href=\"https://www.mvg.de/weichen\" target=\"_blank\" rel=\"noopener\">mvg.de/weichen</a>.</div>",
+    "title": "Garching-Forschungszentrum <> Kieferngarten: Pendelzug verkehrt wie geplant im 15-/20-Minuten-Takt",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-25T10:00:00Z",
       "toDate": "2024-04-25T18:00:00Z"
     },

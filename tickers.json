@@ -851,6 +851,305 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-25T10:45:00Z",
+      "toDate": "2024-04-25T11:45:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 57 derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "915de62a-8ecf-4919-aa74-b7f2a41f4dd1",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-25T10:45:00Z",
+        "toDate": "2024-04-25T11:45:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "57",
+        "name": "57",
+        "stations": [
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1646",
+            "name": "Stroblstraße"
+          },
+          {
+            "id": "de:09162:1644",
+            "name": "Mitterfeldstraße"
+          },
+          {
+            "id": "de:09162:1643",
+            "name": "Fischer-v.-Erlach-Straße"
+          },
+          {
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
+          },
+          {
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1727",
+            "name": "Benedikterstraße"
+          },
+          {
+            "id": "de:09162:1627",
+            "name": "Weinbergerstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1683",
+            "name": "Volmstraße"
+          },
+          {
+            "id": "de:09162:1682",
+            "name": "Varnhagenstraße"
+          },
+          {
+            "id": "de:09162:1681",
+            "name": "Heimburgstraße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1702",
+            "name": "Ravensburger Ring"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "57",
+        "name": "57",
+        "stations": [
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1702",
+            "name": "Ravensburger Ring"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1681",
+            "name": "Heimburgstraße"
+          },
+          {
+            "id": "de:09162:1682",
+            "name": "Varnhagenstraße"
+          },
+          {
+            "id": "de:09162:1683",
+            "name": "Volmstraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1622",
+            "name": "Pasinger Marienplatz"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1627",
+            "name": "Weinbergerstraße"
+          },
+          {
+            "id": "de:09162:1727",
+            "name": "Benedikterstraße"
+          },
+          {
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
+          },
+          {
+            "id": "de:09162:1643",
+            "name": "Fischer-v.-Erlach-Straße"
+          },
+          {
+            "id": "de:09162:1644",
+            "name": "Mitterfeldstraße"
+          },
+          {
+            "id": "de:09162:1646",
+            "name": "Stroblstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-25T10:47:36Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Verkehrsunfalls kommt es auf der Linie 57 derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 13:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Erhebliche Behinderungen wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },

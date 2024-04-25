@@ -790,6 +790,141 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-25T15:55:00Z",
+      "toDate": "2024-04-25T16:55:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 28 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "92a2bad5-d3f8-4751-b72e-b0bb75dbe4ee",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-25T15:55:00Z",
+        "toDate": "2024-04-25T16:55:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-25T15:55:51Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 28 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-25T10:00:00Z",
       "toDate": "2024-04-25T18:00:00Z"
     },
@@ -953,6 +1088,321 @@
     "modificationDate": "2024-04-25T11:45:03Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 100 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-25T15:54:00Z",
+      "toDate": "2024-04-25T21:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 172 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "f8cca654-a038-4f02-b30c-c222d1fc8ce8",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-25T15:54:00Z",
+        "toDate": "2024-04-25T21:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-25T15:55:20Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 172 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
     "type": "DISRUPTION"
   },
   {

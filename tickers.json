@@ -515,16 +515,16 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-25T08:31:00Z",
-      "toDate": "2024-04-25T09:31:00Z"
+      "fromDate": "2024-04-25T08:58:00Z",
+      "toDate": "2024-04-25T09:58:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Hohenzollernstraße kommt es auf den Linien 53, 54 und 59 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 59 in Richtung Ackermannbogen wird zwischen Münchner Freiheit und Kurfürstenplatz umgeleitet. Die Haltestellen Friedrichstraße und Hohenzollernstraße in Fahrtrichtung Ackermannbogen können leider nicht bedient werden. </li> \t<li> Die Linie 54 in Richtung Lorettoplatz wird zwischen Münchner Freiheit und Am Tucherpark umgeleitet. Die Haltestellen Hohenzollernstraße, Giselastraße, Thiemestraße, Chinesischer Turm und Hirschauer Straße in Fahrtrichtung Lorettoplatz können leider nicht bedient werden. </li></li> \t<li> Die Linie 53 in Richtung Aidenbachstraße wird zwischen Münchner Freiheit und Kurfürstenplatz umgeleitet. Die Haltestellen Hohenzollernstraße und Friedrichstraße in Fahrtrichtung Aidenbachstraße können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "09406e37-9aac-46f1-a350-a0604de48348",
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 53, 54 und 59 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 12:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "3048837e-7830-464d-95b2-763e1b482628",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-25T08:31:00Z",
-        "toDate": "2024-04-25T09:31:00Z"
+        "fromDate": "2024-04-25T08:58:00Z",
+        "toDate": "2024-04-25T09:58:00Z"
       }
     ],
     "incidents": [],
@@ -863,6 +863,190 @@
       },
       {
         "direction": "2",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1149",
+            "name": "Heckenstallerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
         "id": "59",
         "name": "59",
         "stations": [
@@ -983,9 +1167,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-25T08:48:43Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Hohenzollernstraße kommt es auf den Linien 53, 54 und 59 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 59 in Richtung Ackermannbogen wird zwischen Münchner Freiheit und Kurfürstenplatz umgeleitet. Die Haltestellen Friedrichstraße und Hohenzollernstraße in Fahrtrichtung Ackermannbogen können leider nicht bedient werden. </li> \t<li> Die Linie 54 in Richtung Lorettoplatz wird zwischen Münchner Freiheit und Am Tucherpark umgeleitet. Die Haltestellen Hohenzollernstraße, Giselastraße, Thiemestraße, Chinesischer Turm und Hirschauer Straße in Fahrtrichtung Lorettoplatz können leider nicht bedient werden. </li></li> \t<li> Die Linie 53 in Richtung Aidenbachstraße wird zwischen Münchner Freiheit und Kurfürstenplatz umgeleitet. Die Haltestellen Hohenzollernstraße und Friedrichstraße in Fahrtrichtung Aidenbachstraße können leider nicht bedient werden. </li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-04-25T08:58:38Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf den Linien 53, 54 und 59 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 12:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {

@@ -415,6 +415,177 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-25T13:53:00Z",
+      "toDate": "2024-04-25T14:53:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 197 Außenring derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "f06e2062-271d-4e6b-8d59-d5a1268cde69",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-25T13:53:00Z",
+        "toDate": "2024-04-25T14:53:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:996",
+            "name": "Franz-Heubl-Straße"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-25T13:54:44Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 197 Außenring derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 16:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },

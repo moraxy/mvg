@@ -720,7 +720,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-25T07:15:49Z",
+    "modificationDate": "2024-04-25T07:50:35Z",
     "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 21 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
     "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
@@ -741,6 +741,234 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "435",
+        "name": "X35",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "435",
+        "name": "X35",
+        "stations": [
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "436",
+        "name": "X36",
+        "stations": [
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:1961",
+            "name": "Am Neubruch"
+          },
+          {
+            "id": "de:09162:1960",
+            "name": "Storchenweg"
+          },
+          {
+            "id": "de:09162:1850",
+            "name": "Spiegelbergstraße"
+          },
+          {
+            "id": "de:09162:1863",
+            "name": "Am Münchfeld"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "436",
+        "name": "X36",
+        "stations": [
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1863",
+            "name": "Am Münchfeld"
+          },
+          {
+            "id": "de:09162:1850",
+            "name": "Spiegelbergstraße"
+          },
+          {
+            "id": "de:09162:1960",
+            "name": "Storchenweg"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "2",
         "id": "50",
@@ -2736,10 +2964,534 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1134",
+            "name": "Gotzinger Platz"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:122",
+            "name": "Ludwigsbrücke"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:93",
+            "name": "Tal"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "188",
+        "name": "188",
+        "stations": [
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:609",
+            "name": "Warthestraße"
+          },
+          {
+            "id": "de:09162:638",
+            "name": "Pühnstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:620",
+            "name": "Isarring"
+          },
+          {
+            "id": "de:09162:621",
+            "name": "Mahirstraße"
+          },
+          {
+            "id": "de:09162:622",
+            "name": "Odinstraße"
+          },
+          {
+            "id": "de:09162:623",
+            "name": "Wahnfriedallee"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:628",
+            "name": "Muspillistraße"
+          },
+          {
+            "id": "de:09162:626",
+            "name": "Oberföhring Post"
+          },
+          {
+            "id": "de:09162:627",
+            "name": "Bernheimerstraße"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2090",
+            "name": "Unterföhring, Siedlerstraße"
+          },
+          {
+            "id": "de:09184:2092",
+            "name": "Unterföhring, Alte Münch. Str."
+          },
+          {
+            "id": "de:09184:2490",
+            "name": "Unterföhring, Rathaus"
+          },
+          {
+            "id": "de:09184:2096",
+            "name": "Unterföhring, Bergstraße"
+          },
+          {
+            "id": "de:09184:2098",
+            "name": "Unterföhring, Ahornstraße"
+          },
+          {
+            "id": "de:09184:2100",
+            "name": "Unterföhring, Fichtenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-25T06:46:51Z",
+    "modificationDate": "2024-04-25T07:50:20Z",
     "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"

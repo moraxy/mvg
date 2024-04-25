@@ -268,7 +268,7 @@
       "toDate": "2024-04-25T08:12:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li> <li> Die Linie 27 wird in beiden Richtungen zwischen Nordbad und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof Nord. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße, Elisabethplatz, Kurfürstenplatz und Hohenzollernplatz können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li> \t<li> Die Linie 27 in Richtung Petuelring wird zwischen Karlsplatz (Stachus) und Nordbad umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof Nord. Die Haltestellen Hohenzollernplatz, Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Petuelring können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "63a70826-5d4e-4ae6-8fad-7cf172e2cb89",
     "incidentDuration": [
       {
@@ -278,70 +278,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "27",
-        "name": "27",
-        "stations": [
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:308",
-            "name": "Gartenstraße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:311",
-            "name": "Herzogstraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
       {
         "direction": "2",
         "id": "27",
@@ -520,8 +456,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-25T07:22:18Z",
-    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li> <li> Die Linie 27 wird in beiden Richtungen zwischen Nordbad und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof Nord. Die Haltestellen Ottostraße, Karolinenplatz, Pinakotheken, Schellingstraße, Nordendstraße, Elisabethplatz, Kurfürstenplatz und Hohenzollernplatz können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "modificationDate": "2024-04-25T07:25:30Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei den Linien 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 28 fährt nur im Abschnitt Karolinenplatz <> Scheidplatz. <li>Die Haltestellen Sendlinger Tor, Karlsplatz (Stachus) und Ottostraße können leider nicht bedient werden.</li></li> \t<li> Die Linie 27 in Richtung Petuelring wird zwischen Karlsplatz (Stachus) und Nordbad umgeleitet. Die Umleitung verläuft über die Haltestellen Leonrodplatz und Hauptbahnhof Nord. Die Haltestellen Hohenzollernplatz, Kurfürstenplatz, Elisabethplatz, Nordendstraße, Schellingstraße, Pinakotheken, Karolinenplatz und Ottostraße in Fahrtrichtung Petuelring können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Erhebliche Behinderungen wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },

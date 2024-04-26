@@ -1,6 +1,137 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-26T12:28:00Z",
+      "toDate": "2024-04-26T14:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Thalkirchen (Tierpark) kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U3 in Richtung Moosach Bf. . <br>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "51f822fd-e902-48d6-a815-cd28e0a07d06",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-26T12:28:00Z",
+        "toDate": "2024-04-26T14:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-26T12:33:02Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Thalkirchen (Tierpark) kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U3 in Richtung Moosach Bf. . <br>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-21T22:01:00Z",
       "toDate": "2024-06-13T21:59:00Z"
     },
@@ -249,15 +380,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-26T12:13:00Z",
-      "toDate": "2024-04-26T14:00:00Z"
+      "toDate": "2024-04-26T16:07:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 139 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien 139 und 183 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 18:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "10a2639e-4331-47bb-bc70-b4bede0a52ac",
     "incidentDuration": [
       {
         "fromDate": "2024-04-26T12:13:00Z",
-        "toDate": "2024-04-26T14:00:00Z"
+        "toDate": "2024-04-26T16:07:00Z"
       }
     ],
     "incidents": [],
@@ -605,323 +736,224 @@
           }
         ],
         "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-26T12:14:37Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 139 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-26T11:51:00Z",
-      "toDate": "2024-04-26T12:51:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ellis-Kaut-Straße kommt es auf der Linie 143 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "cc760b38-809a-48a7-bf72-b2257909b872",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-26T11:51:00Z",
-        "toDate": "2024-04-26T12:51:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
+      },
       {
         "direction": "2",
-        "id": "143",
-        "name": "143",
+        "id": "183",
+        "name": "183",
         "stations": [
           {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
           },
           {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
+            "id": "de:09162:813",
+            "name": "Am Messesee"
           },
           {
-            "id": "de:09162:303",
-            "name": "Wintrichring"
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
           },
           {
-            "id": "de:09162:233",
-            "name": "Amphionpark"
+            "id": "de:09162:815",
+            "name": "An der Point"
           },
           {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
           },
           {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
           },
           {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
           },
           {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
+            "id": "de:09162:810",
+            "name": "Tierheim"
           },
           {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
           },
           {
-            "id": "de:09162:235",
-            "name": "Lustheimstraße"
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
           },
           {
-            "id": "de:09162:1900",
-            "name": "Obermenzing Bf."
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
           },
           {
-            "id": "de:09162:1811",
-            "name": "Sarasatestraße"
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
           },
           {
-            "id": "de:09162:1809",
-            "name": "Dorfstraße"
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
           },
           {
-            "id": "de:09162:1808",
-            "name": "Wöhlerstraße"
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
           },
           {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
           },
           {
-            "id": "de:09162:1812",
-            "name": "Schloss Blutenburg"
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
           },
           {
-            "id": "de:09162:1806",
-            "name": "Bertha-von-Suttner-Weg"
+            "id": "de:09162:608",
+            "name": "Posener Platz"
           },
           {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
           },
           {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
           },
           {
-            "id": "de:09162:1717",
-            "name": "Jaspersallee"
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
           },
           {
-            "id": "de:09162:1800",
-            "name": "Langwied Bf."
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
           },
           {
-            "id": "de:09162:1715",
-            "name": "Kronwinkler Straße"
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
           },
           {
-            "id": "de:09162:1713",
-            "name": "Mariabrunner Straße"
+            "id": "de:09162:653",
+            "name": "Cosimabad"
           },
           {
-            "id": "de:09162:1734",
-            "name": "Bergsonstraße"
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
           },
           {
-            "id": "de:09162:1711",
-            "name": "Ubostraße"
-          },
-          {
-            "id": "de:09162:1710",
-            "name": "Aubing Bf."
-          },
-          {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
-          },
-          {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
-          },
-          {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
-          },
-          {
-            "id": "de:09162:1721",
-            "name": "Ellis-Kaut-Straße"
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09162:1758",
-            "name": "Clarita-Bernhard-Straße"
-          },
-          {
-            "id": "de:09162:1762",
-            "name": "Hans-Steinkohl-Straße"
-          },
-          {
-            "id": "de:09162:1765",
-            "name": "Freiham, Möbel Höffner"
+            "id": "de:09162:670",
+            "name": "Arabellapark"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "1",
-        "id": "143",
-        "name": "143",
+        "id": "183",
+        "name": "183",
         "stations": [
           {
-            "id": "de:09162:1765",
-            "name": "Freiham, Möbel Höffner"
+            "id": "de:09162:670",
+            "name": "Arabellapark"
           },
           {
-            "id": "de:09162:1762",
-            "name": "Hans-Steinkohl-Straße"
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
           },
           {
-            "id": "de:09162:1758",
-            "name": "Clarita-Bernhard-Straße"
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
           },
           {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
+            "id": "de:09162:653",
+            "name": "Cosimabad"
           },
           {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
           },
           {
-            "id": "de:09162:1721",
-            "name": "Ellis-Kaut-Straße"
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
           },
           {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
           },
           {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
           },
           {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
+            "id": "de:09162:608",
+            "name": "Posener Platz"
           },
           {
-            "id": "de:09162:1710",
-            "name": "Aubing Bf."
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
           },
           {
-            "id": "de:09162:1711",
-            "name": "Ubostraße"
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
           },
           {
-            "id": "de:09162:1734",
-            "name": "Bergsonstraße"
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
           },
           {
-            "id": "de:09162:1713",
-            "name": "Mariabrunner Straße"
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
           },
           {
-            "id": "de:09162:1715",
-            "name": "Kronwinkler Straße"
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
           },
           {
-            "id": "de:09162:1800",
-            "name": "Langwied Bf."
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
           },
           {
-            "id": "de:09162:1717",
-            "name": "Jaspersallee"
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
           },
           {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
           },
           {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
+            "id": "de:09162:810",
+            "name": "Tierheim"
           },
           {
-            "id": "de:09162:1806",
-            "name": "Bertha-von-Suttner-Weg"
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
           },
           {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
           },
           {
-            "id": "de:09162:1808",
-            "name": "Wöhlerstraße"
+            "id": "de:09162:815",
+            "name": "An der Point"
           },
           {
-            "id": "de:09162:1809",
-            "name": "Dorfstraße"
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
           },
           {
-            "id": "de:09162:1811",
-            "name": "Sarasatestraße"
+            "id": "de:09162:813",
+            "name": "Am Messesee"
           },
           {
-            "id": "de:09162:1900",
-            "name": "Obermenzing Bf."
-          },
-          {
-            "id": "de:09162:235",
-            "name": "Lustheimstraße"
-          },
-          {
-            "id": "de:09162:210",
-            "name": "Amalienburgstraße"
-          },
-          {
-            "id": "de:09162:211",
-            "name": "Botanischer Garten"
-          },
-          {
-            "id": "de:09162:212",
-            "name": "Maria-Ward-Straße"
-          },
-          {
-            "id": "de:09162:236",
-            "name": "In den Kirschen"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:233",
-            "name": "Amphionpark"
-          },
-          {
-            "id": "de:09162:303",
-            "name": "Wintrichring"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-26T12:16:13Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ellis-Kaut-Straße kommt es auf der Linie 143 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Behinderungen wegen Falschparker",
+    "modificationDate": "2024-04-26T12:35:12Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf den Linien 139 und 183 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 18:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {
@@ -1462,7 +1494,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-26T12:26:46Z",
+    "modificationDate": "2024-04-26T12:34:42Z",
     "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Berger-Kreuz-Straße kommt es auf den Linien 195, 196 und 199 derzeit zu zeitweisen Unregelmäßigkeiten. <br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Zeitweise Unregelmäßigkeiten wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"

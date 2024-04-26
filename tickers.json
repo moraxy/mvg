@@ -248,193 +248,313 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-26T11:33:00Z",
-      "toDate": "2024-04-26T13:30:00Z"
+      "fromDate": "2024-04-26T11:51:00Z",
+      "toDate": "2024-04-26T12:51:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 52 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "3fd23d4d-ac5d-4273-b006-6d8bc8d41a3c",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ellis-Kaut-Straße kommt es auf der Linie 143 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "cc760b38-809a-48a7-bf72-b2257909b872",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-26T11:33:00Z",
-        "toDate": "2024-04-26T13:30:00Z"
+        "fromDate": "2024-04-26T11:51:00Z",
+        "toDate": "2024-04-26T12:51:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "2",
-        "id": "52",
-        "name": "52",
+        "id": "143",
+        "name": "143",
         "stations": [
           {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           },
           {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
           },
           {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
+            "id": "de:09162:303",
+            "name": "Wintrichring"
           },
           {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
+            "id": "de:09162:233",
+            "name": "Amphionpark"
           },
           {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
           },
           {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
           },
           {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
           },
           {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
           },
           {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
           },
           {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
           },
           {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
           },
           {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
           },
           {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
           },
           {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
           },
           {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
           },
           {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
           },
           {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
           },
           {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
           },
           {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
+          },
+          {
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
+          },
+          {
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "1",
-        "id": "52",
-        "name": "52",
+        "id": "143",
+        "name": "143",
         "stations": [
           {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
           },
           {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
           },
           {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
           },
           {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
           },
           {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
           },
           {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
           },
           {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
           },
           {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
           },
           {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
           },
           {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
           },
           {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
           },
           {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
           },
           {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
           },
           {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
           },
           {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
           },
           {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
           },
           {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
           },
           {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
           },
           {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:233",
+            "name": "Amphionpark"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-26T11:34:36Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 52 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "modificationDate": "2024-04-26T11:54:25Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Ellis-Kaut-Straße kommt es auf der Linie 143 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 14:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Behinderungen wegen Falschparker",
     "type": "DISRUPTION"
   },
   {

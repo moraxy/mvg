@@ -248,6 +248,129 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-26T06:41:00Z",
+      "toDate": "2024-04-26T07:41:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Ostfriedhof kommt es auf der Linie 25 in Richtung Max-Weber-Platz (Johannispl.) derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 09:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "cffa6c4a-bee1-4f56-9001-df5e22d25e2b",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-26T06:41:00Z",
+        "toDate": "2024-04-26T07:41:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-26T06:42:46Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Ostfriedhof kommt es auf der Linie 25 in Richtung Max-Weber-Platz (Johannispl.) derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 09:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Beeinträchtigungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-26T06:09:00Z",
       "toDate": "2024-04-26T08:00:00Z"
     },

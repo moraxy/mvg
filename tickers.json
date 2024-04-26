@@ -248,6 +248,109 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-26T11:09:00Z",
+      "toDate": "2024-04-26T19:54:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "46a11ac8-d7c1-44e9-8602-68b53ee18523",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-26T11:09:00Z",
+        "toDate": "2024-04-26T19:54:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          },
+          {
+            "id": "de:09162:1501",
+            "name": "Senftenauerstraße Süd"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-26T11:13:31Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-04-30T21:59:00Z"
     },

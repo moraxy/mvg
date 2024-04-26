@@ -249,7 +249,7 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-26T04:30:00Z",
-      "toDate": "2024-04-26T05:30:00Z"
+      "toDate": "2024-04-26T05:24:00Z"
     },
     "downloadLinks": [],
     "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 20 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
@@ -257,7 +257,7 @@
     "incidentDuration": [
       {
         "fromDate": "2024-04-26T04:30:00Z",
-        "toDate": "2024-04-26T05:30:00Z"
+        "toDate": "2024-04-26T05:24:00Z"
       }
     ],
     "incidents": [],
@@ -412,9 +412,148 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-26T04:31:09Z",
+    "modificationDate": "2024-04-26T05:16:57Z",
     "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 20 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-26T05:01:00Z",
+      "toDate": "2024-04-26T06:01:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Verehrte Fahrg&auml;ste,<br/>\n&nbsp;<br/>\naufgrund eines Fahrzeugausfalls auf der Linie 135 ist ein Gro&szlig;raumtaxi zus&auml;tzlich f&uuml;r Sie im Einsatz.<br/>\nWir bitten um Ihr Verst&auml;ndnis,<br/>\n&nbsp;<br/>\nIhre MVG<br/>\n&nbsp;<br/>\n&nbsp;<br/>\r\n\r\n",
+    "id": "589f90ac-e024-4bab-b6e4-5c9fcb257d04",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-26T05:01:00Z",
+        "toDate": "2024-04-26T06:01:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "135",
+        "name": "135",
+        "stations": [
+          {
+            "id": "de:09162:1362",
+            "name": "Waldfriedhof Solln"
+          },
+          {
+            "id": "de:09162:1326",
+            "name": "Melchiorstraße"
+          },
+          {
+            "id": "de:09162:1304",
+            "name": "Ringelnatzweg"
+          },
+          {
+            "id": "de:09162:1325",
+            "name": "Sollner Straße"
+          },
+          {
+            "id": "de:09162:1320",
+            "name": "Solln Bf."
+          },
+          {
+            "id": "de:09162:1328",
+            "name": "Friedastraße"
+          },
+          {
+            "id": "de:09162:1331",
+            "name": "Josephinenstraße"
+          },
+          {
+            "id": "de:09162:1145",
+            "name": "Hinterbrühl"
+          },
+          {
+            "id": "de:09162:1144",
+            "name": "Thalkirchen (Campingplatz)"
+          },
+          {
+            "id": "de:09162:1143",
+            "name": "Floßlände"
+          },
+          {
+            "id": "de:09162:1139",
+            "name": "Maria-Einsiedel-Straße"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "135",
+        "name": "135",
+        "stations": [
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1141",
+            "name": "Zentralländstraße"
+          },
+          {
+            "id": "de:09162:1142",
+            "name": "Bad Maria Einsiedel"
+          },
+          {
+            "id": "de:09162:1143",
+            "name": "Floßlände"
+          },
+          {
+            "id": "de:09162:1144",
+            "name": "Thalkirchen (Campingplatz)"
+          },
+          {
+            "id": "de:09162:1145",
+            "name": "Hinterbrühl"
+          },
+          {
+            "id": "de:09162:1331",
+            "name": "Josephinenstraße"
+          },
+          {
+            "id": "de:09162:1328",
+            "name": "Friedastraße"
+          },
+          {
+            "id": "de:09162:1320",
+            "name": "Solln Bf."
+          },
+          {
+            "id": "de:09162:1325",
+            "name": "Sollner Straße"
+          },
+          {
+            "id": "de:09162:1304",
+            "name": "Ringelnatzweg"
+          },
+          {
+            "id": "de:09162:1326",
+            "name": "Melchiorstraße"
+          },
+          {
+            "id": "de:09162:1362",
+            "name": "Waldfriedhof Solln"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-26T05:16:14Z",
+    "text": "Verehrte Fahrg&auml;ste,<br/>\n&nbsp;<br/>\naufgrund eines Fahrzeugausfalls auf der Linie 135 ist ein Gro&szlig;raumtaxi zus&auml;tzlich f&uuml;r Sie im Einsatz.<br/>\nWir bitten um Ihr Verst&auml;ndnis,<br/>\n&nbsp;<br/>\nIhre MVG<br/>\n&nbsp;<br/>\n&nbsp;<br/>\r\n\r\n",
+    "title": "Großraumtaxi auf Linie 135 unterwegs",
     "type": "DISRUPTION"
   },
   {

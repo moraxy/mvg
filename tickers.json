@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-26T12:44:00Z",
-      "toDate": "2024-04-26T15:00:00Z"
+      "toDate": "2024-04-26T14:34:48Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Thalkirchen (Tierpark) kommt es auf der Linie U3 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <ul style='list-style: disc;'>Pendelzugbetrieb zw. Moosach&lt;&gt;Olympiazentrum</ul><br>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie U3 gemeldete Behinderung (Grund: bereits behobene Störung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "4f155330-b807-4104-ab45-cee59c0cc9a9",
     "incidentDuration": [
       {
         "fromDate": "2024-04-26T12:44:00Z",
-        "toDate": "2024-04-26T15:00:00Z"
+        "toDate": "2024-04-26T14:24:48Z"
       }
     ],
     "incidents": [],
@@ -233,9 +233,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-26T13:44:04Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer bereits behobenen Störung im Bereich Thalkirchen (Tierpark) kommt es auf der Linie U3 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <ul style='list-style: disc;'>Pendelzugbetrieb zw. Moosach&lt;&gt;Olympiazentrum</ul><br>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer bereits behobenen Störung",
+    "modificationDate": "2024-04-26T14:24:55Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie U3 gemeldete Behinderung (Grund: bereits behobene Störung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -1381,145 +1381,6 @@
     "modificationDate": "2024-04-26T12:40:51Z",
     "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 139 und 183 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-26T11:13:00Z",
-      "toDate": "2024-04-26T14:24:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "id": "b5ca8249-ca4b-4c47-9aed-20bd1418ede0",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-26T11:13:00Z",
-        "toDate": "2024-04-26T14:24:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "516",
-        "name": "SEV 16",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:232",
-            "name": "Hopfenstraße"
-          },
-          {
-            "id": "de:09162:7",
-            "name": "Hackerbrücke"
-          },
-          {
-            "id": "de:09162:223",
-            "name": "Deroystraße"
-          },
-          {
-            "id": "de:09162:222",
-            "name": "Marsstraße"
-          },
-          {
-            "id": "de:09162:54",
-            "name": "Donnersbergerstraße"
-          },
-          {
-            "id": "de:09162:218",
-            "name": "Burghausener Straße"
-          },
-          {
-            "id": "de:09162:217",
-            "name": "Briefzentrum"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:219",
-            "name": "Kriemhildenstraße"
-          },
-          {
-            "id": "de:09162:215",
-            "name": "Romanplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-26T11:45:20Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

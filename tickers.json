@@ -713,6 +713,237 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-27T12:02:00Z",
+      "toDate": "2024-04-27T13:02:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 25 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "ff0f9c5f-a014-4515-af1e-a4fd608bb5de",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-27T12:02:00Z",
+        "toDate": "2024-04-27T13:02:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-27T12:03:43Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 25 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 15:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

@@ -1,6 +1,309 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-04-27T09:39:00Z",
+      "toDate": "2024-04-27T10:39:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer polizeilichen Anordnung kommt es auf den Linien U4 und U5 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "2e95b903-84de-441e-953e-8ce997f10405",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-27T09:39:00Z",
+        "toDate": "2024-04-27T10:39:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-27T09:43:08Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer polizeilichen Anordnung kommt es auf den Linien U4 und U5 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer polizeilichen Anordnung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-21T22:01:00Z",
       "toDate": "2024-06-13T21:59:00Z"
     },
@@ -244,6 +547,237 @@
     "modificationDate": "2024-04-25T10:23:07Z",
     "text": "<div>Wegen einer Weichenerneuerung am U-Bf. Fr&ouml;ttmaning wird die U6 bis vsl. Donnerstag, 13. Juni 2024 am Kieferngarten geteilt. Zur Weiterfahrt m&uuml;ssen Sie dort in beiden Richtungen (teilweise &uuml;ber das Zwischengeschoss) umsteigen.<br/>&nbsp;<br/>Die Z&uuml;ge fahren im Abschnitt Garching-Forschungszentrum &lt;&gt; Kieferngarten im 15- bzw. 20-Minuten-Takt sowie&nbsp; zwischen Kieferngarten, Marienplatz und Klinikum Gro&szlig;hadern nach regul&auml;rem Fahrplan.<br/>&nbsp;<br/><strong>In den elektronischen Auskunftsmedien wird der Pendelzug derzeit leider nicht oder nur eingeschr&auml;nkt ausgegeben. Wir arbeiten mit Hochdruck an der Fehlerbehebung und bitten um Entschuldigung.</strong><br/>&nbsp;<br/><strong>Die Aushangfahrpl&auml;ne des Pendelzugs finden Sie auf <a href=\"https://www.mvg.de/meinhalt\" target=\"_blank\" rel=\"noopener\">mvg.de/meinhalt</a>.</strong><br/>&nbsp;<br/>Weitere Fahrtalternativen mit den bestehenden Express- und Regionalbuslinien finden Sie auf <a href=\"https://www.mvg.de/weichen\" target=\"_blank\" rel=\"noopener\">mvg.de/weichen</a>.</div>",
     "title": "Garching-Forschungszentrum <> Kieferngarten: Pendelzug verkehrt wie geplant im 15-/20-Minuten-Takt",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-27T09:40:00Z",
+      "toDate": "2024-04-27T10:40:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 18 derzeit zu Beeinträchtigungen. Die Behinderungen werden noch voraussichtlich bis 12:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "f61a1bb8-5066-4225-a912-e8d122d74e81",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-27T09:40:00Z",
+        "toDate": "2024-04-27T10:40:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-27T09:42:27Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 18 derzeit zu Beeinträchtigungen. Die Behinderungen werden noch voraussichtlich bis 12:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Beeinträchtigungen wegen eines Rettungseinsatzes",
     "type": "DISRUPTION"
   },
   {

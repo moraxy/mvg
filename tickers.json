@@ -467,15 +467,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-27T15:51:00Z",
-      "toDate": "2024-04-27T17:21:00Z"
+      "toDate": "2024-04-27T16:48:59Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Karlsplatz (Stachus) kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Züge der Linien U4 und U5 halten aktuell nicht am U-Bahnhof Karlsplatz (Stachus). </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien U4 und U5 gemeldete Behinderung (Grund: Feuerwehreinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "83e97e3e-45ad-41cc-bd43-e156eae7a10e",
     "incidentDuration": [
       {
         "fromDate": "2024-04-27T15:51:00Z",
-        "toDate": "2024-04-27T17:11:00Z"
+        "toDate": "2024-04-27T16:38:59Z"
       }
     ],
     "incidents": [],
@@ -762,9 +762,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-27T16:23:59Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Karlsplatz (Stachus) kommt es auf den Linien U4 und U5 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Züge der Linien U4 und U5 halten aktuell nicht am U-Bahnhof Karlsplatz (Stachus). </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Beeinträchtigungen wegen eines Feuerwehreinsatzes",
+    "modificationDate": "2024-04-27T16:39:00Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien U4 und U5 gemeldete Behinderung (Grund: Feuerwehreinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -1012,6 +1012,173 @@
     "modificationDate": "2024-04-25T10:23:07Z",
     "text": "<div>Wegen einer Weichenerneuerung am U-Bf. Fr&ouml;ttmaning wird die U6 bis vsl. Donnerstag, 13. Juni 2024 am Kieferngarten geteilt. Zur Weiterfahrt m&uuml;ssen Sie dort in beiden Richtungen (teilweise &uuml;ber das Zwischengeschoss) umsteigen.<br/>&nbsp;<br/>Die Z&uuml;ge fahren im Abschnitt Garching-Forschungszentrum &lt;&gt; Kieferngarten im 15- bzw. 20-Minuten-Takt sowie&nbsp; zwischen Kieferngarten, Marienplatz und Klinikum Gro&szlig;hadern nach regul&auml;rem Fahrplan.<br/>&nbsp;<br/><strong>In den elektronischen Auskunftsmedien wird der Pendelzug derzeit leider nicht oder nur eingeschr&auml;nkt ausgegeben. Wir arbeiten mit Hochdruck an der Fehlerbehebung und bitten um Entschuldigung.</strong><br/>&nbsp;<br/><strong>Die Aushangfahrpl&auml;ne des Pendelzugs finden Sie auf <a href=\"https://www.mvg.de/meinhalt\" target=\"_blank\" rel=\"noopener\">mvg.de/meinhalt</a>.</strong><br/>&nbsp;<br/>Weitere Fahrtalternativen mit den bestehenden Express- und Regionalbuslinien finden Sie auf <a href=\"https://www.mvg.de/weichen\" target=\"_blank\" rel=\"noopener\">mvg.de/weichen</a>.</div>",
     "title": "Garching-Forschungszentrum <> Kieferngarten: Pendelzug verkehrt wie geplant im 15-/20-Minuten-Takt",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-27T16:41:00Z",
+      "toDate": "2024-04-27T17:41:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Wintrichring kommt es auf der Linie 143 in Richtung Freiham, Möbel Höffner derzeit zu Umleitungen zwischen Wintrichring und Amphionpark. <br>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "f28d8ebb-e649-47c6-bcea-d892709e70f0",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-27T16:41:00Z",
+        "toDate": "2024-04-27T17:41:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "143",
+        "name": "143",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:233",
+            "name": "Amphionpark"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1811",
+            "name": "Sarasatestraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1717",
+            "name": "Jaspersallee"
+          },
+          {
+            "id": "de:09162:1800",
+            "name": "Langwied Bf."
+          },
+          {
+            "id": "de:09162:1715",
+            "name": "Kronwinkler Straße"
+          },
+          {
+            "id": "de:09162:1713",
+            "name": "Mariabrunner Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1721",
+            "name": "Ellis-Kaut-Straße"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1758",
+            "name": "Clarita-Bernhard-Straße"
+          },
+          {
+            "id": "de:09162:1762",
+            "name": "Hans-Steinkohl-Straße"
+          },
+          {
+            "id": "de:09162:1765",
+            "name": "Freiham, Möbel Höffner"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-27T16:43:19Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Wintrichring kommt es auf der Linie 143 in Richtung Freiham, Möbel Höffner derzeit zu Umleitungen zwischen Wintrichring und Amphionpark. <br>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

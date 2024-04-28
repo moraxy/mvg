@@ -248,16 +248,403 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-28T16:58:00Z",
-      "toDate": "2024-04-28T17:58:00Z"
+      "fromDate": "2024-04-28T17:08:00Z",
+      "toDate": "2024-04-28T18:08:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Eichelhäherstraße kommt es auf der Linie 162 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie 162 fährt nur im Abschnitt Moosach Bf. <> Lochhausen Bf.. <li>Die Haltestellen Ziegeleistraße, Federseestraße, Erlbachstraße und Eichelhäherstraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 54 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "8d15830c-998a-4616-b0a1-fd7b159540bb",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-28T17:08:00Z",
+        "toDate": "2024-04-28T18:08:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1149",
+            "name": "Heckenstallerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-28T17:09:26Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 54 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen starken Verkehrsaufkommens",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-28T16:58:00Z",
+      "toDate": "2024-04-28T17:21:08Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 162 gemeldete Behinderung (Grund: Falschparker) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "5d4a8dc9-88dc-4225-bc55-2a2657937b53",
     "incidentDuration": [
       {
         "fromDate": "2024-04-28T16:58:00Z",
-        "toDate": "2024-04-28T17:58:00Z"
+        "toDate": "2024-04-28T17:11:08Z"
       }
     ],
     "incidents": [],
@@ -680,9 +1067,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-28T17:03:13Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Eichelhäherstraße kommt es auf der Linie 162 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie 162 fährt nur im Abschnitt Moosach Bf. <> Lochhausen Bf.. <li>Die Haltestellen Ziegeleistraße, Federseestraße, Erlbachstraße und Eichelhäherstraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Streckenunterbrechung wegen Falschparker",
+    "modificationDate": "2024-04-28T17:11:08Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 162 gemeldete Behinderung (Grund: Falschparker) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {

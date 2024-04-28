@@ -1074,6 +1074,445 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-28T17:15:00Z",
+      "toDate": "2024-04-28T18:15:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Eichelhäherstraße kommt es auf der Linie 162 derzeit zu einer Streckenunterbrechung. <br>Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "6f4b3590-8479-4048-adcf-6ded9a31d128",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-28T17:15:00Z",
+        "toDate": "2024-04-28T18:15:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "162",
+        "name": "162",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:299",
+            "name": "Margarete-Steiff-Straße"
+          },
+          {
+            "id": "de:09162:1936",
+            "name": "Lauinger Straße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1928",
+            "name": "Manzostraße"
+          },
+          {
+            "id": "de:09162:1926",
+            "name": "Gruithuisenstraße"
+          },
+          {
+            "id": "de:09162:1924",
+            "name": "Korbinian-Beer-Straße"
+          },
+          {
+            "id": "de:09162:1918",
+            "name": "Krautheimstraße"
+          },
+          {
+            "id": "de:09162:1921",
+            "name": "Von-Reuter-Straße"
+          },
+          {
+            "id": "de:09162:1916",
+            "name": "Karl-von-Roth-Straße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1914",
+            "name": "Finsterwalderstraße"
+          },
+          {
+            "id": "de:09162:1912",
+            "name": "Kunstmannstraße"
+          },
+          {
+            "id": "de:09162:1908",
+            "name": "Heerstraße"
+          },
+          {
+            "id": "de:09162:1906",
+            "name": "Reginbaldstraße"
+          },
+          {
+            "id": "de:09162:1904",
+            "name": "Fasanenstraße"
+          },
+          {
+            "id": "de:09162:1903",
+            "name": "Tannenweg"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1737",
+            "name": "Überlinger Weg"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1728",
+            "name": "Plankenfelser Straße"
+          },
+          {
+            "id": "de:09162:1732",
+            "name": "Limesstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1736",
+            "name": "Gilchinger Straße"
+          },
+          {
+            "id": "de:09162:1738",
+            "name": "Allinger Straße"
+          },
+          {
+            "id": "de:09162:1742",
+            "name": "Asmarstraße"
+          },
+          {
+            "id": "de:09162:1810",
+            "name": "Lochhausen Bf."
+          },
+          {
+            "id": "de:09162:1746",
+            "name": "Ziegeleistraße"
+          },
+          {
+            "id": "de:09162:1748",
+            "name": "Federseestraße"
+          },
+          {
+            "id": "de:09162:1750",
+            "name": "Erlbachstraße"
+          },
+          {
+            "id": "de:09162:1756",
+            "name": "Eichelhäherstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "162",
+        "name": "162",
+        "stations": [
+          {
+            "id": "de:09162:1756",
+            "name": "Eichelhäherstraße"
+          },
+          {
+            "id": "de:09162:1750",
+            "name": "Erlbachstraße"
+          },
+          {
+            "id": "de:09162:1748",
+            "name": "Federseestraße"
+          },
+          {
+            "id": "de:09162:1746",
+            "name": "Ziegeleistraße"
+          },
+          {
+            "id": "de:09162:1810",
+            "name": "Lochhausen Bf."
+          },
+          {
+            "id": "de:09162:1742",
+            "name": "Asmarstraße"
+          },
+          {
+            "id": "de:09162:1738",
+            "name": "Allinger Straße"
+          },
+          {
+            "id": "de:09162:1736",
+            "name": "Gilchinger Straße"
+          },
+          {
+            "id": "de:09162:1734",
+            "name": "Bergsonstraße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1732",
+            "name": "Limesstraße"
+          },
+          {
+            "id": "de:09162:1728",
+            "name": "Plankenfelser Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1737",
+            "name": "Überlinger Weg"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:1903",
+            "name": "Tannenweg"
+          },
+          {
+            "id": "de:09162:1904",
+            "name": "Fasanenstraße"
+          },
+          {
+            "id": "de:09162:1906",
+            "name": "Reginbaldstraße"
+          },
+          {
+            "id": "de:09162:1908",
+            "name": "Heerstraße"
+          },
+          {
+            "id": "de:09162:1912",
+            "name": "Kunstmannstraße"
+          },
+          {
+            "id": "de:09162:1914",
+            "name": "Finsterwalderstraße"
+          },
+          {
+            "id": "de:09162:1930",
+            "name": "Untermenzing"
+          },
+          {
+            "id": "de:09162:1916",
+            "name": "Karl-von-Roth-Straße"
+          },
+          {
+            "id": "de:09162:1921",
+            "name": "Von-Reuter-Straße"
+          },
+          {
+            "id": "de:09162:1918",
+            "name": "Krautheimstraße"
+          },
+          {
+            "id": "de:09162:1924",
+            "name": "Korbinian-Beer-Straße"
+          },
+          {
+            "id": "de:09162:1926",
+            "name": "Gruithuisenstraße"
+          },
+          {
+            "id": "de:09162:1928",
+            "name": "Manzostraße"
+          },
+          {
+            "id": "de:09162:1932",
+            "name": "Waldhornstraße"
+          },
+          {
+            "id": "de:09162:1934",
+            "name": "Untermenzinger Straße"
+          },
+          {
+            "id": "de:09162:1936",
+            "name": "Lauinger Straße"
+          },
+          {
+            "id": "de:09162:299",
+            "name": "Margarete-Steiff-Straße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-28T17:17:23Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Falschparkers im Bereich Eichelhäherstraße kommt es auf der Linie 162 derzeit zu einer Streckenunterbrechung. <br>Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Behinderungen wegen Falschparker",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

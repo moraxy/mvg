@@ -248,6 +248,237 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-28T20:09:00Z",
+      "toDate": "2024-04-28T21:09:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie N41 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "40a69d46-da4b-448f-8028-9d9e7316ef4d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-28T20:09:00Z",
+        "toDate": "2024-04-28T21:09:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "41",
+        "name": "N41",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1416",
+            "name": "Neurieder Straße"
+          },
+          {
+            "id": "de:09162:1355",
+            "name": "Nesselwanger Straße"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1415",
+            "name": "Bad Forstenried"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1302",
+            "name": "Hofmannstraße"
+          },
+          {
+            "id": "de:09162:1323",
+            "name": "Zielstattstraße"
+          },
+          {
+            "id": "de:09162:1322",
+            "name": "Schneemannstraße"
+          },
+          {
+            "id": "de:09162:1321",
+            "name": "Adunistraße"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:8002",
+            "name": "Maximiliansplatz"
+          },
+          {
+            "id": "de:09162:197",
+            "name": "Oskar-von-Miller-Ring"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:1192",
+            "name": "Siegestor"
+          },
+          {
+            "id": "de:09162:36",
+            "name": "Georgenstraße"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:433",
+            "name": "Parzivalplatz"
+          },
+          {
+            "id": "de:09162:435",
+            "name": "Kölner Platz"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:419",
+            "name": "Rümannstraße"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-28T20:14:53Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie N41 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

@@ -495,145 +495,353 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-04-29T16:53:00Z",
-      "toDate": "2024-04-29T17:45:00Z"
+      "fromDate": "2024-04-29T17:42:00Z",
+      "toDate": "2024-04-29T18:42:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 21 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "e1326daa-d49e-48dd-91da-2faaf0ae376e",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Max-Weber-Platz (Johannispl.) kommt es auf den Linien 21 und 25 derzeit zu Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "a7a50cc1-e2c2-4c61-a40a-9560a255c8f6",
     "incidentDuration": [
       {
-        "fromDate": "2024-04-29T16:53:00Z",
-        "toDate": "2024-04-29T17:35:00Z"
+        "fromDate": "2024-04-29T17:42:00Z",
+        "toDate": "2024-04-29T18:42:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "2",
+        "direction": "1",
         "id": "21",
         "name": "21",
         "stations": [
           {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
           },
           {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:904",
-            "name": "Mutschellestraße"
-          },
-          {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:901",
-            "name": "Ampfingstraße"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:7000",
-            "name": "Hauptbahnhof Nord"
-          },
-          {
-            "id": "de:09162:15",
-            "name": "Karlstraße"
-          },
-          {
-            "id": "de:09162:170",
-            "name": "Stiglmaierplatz"
-          },
-          {
-            "id": "de:09162:13",
-            "name": "Sandstraße"
-          },
-          {
-            "id": "de:09162:12",
-            "name": "Hochschule München (Lothstraße)"
-          },
-          {
-            "id": "de:09162:11",
-            "name": "Leonrodplatz"
-          },
-          {
-            "id": "de:09162:307",
-            "name": "Heideckstraße"
-          },
-          {
-            "id": "de:09162:306",
-            "name": "Olympiapark West"
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
           },
           {
             "id": "de:09162:305",
             "name": "Borstei"
           },
           {
-            "id": "de:09162:285",
-            "name": "Stadtwerke München"
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
           },
           {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:16",
+            "name": "Lenbachplatz"
+          },
+          {
+            "id": "de:09162:20",
+            "name": "Marienplatz (Theatinerstraße)"
+          },
+          {
+            "id": "de:09162:17",
+            "name": "Nationaltheater"
+          },
+          {
+            "id": "de:09162:18",
+            "name": "Kammerspiele"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:21",
+            "name": "Maximilianeum"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:904",
+            "name": "Mutschellestraße"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "25",
+        "name": "25",
+        "stations": [
+          {
+            "id": "de:09184:2456",
+            "name": "Grünwald, Derbolfinger Platz"
+          },
+          {
+            "id": "de:09184:2464",
+            "name": "Grünwald, Ludwig-Thoma-Straße"
+          },
+          {
+            "id": "de:09184:2462",
+            "name": "Grünwald, Parkplatz"
+          },
+          {
+            "id": "de:09184:2460",
+            "name": "Grünwald, Robert-Koch-Straße"
+          },
+          {
+            "id": "de:09184:2458",
+            "name": "Grünwald, Bavariafilmplatz"
+          },
+          {
+            "id": "de:09162:1126",
+            "name": "Schilcherweg"
+          },
+          {
+            "id": "de:09162:1125",
+            "name": "Großhesseloher Brücke"
+          },
+          {
+            "id": "de:09162:1124",
+            "name": "Menterschwaige"
+          },
+          {
+            "id": "de:09162:1123",
+            "name": "Klinikum Harlaching"
+          },
+          {
+            "id": "de:09162:1122",
+            "name": "Theodolindenplatz"
+          },
+          {
+            "id": "de:09162:1121",
+            "name": "Authariplatz"
+          },
+          {
+            "id": "de:09162:1119",
+            "name": "Tiroler Platz"
+          },
+          {
+            "id": "de:09162:1118",
+            "name": "Südtiroler Straße"
+          },
+          {
+            "id": "de:09162:1117",
+            "name": "Kurzstraße"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:149",
+            "name": "Carl-Amery-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:4",
+            "name": "Rosenheimer Platz"
+          },
+          {
+            "id": "de:09162:88",
+            "name": "Wörthstraße"
+          },
+          {
+            "id": "de:09162:581",
+            "name": "Max-Weber-Platz (Johannispl.)"
           }
         ],
         "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-29T17:35:00Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 21 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-04-29T17:44:31Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Max-Weber-Platz (Johannispl.) kommt es auf den Linien 21 und 25 derzeit zu Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Behinderungen wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

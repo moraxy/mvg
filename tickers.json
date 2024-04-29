@@ -5,7 +5,7 @@
       "toDate": "2024-04-29T13:18:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Ostbahnhof kommt es derzeit zu Beeinträchtigungen auf der Linie U5. <br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Ostbahnhof kommt es derzeit zu Verspätungen auf der Linie U5. <br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "id": "091b00a8-4824-4cf3-80ac-2446a2737703",
     "incidentDuration": [
       {
@@ -177,9 +177,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-29T12:18:54Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Ostbahnhof kommt es derzeit zu Beeinträchtigungen auf der Linie U5. <br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Beeinträchtigungen wegen eines erkrankten Fahrgastes",
+    "modificationDate": "2024-04-29T12:24:34Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Ostbahnhof kommt es derzeit zu Verspätungen auf der Linie U5. <br>Die Behinderungen werden noch voraussichtlich bis 15:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen eines erkrankten Fahrgastes",
     "type": "DISRUPTION"
   },
   {
@@ -427,6 +427,269 @@
     "modificationDate": "2024-04-25T10:23:07Z",
     "text": "<div>Wegen einer Weichenerneuerung am U-Bf. Fr&ouml;ttmaning wird die U6 bis vsl. Donnerstag, 13. Juni 2024 am Kieferngarten geteilt. Zur Weiterfahrt m&uuml;ssen Sie dort in beiden Richtungen (teilweise &uuml;ber das Zwischengeschoss) umsteigen.<br/>&nbsp;<br/>Die Z&uuml;ge fahren im Abschnitt Garching-Forschungszentrum &lt;&gt; Kieferngarten im 15- bzw. 20-Minuten-Takt sowie&nbsp; zwischen Kieferngarten, Marienplatz und Klinikum Gro&szlig;hadern nach regul&auml;rem Fahrplan.<br/>&nbsp;<br/><strong>In den elektronischen Auskunftsmedien wird der Pendelzug derzeit leider nicht oder nur eingeschr&auml;nkt ausgegeben. Wir arbeiten mit Hochdruck an der Fehlerbehebung und bitten um Entschuldigung.</strong><br/>&nbsp;<br/><strong>Die Aushangfahrpl&auml;ne des Pendelzugs finden Sie auf <a href=\"https://www.mvg.de/meinhalt\" target=\"_blank\" rel=\"noopener\">mvg.de/meinhalt</a>.</strong><br/>&nbsp;<br/>Weitere Fahrtalternativen mit den bestehenden Express- und Regionalbuslinien finden Sie auf <a href=\"https://www.mvg.de/weichen\" target=\"_blank\" rel=\"noopener\">mvg.de/weichen</a>.</div>",
     "title": "Garching-Forschungszentrum <> Kieferngarten: Pendelzug verkehrt wie geplant im 15-/20-Minuten-Takt",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-29T12:22:00Z",
+      "toDate": "2024-04-29T17:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Bauarbeiten kommt es auf der Linie 50 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "e8efe426-0d07-4c0a-b144-b8bf6370436d",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-29T12:22:00Z",
+        "toDate": "2024-04-29T17:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2101",
+            "name": "Unterföhring, Feringastr. Ost"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09184:2101",
+            "name": "Unterföhring, Feringastr. Ost"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:721",
+            "name": "Johanneskirchen Bf. (West)"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-29T12:24:04Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Bauarbeiten kommt es auf der Linie 50 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen Bauarbeiten",
     "type": "DISRUPTION"
   },
   {

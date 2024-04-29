@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "OEZ Dessauerstraße",
-    "divaId": "03050",
-    "label": "50",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1714361040000,
-    "realtime": true,
-    "realtimeDepartureTime": 1714361040000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:2:2",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 1,
     "destination": "Petuelring",
     "divaId": "03177",
@@ -206,6 +188,24 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 1,
+    "destination": "Johanneskirchen Bf.",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1714362300000,
+    "realtime": true,
+    "realtimeDepartureTime": 1714362360000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
     "delayInMinutes": -1,
     "destination": "Feldmoching",
     "divaId": "010U2",
@@ -222,24 +222,6 @@
     "stopPointGlobalId": "de:09162:750:51:51",
     "trainType": "",
     "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 4,
-    "destination": "Johanneskirchen Bf.",
-    "divaId": "03050",
-    "label": "50",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1714362300000,
-    "realtime": true,
-    "realtimeDepartureTime": 1714362540000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
   },
   {
     "bannerHash": "",
@@ -372,5 +354,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Arabellapark U",
+    "divaId": "03150",
+    "label": "150",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1714363260000,
+    "realtime": false,
+    "realtimeDepartureTime": 1714363260000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

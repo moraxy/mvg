@@ -682,25 +682,37 @@
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "2",
-        "id": "187",
-        "name": "187",
+        "direction": "1",
+        "id": "190",
+        "name": "190",
         "stations": [
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
           },
           {
-            "id": "de:09162:907",
-            "name": "Sankt Michael"
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
           },
           {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
+            "id": "de:09162:898",
+            "name": "St. Pius"
           },
           {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
           },
           {
             "id": "de:09162:893",
@@ -723,192 +735,156 @@
             "name": "Friedrich-Eckart-Straße"
           },
           {
-            "id": "de:09162:613",
-            "name": "Schwarzwaldstraße"
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
           },
           {
-            "id": "de:09162:611",
-            "name": "Moselstraße"
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
           },
           {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
+            "id": "de:09162:730",
+            "name": "Burgauerstraße"
           },
           {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
           },
           {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
+            "id": "de:09162:810",
+            "name": "Tierheim"
           },
           {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
           },
           {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
           },
           {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
+            "id": "de:09162:800",
+            "name": "Riem Bf."
           },
           {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
           },
           {
-            "id": "de:09162:550",
-            "name": "Kufsteiner Platz"
+            "id": "de:09162:815",
+            "name": "An der Point"
           },
           {
-            "id": "de:09162:555",
-            "name": "Poschingerstraße"
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
           },
           {
-            "id": "de:09162:551",
-            "name": "Redwitzstraße"
+            "id": "de:09162:813",
+            "name": "Am Messesee"
           },
           {
-            "id": "de:09162:552",
-            "name": "Gustav-Freytag-Straße"
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
           },
           {
-            "id": "de:09162:553",
-            "name": "Gellertstraße"
+            "id": "de:09162:817",
+            "name": "Helsinkistraße"
           },
           {
-            "id": "de:09162:554",
-            "name": "Rümelinstraße"
+            "id": "de:09162:816",
+            "name": "Lehrer-Wirth-Straße"
           },
           {
-            "id": "de:09162:619",
-            "name": "Grüntal"
+            "id": "de:09162:818",
+            "name": "Mutter-Teresa-Straße"
           },
           {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
+            "id": "de:09162:819",
+            "name": "Selma-Lagerlöf-Straße"
           },
           {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
-          },
-          {
-            "id": "de:09162:618",
-            "name": "Effnerstraße"
-          },
-          {
-            "id": "de:09162:617",
-            "name": "Priel"
-          },
-          {
-            "id": "de:09162:615",
-            "name": "Odinpark"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "1",
-        "id": "187",
-        "name": "187",
+        "direction": "2",
+        "id": "190",
+        "name": "190",
         "stations": [
           {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
           },
           {
-            "id": "de:09162:671",
-            "name": "Arabellapark Nord"
+            "id": "de:09162:819",
+            "name": "Selma-Lagerlöf-Straße"
           },
           {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
+            "id": "de:09162:818",
+            "name": "Mutter-Teresa-Straße"
           },
           {
-            "id": "de:09162:615",
-            "name": "Odinpark"
+            "id": "de:09162:816",
+            "name": "Lehrer-Wirth-Straße"
           },
           {
-            "id": "de:09162:617",
-            "name": "Priel"
+            "id": "de:09162:817",
+            "name": "Helsinkistraße"
           },
           {
-            "id": "de:09162:624",
-            "name": "Lohengrinstraße"
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
           },
           {
-            "id": "de:09162:625",
-            "name": "Bürgerpark Oberföhring"
+            "id": "de:09162:813",
+            "name": "Am Messesee"
           },
           {
-            "id": "de:09162:619",
-            "name": "Grüntal"
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
           },
           {
-            "id": "de:09162:554",
-            "name": "Rümelinstraße"
+            "id": "de:09162:815",
+            "name": "An der Point"
           },
           {
-            "id": "de:09162:553",
-            "name": "Gellertstraße"
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
           },
           {
-            "id": "de:09162:552",
-            "name": "Gustav-Freytag-Straße"
+            "id": "de:09162:800",
+            "name": "Riem Bf."
           },
           {
-            "id": "de:09162:551",
-            "name": "Redwitzstraße"
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
           },
           {
-            "id": "de:09162:555",
-            "name": "Poschingerstraße"
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
           },
           {
-            "id": "de:09162:550",
-            "name": "Kufsteiner Platz"
+            "id": "de:09162:810",
+            "name": "Tierheim"
           },
           {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
           },
           {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
+            "id": "de:09162:730",
+            "name": "Burgauerstraße"
           },
           {
-            "id": "de:09162:680",
-            "name": "Richard-Strauss-Straße"
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
           },
           {
-            "id": "de:09162:654",
-            "name": "Denninger Straße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:611",
-            "name": "Moselstraße"
-          },
-          {
-            "id": "de:09162:613",
-            "name": "Schwarzwaldstraße"
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
           },
           {
             "id": "de:09162:641",
@@ -927,27 +903,47 @@
             "name": "Baumkirchner Platz"
           },
           {
-            "id": "de:09162:903",
-            "name": "Baumkirchner Straße"
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
           },
           {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
           },
           {
-            "id": "de:09162:907",
-            "name": "Sankt Michael"
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
           },
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-29T18:20:28Z",
+    "modificationDate": "2024-04-29T18:59:16Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

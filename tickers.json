@@ -2927,15 +2927,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-04-29T15:13:00Z",
-      "toDate": "2024-04-29T17:00:00Z"
+      "toDate": "2024-04-29T15:50:22Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Studentenstadt kommt es auf den Linien X35, X36, 50, 177 und 181 derzeit zu Behinderungen. <ul style='list-style: disc;'>Wegen einer Fahrzeugst&ouml;rung kann der Busbahnhof an der Studentenstadt nicht direkt angefahren werden, die Busse halten in der Ungererstra&szlig;e fahrbahnseitig an der Haltestelle vom Bus N40.</ul><br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien X35, X36, 50, 177 und 181 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "32f007ba-ac39-4831-97a5-f9975efff508",
     "incidentDuration": [
       {
         "fromDate": "2024-04-29T15:13:00Z",
-        "toDate": "2024-04-29T17:00:00Z"
+        "toDate": "2024-04-29T15:40:22Z"
       }
     ],
     "incidents": [],
@@ -3634,9 +3634,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-29T15:23:49Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Studentenstadt kommt es auf den Linien X35, X36, 50, 177 und 181 derzeit zu Behinderungen. <ul style='list-style: disc;'>Wegen einer Fahrzeugst&ouml;rung kann der Busbahnhof an der Studentenstadt nicht direkt angefahren werden, die Busse halten in der Ungererstra&szlig;e fahrbahnseitig an der Haltestelle vom Bus N40.</ul><br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Behinderungen wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-04-29T15:40:22Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien X35, X36, 50, 177 und 181 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -3900,6 +3900,197 @@
     "modificationDate": "2024-04-29T12:24:04Z",
     "text": "Liebe Fahrgäste,<br/>wegen Bauarbeiten kommt es auf der Linie 50 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen Bauarbeiten",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-29T15:41:00Z",
+      "toDate": "2024-04-29T16:41:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Wilhelm-Kuhnert-Straße kommt es auf der Linie 52 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 18:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "a44f6a8b-117c-4ebd-b8cb-9315de0ef9f4",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-29T15:41:00Z",
+        "toDate": "2024-04-29T16:41:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-29T15:43:23Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines erkrankten Fahrgastes im Bereich Wilhelm-Kuhnert-Straße kommt es auf der Linie 52 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 18:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen eines erkrankten Fahrgastes",
     "type": "DISRUPTION"
   },
   {

@@ -8740,6 +8740,195 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-28T22:01:00Z",
+      "toDate": "2024-09-03T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "c4edabc1-66c2-4699-804c-82c0d7b77b56_700739686",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten im Bereich Von-der-Tann-Stra&szlig;e kann die Buslinie 100 &gt; Hauptbahnhof Nord die (H) Odeonsplatz bis vsl. Dienstag, 3. September 2024 nicht bedienen. Bitte nutzen Sie die (H) Von-der-Tann-Stra&szlig;e n&ouml;rdlich der Einm&uuml;ndung Ludwigstra&szlig;e / Von-der-Tann-Stra&szlig;e.</div>\r\n",
+    "id": "c4edabc1-66c2-4699-804c-82c0d7b77b56",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-28T22:01:00Z",
+        "toDate": "2024-09-03T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "100",
+        "name": "100",
+        "stations": [
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:156",
+            "name": "Elisenstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:95",
+            "name": "Technische Universität"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:197",
+            "name": "Oskar-von-Miller-Ring"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:123",
+            "name": "Königinstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:121",
+            "name": "Reitmorstraße/Sammlung Schack"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "100",
+        "name": "100",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:73",
+            "name": "Friedensengel/Villa Stuck"
+          },
+          {
+            "id": "de:09162:121",
+            "name": "Reitmorstraße/Sammlung Schack"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
+          },
+          {
+            "id": "de:09162:123",
+            "name": "Königinstraße"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:97",
+            "name": "Amalienstraße"
+          },
+          {
+            "id": "de:09162:86",
+            "name": "Maxvorstadt/Samml. Brandhorst"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:95",
+            "name": "Technische Universität"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-04-29T06:44:45Z",
+    "text": "<div>Wegen Stra&szlig;enbauarbeiten im Bereich Von-der-Tann-Stra&szlig;e kann die Buslinie 100 &gt; Hauptbahnhof Nord die (H) Odeonsplatz bis vsl. Dienstag, 3. September 2024 nicht bedienen. Bitte nutzen Sie die (H) Von-der-Tann-Stra&szlig;e n&ouml;rdlich der Einm&uuml;ndung Ludwigstra&szlig;e / Von-der-Tann-Stra&szlig;e.</div>\r\n",
+    "title": "Haltestelle Odeonsplatz in Richtung Hauptbahnhof Nord entfällt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T23:01:00Z",
       "toDate": null
     },

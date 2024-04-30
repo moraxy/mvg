@@ -251,8 +251,14 @@
       "fromDate": "2024-04-30T07:06:00Z",
       "toDate": "2024-04-30T08:06:00Z"
     },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Hauptbahnhof Süd kommt es auf den Linien 18 und 19 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "downloadLinks": [
+      {
+        "id": "d8a357a4-07c5-4d8c-b905-aefd58c202ac_-638461868",
+        "mimeType": "image/jpeg",
+        "name": "Tram 18, 19 Sperrung Bayerstr"
+      }
+    ],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Hauptbahnhof Süd kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Karlsplatz (Stachus). \tAm Karlsplatz werden die Haltestellen 3 und 4 angefahren. </li><li>Die Linie 19 in Richtung Berg am Laim Bf. fährt nur im Abschnitt Pasing Bf. <> Holzapfelstraße. \t</li><li>Die Linie 19 in Richtung Pasing Bf. fährt nur im Abschnitt Berg am Laim Bf. <> Lenbachplatz und wird ab Lenbachplatz bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestelle Karlsplatz (Stachus). </li>Die Haltestellen Karlsplatz und Hauptbahnhof werden nur in einer Richtung angefahren! </li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Holzapfelstraße. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "d8a357a4-07c5-4d8c-b905-aefd58c202ac",
     "incidentDuration": [
       {
@@ -262,110 +268,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "18",
-        "name": "18",
-        "stations": [
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:41",
-            "name": "Eduard-Schmid-Straße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
-          },
-          {
-            "id": "de:09162:1106",
-            "name": "St.-Martins-Platz"
-          },
-          {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
-          },
-          {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
       {
         "direction": "2",
         "id": "18",
@@ -466,6 +368,110 @@
           {
             "id": "de:09162:260",
             "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -760,9 +766,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-04-30T07:07:44Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Hauptbahnhof Süd kommt es auf den Linien 18 und 19 derzeit zu erheblichen Behinderungen. <br>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Erhebliche Behinderungen wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-04-30T07:17:38Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Hauptbahnhof Süd kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Karlsplatz (Stachus). \tAm Karlsplatz werden die Haltestellen 3 und 4 angefahren. </li><li>Die Linie 19 in Richtung Berg am Laim Bf. fährt nur im Abschnitt Pasing Bf. <> Holzapfelstraße. \t</li><li>Die Linie 19 in Richtung Pasing Bf. fährt nur im Abschnitt Berg am Laim Bf. <> Lenbachplatz und wird ab Lenbachplatz bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestelle Karlsplatz (Stachus). </li>Die Haltestellen Karlsplatz und Hauptbahnhof werden nur in einer Richtung angefahren! </li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Holzapfelstraße. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 10:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

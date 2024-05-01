@@ -249,15 +249,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-01T12:06:00Z",
-      "toDate": "2024-05-01T13:06:00Z"
+      "toDate": "2024-05-01T14:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16 und 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<li>Die Linie 16 fährt nur im Abschnitt Effnerplatz <> Maxmonument und wird ab Maxmonument bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestellen Kammerspiele, Marienplatz (Theatinerstraße), Lenbachplatz. Die Haltestellen Karlsplatz (Stachus), Sendlinger Tor, Müllerstraße, Reichenbachplatz, Isartor und Mariannenplatz entfallen in beiden Richtungen. </li></li></ul>Die Behinderungen werden noch voraussichtlich bis 15:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16, 18 und 27 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<li>Die Linie 16 fährt nur im Abschnitt Effnerplatz <> Maxmonument und wird ab Maxmonument bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestellen Kammerspiele, Marienplatz (Theatinerstraße), Lenbachplatz. Die Haltestellen Karlsplatz (Stachus), Sendlinger Tor, Müllerstraße, Reichenbachplatz, Isartor und Mariannenplatz entfallen in beiden Richtungen. </li></li> <li>Die Linie 27 wird in beiden Richtungen zwischen Ottostraße und Karlsplatz (Stachus) umgeleitet. Die Haltestelle Karlsplatz (Stachus) kann leider nicht bedient werden. Die Umleitung erfolgt von Ottostrasse über Prielmayerstr - Hauptbahnhof - zur Ottostrasse. </li></ul>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "87937667-f736-42c8-bc93-e31a246a25d0",
     "incidentDuration": [
       {
         "fromDate": "2024-05-01T12:06:00Z",
-        "toDate": "2024-05-01T13:06:00Z"
+        "toDate": "2024-05-01T14:00:00Z"
       }
     ],
     "incidents": [],
@@ -597,11 +597,139 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-01T12:13:29Z",
-    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16 und 18 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<li>Die Linie 16 fährt nur im Abschnitt Effnerplatz <> Maxmonument und wird ab Maxmonument bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestellen Kammerspiele, Marienplatz (Theatinerstraße), Lenbachplatz. Die Haltestellen Karlsplatz (Stachus), Sendlinger Tor, Müllerstraße, Reichenbachplatz, Isartor und Mariannenplatz entfallen in beiden Richtungen. </li></li></ul>Die Behinderungen werden noch voraussichtlich bis 15:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "modificationDate": "2024-05-01T12:21:48Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16, 18 und 27 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'>  <li>Die Linie 18 fährt derzeit den regulären Linienweg, es kann jedoch zu Verspätungen und vereinzelten Ausfällen kommen.<li>Die Linie 16 fährt nur im Abschnitt Effnerplatz <> Maxmonument und wird ab Maxmonument bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestellen Kammerspiele, Marienplatz (Theatinerstraße), Lenbachplatz. Die Haltestellen Karlsplatz (Stachus), Sendlinger Tor, Müllerstraße, Reichenbachplatz, Isartor und Mariannenplatz entfallen in beiden Richtungen. </li></li> <li>Die Linie 27 wird in beiden Richtungen zwischen Ottostraße und Karlsplatz (Stachus) umgeleitet. Die Haltestelle Karlsplatz (Stachus) kann leider nicht bedient werden. Die Umleitung erfolgt von Ottostrasse über Prielmayerstr - Hauptbahnhof - zur Ottostrasse. </li></ul>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Beeinträchtigungen im Stadtzentrum wegen einer Demonstration",
     "type": "DISRUPTION"
   },

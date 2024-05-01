@@ -249,84 +249,20 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-01T07:17:00Z",
-      "toDate": "2024-05-01T11:00:00Z"
+      "toDate": "2024-05-01T09:01:48Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li> Die Linie 16 wird in beiden Richtungen zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Kammerspiele, Marienplatz (Theatinerstraße), Lenbachplatz, Karlsplatz (Stachus). Die Haltestellen Sendlinger Tor, Müllerstraße, Reichenbachplatz, Isartor und Mariannenplatz können leider nicht bedient werden. </li> <li> Die Linie 18 wird in beiden Richtungen zwischen Ostfriedhof und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Regerplatz, Max-Weber-Platz, Maximilianeum, Maxmonument, Marienplatz (Theatinerstraße), Lenbachplatz, Karlsplatz (Stachus). Die Haltestellen Sendlinger Tor, Müllerstraße, Fraunhoferstraße, Eduard-Schmid-Straße und Mariahilfplatz können leider nicht bedient werden. </li> <li>Die Linie 28 wird in beiden Richtungen zwischen Karlsplatz (Stachus) und Sendlinger Tor umgeleitet. Die Umleitung verläuft über die Haltestelle Hauptbahnhof. Die Haltestelle Sendlinger Tor kann leider nicht bedient werden. </li> <li>Linie 27 Umleitung ab Ottostrasse über Prielmayrstrasse - Hauptbahnhof - Ottostrasse,(H) Karlsplatz-Stachus kann nicht bedient werden. </ul>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 16, 18, 27 und 28 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "f1ba8301-4de4-4770-ba80-bd24e96a3425",
     "incidentDuration": [
       {
         "fromDate": "2024-05-01T07:17:00Z",
-        "toDate": "2024-05-01T11:00:00Z"
+        "toDate": "2024-05-01T08:51:48Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "2",
-        "id": "16",
-        "name": "16",
-        "stations": [
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:78",
-            "name": "Tivolistraße"
-          },
-          {
-            "id": "de:09162:79",
-            "name": "Paradiesstraße"
-          },
-          {
-            "id": "de:09162:81",
-            "name": "Nationalmuseum/Haus der Kunst"
-          },
-          {
-            "id": "de:09162:590",
-            "name": "Lehel"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:84",
-            "name": "Mariannenplatz"
-          },
-          {
-            "id": "de:09162:3",
-            "name": "Isartor"
-          },
-          {
-            "id": "de:09162:68",
-            "name": "Reichenbachplatz"
-          },
-          {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
         "direction": "1",
         "id": "16",
         "name": "16",
@@ -392,44 +328,52 @@
       },
       {
         "direction": "2",
-        "id": "18",
-        "name": "18",
+        "id": "16",
+        "name": "16",
         "stations": [
           {
-            "id": "de:09162:1109",
-            "name": "Schwanseestraße"
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
           },
           {
-            "id": "de:09162:1108",
-            "name": "Chiemgaustraße"
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
           },
           {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
           },
           {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
           },
           {
-            "id": "de:09162:1106",
-            "name": "St.-Martins-Platz"
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
           },
           {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
           },
           {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
+            "id": "de:09162:590",
+            "name": "Lehel"
           },
           {
-            "id": "de:09162:41",
-            "name": "Eduard-Schmid-Straße"
+            "id": "de:09162:19",
+            "name": "Maxmonument"
           },
           {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
           },
           {
             "id": "de:09162:38",
@@ -442,54 +386,6 @@
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1216",
-            "name": "Siglstraße"
-          },
-          {
-            "id": "de:09162:1214",
-            "name": "Hans-Thonauer-Straße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -594,6 +490,110 @@
           {
             "id": "de:09162:1109",
             "name": "Schwanseestraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
           }
         ],
         "typeOfTransport": "TRAM"
@@ -727,62 +727,6 @@
         "typeOfTransport": "TRAM"
       },
       {
-        "direction": "1",
-        "id": "28",
-        "name": "28",
-        "stations": [
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:421",
-            "name": "Karl-Theodor-Straße"
-          },
-          {
-            "id": "de:09162:422",
-            "name": "Clemensstraße"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
         "direction": "2",
         "id": "28",
         "name": "28",
@@ -834,15 +778,71 @@
           {
             "id": "de:09162:400",
             "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "28",
+        "name": "28",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           }
         ],
         "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-01T07:52:04Z",
-    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16, 18, 27 und 28 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li> Die Linie 16 wird in beiden Richtungen zwischen Maxmonument und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Kammerspiele, Marienplatz (Theatinerstraße), Lenbachplatz, Karlsplatz (Stachus). Die Haltestellen Sendlinger Tor, Müllerstraße, Reichenbachplatz, Isartor und Mariannenplatz können leider nicht bedient werden. </li> <li> Die Linie 18 wird in beiden Richtungen zwischen Ostfriedhof und Karlsplatz (Stachus) umgeleitet. Die Umleitung verläuft über die Haltestellen Regerplatz, Max-Weber-Platz, Maximilianeum, Maxmonument, Marienplatz (Theatinerstraße), Lenbachplatz, Karlsplatz (Stachus). Die Haltestellen Sendlinger Tor, Müllerstraße, Fraunhoferstraße, Eduard-Schmid-Straße und Mariahilfplatz können leider nicht bedient werden. </li> <li>Die Linie 28 wird in beiden Richtungen zwischen Karlsplatz (Stachus) und Sendlinger Tor umgeleitet. Die Umleitung verläuft über die Haltestelle Hauptbahnhof. Die Haltestelle Sendlinger Tor kann leider nicht bedient werden. </li> <li>Linie 27 Umleitung ab Ottostrasse über Prielmayrstrasse - Hauptbahnhof - Ottostrasse,(H) Karlsplatz-Stachus kann nicht bedient werden. </ul>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "title": "Beeinträchtigungen im Stadtzentrum wegen einer Demonstration",
+    "modificationDate": "2024-05-01T08:51:48Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien 16, 18, 27 und 28 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -1347,7 +1347,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-01T07:23:51Z",
+    "modificationDate": "2024-05-01T08:51:29Z",
     "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 52 und 62 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 52 fährt nur im Abschnitt Gärtnerplatztheater <> Tierpark (Alemannenstraße). <li>Die Haltestellen Sendlinger Tor, St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt und Blumenstraße können leider nicht bedient werden.</li></li> <li> Die Linie 62 wird in beiden Richtungen zwischen Lagerhausstraße und Kapuzinerplatz/Arbeitsagentur umgeleitet. Die Haltestellen Ehrengutstraße, Zenettistraße, Kapuzinerstraße, Sendlinger Tor, St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt, Blumenstraße, Gärtnerplatztheater und Baaderstraße können leider nicht bedient werden. Die Umleitung verläuft über die Erhardstraße. </li></ul>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Beeinträchtigungen im Stadtzentrum wegen einer Demonstration",
     "type": "DISRUPTION"
@@ -1355,15 +1355,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-01T08:17:00Z",
-      "toDate": "2024-05-01T11:00:00Z"
+      "toDate": "2024-05-01T09:01:40Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Demonstration im Bereich Hauptbahnhof kommt es auf den Linien 58 und 68 derzeit zu Beeinträchtigungen im Stadtzentrum. <br>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 58 und 68 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "ef25967c-0ac3-40b3-8d56-89f1d324a3b9",
     "incidentDuration": [
       {
         "fromDate": "2024-05-01T08:17:00Z",
-        "toDate": "2024-05-01T11:00:00Z"
+        "toDate": "2024-05-01T08:51:40Z"
       }
     ],
     "incidents": [],
@@ -1702,9 +1702,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-01T08:32:08Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Demonstration im Bereich Hauptbahnhof kommt es auf den Linien 58 und 68 derzeit zu Beeinträchtigungen im Stadtzentrum. <br>Die Behinderungen werden noch voraussichtlich bis 13:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Beeinträchtigungen im Stadtzentrum wegen einer Demonstration",
+    "modificationDate": "2024-05-01T08:51:40Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien 58 und 68 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {

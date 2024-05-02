@@ -7253,6 +7253,347 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-03-24T23:01:00Z",
+      "toDate": "2024-05-06T07:00:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "4b6f6b29-b814-4116-8744-da5022e08e56_-532015187",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Br&uuml;ckenbauarbeiten in der Thalkirchner Stra&szlig;e wird die Buslinie 62 von Montag, 8. April bis vsl. Montag, 6. Mai 2024 ca. 09:00 Uhr zwischen Tumblingerstra&szlig;e und Zenettistra&szlig;e umgeleitet. Die (H) Lagerhausstra&szlig;e und Ehrengutstra&szlig;e entfallen, die (H) Zenettistra&szlig;e ist auf die Nordseite der Einm&uuml;ndung Thalkirchner Stra&szlig;e / Zenettistra&szlig;e verlegt.</div>\r\n",
+    "id": "4b6f6b29-b814-4116-8744-da5022e08e56",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-04-07T22:01:00Z",
+        "toDate": "2024-05-06T07:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-03-25T06:06:49Z",
+    "text": "<div>Wegen Br&uuml;ckenbauarbeiten in der Thalkirchner Stra&szlig;e wird die Buslinie 62 von Montag, 8. April bis vsl. Montag, 6. Mai 2024 ca. 09:00 Uhr zwischen Tumblingerstra&szlig;e und Zenettistra&szlig;e umgeleitet. Die (H) Lagerhausstra&szlig;e und Ehrengutstra&szlig;e entfallen, die (H) Zenettistra&szlig;e ist auf die Nordseite der Einm&uuml;ndung Thalkirchner Stra&szlig;e / Zenettistra&szlig;e verlegt.</div>\r\n",
+    "title": "Tumblingerstraße <> Zenettistraße: Umleitung wegen Brückenbauarbeiten in der Thalkirchner Straße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-27T22:01:00Z",
       "toDate": "2024-05-12T14:00:00Z"
     },
@@ -7594,347 +7935,6 @@
     "modificationDate": "2024-05-02T05:56:18Z",
     "text": "<div>Wegen einer Veranstaltung in der Innenstadt (Bellevue Di Monaco) wird die Buslinie 62 am Sonntag, 12. Mai 2024 von ca. 05:00 bis 16:00 Uhr umgeleitet.</div>\n<ul>\n<li>Von <strong>ca. 05:00 bis 10:15 Uhr sowie von ca. 12:45 bis 16:00 Uhr</strong> werden die Busse zwischen Sendlinger Tor und G&auml;rtnerplatztheater umgeleitet. Die (H) St.-Jakobs-Platz, Marienplatz (Rindermarkt) Viktualienmarkt und Blumenstra&szlig;e entfallen.</li>\n<li>Von <strong>ca. 10:15 bis 12:45 Uhr</strong> werden die Busse zwischen Kapuzinerstra&szlig;e und Schweigerstra&szlig;e umgeleitet. Die (H) Kapuzinerstra&szlig;e (Richtung Ostbahnhof) sowie die (H) Waltherstra&szlig;e, Maistra&szlig;e, Stephansplatz, Sendlinger Tor, St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt, Blumenstra&szlig;e, G&auml;rtnerplatz und Baaderstra&szlig;e entfallen. Auf der Umleitungsstrecke wird die (H) Fraunhoferstra&szlig;e der Buslinie 132 bedient.</li>\n</ul>\r\n",
     "title": "Umleitung wegen einer Veranstaltung in der Innenstadt",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-03-24T23:01:00Z",
-      "toDate": "2024-05-06T07:00:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "4b6f6b29-b814-4116-8744-da5022e08e56_-532015187",
-        "mimeType": "image/jpeg",
-        "name": "Umleitungskarte"
-      }
-    ],
-    "htmlText": "<div>Wegen Br&uuml;ckenbauarbeiten in der Thalkirchner Stra&szlig;e wird die Buslinie 62 von Montag, 8. April bis vsl. Montag, 6. Mai 2024 ca. 09:00 Uhr zwischen Tumblingerstra&szlig;e und Zenettistra&szlig;e umgeleitet. Die (H) Lagerhausstra&szlig;e und Ehrengutstra&szlig;e entfallen, die (H) Zenettistra&szlig;e ist auf die Nordseite der Einm&uuml;ndung Thalkirchner Stra&szlig;e / Zenettistra&szlig;e verlegt.</div>\r\n",
-    "id": "4b6f6b29-b814-4116-8744-da5022e08e56",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-07T22:01:00Z",
-        "toDate": "2024-05-06T07:00:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "62",
-        "name": "62",
-        "stations": [
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          },
-          {
-            "id": "de:09162:207",
-            "name": "Winthirplatz"
-          },
-          {
-            "id": "de:09162:209",
-            "name": "Dankwartstraße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:983",
-            "name": "Wilhelm-Hale-Straße"
-          },
-          {
-            "id": "de:09162:31",
-            "name": "Hirschgarten Bf."
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1201",
-            "name": "Hauzenberger Straße"
-          },
-          {
-            "id": "de:09162:1205",
-            "name": "Elsenheimerstraße"
-          },
-          {
-            "id": "de:09162:82",
-            "name": "Astallerstraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:101",
-            "name": "Hans-Fischer-Straße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:83",
-            "name": "Tumblingerstraße"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:146",
-            "name": "Ehrengutstraße"
-          },
-          {
-            "id": "de:09162:144",
-            "name": "Zenettistraße"
-          },
-          {
-            "id": "de:09162:59",
-            "name": "Kapuzinerstraße"
-          },
-          {
-            "id": "de:09162:58",
-            "name": "Kapuzinerplatz/Arbeitsagentur"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:111",
-            "name": "Regerplatz"
-          },
-          {
-            "id": "de:09162:138",
-            "name": "Schwester-Eubulina-Platz"
-          },
-          {
-            "id": "de:09162:139",
-            "name": "Auerfeldstraße"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "62",
-        "name": "62",
-        "stations": [
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:139",
-            "name": "Auerfeldstraße"
-          },
-          {
-            "id": "de:09162:138",
-            "name": "Schwester-Eubulina-Platz"
-          },
-          {
-            "id": "de:09162:111",
-            "name": "Regerplatz"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:142",
-            "name": "Maistraße"
-          },
-          {
-            "id": "de:09162:143",
-            "name": "Waltherstraße"
-          },
-          {
-            "id": "de:09162:59",
-            "name": "Kapuzinerstraße"
-          },
-          {
-            "id": "de:09162:144",
-            "name": "Zenettistraße"
-          },
-          {
-            "id": "de:09162:146",
-            "name": "Ehrengutstraße"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:83",
-            "name": "Tumblingerstraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:101",
-            "name": "Hans-Fischer-Straße"
-          },
-          {
-            "id": "de:09162:1102",
-            "name": "Herzog-Ernst-Platz"
-          },
-          {
-            "id": "de:09162:1232",
-            "name": "Baumgartnerstraße"
-          },
-          {
-            "id": "de:09162:1218",
-            "name": "Hansapark"
-          },
-          {
-            "id": "de:09162:1217",
-            "name": "Hansastraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:82",
-            "name": "Astallerstraße"
-          },
-          {
-            "id": "de:09162:1205",
-            "name": "Elsenheimerstraße"
-          },
-          {
-            "id": "de:09162:1201",
-            "name": "Hauzenberger Straße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:31",
-            "name": "Hirschgarten Bf."
-          },
-          {
-            "id": "de:09162:983",
-            "name": "Wilhelm-Hale-Straße"
-          },
-          {
-            "id": "de:09162:216",
-            "name": "Steubenplatz"
-          },
-          {
-            "id": "de:09162:209",
-            "name": "Dankwartstraße"
-          },
-          {
-            "id": "de:09162:207",
-            "name": "Winthirplatz"
-          },
-          {
-            "id": "de:09162:190",
-            "name": "Rotkreuzplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-03-25T06:06:49Z",
-    "text": "<div>Wegen Br&uuml;ckenbauarbeiten in der Thalkirchner Stra&szlig;e wird die Buslinie 62 von Montag, 8. April bis vsl. Montag, 6. Mai 2024 ca. 09:00 Uhr zwischen Tumblingerstra&szlig;e und Zenettistra&szlig;e umgeleitet. Die (H) Lagerhausstra&szlig;e und Ehrengutstra&szlig;e entfallen, die (H) Zenettistra&szlig;e ist auf die Nordseite der Einm&uuml;ndung Thalkirchner Stra&szlig;e / Zenettistra&szlig;e verlegt.</div>\r\n",
-    "title": "Tumblingerstraße <> Zenettistraße: Umleitung wegen Brückenbauarbeiten in der Thalkirchner Straße",
     "type": "PLANNED"
   },
   {
@@ -14115,6 +14115,559 @@
     "modificationDate": "2024-04-11T04:58:55Z",
     "text": "<div>Wegen Gasleitungsarbeiten ist die (H) Infanteriestra&szlig;e S&uuml;d der Buslinie 153 &gt; Universit&auml;t - Odeonsplatz von Montag, 26. Februar bis vsl. Freitag, 31. Mai 2024 an die Einm&uuml;ndung Loth-/Schellingstra&szlig;e (vor Schellingstra&szlig;e 163) verlegt.</div>\r\n",
     "title": "Haltestelle Infanteriestraße Süd wegen Gasleitungsarbeiten verlegt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-04-29T22:01:00Z",
+      "toDate": "2024-06-03T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "d45250ef-d8bc-434b-a051-d2ba85cacebe_-2071427380",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten wird die Buslinie 157 von Dienstag, 21. Mai bis vsl. Montag, 3. Juni 2024 zwischen Germering M&uuml;nchner Stra&szlig;e und Germering Industriestra&szlig;e umgeleitet. Die (H) Germering GEP kann nicht bedient werden.</div>\r\n",
+    "id": "d45250ef-d8bc-434b-a051-d2ba85cacebe",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-20T22:01:00Z",
+        "toDate": "2024-06-03T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6448",
+            "name": "Germering, Kerschenst. Schule"
+          },
+          {
+            "id": "de:09179:6450",
+            "name": "Germering, Theodor-Heuss-Straße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6401",
+            "name": "Germering, Bf. West"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "157",
+        "name": "157",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1701",
+            "name": "Betschartstraße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1749",
+            "name": "Tettnanger Straße"
+          },
+          {
+            "id": "de:09162:1747",
+            "name": "Hellensteinstraße"
+          },
+          {
+            "id": "de:09162:1745",
+            "name": "Englburgstraße"
+          },
+          {
+            "id": "de:09162:1743",
+            "name": "Staufener Straße"
+          },
+          {
+            "id": "de:09162:1741",
+            "name": "Ilse-Fehling-Straße"
+          },
+          {
+            "id": "de:09162:1739",
+            "name": "Joseph-Suder-Bogen"
+          },
+          {
+            "id": "de:09162:1735",
+            "name": "Elisabeth-Jost-Straße"
+          },
+          {
+            "id": "de:09162:1705",
+            "name": "Aubing-Ost-Straße"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1733",
+            "name": "Germeringer Weg"
+          },
+          {
+            "id": "de:09162:1711",
+            "name": "Ubostraße"
+          },
+          {
+            "id": "de:09162:1710",
+            "name": "Aubing Bf."
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1760",
+            "name": "Freiham Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09179:6497",
+            "name": "Germering, Wotanstraße"
+          },
+          {
+            "id": "de:09179:6455",
+            "name": "Germering, Königsberger Straße"
+          },
+          {
+            "id": "de:09179:6111",
+            "name": "Germering, Münchener Straße"
+          },
+          {
+            "id": "de:09179:6606",
+            "name": "Germering, GEP"
+          },
+          {
+            "id": "de:09179:6235",
+            "name": "Germering, Industriestraße"
+          },
+          {
+            "id": "de:09179:5992",
+            "name": "Germering, Industriestraße (Spange)"
+          },
+          {
+            "id": "de:09179:6457",
+            "name": "Germering, Oskar-von-Miller-Str."
+          },
+          {
+            "id": "de:09179:6499",
+            "name": "Germering, Stadthalle"
+          },
+          {
+            "id": "de:09179:6250",
+            "name": "Germering-Unterpfaffenhofen"
+          },
+          {
+            "id": "de:09179:6468",
+            "name": "Germering, Salzstraße"
+          },
+          {
+            "id": "de:09179:6462",
+            "name": "Germering, Masurenweg"
+          },
+          {
+            "id": "de:09179:6454",
+            "name": "Germering, Ringstraße"
+          },
+          {
+            "id": "de:09179:6452",
+            "name": "Germering, Kurt-Schumacher-Straße"
+          },
+          {
+            "id": "de:09179:6471",
+            "name": "Germering, Kerschenst. Schule Ost"
+          },
+          {
+            "id": "de:09179:6456",
+            "name": "Germering, Montessoristraße"
+          },
+          {
+            "id": "de:09179:6458",
+            "name": "Germering, An der Markung"
+          },
+          {
+            "id": "de:09179:6479",
+            "name": "Germering, Riegerstraße"
+          },
+          {
+            "id": "de:09179:6478",
+            "name": "Neue Gautinger Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-02T06:05:31Z",
+    "text": "<div>Wegen Stra&szlig;enbauarbeiten wird die Buslinie 157 von Dienstag, 21. Mai bis vsl. Montag, 3. Juni 2024 zwischen Germering M&uuml;nchner Stra&szlig;e und Germering Industriestra&szlig;e umgeleitet. Die (H) Germering GEP kann nicht bedient werden.</div>\r\n",
+    "title": "Germering Münchner Straße <> Germering Industriestraße: Umleitung wegen Straßenbauarbeiten",
     "type": "PLANNED"
   },
   {

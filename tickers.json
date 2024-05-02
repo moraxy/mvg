@@ -248,6 +248,237 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-02T13:50:00Z",
+      "toDate": "2024-05-02T16:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Hermann-Lingg-Straße kommt es auf der Linie 18 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "414b7f4c-ba93-4e13-97c5-08191dd46f6e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-02T13:50:00Z",
+        "toDate": "2024-05-02T16:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "18",
+        "name": "18",
+        "stations": [
+          {
+            "id": "de:09162:1109",
+            "name": "Schwanseestraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1106",
+            "name": "St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:1105",
+            "name": "Ostfriedhof"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:41",
+            "name": "Eduard-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:5000",
+            "name": "Hauptbahnhof Süd"
+          },
+          {
+            "id": "de:09162:90",
+            "name": "Holzkirchner Bahnhof"
+          },
+          {
+            "id": "de:09162:55",
+            "name": "Hermann-Lingg-Straße"
+          },
+          {
+            "id": "de:09162:67",
+            "name": "Holzapfelstraße"
+          },
+          {
+            "id": "de:09162:66",
+            "name": "Schrenkstraße"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:64",
+            "name": "Barthstraße"
+          },
+          {
+            "id": "de:09162:1206",
+            "name": "Am Lokschuppen"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-02T15:06:23Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Hermann-Lingg-Straße kommt es auf der Linie 18 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-02T06:48:00Z",
       "toDate": "2024-05-02T17:00:00Z"
     },
@@ -1855,7 +2086,7 @@
       "toDate": "2024-05-02T16:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Straßensperrung im Bereich Luise-Kiesselbach-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <ul style='list-style: disc;'>Aufgrund der momentanen Sperrung des Luise-Kiesselbach-Tunnels kommt es in diesem Bereich zu erheblichen Beeintr&auml;chtigungen im Linienverkehr Bus +++</ul>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Luise-Kiesselbach-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br/>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "238a1129-8b76-4846-a554-0f7e8c8cf4d5",
     "incidentDuration": [
       {
@@ -2519,9 +2750,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-02T14:37:28Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Straßensperrung im Bereich Luise-Kiesselbach-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <ul style='list-style: disc;'>Aufgrund der momentanen Sperrung des Luise-Kiesselbach-Tunnels kommt es in diesem Bereich zu erheblichen Beeintr&auml;chtigungen im Linienverkehr Bus +++</ul>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen einer Straßensperrung",
+    "modificationDate": "2024-05-02T15:04:53Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Luise-Kiesselbach-Platz kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. <br/>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {

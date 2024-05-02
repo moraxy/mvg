@@ -252,7 +252,7 @@
       "toDate": "2024-05-02T15:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 53, 54, 62 und 63 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 53, 54 und 62 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "89410f51-55a8-49c2-a9e7-4ee917cb83a6",
     "incidentDuration": [
       {
@@ -1237,7 +1237,30 @@
           }
         ],
         "typeOfTransport": "BUS"
-      },
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-02T13:32:57Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 53, 54 und 62 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen starken Verkehrsaufkommens",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-02T13:31:00Z",
+      "toDate": "2024-05-02T14:31:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Straßensperrung kommt es auf der Linie 63 derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 16:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "238a1129-8b76-4846-a554-0f7e8c8cf4d5",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-02T13:31:00Z",
+        "toDate": "2024-05-02T14:31:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
       {
         "direction": "1",
         "id": "63",
@@ -1528,9 +1551,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-02T13:05:43Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 53, 54, 62 und 63 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen starken Verkehrsaufkommens",
+    "modificationDate": "2024-05-02T13:32:50Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Straßensperrung kommt es auf der Linie 63 derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 16:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Erhebliche Behinderungen wegen einer Straßensperrung",
     "type": "DISRUPTION"
   },
   {

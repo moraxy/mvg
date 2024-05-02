@@ -16192,6 +16192,186 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-29T22:01:00Z",
+      "toDate": "2024-05-25T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "f818e688-0c38-4f93-90c0-eba3b5841feb_-531253429",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen einer Schachtsanierung in der Feldmochinger Stra&szlig;e werden die Buslinien 175 und N71 von Dienstag, 21. Mai bis vsl. Samstag, 25. Mai 2024 zwischen Olympia-Einkaufszentrum und Fasanerie Bf. umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Olympia-Einkaufszentrum ist in Richtung Ludwigsfeld Campingplatz / Karlsfeld Gartenstra&szlig;e zum Haltepunkt 1 (vor Decathlon) in der Hanauer Stra&szlig;e verlegt. Die (H) Fasanerie Bf. ist in dieser Fahrtrichtung an die Einm&uuml;ndung Himmelschl&uuml;sselstra&szlig;e / Niederalteicher Stra&szlig;e verlegt.</div>\n<div>&nbsp;</div>\n<div>Die (H) Claudiusplatz, Bingener Stra&szlig;e und Merseburger Stra&szlig;e werden in diesem Zeitraum vom Expressbus X36 bedient.</div>\r\n",
+    "id": "f818e688-0c38-4f93-90c0-eba3b5841feb",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-20T22:01:00Z",
+        "toDate": "2024-05-25T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:314",
+            "name": "Riesstraße"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "71",
+        "name": "N71",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-02T06:14:20Z",
+    "text": "<div>Wegen einer Schachtsanierung in der Feldmochinger Stra&szlig;e werden die Buslinien 175 und N71 von Dienstag, 21. Mai bis vsl. Samstag, 25. Mai 2024 zwischen Olympia-Einkaufszentrum und Fasanerie Bf. umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) Olympia-Einkaufszentrum ist in Richtung Ludwigsfeld Campingplatz / Karlsfeld Gartenstra&szlig;e zum Haltepunkt 1 (vor Decathlon) in der Hanauer Stra&szlig;e verlegt. Die (H) Fasanerie Bf. ist in dieser Fahrtrichtung an die Einm&uuml;ndung Himmelschl&uuml;sselstra&szlig;e / Niederalteicher Stra&szlig;e verlegt.</div>\n<div>&nbsp;</div>\n<div>Die (H) Claudiusplatz, Bingener Stra&szlig;e und Merseburger Stra&szlig;e werden in diesem Zeitraum vom Expressbus X36 bedient.</div>\r\n",
+    "title": "Olympia-Einkaufszentrum <> Fasanerie Bf.: Umleitung wegen Schachtsanierung in der Feldmochinger Straße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-07T22:00:00Z",
       "toDate": "2024-05-17T08:00:00Z"
     },

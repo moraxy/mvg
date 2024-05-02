@@ -16324,6 +16324,127 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-04-29T22:01:00Z",
+      "toDate": null
+    },
+    "downloadLinks": [
+      {
+        "id": "015ea5b8-6181-456d-a8d0-9ac2796e12cd_-538418184",
+        "mimeType": "image/jpeg",
+        "name": "Übersichtskarte"
+      }
+    ],
+    "htmlText": "<div>Ab Dienstag, 21. Mai 2024 wird die (H) Helene-Wessel-Bogen von der Buslinie 178 &gt; Kieferngarten - Freimanner H&ouml;lzl nicht mehr bedient. Zwischen Margot-Kalinke-Stra&szlig;e und Freimanner H&ouml;lzl &auml;ndern sich dadurch die Abfahrtszeiten um wenige Minuten. Bitte achten Sie in diesem Abschnitt auf die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
+    "id": "015ea5b8-6181-456d-a8d0-9ac2796e12cd",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-20T22:01:00Z",
+        "toDate": null
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "178",
+        "name": "178",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:335",
+            "name": "Schopenhauerstraße"
+          },
+          {
+            "id": "de:09162:336",
+            "name": "Lüneburger Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:757",
+            "name": "Oberhofer Weg"
+          },
+          {
+            "id": "de:09162:762",
+            "name": "Hufelandstraße"
+          },
+          {
+            "id": "de:09162:758",
+            "name": "Anton-Ditt-Bogen"
+          },
+          {
+            "id": "de:09162:767",
+            "name": "Lotte-Branz-Straße"
+          },
+          {
+            "id": "de:09162:771",
+            "name": "Helene-Wessel-Bogen"
+          },
+          {
+            "id": "de:09162:768",
+            "name": "Margot-Kalinke-Straße"
+          },
+          {
+            "id": "de:09162:769",
+            "name": "Maria-Probst-Straße"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:464",
+            "name": "Edmund-Rumpler-Straße"
+          },
+          {
+            "id": "de:09162:463",
+            "name": "Alois-Wolfmüller-Straße"
+          },
+          {
+            "id": "de:09162:466",
+            "name": "Freimanner Hölzl"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-02T06:09:00Z",
+    "text": "<div>Ab Dienstag, 21. Mai 2024 wird die (H) Helene-Wessel-Bogen von der Buslinie 178 &gt; Kieferngarten - Freimanner H&ouml;lzl nicht mehr bedient. Zwischen Margot-Kalinke-Stra&szlig;e und Freimanner H&ouml;lzl &auml;ndern sich dadurch die Abfahrtszeiten um wenige Minuten. Bitte achten Sie in diesem Abschnitt auf die ge&auml;nderten Aushangfahrpl&auml;ne an Ihrer Haltestelle.</div>\r\n",
+    "title": "Haltestelle Helene-Wessel-Bogen dauerhaft aufgehoben",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-02-22T23:01:00Z",
       "toDate": "2024-10-25T21:59:00Z"
     },

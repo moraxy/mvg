@@ -451,6 +451,113 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-02T05:38:00Z",
+      "toDate": "2024-05-02T06:38:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Rettungseinsatzes im Bereich Bruno-Walter-Ring kommt es auf der Linie 184 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 184 fährt nur im Abschnitt Freischützstraße <> Arabellapark. <li>Die Haltestellen Bruno-Walter-Ring und Knappertsbuschstraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "c896d753-635b-471d-a0a2-55340a6c5fc9",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-02T05:38:00Z",
+        "toDate": "2024-05-02T06:38:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "184",
+        "name": "184",
+        "stations": [
+          {
+            "id": "de:09162:636",
+            "name": "Bruno-Walter-Ring"
+          },
+          {
+            "id": "de:09162:635",
+            "name": "Knappertsbuschstraße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "184",
+        "name": "184",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:635",
+            "name": "Knappertsbuschstraße"
+          },
+          {
+            "id": "de:09162:636",
+            "name": "Bruno-Walter-Ring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-02T05:42:50Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Rettungseinsatzes im Bereich Bruno-Walter-Ring kommt es auf der Linie 184 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 184 fährt nur im Abschnitt Freischützstraße <> Arabellapark. <li>Die Haltestellen Bruno-Walter-Ring und Knappertsbuschstraße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Rettungseinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

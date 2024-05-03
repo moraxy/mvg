@@ -249,19 +249,75 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-03T03:51:00Z",
-      "toDate": "2024-05-03T06:40:00Z"
+      "toDate": "2024-05-03T16:51:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 164 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 161 und 164 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "feaa0bb0-a611-47f9-b214-1db08cb42c95",
     "incidentDuration": [
       {
         "fromDate": "2024-05-03T03:51:00Z",
-        "toDate": "2024-05-03T06:40:00Z"
+        "toDate": "2024-05-03T16:51:00Z"
       }
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "161",
+        "name": "161",
+        "stations": [
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1858",
+            "name": "Erna-Eckstein-Straße"
+          },
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "161",
+        "name": "161",
+        "stations": [
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1849",
+            "name": "Josef-Lang-Straße"
+          },
+          {
+            "id": "de:09162:1841",
+            "name": "Nusselstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "2",
         "id": "164",
@@ -516,9 +572,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-03T03:52:04Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Fahrzeugausfällen kommt es auf der Linie 164 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen Fahrzeugausfällen",
+    "modificationDate": "2024-05-03T05:13:08Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 161 und 164 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

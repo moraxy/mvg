@@ -15678,6 +15678,327 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-01T08:00:00Z",
+      "toDate": "2024-06-11T22:01:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "0ac88a91-fac6-416a-9550-7bda0de35807_729596894",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Wasserleitungsarbeiten in der Kristallstra&szlig;e wird die Buslinie 172 &gt; Dachau Bf. von Mittwoch, 29. Mai ca. 10:00 Uhr bis vsl. Mittwoch, 12. Juni 2024 zwischen Siedlung Ludwigsfeld und Karlsfelder Stra&szlig;e via MAN Siedlung umgeleitet. Die (H) Opalstra&szlig;e und Kristallstra&szlig;e entfallen, die (H) Karlsfelder Stra&szlig;e ist zur Haltestelle der Nachtlinie N71 &gt; Karlsfeld vor dem MAN Truck-Forum verlegt.</div>\r\n",
+    "id": "0ac88a91-fac6-416a-9550-7bda0de35807",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-29T08:00:00Z",
+        "toDate": "2024-06-11T22:01:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "172",
+        "name": "172",
+        "stations": [
+          {
+            "id": "de:09174:6800",
+            "name": "Dachau Bf."
+          },
+          {
+            "id": "de:09174:6874",
+            "name": "Dachau, Frühlingstraße"
+          },
+          {
+            "id": "de:09174:7052",
+            "name": "Dachau, I.-Taschner-Gymnasium"
+          },
+          {
+            "id": "de:09174:7066",
+            "name": "Dachau, St.-Peter-Straße"
+          },
+          {
+            "id": "de:09174:7085",
+            "name": "Dachau, Schulzentrum"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:7002",
+            "name": "Karlsfeld, Münchner Straße"
+          },
+          {
+            "id": "de:09174:6956",
+            "name": "Karlsfeld, Krenmoosstraße"
+          },
+          {
+            "id": "de:09174:7061",
+            "name": "Karlsfeld, Mü. Str./Würmkanal"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1969",
+            "name": "Siedlung Ludwigsfeld"
+          },
+          {
+            "id": "de:09162:1978",
+            "name": "Kaiserhölzlstraße"
+          },
+          {
+            "id": "de:09162:1973",
+            "name": "Feldmochinger See"
+          },
+          {
+            "id": "de:09162:1979",
+            "name": "Schwarzhölzlstraße"
+          },
+          {
+            "id": "de:09162:1981",
+            "name": "Grashofstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:346",
+            "name": "Paidarstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:755",
+            "name": "BMW-FIZ"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-03T09:05:31Z",
+    "text": "<div>Wegen Wasserleitungsarbeiten in der Kristallstra&szlig;e wird die Buslinie 172 &gt; Dachau Bf. von Mittwoch, 29. Mai ca. 10:00 Uhr bis vsl. Mittwoch, 12. Juni 2024 zwischen Siedlung Ludwigsfeld und Karlsfelder Stra&szlig;e via MAN Siedlung umgeleitet. Die (H) Opalstra&szlig;e und Kristallstra&szlig;e entfallen, die (H) Karlsfelder Stra&szlig;e ist zur Haltestelle der Nachtlinie N71 &gt; Karlsfeld vor dem MAN Truck-Forum verlegt.</div>\r\n",
+    "title": "Siedlung Ludwigsfeld > Karlsfelder Straße: Umleitung wegen Wasserleitungsarbeiten in der Kristallstraße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-29T22:01:00Z",
       "toDate": "2024-05-25T21:59:00Z"
     },

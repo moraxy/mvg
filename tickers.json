@@ -248,6 +248,1113 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-04T06:05:00Z",
+      "toDate": "2024-05-04T18:42:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 54, 191, 192, 193, 197 Außenring und 197 Innenring derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "f239f1e6-70ad-479c-b242-f67f3b153a50",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-04T06:05:00Z",
+        "toDate": "2024-05-04T18:42:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "54",
+        "name": "54",
+        "stations": [
+          {
+            "id": "de:09162:1404",
+            "name": "Lorettoplatz"
+          },
+          {
+            "id": "de:09162:1402",
+            "name": "Aurikelstraße"
+          },
+          {
+            "id": "de:09162:1502",
+            "name": "Kornwegerstraße"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1309",
+            "name": "Werdenfelsstraße"
+          },
+          {
+            "id": "de:09162:1308",
+            "name": "Ettalstraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1306",
+            "name": "Fernpaßstraße"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1305",
+            "name": "Drachenseestraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1149",
+            "name": "Heckenstallerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1107",
+            "name": "Werinherstraße"
+          },
+          {
+            "id": "de:09162:1044",
+            "name": "Ungsteiner Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:133",
+            "name": "Galileiplatz"
+          },
+          {
+            "id": "de:09162:134",
+            "name": "Wehrlestraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:137",
+            "name": "Am Tucherpark"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "191",
+        "name": "191",
+        "stations": [
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          },
+          {
+            "id": "de:09162:657",
+            "name": "Ruth-Schaumann-Straße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "191",
+        "name": "191",
+        "stations": [
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:656",
+            "name": "Rappelhofstraße"
+          },
+          {
+            "id": "de:09162:648",
+            "name": "Zamilapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "193",
+        "name": "193",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:993",
+            "name": "Wasserburger Landstraße"
+          },
+          {
+            "id": "de:09162:994",
+            "name": "Kulturzentrum Trudering"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:939",
+            "name": "Drosselweg"
+          },
+          {
+            "id": "de:09162:930",
+            "name": "Bahnstraße"
+          },
+          {
+            "id": "de:09162:931",
+            "name": "Phantasiestraße"
+          },
+          {
+            "id": "de:09162:995",
+            "name": "Jagdhornstraße"
+          },
+          {
+            "id": "de:09162:932",
+            "name": "Von-Erckert-Straße"
+          },
+          {
+            "id": "de:09184:2170",
+            "name": "Haar, Hans-Stießberger-Straße"
+          },
+          {
+            "id": "de:09184:2168",
+            "name": "Haar, Ludwig-Moser-Straße"
+          },
+          {
+            "id": "de:09184:2194",
+            "name": "Haar, Wieselweg"
+          },
+          {
+            "id": "de:09184:2359",
+            "name": "Haar, Am Jagdfeldzentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "193",
+        "name": "193",
+        "stations": [
+          {
+            "id": "de:09184:2359",
+            "name": "Haar, Am Jagdfeldzentrum"
+          },
+          {
+            "id": "de:09184:2168",
+            "name": "Haar, Ludwig-Moser-Straße"
+          },
+          {
+            "id": "de:09184:2170",
+            "name": "Haar, Hans-Stießberger-Straße"
+          },
+          {
+            "id": "de:09162:932",
+            "name": "Von-Erckert-Straße"
+          },
+          {
+            "id": "de:09162:995",
+            "name": "Jagdhornstraße"
+          },
+          {
+            "id": "de:09162:931",
+            "name": "Phantasiestraße"
+          },
+          {
+            "id": "de:09162:930",
+            "name": "Bahnstraße"
+          },
+          {
+            "id": "de:09162:939",
+            "name": "Drosselweg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:994",
+            "name": "Kulturzentrum Trudering"
+          },
+          {
+            "id": "de:09162:993",
+            "name": "Wasserburger Landstraße"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:996",
+            "name": "Franz-Heubl-Straße"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:996",
+            "name": "Franz-Heubl-Straße"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "197",
+        "name": "197 Innenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-04T14:27:04Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 54, 191, 192, 193, 197 Außenring und 197 Innenring derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-04T13:41:00Z",
       "toDate": "2024-05-04T14:41:00Z"
     },
@@ -891,617 +1998,6 @@
     "modificationDate": "2024-05-04T13:43:27Z",
     "text": "Liebe Fahrgäste,<br>wegen einer Demonstration kommt es derzeit zwischen Siegestor und Universität zu Umleitungen auf den Linien 58, 68 und 154. <br>Die Behinderungen werden noch voraussichtlich bis 16:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Umleitung wegen einer Demonstration",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-04T06:05:00Z",
-      "toDate": "2024-05-04T18:42:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 191, 192, 197 Außenring und 197 Innenring derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
-    "id": "f239f1e6-70ad-479c-b242-f67f3b153a50",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-04T06:05:00Z",
-        "toDate": "2024-05-04T18:42:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "191",
-        "name": "191",
-        "stations": [
-          {
-            "id": "de:09162:648",
-            "name": "Zamilapark"
-          },
-          {
-            "id": "de:09162:657",
-            "name": "Ruth-Schaumann-Straße"
-          },
-          {
-            "id": "de:09162:656",
-            "name": "Rappelhofstraße"
-          },
-          {
-            "id": "de:09162:643",
-            "name": "Süskindstraße"
-          },
-          {
-            "id": "de:09162:642",
-            "name": "Zamdorf Siedlung"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:899",
-            "name": "Berg am Laim Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:893",
-            "name": "Baumkirchner Platz"
-          },
-          {
-            "id": "de:09162:897",
-            "name": "Neumarkter Straße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:894",
-            "name": "Altöttinger Straße"
-          },
-          {
-            "id": "de:09162:896",
-            "name": "Grafinger Straße"
-          },
-          {
-            "id": "de:09162:898",
-            "name": "St. Pius"
-          },
-          {
-            "id": "de:09162:890",
-            "name": "August-Everding-Straße"
-          },
-          {
-            "id": "de:09162:895",
-            "name": "Ostbahnhof Friedenstraße"
-          },
-          {
-            "id": "de:09162:1025",
-            "name": "St.-Martin-Straße Ost"
-          },
-          {
-            "id": "de:09162:895",
-            "name": "Ostbahnhof Friedenstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "191",
-        "name": "191",
-        "stations": [
-          {
-            "id": "de:09162:895",
-            "name": "Ostbahnhof Friedenstraße"
-          },
-          {
-            "id": "de:09162:890",
-            "name": "August-Everding-Straße"
-          },
-          {
-            "id": "de:09162:898",
-            "name": "St. Pius"
-          },
-          {
-            "id": "de:09162:896",
-            "name": "Grafinger Straße"
-          },
-          {
-            "id": "de:09162:894",
-            "name": "Altöttinger Straße"
-          },
-          {
-            "id": "de:09162:902",
-            "name": "Schlüsselbergstraße"
-          },
-          {
-            "id": "de:09162:897",
-            "name": "Neumarkter Straße"
-          },
-          {
-            "id": "de:09162:893",
-            "name": "Baumkirchner Platz"
-          },
-          {
-            "id": "de:09162:899",
-            "name": "Berg am Laim Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:640",
-            "name": "Zamdorfer Straße"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:642",
-            "name": "Zamdorf Siedlung"
-          },
-          {
-            "id": "de:09162:643",
-            "name": "Süskindstraße"
-          },
-          {
-            "id": "de:09162:656",
-            "name": "Rappelhofstraße"
-          },
-          {
-            "id": "de:09162:648",
-            "name": "Zamilapark"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "192",
-        "name": "192",
-        "stations": [
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
-          },
-          {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
-          },
-          {
-            "id": "de:09162:975",
-            "name": "Ottilienstraße"
-          },
-          {
-            "id": "de:09162:951",
-            "name": "Markgrafenstraße"
-          },
-          {
-            "id": "de:09162:952",
-            "name": "Vogesenstraße"
-          },
-          {
-            "id": "de:09162:954",
-            "name": "Am Hochacker"
-          },
-          {
-            "id": "de:09162:953",
-            "name": "Feldbergstraße"
-          },
-          {
-            "id": "de:09162:989",
-            "name": "Bergerwaldstraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "192",
-        "name": "192",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1009",
-            "name": "Corinthstraße"
-          },
-          {
-            "id": "de:09162:989",
-            "name": "Bergerwaldstraße"
-          },
-          {
-            "id": "de:09162:953",
-            "name": "Feldbergstraße"
-          },
-          {
-            "id": "de:09162:954",
-            "name": "Am Hochacker"
-          },
-          {
-            "id": "de:09162:952",
-            "name": "Vogesenstraße"
-          },
-          {
-            "id": "de:09162:951",
-            "name": "Markgrafenstraße"
-          },
-          {
-            "id": "de:09162:975",
-            "name": "Ottilienstraße"
-          },
-          {
-            "id": "de:09162:933",
-            "name": "Florastraße"
-          },
-          {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
-          },
-          {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
-          },
-          {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
-          },
-          {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "20197",
-        "name": "197 Außenring",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
-          },
-          {
-            "id": "de:09162:996",
-            "name": "Franz-Heubl-Straße"
-          },
-          {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
-          },
-          {
-            "id": "de:09162:915",
-            "name": "Friedrich-Engels-Bogen"
-          },
-          {
-            "id": "de:09162:914",
-            "name": "Peschelanger"
-          },
-          {
-            "id": "de:09162:1011",
-            "name": "Karl-Marx-Ring"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
-          },
-          {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
-          },
-          {
-            "id": "de:09162:1041",
-            "name": "Nawiaskystraße"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1034",
-            "name": "Schumacherring"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "20197",
-        "name": "197 Außenring",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1034",
-            "name": "Schumacherring"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1041",
-            "name": "Nawiaskystraße"
-          },
-          {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
-          },
-          {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1011",
-            "name": "Karl-Marx-Ring"
-          },
-          {
-            "id": "de:09162:914",
-            "name": "Peschelanger"
-          },
-          {
-            "id": "de:09162:915",
-            "name": "Friedrich-Engels-Bogen"
-          },
-          {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
-          },
-          {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "197",
-        "name": "197 Innenring",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1034",
-            "name": "Schumacherring"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1041",
-            "name": "Nawiaskystraße"
-          },
-          {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
-          },
-          {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1011",
-            "name": "Karl-Marx-Ring"
-          },
-          {
-            "id": "de:09162:914",
-            "name": "Peschelanger"
-          },
-          {
-            "id": "de:09162:915",
-            "name": "Friedrich-Engels-Bogen"
-          },
-          {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
-          },
-          {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "197",
-        "name": "197 Innenring",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
-          },
-          {
-            "id": "de:09162:996",
-            "name": "Franz-Heubl-Straße"
-          },
-          {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
-          },
-          {
-            "id": "de:09162:915",
-            "name": "Friedrich-Engels-Bogen"
-          },
-          {
-            "id": "de:09162:914",
-            "name": "Peschelanger"
-          },
-          {
-            "id": "de:09162:1011",
-            "name": "Karl-Marx-Ring"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
-          },
-          {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
-          },
-          {
-            "id": "de:09162:1041",
-            "name": "Nawiaskystraße"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1034",
-            "name": "Schumacherring"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-04T13:46:20Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 191, 192, 197 Außenring und 197 Innenring derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
-    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

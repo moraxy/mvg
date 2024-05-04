@@ -1,6 +1,149 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-04T09:29:00Z",
+      "toDate": "2024-05-04T10:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Arabellapark kommt es derzeit zu Verspätungen auf der Linie U4. <br>Die Behinderungen werden noch voraussichtlich bis 12:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "d0260525-3b28-404f-8e4a-30a11494b839",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-04T09:29:00Z",
+        "toDate": "2024-05-04T10:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "4",
+        "name": "U4",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:570",
+            "name": "Prinzregentenplatz"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-04T09:30:00Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Arabellapark kommt es derzeit zu Verspätungen auf der Linie U4. <br>Die Behinderungen werden noch voraussichtlich bis 12:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen einer Stellwerkstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-21T22:01:00Z",
       "toDate": "2024-06-13T21:59:00Z"
     },
@@ -249,15 +392,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-04T08:05:00Z",
-      "toDate": "2024-05-04T09:40:00Z"
+      "toDate": "2024-05-04T09:40:39Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Schrenkstraße kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Karlsplatz (Stachus). \t<li>Bitte weichen Sie unter anderem auf die Linien U5, S-Bahn, 51, 151 und 168 aus. </li>Abfahrt am Karlsplatz Richtung Schwanseestraße ist von Haltestelle 4. </li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Siglstraße und wird ab Siglstraße bis zur Haltestelle Willibaldplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Fürstenrieder Straße. </li></li><li>Die Linie 19 in Richtung Pasing Bf. fährt nur im Abschnitt Berg am Laim Bf. <> Lenbachplatz und wird ab Lenbachplatz bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestelle Karlsplatz (Stachus). </li>Die Haltestellen Hauptbahnhof und Karlsplatz werden nur in Richtung Berg am Laim angefahren. </li><li>Die Linie 19 in Richtung Berg am Laim Bf. fährt nur im Abschnitt Pasing Bf. <> Agnes-Bernauer-Straße und wird ab Agnes-Bernauer-Straße bis zur Haltestelle Westendstraße umgeleitet. </li>Bitte weichen Sie in Pasing auch auf die Linie 57 von/zum Laimer Platz (U5) aus! </li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 18 und 19 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "f5b4e5e4-78b3-4111-8b0a-fb7fb93be99d",
     "incidentDuration": [
       {
         "fromDate": "2024-05-04T08:05:00Z",
-        "toDate": "2024-05-04T09:40:00Z"
+        "toDate": "2024-05-04T09:30:39Z"
       }
     ],
     "incidents": [],
@@ -760,9 +903,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-04T08:55:43Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Schrenkstraße kommt es auf den Linien 18 und 19 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 18 in Richtung Westendstraße fährt nur im Abschnitt Schwanseestraße <> Karlsplatz (Stachus). \t<li>Bitte weichen Sie unter anderem auf die Linien U5, S-Bahn, 51, 151 und 168 aus. </li>Abfahrt am Karlsplatz Richtung Schwanseestraße ist von Haltestelle 4. </li><li>Die Linie 18 in Richtung Schwanseestraße fährt nur im Abschnitt Westendstraße <> Siglstraße und wird ab Siglstraße bis zur Haltestelle Willibaldplatz umgeleitet. Die Umleitung verläuft über die Haltestelle Fürstenrieder Straße. </li></li><li>Die Linie 19 in Richtung Pasing Bf. fährt nur im Abschnitt Berg am Laim Bf. <> Lenbachplatz und wird ab Lenbachplatz bis zur Haltestelle Hauptbahnhof umgeleitet. Die Umleitung verläuft über die Haltestelle Karlsplatz (Stachus). </li>Die Haltestellen Hauptbahnhof und Karlsplatz werden nur in Richtung Berg am Laim angefahren. </li><li>Die Linie 19 in Richtung Berg am Laim Bf. fährt nur im Abschnitt Pasing Bf. <> Agnes-Bernauer-Straße und wird ab Agnes-Bernauer-Straße bis zur Haltestelle Westendstraße umgeleitet. </li>Bitte weichen Sie in Pasing auch auf die Linie 57 von/zum Laimer Platz (U5) aus! </li><li>Den nicht angefahrenen Streckenabschnitt erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 11:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-05-04T09:30:39Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien 18 und 19 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {

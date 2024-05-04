@@ -249,7 +249,7 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-04T06:05:00Z",
-      "toDate": "2024-05-04T18:42:00Z"
+      "toDate": "2024-05-04T19:15:00Z"
     },
     "downloadLinks": [],
     "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
@@ -257,7 +257,7 @@
     "incidentDuration": [
       {
         "fromDate": "2024-05-04T06:05:00Z",
-        "toDate": "2024-05-04T18:42:00Z"
+        "toDate": "2024-05-04T19:15:00Z"
       }
     ],
     "incidents": [],
@@ -706,6 +706,414 @@
           {
             "id": "de:09162:400",
             "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "155",
+        "name": "155",
+        "stations": [
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:892",
+            "name": "Ostbahnhof (Bildungszentrum)"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1004",
+            "name": "Hechtseestraße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1037",
+            "name": "Hofangerstraße"
+          },
+          {
+            "id": "de:09162:1038",
+            "name": "Emdenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "155",
+        "name": "155",
+        "stations": [
+          {
+            "id": "de:09162:1038",
+            "name": "Emdenstraße"
+          },
+          {
+            "id": "de:09162:1037",
+            "name": "Hofangerstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1004",
+            "name": "Hechtseestraße"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:891",
+            "name": "Ostbahnhof (Post)"
+          },
+          {
+            "id": "de:09162:118",
+            "name": "Kirchenstraße"
+          },
+          {
+            "id": "de:09162:22",
+            "name": "Flurstraße"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "168",
+        "name": "168",
+        "stations": [
+          {
+            "id": "de:09162:1544",
+            "name": "Wastl-Witt-Straße"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1636",
+            "name": "Silberdistelstraße"
+          },
+          {
+            "id": "de:09162:1638",
+            "name": "Willibaldstraße"
+          },
+          {
+            "id": "de:09162:1652",
+            "name": "Hönigschmidplatz"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1656",
+            "name": "Guido-Schneble-Straße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:157",
+            "name": "Nymphenburg Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "168",
+        "name": "168",
+        "stations": [
+          {
+            "id": "de:09162:157",
+            "name": "Nymphenburg Süd"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1656",
+            "name": "Guido-Schneble-Straße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1652",
+            "name": "Hönigschmidplatz"
+          },
+          {
+            "id": "de:09162:1638",
+            "name": "Willibaldstraße"
+          },
+          {
+            "id": "de:09162:1636",
+            "name": "Silberdistelstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1543",
+            "name": "Flemischweg"
+          },
+          {
+            "id": "de:09162:1544",
+            "name": "Wastl-Witt-Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "171",
+        "name": "171",
+        "stations": [
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:402",
+            "name": "Röblingweg"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "171",
+        "name": "171",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:402",
+            "name": "Röblingweg"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:358",
+            "name": "Hasenberglstraße"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "174",
+        "name": "174",
+        "stations": [
+          {
+            "id": "de:09162:406",
+            "name": "Dientzenhoferstraße"
+          },
+          {
+            "id": "de:09162:402",
+            "name": "Röblingweg"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "174",
+        "name": "174",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:413",
+            "name": "Siedlung am Hart"
+          },
+          {
+            "id": "de:09162:406",
+            "name": "Dientzenhoferstraße"
           }
         ],
         "typeOfTransport": "BUS"
@@ -1432,7 +1840,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-04T14:40:48Z",
+    "modificationDate": "2024-05-04T15:31:15Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

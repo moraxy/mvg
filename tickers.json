@@ -1026,78 +1026,6 @@
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "1",
-        "id": "20197",
-        "name": "197 Außenring",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1034",
-            "name": "Schumacherring"
-          },
-          {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
-          },
-          {
-            "id": "de:09162:1041",
-            "name": "Nawiaskystraße"
-          },
-          {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
-          },
-          {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1011",
-            "name": "Karl-Marx-Ring"
-          },
-          {
-            "id": "de:09162:914",
-            "name": "Peschelanger"
-          },
-          {
-            "id": "de:09162:915",
-            "name": "Friedrich-Engels-Bogen"
-          },
-          {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
-          },
-          {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
-          },
-          {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
-          },
-          {
-            "id": "de:09162:961",
-            "name": "Sudermannallee"
-          },
-          {
-            "id": "de:09162:960",
-            "name": "Kafkastraße"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
         "direction": "2",
         "id": "20197",
         "name": "197 Außenring",
@@ -1165,6 +1093,78 @@
           {
             "id": "de:09162:1034",
             "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "20197",
+        "name": "197 Außenring",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1034",
+            "name": "Schumacherring"
+          },
+          {
+            "id": "de:09162:1017",
+            "name": "Holzwiesenstraße"
+          },
+          {
+            "id": "de:09162:1041",
+            "name": "Nawiaskystraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1011",
+            "name": "Karl-Marx-Ring"
+          },
+          {
+            "id": "de:09162:914",
+            "name": "Peschelanger"
+          },
+          {
+            "id": "de:09162:915",
+            "name": "Friedrich-Engels-Bogen"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:961",
+            "name": "Sudermannallee"
+          },
+          {
+            "id": "de:09162:960",
+            "name": "Kafkastraße"
           },
           {
             "id": "de:09162:1030",
@@ -1323,7 +1323,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-04T12:28:38Z",
+    "modificationDate": "2024-05-04T12:29:26Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 173, 177, 191, 192, 197 Außenring und 197 Innenring derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

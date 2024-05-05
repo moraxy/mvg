@@ -2,23 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "destination": "Studentenstadt U",
-    "divaId": "03177",
-    "label": "177",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1714931760000,
-    "realtime": false,
-    "realtimeDepartureTime": 1714931760000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:1:1",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 0,
     "destination": "Feldmoching",
     "divaId": "010U2",
@@ -370,6 +353,24 @@
     "realtimeDepartureTime": 1714934040000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "Studentenstadt",
+    "divaId": "03177",
+    "label": "177",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1714934160000,
+    "realtime": true,
+    "realtimeDepartureTime": 1714934160000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:1:1",
     "trainType": "",
     "transportType": "BUS"
   }

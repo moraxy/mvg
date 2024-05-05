@@ -248,6 +248,157 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-05T13:00:00Z",
+      "toDate": "2024-05-05T14:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 27 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li>Die Linie 27 wird in beiden Richtungen zwischen Herzogstraße und Nordbad umgeleitet. Die Haltestellen Herzogstraße, Ackermannstraße, Gartenstraße und Petuelring können leider nicht bedient werden. </li><li>Den nicht angefahrenen Streckenabschnitt der Tram erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "8d322447-4942-4ec7-9f03-79741a508c0e",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-05T13:00:00Z",
+        "toDate": "2024-05-05T14:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-05T13:07:33Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 27 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li>Die Linie 27 wird in beiden Richtungen zwischen Herzogstraße und Nordbad umgeleitet. Die Haltestellen Herzogstraße, Ackermannstraße, Gartenstraße und Petuelring können leider nicht bedient werden. </li><li>Den nicht angefahrenen Streckenabschnitt der Tram erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul>Die Behinderungen werden noch voraussichtlich bis 16:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-05T12:16:00Z",
       "toDate": "2024-05-05T16:00:00Z"
     },
@@ -1051,6 +1202,317 @@
     "modificationDate": "2024-05-05T12:52:45Z",
     "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 18, 19, 27, 28, SEV 16, SEV N17, 58, 68, 100 und 154 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 58 in Richtung Hauptbahnhof Nord wird zwischen Pinakotheken und Thiemestraße umgeleitet. Die Haltestellen Giselastraße, Georgenstraße, Siegestor, Universität, Von-der-Tann-Straße und Oskar-von-Miller-Ring in Fahrtrichtung Hauptbahnhof Nord können leider nicht bedient werden. </li> <li> Die Linie 154 wird in beiden Richtungen zwischen Giselastraße und Arcisstraße umgeleitet. Die Haltestellen Schellingstraße, Türkenstraße, Universität, Siegestor und Georgenstraße können leider nicht bedient werden. </li><li></li></li> <li> Die Linie 100 wird in beiden Richtungen zwischen Königinstraße und Amalienstraße umgeleitet. Die Haltestellen Odeonsplatz und Von-der-Tann-Straße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:00 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Verspätungen wegen einer Demonstration",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-05T12:53:00Z",
+      "toDate": "2024-05-05T16:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Straßensperrung kommt es bei der Linie 63 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 63 wird in beiden Richtungen zwischen Heimeranplatz und Pilsenseestraße umgeleitet. Die Haltestellen Luise-Kiesselbach-Platz, Westpark, Hinterbärenbadstraße, Siegenburger Straße und Garmischer Straße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "cf2c1f22-aa43-4dd0-a094-552e06396fe7",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-05T12:53:00Z",
+        "toDate": "2024-05-05T16:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-05T12:59:57Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Straßensperrung kommt es bei der Linie 63 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 63 wird in beiden Richtungen zwischen Heimeranplatz und Pilsenseestraße umgeleitet. Die Haltestellen Luise-Kiesselbach-Platz, Westpark, Hinterbärenbadstraße, Siegenburger Straße und Garmischer Straße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Umleitung wegen einer Straßensperrung",
     "type": "DISRUPTION"
   },
   {

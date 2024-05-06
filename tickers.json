@@ -1430,6 +1430,134 @@
         "typeOfTransport": "BUS"
       },
       {
+        "direction": "2",
+        "id": "173",
+        "name": "173",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:325",
+            "name": "Olympiapark Eissportstadion"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:781",
+            "name": "Helene-Mayer-Ring"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:338",
+            "name": "Schittgablerstraße"
+          },
+          {
+            "id": "de:09162:352",
+            "name": "Irisstraße"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:1987",
+            "name": "Georg-Zech-Allee"
+          },
+          {
+            "id": "de:09162:1983",
+            "name": "Bergwachtstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "173",
+        "name": "173",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:1986",
+            "name": "Lerchenstraße"
+          },
+          {
+            "id": "de:09162:1984",
+            "name": "Josef-Frankl-Straße"
+          },
+          {
+            "id": "de:09162:1983",
+            "name": "Bergwachtstraße"
+          },
+          {
+            "id": "de:09162:1987",
+            "name": "Georg-Zech-Allee"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:352",
+            "name": "Irisstraße"
+          },
+          {
+            "id": "de:09162:338",
+            "name": "Schittgablerstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:781",
+            "name": "Helene-Mayer-Ring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:325",
+            "name": "Olympiapark Eissportstadion"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
         "direction": "1",
         "id": "180",
         "name": "180",
@@ -1771,7 +1899,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-06T14:01:15Z",
+    "modificationDate": "2024-05-06T14:32:45Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

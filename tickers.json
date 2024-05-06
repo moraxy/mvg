@@ -2183,7 +2183,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-06T15:46:44Z",
+    "modificationDate": "2024-05-06T15:48:17Z",
     "text": "Liebe Fahrgäste,<br/>wegen erhöhtem Fahrgastaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen erhöhtem Fahrgastaufkommens",
     "type": "DISRUPTION"
@@ -8982,6 +8982,78 @@
       },
       {
         "direction": "1",
+        "id": "179",
+        "name": "179",
+        "stations": [
+          {
+            "id": "de:09162:399",
+            "name": "Olschewskibogen"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "179",
+        "name": "179",
+        "stations": [
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:337",
+            "name": "Detmoldstraße"
+          },
+          {
+            "id": "de:09162:397",
+            "name": "Pulverturm"
+          },
+          {
+            "id": "de:09162:401",
+            "name": "Augustin-Rösch-Straße"
+          },
+          {
+            "id": "de:09162:399",
+            "name": "Olschewskibogen"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
         "id": "180",
         "name": "180",
         "stations": [
@@ -9322,7 +9394,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-06T15:40:53Z",
+    "modificationDate": "2024-05-06T15:52:11Z",
     "text": "Liebe Fahrgäste,<br/>wegen witterungsbedingten Abweichungen kommt es derzeit zu erheblichen Behinderungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Erhebliche Verspätungen aufgrund der Witterung",
     "type": "DISRUPTION"
@@ -10741,7 +10813,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-06T14:32:45Z",
+    "modificationDate": "2024-05-06T15:48:58Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"

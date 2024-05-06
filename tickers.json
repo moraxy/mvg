@@ -487,322 +487,11 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-06T03:26:00Z",
-      "toDate": "2024-05-06T04:26:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 19 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "9b821859-52c4-4b16-83ce-a81edd756112",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-06T03:26:00Z",
-        "toDate": "2024-05-06T04:26:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-06T03:27:14Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 19 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-05-06T03:05:00Z",
       "toDate": "2024-05-06T21:59:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien X35, 55, 58, 60, 62, 132, 162 und 173 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien X35, 55, 58, 60, 62, 132, 162, 173, 192 und 195 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "048076d7-9235-4faf-ba9b-bdf789b19bed",
     "incidentDuration": [
       {
@@ -2654,11 +2343,355 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "192",
+        "name": "192",
+        "stations": [
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1009",
+            "name": "Corinthstraße"
+          },
+          {
+            "id": "de:09162:989",
+            "name": "Bergerwaldstraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:975",
+            "name": "Ottilienstraße"
+          },
+          {
+            "id": "de:09162:933",
+            "name": "Florastraße"
+          },
+          {
+            "id": "de:09162:929",
+            "name": "Friedenspromenade"
+          },
+          {
+            "id": "de:09162:928",
+            "name": "Nikolaus-Prugger-Weg"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "195",
+        "name": "195",
+        "stations": [
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:970",
+            "name": "Otto-Hahn-Ring"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:996",
+            "name": "Franz-Heubl-Straße"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:959",
+            "name": "Alois-Hahn-Weg"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:950",
+            "name": "Zauberwaldstraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:946",
+            "name": "Simplonstraße"
+          },
+          {
+            "id": "de:09162:945",
+            "name": "Mönchbergstraße"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:944",
+            "name": "Gnadenwaldplatz"
+          },
+          {
+            "id": "de:09162:943",
+            "name": "Rofanstraße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:1007",
+            "name": "Heinrich-Wieland-Straße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "195",
+        "name": "195",
+        "stations": [
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1007",
+            "name": "Heinrich-Wieland-Straße"
+          },
+          {
+            "id": "de:09162:906",
+            "name": "St.-Veit-Straße"
+          },
+          {
+            "id": "de:09162:943",
+            "name": "Rofanstraße"
+          },
+          {
+            "id": "de:09162:944",
+            "name": "Gnadenwaldplatz"
+          },
+          {
+            "id": "de:09162:912",
+            "name": "St.-Augustinus-Straße"
+          },
+          {
+            "id": "de:09162:945",
+            "name": "Mönchbergstraße"
+          },
+          {
+            "id": "de:09162:946",
+            "name": "Simplonstraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:950",
+            "name": "Zauberwaldstraße"
+          },
+          {
+            "id": "de:09162:951",
+            "name": "Markgrafenstraße"
+          },
+          {
+            "id": "de:09162:952",
+            "name": "Vogesenstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:959",
+            "name": "Alois-Hahn-Weg"
+          },
+          {
+            "id": "de:09162:916",
+            "name": "Hugo-Lang-Bogen"
+          },
+          {
+            "id": "de:09162:917",
+            "name": "Oskar-Maria-Graf-Ring"
+          },
+          {
+            "id": "de:09162:962",
+            "name": "Klinikum Neuperlach"
+          },
+          {
+            "id": "de:09162:963",
+            "name": "Tribulaunstraße"
+          },
+          {
+            "id": "de:09162:970",
+            "name": "Otto-Hahn-Ring"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-06T03:52:09Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien X35, 55, 58, 60, 62, 132, 162 und 173 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-05-06T04:23:25Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien X35, 55, 58, 60, 62, 132, 162, 173, 192 und 195 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

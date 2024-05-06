@@ -502,6 +502,198 @@
     "incidents": [],
     "lines": [
       {
+        "direction": "1",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "12",
+        "name": "12",
+        "stations": [
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:221",
+            "name": "Hubertusstraße"
+          },
+          {
+            "id": "de:09162:220",
+            "name": "Renatastraße"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:205",
+            "name": "Volkartstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
+          },
+          {
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:422",
+            "name": "Clemensstraße"
+          },
+          {
+            "id": "de:09162:421",
+            "name": "Karl-Theodor-Straße"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
         "direction": "2",
         "id": "16",
         "name": "16",
@@ -905,294 +1097,6 @@
           {
             "id": "de:09162:260",
             "name": "Westendstraße"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "19",
-        "name": "19",
-        "stations": [
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:646",
-            "name": "Riedenburger Straße"
-          },
-          {
-            "id": "de:09162:612",
-            "name": "Vogelweideplatz"
-          },
-          {
-            "id": "de:09162:662",
-            "name": "Einsteinstraße"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:22",
-            "name": "Flurstraße"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:21",
-            "name": "Maximilianeum"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:18",
-            "name": "Kammerspiele"
-          },
-          {
-            "id": "de:09162:17",
-            "name": "Nationaltheater"
-          },
-          {
-            "id": "de:09162:20",
-            "name": "Marienplatz (Theatinerstraße)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:5000",
-            "name": "Hauptbahnhof Süd"
-          },
-          {
-            "id": "de:09162:90",
-            "name": "Holzkirchner Bahnhof"
-          },
-          {
-            "id": "de:09162:55",
-            "name": "Hermann-Lingg-Straße"
-          },
-          {
-            "id": "de:09162:67",
-            "name": "Holzapfelstraße"
-          },
-          {
-            "id": "de:09162:66",
-            "name": "Schrenkstraße"
-          },
-          {
-            "id": "de:09162:65",
-            "name": "Trappentreustraße"
-          },
-          {
-            "id": "de:09162:64",
-            "name": "Barthstraße"
-          },
-          {
-            "id": "de:09162:1206",
-            "name": "Am Lokschuppen"
-          },
-          {
-            "id": "de:09162:1202",
-            "name": "Lautensackstraße"
-          },
-          {
-            "id": "de:09162:1204",
-            "name": "Agnes-Bernauer-Straße"
-          },
-          {
-            "id": "de:09162:1602",
-            "name": "Fürstenrieder Straße"
-          },
-          {
-            "id": "de:09162:1604",
-            "name": "Agnes-Bernauer-Platz"
-          },
-          {
-            "id": "de:09162:1606",
-            "name": "Willibaldplatz"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1614",
-            "name": "Am Knie"
-          },
-          {
-            "id": "de:09162:1618",
-            "name": "Offenbachstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
           }
         ],
         "typeOfTransport": "TRAM"
@@ -1586,342 +1490,6 @@
         "typeOfTransport": "TRAM"
       },
       {
-        "direction": "1",
-        "id": "25",
-        "name": "25",
-        "stations": [
-          {
-            "id": "de:09162:581",
-            "name": "Max-Weber-Platz (Johannispl.)"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:581",
-            "name": "Max-Weber-Platz (Johannispl.)"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:4",
-            "name": "Rosenheimer Platz"
-          },
-          {
-            "id": "de:09162:111",
-            "name": "Regerplatz"
-          },
-          {
-            "id": "de:09162:149",
-            "name": "Carl-Amery-Platz"
-          },
-          {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1117",
-            "name": "Kurzstraße"
-          },
-          {
-            "id": "de:09162:1118",
-            "name": "Südtiroler Straße"
-          },
-          {
-            "id": "de:09162:1119",
-            "name": "Tiroler Platz"
-          },
-          {
-            "id": "de:09162:1121",
-            "name": "Authariplatz"
-          },
-          {
-            "id": "de:09162:1122",
-            "name": "Theodolindenplatz"
-          },
-          {
-            "id": "de:09162:1123",
-            "name": "Klinikum Harlaching"
-          },
-          {
-            "id": "de:09162:1124",
-            "name": "Menterschwaige"
-          },
-          {
-            "id": "de:09162:1125",
-            "name": "Großhesseloher Brücke"
-          },
-          {
-            "id": "de:09162:1126",
-            "name": "Schilcherweg"
-          },
-          {
-            "id": "de:09184:2458",
-            "name": "Grünwald, Bavariafilmplatz"
-          },
-          {
-            "id": "de:09184:2460",
-            "name": "Grünwald, Robert-Koch-Straße"
-          },
-          {
-            "id": "de:09184:2462",
-            "name": "Grünwald, Parkplatz"
-          },
-          {
-            "id": "de:09184:2464",
-            "name": "Grünwald, Ludwig-Thoma-Straße"
-          },
-          {
-            "id": "de:09184:2456",
-            "name": "Grünwald, Derbolfinger Platz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "25",
-        "name": "25",
-        "stations": [
-          {
-            "id": "de:09184:2456",
-            "name": "Grünwald, Derbolfinger Platz"
-          },
-          {
-            "id": "de:09184:2464",
-            "name": "Grünwald, Ludwig-Thoma-Straße"
-          },
-          {
-            "id": "de:09184:2462",
-            "name": "Grünwald, Parkplatz"
-          },
-          {
-            "id": "de:09184:2460",
-            "name": "Grünwald, Robert-Koch-Straße"
-          },
-          {
-            "id": "de:09184:2458",
-            "name": "Grünwald, Bavariafilmplatz"
-          },
-          {
-            "id": "de:09162:1126",
-            "name": "Schilcherweg"
-          },
-          {
-            "id": "de:09162:1125",
-            "name": "Großhesseloher Brücke"
-          },
-          {
-            "id": "de:09162:1124",
-            "name": "Menterschwaige"
-          },
-          {
-            "id": "de:09162:1123",
-            "name": "Klinikum Harlaching"
-          },
-          {
-            "id": "de:09162:1122",
-            "name": "Theodolindenplatz"
-          },
-          {
-            "id": "de:09162:1121",
-            "name": "Authariplatz"
-          },
-          {
-            "id": "de:09162:1119",
-            "name": "Tiroler Platz"
-          },
-          {
-            "id": "de:09162:1118",
-            "name": "Südtiroler Straße"
-          },
-          {
-            "id": "de:09162:1117",
-            "name": "Kurzstraße"
-          },
-          {
-            "id": "de:09162:1190",
-            "name": "Wettersteinplatz"
-          },
-          {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:1105",
-            "name": "Ostfriedhof"
-          },
-          {
-            "id": "de:09162:149",
-            "name": "Carl-Amery-Platz"
-          },
-          {
-            "id": "de:09162:111",
-            "name": "Regerplatz"
-          },
-          {
-            "id": "de:09162:4",
-            "name": "Rosenheimer Platz"
-          },
-          {
-            "id": "de:09162:88",
-            "name": "Wörthstraße"
-          },
-          {
-            "id": "de:09162:581",
-            "name": "Max-Weber-Platz (Johannispl.)"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "27",
-        "name": "27",
-        "stations": [
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:308",
-            "name": "Gartenstraße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:311",
-            "name": "Herzogstraße"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "27",
-        "name": "27",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:53",
-            "name": "Ottostraße"
-          },
-          {
-            "id": "de:09162:52",
-            "name": "Karolinenplatz"
-          },
-          {
-            "id": "de:09162:51",
-            "name": "Pinakotheken"
-          },
-          {
-            "id": "de:09162:49",
-            "name": "Schellingstraße"
-          },
-          {
-            "id": "de:09162:48",
-            "name": "Nordendstraße"
-          },
-          {
-            "id": "de:09162:47",
-            "name": "Elisabethplatz"
-          },
-          {
-            "id": "de:09162:43",
-            "name": "Kurfürstenplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:34",
-            "name": "Nordbad"
-          },
-          {
-            "id": "de:09162:311",
-            "name": "Herzogstraße"
-          },
-          {
-            "id": "de:09162:309",
-            "name": "Ackermannstraße"
-          },
-          {
-            "id": "de:09162:308",
-            "name": "Gartenstraße"
-          },
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
         "direction": "2",
         "id": "28",
         "name": "28",
@@ -2029,161 +1597,13 @@
           {
             "id": "de:09162:50",
             "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "37",
-        "name": "37",
-        "stations": [
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:91",
-            "name": "Bundesfinanzhof"
-          },
-          {
-            "id": "de:09162:75",
-            "name": "Sternwartstraße"
-          },
-          {
-            "id": "de:09162:74",
-            "name": "Holbeinstraße"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "37",
-        "name": "37",
-        "stations": [
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:74",
-            "name": "Holbeinstraße"
-          },
-          {
-            "id": "de:09162:75",
-            "name": "Sternwartstraße"
-          },
-          {
-            "id": "de:09162:91",
-            "name": "Bundesfinanzhof"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
           }
         ],
         "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-06T15:48:17Z",
+    "modificationDate": "2024-05-06T16:04:28Z",
     "text": "Liebe Fahrgäste,<br/>wegen erhöhtem Fahrgastaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen erhöhtem Fahrgastaufkommens",
     "type": "DISRUPTION"

@@ -248,389 +248,193 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-07T12:51:00Z",
-      "toDate": "2024-05-07T14:30:00Z"
+      "fromDate": "2024-05-07T14:29:00Z",
+      "toDate": "2024-05-07T15:29:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "id": "0712d369-4f1d-40ab-8834-60efc3bde164",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Dessauerstraße kommt es auf der Linie 60 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "d8b0e508-9859-4ba9-bedb-bfa38e07eb61",
     "incidentDuration": [
       {
-        "fromDate": "2024-05-07T12:51:00Z",
-        "toDate": "2024-05-07T14:30:00Z"
+        "fromDate": "2024-05-07T14:29:00Z",
+        "toDate": "2024-05-07T15:29:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "54",
-        "name": "54",
+        "id": "60",
+        "name": "60",
         "stations": [
           {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           },
           {
-            "id": "de:09162:108",
-            "name": "Hohenzollernstraße"
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
           },
           {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
           },
           {
-            "id": "de:09162:136",
-            "name": "Thiemestraße"
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
           },
           {
-            "id": "de:09162:135",
-            "name": "Chinesischer Turm"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:132",
-            "name": "Hirschauer Straße"
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
           },
           {
-            "id": "de:09162:137",
-            "name": "Am Tucherpark"
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
           },
           {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
           },
           {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
           },
           {
-            "id": "de:09162:134",
-            "name": "Wehrlestraße"
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
           },
           {
-            "id": "de:09162:133",
-            "name": "Galileiplatz"
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
           },
           {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
           },
           {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
           },
           {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
           },
           {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
           },
           {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
           },
           {
-            "id": "de:09162:92",
-            "name": "Kustermannpark"
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
           },
           {
-            "id": "de:09162:1025",
-            "name": "St.-Martin-Straße Ost"
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           },
           {
-            "id": "de:09162:1026",
-            "name": "Thomasiusplatz"
-          },
-          {
-            "id": "de:09162:1044",
-            "name": "Ungsteiner Straße"
-          },
-          {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1045",
-            "name": "Fockensteinstraße"
-          },
-          {
-            "id": "de:09162:1046",
-            "name": "Valeppstraße"
-          },
-          {
-            "id": "de:09162:1146",
-            "name": "Spixstraße"
-          },
-          {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1191",
-            "name": "Gerhardstraße"
-          },
-          {
-            "id": "de:09162:1148",
-            "name": "Schäftlarnstraße"
-          },
-          {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
-          },
-          {
-            "id": "de:09162:1431",
-            "name": "Sylvensteinstraße"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1305",
-            "name": "Drachenseestraße"
-          },
-          {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
-          },
-          {
-            "id": "de:09162:1306",
-            "name": "Fernpaßstraße"
-          },
-          {
-            "id": "de:09162:1307",
-            "name": "Luise-Kiesselbach-Platz"
-          },
-          {
-            "id": "de:09162:1308",
-            "name": "Ettalstraße"
-          },
-          {
-            "id": "de:09162:1309",
-            "name": "Werdenfelsstraße"
-          },
-          {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
-          },
-          {
-            "id": "de:09162:1502",
-            "name": "Kornwegerstraße"
-          },
-          {
-            "id": "de:09162:1402",
-            "name": "Aurikelstraße"
-          },
-          {
-            "id": "de:09162:1404",
-            "name": "Lorettoplatz"
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "54",
-        "name": "54",
+        "id": "60",
+        "name": "60",
         "stations": [
           {
-            "id": "de:09162:1404",
-            "name": "Lorettoplatz"
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
           },
           {
-            "id": "de:09162:1402",
-            "name": "Aurikelstraße"
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           },
           {
-            "id": "de:09162:1502",
-            "name": "Kornwegerstraße"
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
           },
           {
-            "id": "de:09162:1311",
-            "name": "Waldfriedhof"
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
           },
           {
-            "id": "de:09162:1309",
-            "name": "Werdenfelsstraße"
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
           },
           {
-            "id": "de:09162:1308",
-            "name": "Ettalstraße"
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
           },
           {
-            "id": "de:09162:1307",
-            "name": "Luise-Kiesselbach-Platz"
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
           },
           {
-            "id": "de:09162:1306",
-            "name": "Fernpaßstraße"
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
           },
           {
-            "id": "de:09162:1330",
-            "name": "Partnachplatz"
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
           },
           {
-            "id": "de:09162:1305",
-            "name": "Drachenseestraße"
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
           },
           {
-            "id": "de:09162:1130",
-            "name": "Harras"
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
           },
           {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
           },
           {
-            "id": "de:09162:1431",
-            "name": "Sylvensteinstraße"
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
           },
           {
-            "id": "de:09162:1149",
-            "name": "Heckenstallerstraße"
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
           },
           {
-            "id": "de:09162:1430",
-            "name": "Brudermühlstraße"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:1148",
-            "name": "Schäftlarnstraße"
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
           },
           {
-            "id": "de:09162:1191",
-            "name": "Gerhardstraße"
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
           },
           {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
           },
           {
-            "id": "de:09162:1115",
-            "name": "Tegernseer Landstraße"
-          },
-          {
-            "id": "de:09162:1146",
-            "name": "Spixstraße"
-          },
-          {
-            "id": "de:09162:1046",
-            "name": "Valeppstraße"
-          },
-          {
-            "id": "de:09162:1045",
-            "name": "Fockensteinstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1107",
-            "name": "Werinherstraße"
-          },
-          {
-            "id": "de:09162:1044",
-            "name": "Ungsteiner Straße"
-          },
-          {
-            "id": "de:09162:1026",
-            "name": "Thomasiusplatz"
-          },
-          {
-            "id": "de:09162:1025",
-            "name": "St.-Martin-Straße Ost"
-          },
-          {
-            "id": "de:09162:1001",
-            "name": "Anzinger Straße"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:46",
-            "name": "Haidenauplatz"
-          },
-          {
-            "id": "de:09162:23",
-            "name": "Grillparzerstraße"
-          },
-          {
-            "id": "de:09162:570",
-            "name": "Prinzregentenplatz"
-          },
-          {
-            "id": "de:09162:133",
-            "name": "Galileiplatz"
-          },
-          {
-            "id": "de:09162:134",
-            "name": "Wehrlestraße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:137",
-            "name": "Am Tucherpark"
-          },
-          {
-            "id": "de:09162:132",
-            "name": "Hirschauer Straße"
-          },
-          {
-            "id": "de:09162:135",
-            "name": "Chinesischer Turm"
-          },
-          {
-            "id": "de:09162:136",
-            "name": "Thiemestraße"
-          },
-          {
-            "id": "de:09162:80",
-            "name": "Giselastraße"
-          },
-          {
-            "id": "de:09162:108",
-            "name": "Hohenzollernstraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-07T12:51:47Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
+    "modificationDate": "2024-05-07T14:30:10Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Dessauerstraße kommt es auf der Linie 60 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Feuerwehreinsatzes",
     "type": "DISRUPTION"
   },
   {

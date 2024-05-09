@@ -1,109 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-05-09T17:27:00Z",
-      "toDate": "2024-05-09T18:27:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Neuperlach Süd kommt es derzeit zu Verspätungen auf der Linie U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 20:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "id": "18f0064d-920d-460f-8bb0-f5b98b8c198f",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-09T17:27:00Z",
-        "toDate": "2024-05-09T18:27:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "5",
-        "name": "U5",
-        "stations": [
-          {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
-          },
-          {
-            "id": "de:09162:1020",
-            "name": "Therese-Giehse-Allee"
-          },
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          },
-          {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
-          },
-          {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:590",
-            "name": "Lehel"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:270",
-            "name": "Friedenheimer Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-09T17:27:41Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Neuperlach Süd kommt es derzeit zu Verspätungen auf der Linie U5 in Richtung Laimer Platz . <br>Die Behinderungen werden noch voraussichtlich bis 20:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen wegen einer Fahrzeugstörung",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-04-21T22:01:00Z",
       "toDate": "2024-06-13T21:59:00Z"
     },
@@ -351,16 +248,203 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-09T17:01:00Z",
-      "toDate": "2024-05-09T19:00:00Z"
+      "fromDate": "2024-05-09T18:27:00Z",
+      "toDate": "2024-05-09T19:27:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Sudetendeutsche Straße kommt es auf der Linie 180 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 180 wird in beiden Richtungen zwischen Gundelkoferstraße und Am Hart umgeleitet. Die Umleitung verläuft über die Haltestelle Frankfurter Ring. Die Haltestelle Sudetendeutsche Straße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 21:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 145 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 21:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "81cc99ae-ab00-4d1a-8991-dd8e451c761c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-09T18:27:00Z",
+        "toDate": "2024-05-09T19:27:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "145",
+        "name": "145",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:92",
+            "name": "Kustermannpark"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1057",
+            "name": "Klagenfurter Straße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1055",
+            "name": "Plassenburgstraße"
+          },
+          {
+            "id": "de:09162:1059",
+            "name": "Görzer Straße"
+          },
+          {
+            "id": "de:09162:1054",
+            "name": "Obernzeller Straße"
+          },
+          {
+            "id": "de:09162:1053",
+            "name": "Fasangartenstraße"
+          },
+          {
+            "id": "de:09162:1061",
+            "name": "Landrichterstraße"
+          },
+          {
+            "id": "de:09162:1179",
+            "name": "Kiefernstraße"
+          },
+          {
+            "id": "de:09162:1181",
+            "name": "Minnewitstraße"
+          },
+          {
+            "id": "de:09162:1062",
+            "name": "Cincinnatistraße"
+          },
+          {
+            "id": "de:09162:1120",
+            "name": "Fasangarten Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "145",
+        "name": "145",
+        "stations": [
+          {
+            "id": "de:09162:1120",
+            "name": "Fasangarten Bf."
+          },
+          {
+            "id": "de:09162:1062",
+            "name": "Cincinnatistraße"
+          },
+          {
+            "id": "de:09162:1181",
+            "name": "Minnewitstraße"
+          },
+          {
+            "id": "de:09162:1179",
+            "name": "Kiefernstraße"
+          },
+          {
+            "id": "de:09162:1061",
+            "name": "Landrichterstraße"
+          },
+          {
+            "id": "de:09162:1053",
+            "name": "Fasangartenstraße"
+          },
+          {
+            "id": "de:09162:1054",
+            "name": "Obernzeller Straße"
+          },
+          {
+            "id": "de:09162:1059",
+            "name": "Görzer Straße"
+          },
+          {
+            "id": "de:09162:1055",
+            "name": "Plassenburgstraße"
+          },
+          {
+            "id": "de:09162:1022",
+            "name": "Hochäckerstraße"
+          },
+          {
+            "id": "de:09162:1023",
+            "name": "Ständlerstraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1057",
+            "name": "Klagenfurter Straße"
+          },
+          {
+            "id": "de:09162:1026",
+            "name": "Thomasiusplatz"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1001",
+            "name": "Anzinger Straße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-09T18:29:27Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 145 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 21:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-09T17:01:00Z",
+      "toDate": "2024-05-09T18:37:18Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 180 gemeldete Behinderung (Grund: Feuerwehreinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "969f6ac4-7b1d-409a-8d92-fb26e0ca1f32",
     "incidentDuration": [
       {
         "fromDate": "2024-05-09T17:01:00Z",
-        "toDate": "2024-05-09T19:00:00Z"
+        "toDate": "2024-05-09T18:27:18Z"
       }
     ],
     "incidents": [],
@@ -479,9 +563,244 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-09T17:22:19Z",
-    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Sudetendeutsche Straße kommt es auf der Linie 180 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 180 wird in beiden Richtungen zwischen Gundelkoferstraße und Am Hart umgeleitet. Die Umleitung verläuft über die Haltestelle Frankfurter Ring. Die Haltestelle Sudetendeutsche Straße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 21:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Umleitung wegen eines Feuerwehreinsatzes",
+    "modificationDate": "2024-05-09T18:27:24Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 180 gemeldete Behinderung (Grund: Feuerwehreinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-09T18:24:00Z",
+      "toDate": "2024-05-09T22:50:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 183 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "c52d53e1-0afe-4aec-a92a-0d63208bdb10",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-09T18:24:00Z",
+        "toDate": "2024-05-09T22:50:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "183",
+        "name": "183",
+        "stations": [
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
+          },
+          {
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
+          },
+          {
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
+          },
+          {
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:608",
+            "name": "Posener Platz"
+          },
+          {
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
+          },
+          {
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "183",
+        "name": "183",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:606",
+            "name": "Memeler Straße"
+          },
+          {
+            "id": "de:09162:607",
+            "name": "Zoppoter Straße"
+          },
+          {
+            "id": "de:09162:608",
+            "name": "Posener Platz"
+          },
+          {
+            "id": "de:09162:699",
+            "name": "Hermann-Gmeiner-Weg"
+          },
+          {
+            "id": "de:09162:701",
+            "name": "Marienburger Straße"
+          },
+          {
+            "id": "de:09162:705",
+            "name": "Daglfing Bf. West"
+          },
+          {
+            "id": "de:09162:704",
+            "name": "Daglfing Bf. Ost"
+          },
+          {
+            "id": "de:09162:725",
+            "name": "Kunihohstraße"
+          },
+          {
+            "id": "de:09162:702",
+            "name": "Schichtlstraße"
+          },
+          {
+            "id": "de:09162:703",
+            "name": "Trabrennbahn"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-09T18:26:02Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 183 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

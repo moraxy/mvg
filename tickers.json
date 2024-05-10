@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-10T21:49:00Z",
-      "toDate": "2024-05-10T22:49:00Z"
+      "toDate": "2024-05-10T22:08:08Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Odeonsplatz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 00:50 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie U5 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "07f90f66-2b72-41aa-9d02-051d323e2078",
     "incidentDuration": [
       {
         "fromDate": "2024-05-10T21:49:00Z",
-        "toDate": "2024-05-10T22:49:00Z"
+        "toDate": "2024-05-10T21:58:08Z"
       }
     ],
     "incidents": [],
@@ -97,9 +97,144 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-10T21:51:04Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Odeonsplatz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 00:50 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-05-10T21:58:08Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie U5 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-10T21:51:00Z",
+      "toDate": "2024-05-10T22:20:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie U6 in Richtung Klinikum Großhadern                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "d862463e-7a47-4893-9cc2-0ad4ed630fd1",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-10T21:51:00Z",
+        "toDate": "2024-05-10T22:20:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-10T21:59:07Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie U6 in Richtung Klinikum Großhadern                 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Betriebsstörung",
     "type": "DISRUPTION"
   },
   {
@@ -14465,1148 +14600,6 @@
     "modificationDate": "2024-01-05T05:39:04Z",
     "text": "<div>Wegen Br&uuml;ckenbauarbeiten in der Dachauer Stra&szlig;e wird die Buslinie 163 von Montag, 12. Februar 2024 bis vsl. Samstag, 12. Dezember 2026 am S-/U-Bahnhof Moosach geteilt.</div>\n<div>&nbsp;</div>\n<div>Die Busse fahren in den Abschnitten Allach Bf. Ost &lt;&gt; Krautheimstra&szlig;e &lt;&gt; Moosach Bf. (Memminger Platz) und Moosach Bf. (Breslauer Stra&szlig;e) &lt;&gt; Moosacher St.-Martins-Platz &lt;&gt; Olympia-Einkaufszentrum.</div>\n<div>&nbsp;</div>\n<div>Die (H) Moosach Bf. ist in Richtung Olympia-Einkaufszentrum zum Haltepunkt 4 in der Breslauer Stra&szlig;e (Haltestelle der Buslinie X35 vor Aldi) verlegt, die (H) Gr&ouml;benzeller Stra&szlig;e kann in beiden Richtungen nicht bedient werden.</div>\r\n",
     "title": "Linienteilung am S-/U-Bf. Moosach wegen Brückenbauarbeiten in der Dachauer Straße",
-    "type": "PLANNED"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-04-08T08:00:00Z",
-      "toDate": "2024-05-10T21:59:00Z"
-    },
-    "downloadLinks": [
-      {
-        "id": "627d2042-e68c-4b99-8070-0684c475ee29_-1173641842",
-        "mimeType": "image/jpeg",
-        "name": "Umleitungskarte Bus 172"
-      },
-      {
-        "id": "627d2042-e68c-4b99-8070-0684c475ee29_1368965880",
-        "mimeType": "image/jpeg",
-        "name": "Umleitungskarte Bus 170 171 N41"
-      }
-    ],
-    "htmlText": "<div>Wegen Wasserleitungsarbeiten in der D&uuml;lferstra&szlig;e werden die Buslinien 170, 171, 172 und N41 von Montag, 22. April ca. 08:00 Uhr bis vsl. Freitag, 10. Mai 2024 zwischen den (H) Feldmoching Bf. und Paidarstra&szlig;e/Feldmoching Bf. Ost umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die Buslinien 170, 171 und N41 enden vorzeitig an der (H) Feldmoching Bf. Ost. Die (H) Feldmoching Bf. am Walter-Sedlmayr-Platz entf&auml;llt. Die Busse in Richtung Kieferngarten/Am Hart/F&uuml;rstenried West fahren an der (H) Feldmoching Bf. Ost &ouml;stlich der Einm&uuml;ndung Ratold-/Bernhardstra&szlig;e ab.</li>\n<li>Die Buslinie 172 wird zwischen den (H) Paidarstra&szlig;e und Feldmoching Bf. &uuml;ber die Lerchenstra&szlig;e umgeleitet. Ihre Fahrzeit verl&auml;ngert sich durch die Umleitung um wenige Minuten. Fahrg&auml;ste aus Richtung Am Hart kommend k&ouml;nnen an der zus&auml;tzlich bedienten (H) Feldmoching Bf. Ost zur U2, S1 sowie Regionalz&uuml;gen umsteigen.</li>\n</ul>\r\n",
-    "id": "627d2042-e68c-4b99-8070-0684c475ee29",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-04-21T22:00:00Z",
-        "toDate": "2024-05-10T21:59:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "170",
-        "name": "170",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:368",
-            "name": "Feldmoching Bf. Ost"
-          },
-          {
-            "id": "de:09162:359",
-            "name": "Feldmochinger Anger"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:405",
-            "name": "Weitlstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
-          },
-          {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
-          },
-          {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
-          },
-          {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
-          },
-          {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
-          },
-          {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:441",
-            "name": "Paracelsusstraße"
-          },
-          {
-            "id": "de:09162:442",
-            "name": "Grusonstraße"
-          },
-          {
-            "id": "de:09162:449",
-            "name": "Untere Länge"
-          },
-          {
-            "id": "de:09162:453",
-            "name": "Keilberthstraße"
-          },
-          {
-            "id": "de:09162:454",
-            "name": "Gustav-Mahler-Straße"
-          },
-          {
-            "id": "de:09162:444",
-            "name": "Paul-Hindemith-Allee"
-          },
-          {
-            "id": "de:09162:445",
-            "name": "Bernsteinweg"
-          },
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "170",
-        "name": "170",
-        "stations": [
-          {
-            "id": "de:09162:430",
-            "name": "Kieferngarten"
-          },
-          {
-            "id": "de:09162:445",
-            "name": "Bernsteinweg"
-          },
-          {
-            "id": "de:09162:444",
-            "name": "Paul-Hindemith-Allee"
-          },
-          {
-            "id": "de:09162:454",
-            "name": "Gustav-Mahler-Straße"
-          },
-          {
-            "id": "de:09162:453",
-            "name": "Keilberthstraße"
-          },
-          {
-            "id": "de:09162:449",
-            "name": "Untere Länge"
-          },
-          {
-            "id": "de:09162:442",
-            "name": "Grusonstraße"
-          },
-          {
-            "id": "de:09162:441",
-            "name": "Paracelsusstraße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
-          },
-          {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
-          },
-          {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
-          },
-          {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
-          },
-          {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
-          },
-          {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:358",
-            "name": "Hasenberglstraße"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:359",
-            "name": "Feldmochinger Anger"
-          },
-          {
-            "id": "de:09162:368",
-            "name": "Feldmoching Bf. Ost"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "171",
-        "name": "171",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:368",
-            "name": "Feldmoching Bf. Ost"
-          },
-          {
-            "id": "de:09162:359",
-            "name": "Feldmochinger Anger"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:405",
-            "name": "Weitlstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:402",
-            "name": "Röblingweg"
-          },
-          {
-            "id": "de:09162:409",
-            "name": "Rathenaustraße"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "171",
-        "name": "171",
-        "stations": [
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:409",
-            "name": "Rathenaustraße"
-          },
-          {
-            "id": "de:09162:402",
-            "name": "Röblingweg"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:358",
-            "name": "Hasenberglstraße"
-          },
-          {
-            "id": "de:09162:357",
-            "name": "Ittlingerstraße"
-          },
-          {
-            "id": "de:09162:356",
-            "name": "Hasenbergl Süd"
-          },
-          {
-            "id": "de:09162:359",
-            "name": "Feldmochinger Anger"
-          },
-          {
-            "id": "de:09162:368",
-            "name": "Feldmoching Bf. Ost"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "172",
-        "name": "172",
-        "stations": [
-          {
-            "id": "de:09174:6800",
-            "name": "Dachau Bf."
-          },
-          {
-            "id": "de:09174:6874",
-            "name": "Dachau, Frühlingstraße"
-          },
-          {
-            "id": "de:09174:7052",
-            "name": "Dachau, I.-Taschner-Gymnasium"
-          },
-          {
-            "id": "de:09174:7066",
-            "name": "Dachau, St.-Peter-Straße"
-          },
-          {
-            "id": "de:09174:7085",
-            "name": "Dachau, Schulzentrum"
-          },
-          {
-            "id": "de:09174:7062",
-            "name": "Karlsfeld, Einkaufsmärkte"
-          },
-          {
-            "id": "de:09174:7002",
-            "name": "Karlsfeld, Münchner Straße"
-          },
-          {
-            "id": "de:09174:6956",
-            "name": "Karlsfeld, Krenmoosstraße"
-          },
-          {
-            "id": "de:09174:7061",
-            "name": "Karlsfeld, Mü. Str./Würmkanal"
-          },
-          {
-            "id": "de:09162:1976",
-            "name": "Karlsfelder Straße"
-          },
-          {
-            "id": "de:09162:1968",
-            "name": "Kristallstraße"
-          },
-          {
-            "id": "de:09162:1974",
-            "name": "Opalstraße"
-          },
-          {
-            "id": "de:09162:1969",
-            "name": "Siedlung Ludwigsfeld"
-          },
-          {
-            "id": "de:09162:1978",
-            "name": "Kaiserhölzlstraße"
-          },
-          {
-            "id": "de:09162:1973",
-            "name": "Feldmochinger See"
-          },
-          {
-            "id": "de:09162:1979",
-            "name": "Schwarzhölzlstraße"
-          },
-          {
-            "id": "de:09162:1981",
-            "name": "Grashofstraße"
-          },
-          {
-            "id": "de:09162:1984",
-            "name": "Josef-Frankl-Straße"
-          },
-          {
-            "id": "de:09162:1986",
-            "name": "Lerchenstraße"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:346",
-            "name": "Paidarstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:405",
-            "name": "Weitlstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:401",
-            "name": "Augustin-Rösch-Straße"
-          },
-          {
-            "id": "de:09162:397",
-            "name": "Pulverturm"
-          },
-          {
-            "id": "de:09162:337",
-            "name": "Detmoldstraße"
-          },
-          {
-            "id": "de:09162:753",
-            "name": "Max-Diamand-Straße"
-          },
-          {
-            "id": "de:09162:755",
-            "name": "BMW-FIZ"
-          },
-          {
-            "id": "de:09162:756",
-            "name": "Am Hart Süd"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "172",
-        "name": "172",
-        "stations": [
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:756",
-            "name": "Am Hart Süd"
-          },
-          {
-            "id": "de:09162:755",
-            "name": "BMW-FIZ"
-          },
-          {
-            "id": "de:09162:753",
-            "name": "Max-Diamand-Straße"
-          },
-          {
-            "id": "de:09162:337",
-            "name": "Detmoldstraße"
-          },
-          {
-            "id": "de:09162:397",
-            "name": "Pulverturm"
-          },
-          {
-            "id": "de:09162:401",
-            "name": "Augustin-Rösch-Straße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:346",
-            "name": "Paidarstraße"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:1986",
-            "name": "Lerchenstraße"
-          },
-          {
-            "id": "de:09162:1984",
-            "name": "Josef-Frankl-Straße"
-          },
-          {
-            "id": "de:09162:1981",
-            "name": "Grashofstraße"
-          },
-          {
-            "id": "de:09162:1979",
-            "name": "Schwarzhölzlstraße"
-          },
-          {
-            "id": "de:09162:1973",
-            "name": "Feldmochinger See"
-          },
-          {
-            "id": "de:09162:1978",
-            "name": "Kaiserhölzlstraße"
-          },
-          {
-            "id": "de:09162:1969",
-            "name": "Siedlung Ludwigsfeld"
-          },
-          {
-            "id": "de:09162:1974",
-            "name": "Opalstraße"
-          },
-          {
-            "id": "de:09162:1968",
-            "name": "Kristallstraße"
-          },
-          {
-            "id": "de:09162:1976",
-            "name": "Karlsfelder Straße"
-          },
-          {
-            "id": "de:09174:7061",
-            "name": "Karlsfeld, Mü. Str./Würmkanal"
-          },
-          {
-            "id": "de:09174:6956",
-            "name": "Karlsfeld, Krenmoosstraße"
-          },
-          {
-            "id": "de:09174:7002",
-            "name": "Karlsfeld, Münchner Straße"
-          },
-          {
-            "id": "de:09174:7062",
-            "name": "Karlsfeld, Einkaufsmärkte"
-          },
-          {
-            "id": "de:09174:7085",
-            "name": "Dachau, Schulzentrum"
-          },
-          {
-            "id": "de:09174:7066",
-            "name": "Dachau, St.-Peter-Straße"
-          },
-          {
-            "id": "de:09174:7052",
-            "name": "Dachau, I.-Taschner-Gymnasium"
-          },
-          {
-            "id": "de:09174:6874",
-            "name": "Dachau, Frühlingstraße"
-          },
-          {
-            "id": "de:09174:6800",
-            "name": "Dachau Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "41",
-        "name": "N41",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:346",
-            "name": "Paidarstraße"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:405",
-            "name": "Weitlstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:402",
-            "name": "Röblingweg"
-          },
-          {
-            "id": "de:09162:409",
-            "name": "Rathenaustraße"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:756",
-            "name": "Am Hart Süd"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:751",
-            "name": "Korbinianplatz"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:419",
-            "name": "Rümannstraße"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:434",
-            "name": "Potsdamer Straße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:108",
-            "name": "Hohenzollernstraße"
-          },
-          {
-            "id": "de:09162:36",
-            "name": "Georgenstraße"
-          },
-          {
-            "id": "de:09162:1192",
-            "name": "Siegestor"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:124",
-            "name": "Von-der-Tann-Straße"
-          },
-          {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
-          },
-          {
-            "id": "de:09162:8002",
-            "name": "Maximiliansplatz"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1321",
-            "name": "Adunistraße"
-          },
-          {
-            "id": "de:09162:1322",
-            "name": "Schneemannstraße"
-          },
-          {
-            "id": "de:09162:1323",
-            "name": "Zielstattstraße"
-          },
-          {
-            "id": "de:09162:1302",
-            "name": "Hofmannstraße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1337",
-            "name": "Kistlerhofstraße"
-          },
-          {
-            "id": "de:09162:1338",
-            "name": "Leutstettener Straße"
-          },
-          {
-            "id": "de:09162:1339",
-            "name": "Siemensallee"
-          },
-          {
-            "id": "de:09162:1345",
-            "name": "Marienstern"
-          },
-          {
-            "id": "de:09162:1346",
-            "name": "Hofbrunnstraße"
-          },
-          {
-            "id": "de:09162:1403",
-            "name": "Plattlinger Straße"
-          },
-          {
-            "id": "de:09162:1360",
-            "name": "Gilgstraße"
-          },
-          {
-            "id": "de:09162:1349",
-            "name": "Wilhelm-Busch-Straße"
-          },
-          {
-            "id": "de:09162:1351",
-            "name": "Gulbranssonstraße"
-          },
-          {
-            "id": "de:09162:1354",
-            "name": "Stäblistraße"
-          },
-          {
-            "id": "de:09162:1415",
-            "name": "Bad Forstenried"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1355",
-            "name": "Nesselwanger Straße"
-          },
-          {
-            "id": "de:09162:1416",
-            "name": "Neurieder Straße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "41",
-        "name": "N41",
-        "stations": [
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1416",
-            "name": "Neurieder Straße"
-          },
-          {
-            "id": "de:09162:1355",
-            "name": "Nesselwanger Straße"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1415",
-            "name": "Bad Forstenried"
-          },
-          {
-            "id": "de:09162:1354",
-            "name": "Stäblistraße"
-          },
-          {
-            "id": "de:09162:1351",
-            "name": "Gulbranssonstraße"
-          },
-          {
-            "id": "de:09162:1349",
-            "name": "Wilhelm-Busch-Straße"
-          },
-          {
-            "id": "de:09162:1360",
-            "name": "Gilgstraße"
-          },
-          {
-            "id": "de:09162:1403",
-            "name": "Plattlinger Straße"
-          },
-          {
-            "id": "de:09162:1346",
-            "name": "Hofbrunnstraße"
-          },
-          {
-            "id": "de:09162:1345",
-            "name": "Marienstern"
-          },
-          {
-            "id": "de:09162:1339",
-            "name": "Siemensallee"
-          },
-          {
-            "id": "de:09162:1338",
-            "name": "Leutstettener Straße"
-          },
-          {
-            "id": "de:09162:1337",
-            "name": "Kistlerhofstraße"
-          },
-          {
-            "id": "de:09162:1460",
-            "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1303",
-            "name": "Ratzingerplatz"
-          },
-          {
-            "id": "de:09162:1302",
-            "name": "Hofmannstraße"
-          },
-          {
-            "id": "de:09162:1323",
-            "name": "Zielstattstraße"
-          },
-          {
-            "id": "de:09162:1322",
-            "name": "Schneemannstraße"
-          },
-          {
-            "id": "de:09162:1321",
-            "name": "Adunistraße"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:30",
-            "name": "Poccistraße"
-          },
-          {
-            "id": "de:09162:40",
-            "name": "Goetheplatz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:16",
-            "name": "Lenbachplatz"
-          },
-          {
-            "id": "de:09162:8002",
-            "name": "Maximiliansplatz"
-          },
-          {
-            "id": "de:09162:197",
-            "name": "Oskar-von-Miller-Ring"
-          },
-          {
-            "id": "de:09162:124",
-            "name": "Von-der-Tann-Straße"
-          },
-          {
-            "id": "de:09162:70",
-            "name": "Universität"
-          },
-          {
-            "id": "de:09162:1192",
-            "name": "Siegestor"
-          },
-          {
-            "id": "de:09162:36",
-            "name": "Georgenstraße"
-          },
-          {
-            "id": "de:09162:108",
-            "name": "Hohenzollernstraße"
-          },
-          {
-            "id": "de:09162:500",
-            "name": "Münchner Freiheit"
-          },
-          {
-            "id": "de:09162:434",
-            "name": "Potsdamer Straße"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:419",
-            "name": "Rümannstraße"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:751",
-            "name": "Korbinianplatz"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:756",
-            "name": "Am Hart Süd"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:409",
-            "name": "Rathenaustraße"
-          },
-          {
-            "id": "de:09162:402",
-            "name": "Röblingweg"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:788",
-            "name": "Aschenbrennerstraße"
-          },
-          {
-            "id": "de:09162:351",
-            "name": "Stösserstraße"
-          },
-          {
-            "id": "de:09162:349",
-            "name": "Stanigplatz"
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:346",
-            "name": "Paidarstraße"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-04-09T08:49:23Z",
-    "text": "<div>Wegen Wasserleitungsarbeiten in der D&uuml;lferstra&szlig;e werden die Buslinien 170, 171, 172 und N41 von Montag, 22. April ca. 08:00 Uhr bis vsl. Freitag, 10. Mai 2024 zwischen den (H) Feldmoching Bf. und Paidarstra&szlig;e/Feldmoching Bf. Ost umgeleitet bzw. verk&uuml;rzt.</div>\n<ul>\n<li>Die Buslinien 170, 171 und N41 enden vorzeitig an der (H) Feldmoching Bf. Ost. Die (H) Feldmoching Bf. am Walter-Sedlmayr-Platz entf&auml;llt. Die Busse in Richtung Kieferngarten/Am Hart/F&uuml;rstenried West fahren an der (H) Feldmoching Bf. Ost &ouml;stlich der Einm&uuml;ndung Ratold-/Bernhardstra&szlig;e ab.</li>\n<li>Die Buslinie 172 wird zwischen den (H) Paidarstra&szlig;e und Feldmoching Bf. &uuml;ber die Lerchenstra&szlig;e umgeleitet. Ihre Fahrzeit verl&auml;ngert sich durch die Umleitung um wenige Minuten. Fahrg&auml;ste aus Richtung Am Hart kommend k&ouml;nnen an der zus&auml;tzlich bedienten (H) Feldmoching Bf. Ost zur U2, S1 sowie Regionalz&uuml;gen umsteigen.</li>\n</ul>\r\n",
-    "title": "Feldmoching Bf. <> Paidarstraße bzw. Feldmoching Bf. Ost: Umleitung und verkürzter Linienweg wegen Wasserleitungsarbeiten in der Dülferstraße",
     "type": "PLANNED"
   },
   {

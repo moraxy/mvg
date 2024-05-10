@@ -5,7 +5,7 @@
       "toDate": "2024-05-10T05:35:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U1 sind noch bis voraussichtlich 07:40 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste, <br/>auf den Linien U1, U2 und U7 sind noch bis voraussichtlich 07:40 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
     "id": "2480eada-2281-41f6-94d9-35980d9f1227",
     "incidentDuration": [
       {
@@ -150,11 +150,331 @@
           }
         ],
         "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "7",
+        "name": "U7",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "METRO"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-10T04:36:28Z",
-    "text": "Liebe Fahrgäste, <br/>auf der Linie U1 sind noch bis voraussichtlich 07:40 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "modificationDate": "2024-05-10T04:41:16Z",
+    "text": "Liebe Fahrgäste, <br/>auf den Linien U1, U2 und U7 sind noch bis voraussichtlich 07:40 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
     "type": "DISRUPTION"
   },

@@ -619,6 +619,157 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-10T13:12:00Z",
+      "toDate": "2024-05-10T15:12:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 27 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li>Die Linie 27 wird in beiden Richtungen zwischen Herzogstraße und Nordbad umgeleitet. Die Umleitung verläuft über die Haltestelle Ackermannbogen. Die Haltestellen Herzogstraße, Ackermannstraße, Gartenstraße und Petuelring können leider nicht bedient werden. </li><li>Den nicht angefahrenen Streckenabschnitt der Tram erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "f22eda28-d5eb-46c4-8e52-0ae650350639",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-10T13:12:00Z",
+        "toDate": "2024-05-10T15:12:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-10T13:17:21Z",
+    "text": "Liebe Fahrgäste, <br/>wegen eines Verkehrsunfalls kommt es bei der Linie 27 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li>Die Linie 27 wird in beiden Richtungen zwischen Herzogstraße und Nordbad umgeleitet. Die Umleitung verläuft über die Haltestelle Ackermannbogen. Die Haltestellen Herzogstraße, Ackermannstraße, Gartenstraße und Petuelring können leider nicht bedient werden. </li><li>Den nicht angefahrenen Streckenabschnitt der Tram erreichen Sie für die Dauer der Störung mit kostenlosen Taxis. Bitte beachten Sie, dass der eingesetzte Ersatzverkehr nur über eine eingeschränkte Kapazität verfügt und teilweise am rechten Fahrbahnrand hält.</li></ul>Die Behinderungen werden noch voraussichtlich bis 17:10 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Teilweise SEV-Bus statt Tram wegen eines Verkehrsunfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

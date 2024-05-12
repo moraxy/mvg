@@ -501,7 +501,7 @@
       "toDate": "2024-05-12T17:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 51 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 51 und 59 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "2c5b3d49-cf8d-4b83-bba0-632c8f4cec30",
     "incidentDuration": [
       {
@@ -762,11 +762,251 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "59",
+        "name": "59",
+        "stations": [
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1064",
+            "name": "Langbürgener Straße"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1027",
+            "name": "Aschheimer Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:921",
+            "name": "Mühldorfstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:663",
+            "name": "Zaubzerstraße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:511",
+            "name": "Osterwaldstraße"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:109",
+            "name": "Friedrichstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:294",
+            "name": "Ackermannbogen"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "59",
+        "name": "59",
+        "stations": [
+          {
+            "id": "de:09162:294",
+            "name": "Ackermannbogen"
+          },
+          {
+            "id": "de:09162:293",
+            "name": "Georg-Birk-Straße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:452",
+            "name": "Pündterplatz"
+          },
+          {
+            "id": "de:09162:455",
+            "name": "Bismarckstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:511",
+            "name": "Osterwaldstraße"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:663",
+            "name": "Zaubzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:921",
+            "name": "Mühldorfstraße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:1027",
+            "name": "Aschheimer Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1064",
+            "name": "Langbürgener Straße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-12T15:05:30Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf der Linie 51 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "modificationDate": "2024-05-12T15:24:55Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien 51 und 59 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },
@@ -1671,193 +1911,6 @@
     "modificationDate": "2024-05-07T09:43:11Z",
     "text": "<div>Liebe Fahrg&auml;ste,</div>\n<div>&nbsp;</div>\n<div>Wegen einer Veranstaltung in der Innenstadt (Benefizlauf Bellevue Di Monaco) werden die Buslinien 52, 62, 100, 132 und 153 am Sonntag,12.Mai 2024 von ca. 05:00 bis 23:00 Uhr umgeleitet bzw. unterbrochen.<br /><br />Weitere Information dazu erhalten Sie unter mvg.de<br />Wir bitten um Verst&auml;ndnis.<br /><br />Ihre MVG</div>\r\n",
     "title": "Umleitung und Unterbrechung wegen des Benefizlauf Bellevue Di Monaco",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-12T15:16:00Z",
-      "toDate": "2024-05-12T15:30:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 145 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "77156c13-1d06-4ed3-b07e-6cd656bfcb95",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-12T15:16:00Z",
-        "toDate": "2024-05-12T15:30:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "145",
-        "name": "145",
-        "stations": [
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:92",
-            "name": "Kustermannpark"
-          },
-          {
-            "id": "de:09162:1001",
-            "name": "Anzinger Straße"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1026",
-            "name": "Thomasiusplatz"
-          },
-          {
-            "id": "de:09162:1057",
-            "name": "Klagenfurter Straße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1023",
-            "name": "Ständlerstraße"
-          },
-          {
-            "id": "de:09162:1022",
-            "name": "Hochäckerstraße"
-          },
-          {
-            "id": "de:09162:1055",
-            "name": "Plassenburgstraße"
-          },
-          {
-            "id": "de:09162:1059",
-            "name": "Görzer Straße"
-          },
-          {
-            "id": "de:09162:1054",
-            "name": "Obernzeller Straße"
-          },
-          {
-            "id": "de:09162:1053",
-            "name": "Fasangartenstraße"
-          },
-          {
-            "id": "de:09162:1061",
-            "name": "Landrichterstraße"
-          },
-          {
-            "id": "de:09162:1179",
-            "name": "Kiefernstraße"
-          },
-          {
-            "id": "de:09162:1181",
-            "name": "Minnewitstraße"
-          },
-          {
-            "id": "de:09162:1062",
-            "name": "Cincinnatistraße"
-          },
-          {
-            "id": "de:09162:1120",
-            "name": "Fasangarten Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "145",
-        "name": "145",
-        "stations": [
-          {
-            "id": "de:09162:1120",
-            "name": "Fasangarten Bf."
-          },
-          {
-            "id": "de:09162:1062",
-            "name": "Cincinnatistraße"
-          },
-          {
-            "id": "de:09162:1181",
-            "name": "Minnewitstraße"
-          },
-          {
-            "id": "de:09162:1179",
-            "name": "Kiefernstraße"
-          },
-          {
-            "id": "de:09162:1061",
-            "name": "Landrichterstraße"
-          },
-          {
-            "id": "de:09162:1053",
-            "name": "Fasangartenstraße"
-          },
-          {
-            "id": "de:09162:1054",
-            "name": "Obernzeller Straße"
-          },
-          {
-            "id": "de:09162:1059",
-            "name": "Görzer Straße"
-          },
-          {
-            "id": "de:09162:1055",
-            "name": "Plassenburgstraße"
-          },
-          {
-            "id": "de:09162:1022",
-            "name": "Hochäckerstraße"
-          },
-          {
-            "id": "de:09162:1023",
-            "name": "Ständlerstraße"
-          },
-          {
-            "id": "de:09162:1056",
-            "name": "Balanstraße"
-          },
-          {
-            "id": "de:09162:1057",
-            "name": "Klagenfurter Straße"
-          },
-          {
-            "id": "de:09162:1026",
-            "name": "Thomasiusplatz"
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1001",
-            "name": "Anzinger Straße"
-          },
-          {
-            "id": "de:09162:89",
-            "name": "Orleansstraße"
-          },
-          {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-12T15:18:02Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 145 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen einer Betriebsstörung",
     "type": "DISRUPTION"
   },
   {

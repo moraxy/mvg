@@ -1,25 +1,6 @@
 [
   {
     "bannerHash": "",
-    "cancelled": true,
-    "destination": "Messestadt Ost",
-    "divaId": "010U2",
-    "label": "U2",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "UNKNOWN",
-    "plannedDepartureTime": 1715554800000,
-    "platform": 2,
-    "platformChanged": false,
-    "realtime": false,
-    "realtimeDepartureTime": 1714954860000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:51:52",
-    "trainType": "",
-    "transportType": "UBAHN"
-  },
-  {
-    "bannerHash": "",
     "cancelled": false,
     "delayInMinutes": 1,
     "destination": "Olympia-Einkaufsz.",
@@ -359,6 +340,25 @@
     "realtimeDepartureTime": 1715570880000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:51:51",
+    "trainType": "",
+    "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Messestadt Ost",
+    "divaId": "010U2",
+    "label": "U2",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "UNKNOWN",
+    "plannedDepartureTime": 1715571060000,
+    "platform": 2,
+    "platformChanged": false,
+    "realtime": false,
+    "realtimeDepartureTime": 1715571060000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
   }

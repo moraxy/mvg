@@ -1,6 +1,165 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-13T20:01:00Z",
+      "toDate": "2024-05-13T21:01:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Kolumbusplatz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U1. <br>Die Behinderungen werden noch voraussichtlich bis 23:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "6a563965-2299-4741-aa41-2c22e3b1bb1c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-13T20:01:00Z",
+        "toDate": "2024-05-13T21:01:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "1",
+        "name": "U1",
+        "stations": [
+          {
+            "id": "de:09162:1210",
+            "name": "Mangfallplatz"
+          },
+          {
+            "id": "de:09162:1200",
+            "name": "St.-Quirin-Platz"
+          },
+          {
+            "id": "de:09162:1190",
+            "name": "Wettersteinplatz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:990",
+            "name": "Gern"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-13T20:04:13Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Kolumbusplatz kommt es derzeit zu Verspätungen und einzelnen Ausfällen auf der Linie U1. <br>Die Behinderungen werden noch voraussichtlich bis 23:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-21T22:01:00Z",
       "toDate": "2024-06-13T21:59:00Z"
     },
@@ -1984,7 +2143,7 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-13T15:45:00Z",
-      "toDate": "2024-05-13T21:59:00Z"
+      "toDate": "2024-05-14T11:00:00Z"
     },
     "downloadLinks": [],
     "htmlText": "Wegen eines Wasserrohrbruch im Haltestellenbereich Werinherstra&szlig;e in Rtg. M&uuml;nchner Freiheit , kann die Haltestelle erst nach ca. 20 Meter&nbsp; bedient werden. Ihre MVG<br/>\r\n\r\n",
@@ -1992,7 +2151,7 @@
     "incidentDuration": [
       {
         "fromDate": "2024-05-13T15:45:00Z",
-        "toDate": "2024-05-13T21:59:00Z"
+        "toDate": "2024-05-14T11:00:00Z"
       }
     ],
     "incidents": [],
@@ -2363,7 +2522,7 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-13T18:01:09Z",
+    "modificationDate": "2024-05-13T20:09:17Z",
     "text": "Wegen eines Wasserrohrbruch im Haltestellenbereich Werinherstra&szlig;e in Rtg. M&uuml;nchner Freiheit , kann die Haltestelle erst nach ca. 20 Meter&nbsp; bedient werden. Ihre MVG<br/>\r\n\r\n",
     "title": "Haltestellenverlegung Buslinie 54 in Richtung Münchner Freiheit",
     "type": "DISRUPTION"

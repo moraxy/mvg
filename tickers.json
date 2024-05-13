@@ -4490,6 +4490,207 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-12T22:01:00Z",
+      "toDate": "2024-06-07T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "ea54c067-d1f0-44a0-a38f-f0d72844da93_-1058869698",
+        "mimeType": "image/jpeg",
+        "name": "SEV N20, Abschnitt Moosach Bf. - Wintrichring"
+      },
+      {
+        "id": "ea54c067-d1f0-44a0-a38f-f0d72844da93_813273718",
+        "mimeType": "image/jpeg",
+        "name": "SEV N20, Abschnitt Hanauer Straße - Olympiapark West"
+      },
+      {
+        "id": "ea54c067-d1f0-44a0-a38f-f0d72844da93_1458341226",
+        "mimeType": "image/jpeg",
+        "name": "SEV N20, Abschnitt Heideckstraße - Hochschule München"
+      },
+      {
+        "id": "ea54c067-d1f0-44a0-a38f-f0d72844da93_-1109895686",
+        "mimeType": "image/jpeg",
+        "name": "SEV N20, Abschnitt Sandstraße - Karlstraße"
+      },
+      {
+        "id": "ea54c067-d1f0-44a0-a38f-f0d72844da93_334270537",
+        "mimeType": "image/jpeg",
+        "name": "SEV N20, Abschnitt Hauptbahnhof Nord - Karlsplatz (Stachus)"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten am Olympiapark West wird die Tram N20 von Montag, 3. Juni bis vsl. Freitag, 7. Juni 2024 auf dem gesamten Linienweg durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Die Ersatzbusse halten in unmittelbarer N&auml;he der Tramhaltestellen am rechten Fahrbahnrand. Die Haltestellen des Ersatzverkehrs entnehmen Sie bitte den hier angeh&auml;ngten Grafiken bzw. den Aush&auml;ngen an Ihrer Haltestelle.</div>\r\n",
+    "id": "ea54c067-d1f0-44a0-a38f-f0d72844da93",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-02T22:01:00Z",
+        "toDate": "2024-06-07T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "920",
+        "name": "N20",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "920",
+        "name": "N20",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:301",
+            "name": "Pelkovenstraße"
+          },
+          {
+            "id": "de:09162:302",
+            "name": "Hugo-Troendle-Straße"
+          },
+          {
+            "id": "de:09162:303",
+            "name": "Wintrichring"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:305",
+            "name": "Borstei"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:307",
+            "name": "Heideckstraße"
+          },
+          {
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:13",
+            "name": "Sandstraße"
+          },
+          {
+            "id": "de:09162:170",
+            "name": "Stiglmaierplatz"
+          },
+          {
+            "id": "de:09162:15",
+            "name": "Karlstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-13T06:13:12Z",
+    "text": "<div>Wegen Bauarbeiten am Olympiapark West wird die Tram N20 von Montag, 3. Juni bis vsl. Freitag, 7. Juni 2024 auf dem gesamten Linienweg durch Busse ersetzt.</div>\n<div>&nbsp;</div>\n<div>Die Ersatzbusse halten in unmittelbarer N&auml;he der Tramhaltestellen am rechten Fahrbahnrand. Die Haltestellen des Ersatzverkehrs entnehmen Sie bitte den hier angeh&auml;ngten Grafiken bzw. den Aush&auml;ngen an Ihrer Haltestelle.</div>\r\n",
+    "title": "Ersatzverkehr mit Bussen (SEV) wegen Bauarbeiten am Olympiapark West",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-06T22:01:00Z",
       "toDate": "2024-05-29T03:00:00Z"
     },

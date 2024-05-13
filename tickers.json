@@ -248,6 +248,337 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-13T11:18:00Z",
+      "toDate": "2024-05-13T12:18:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "\r\nLiebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Zenettistraße kommt es auf der Linie 62 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 62 in Richtung Rotkreuzplatz wird zwischen Kapuzinerstraße und Tumblingerstraße umgeleitet. Die Haltestelle Zenettistraße kann leider nicht bedient werden. </li> \t<li> Die Linie 62 in Richtung Ostbahnhof wird zwischen Tumblingerstraße und Kapuzinerstraße umgeleitet. Die Haltestellen Zenettistraße, Ehrengutstraße und Lagerhausstraße in Fahrtrichtung Ostbahnhof können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "06e47751-629c-4a57-a8dd-ebd3e6eb928c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-13T11:18:00Z",
+        "toDate": "2024-05-13T12:18:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-13T11:23:14Z",
+    "text": "\r\nLiebe Fahrgäste,<br>wegen eines Notarzteinsatzes im Bereich Zenettistraße kommt es auf der Linie 62 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> \t<li> Die Linie 62 in Richtung Rotkreuzplatz wird zwischen Kapuzinerstraße und Tumblingerstraße umgeleitet. Die Haltestelle Zenettistraße kann leider nicht bedient werden. </li> \t<li> Die Linie 62 in Richtung Ostbahnhof wird zwischen Tumblingerstraße und Kapuzinerstraße umgeleitet. Die Haltestellen Zenettistraße, Ehrengutstraße und Lagerhausstraße in Fahrtrichtung Ostbahnhof können leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 14:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Notarzteinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },
@@ -5566,7 +5897,7 @@
   {
     "activeDuration": {
       "fromDate": "2024-02-26T23:01:00Z",
-      "toDate": "2024-05-24T21:59:00Z"
+      "toDate": "2024-07-26T21:59:00Z"
     },
     "downloadLinks": [
       {
@@ -5575,12 +5906,12 @@
         "name": "Umleitungskarte"
       }
     ],
-    "htmlText": "<div>Wegen Wasserleitungsarbeiten in der Hofmannstra&szlig;e wird die Buslinie 53 &gt; M&uuml;nchner Freiheit von Dienstag, 2. April ca. 08:00 Uhr bis vsl. Freitag, 24. Mai 2024 zwischen Aidenbachstra&szlig;e und Hofmannstra&szlig;e umgeleitet. Die (H) Kistlerhofstra&szlig;e und Gmunder Stra&szlig;e k&ouml;nnen nicht bedient werden.</div>\r\n",
+    "htmlText": "<div>Wegen Wasserleitungsarbeiten in der Hofmannstra&szlig;e wird die Buslinie 53 &gt; M&uuml;nchner Freiheit von Dienstag, 2. April ca. 08:00 Uhr bis vsl. Freitag, 26. Juli 2024 zwischen Aidenbachstra&szlig;e und Hofmannstra&szlig;e umgeleitet. Die (H) Kistlerhofstra&szlig;e und Gmunder Stra&szlig;e k&ouml;nnen nicht bedient werden.</div>\r\n",
     "id": "a908c7b1-be22-4c96-acb8-eed9be33d101",
     "incidentDuration": [
       {
         "fromDate": "2024-04-01T22:01:00Z",
-        "toDate": "2024-05-24T21:59:00Z"
+        "toDate": "2024-07-26T21:59:00Z"
       }
     ],
     "incidents": [],
@@ -5593,14 +5924,6 @@
           {
             "id": "de:09162:1460",
             "name": "Aidenbachstraße"
-          },
-          {
-            "id": "de:09162:1337",
-            "name": "Kistlerhofstraße"
-          },
-          {
-            "id": "de:09162:1327",
-            "name": "Gmunder Straße"
           },
           {
             "id": "de:09162:1302",
@@ -5891,8 +6214,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-03-04T06:01:03Z",
-    "text": "<div>Wegen Wasserleitungsarbeiten in der Hofmannstra&szlig;e wird die Buslinie 53 &gt; M&uuml;nchner Freiheit von Dienstag, 2. April ca. 08:00 Uhr bis vsl. Freitag, 24. Mai 2024 zwischen Aidenbachstra&szlig;e und Hofmannstra&szlig;e umgeleitet. Die (H) Kistlerhofstra&szlig;e und Gmunder Stra&szlig;e k&ouml;nnen nicht bedient werden.</div>\r\n",
+    "modificationDate": "2024-05-13T11:24:24Z",
+    "text": "<div>Wegen Wasserleitungsarbeiten in der Hofmannstra&szlig;e wird die Buslinie 53 &gt; M&uuml;nchner Freiheit von Dienstag, 2. April ca. 08:00 Uhr bis vsl. Freitag, 26. Juli 2024 zwischen Aidenbachstra&szlig;e und Hofmannstra&szlig;e umgeleitet. Die (H) Kistlerhofstra&szlig;e und Gmunder Stra&szlig;e k&ouml;nnen nicht bedient werden.</div>\r\n",
     "title": "Aidenbachstraße > Hofmannstraße: Umleitung wegen Wasserleitungsarbeiten in der Hofmannstraße",
     "type": "PLANNED"
   },

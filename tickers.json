@@ -5,7 +5,7 @@
       "toDate": "2024-05-13T09:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 11:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie U5 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
     "id": "92bcd1e3-2175-434d-8ef4-a76bdcbb7f42",
     "incidentDuration": [
       {
@@ -177,9 +177,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-13T06:02:52Z",
-    "text": "Liebe Fahrgäste, <br/>auf der Linie U5 sind noch bis voraussichtlich 11:00 Uhr nicht alle planmäßigen Züge im Einsatz. Es kann daher vereinzelt zu Taktlücken und längeren Wartezeiten kommen. <br/>Wir bitten um Entschuldigung. <br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "modificationDate": "2024-05-13T06:19:06Z",
+    "text": "Liebe Fahrgäste,<br/>nach einer bereits behobenen Störung kommt es auf der Linie U5 derzeit zu Verspätungen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
@@ -7761,6 +7761,275 @@
     "modificationDate": "2024-03-04T06:09:04Z",
     "text": "<div>Wegen Stromleitungsarbeiten ist die (H) St. Pius der Buslinie 59 &gt; Giesing Bf. von Dienstag, 2. April ca. 08:00 Uhr bis vsl. Freitag, 2. August 2024 vor die Einm&uuml;ndung Ampfingstra&szlig;e / Grafinger Stra&szlig;e verlegt.</div>\r\n",
     "title": "Haltestelle St. Pius in Richtung Giesing Bf. wegen Stromleitungsarbeiten verlegt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-13T06:00:00Z",
+      "toDate": "2024-06-07T07:00:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "68b1541b-71b1-437a-91ba-4b17694368ab_-65300920",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Stra&szlig;enbauarbeiten in der Herzogstra&szlig;e wird die Buslinie 59 &gt; Giesing Bf. von Montag, 3. Juni bis vsl. Freitag, 7. Juni 2024 zwischen Kurf&uuml;rstenplatz und Potsdamer Stra&szlig;e umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) P&uuml;ndterplatz, Bismarckstra&szlig;e und M&uuml;nchner Freiheit entfallen. Bitte nutzen Sie die U6 zwischen M&uuml;nchner Freiheit und Dietlindenstra&szlig;e. Auf der Umleitungsstrecke werden die (H) Clemensstra&szlig;e und Bonner Platz bedient.</div>\r\n",
+    "id": "68b1541b-71b1-437a-91ba-4b17694368ab",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-03T06:00:00Z",
+        "toDate": "2024-06-07T07:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "59",
+        "name": "59",
+        "stations": [
+          {
+            "id": "de:09162:294",
+            "name": "Ackermannbogen"
+          },
+          {
+            "id": "de:09162:293",
+            "name": "Georg-Birk-Straße"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:452",
+            "name": "Pündterplatz"
+          },
+          {
+            "id": "de:09162:455",
+            "name": "Bismarckstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:511",
+            "name": "Osterwaldstraße"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:663",
+            "name": "Zaubzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:921",
+            "name": "Mühldorfstraße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:1027",
+            "name": "Aschheimer Straße"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1064",
+            "name": "Langbürgener Straße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "59",
+        "name": "59",
+        "stations": [
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1108",
+            "name": "Chiemgaustraße"
+          },
+          {
+            "id": "de:09162:1056",
+            "name": "Balanstraße"
+          },
+          {
+            "id": "de:09162:1064",
+            "name": "Langbürgener Straße"
+          },
+          {
+            "id": "de:09162:1003",
+            "name": "Ramersdorf"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1027",
+            "name": "Aschheimer Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:921",
+            "name": "Mühldorfstraße"
+          },
+          {
+            "id": "de:09162:901",
+            "name": "Ampfingstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:663",
+            "name": "Zaubzerstraße"
+          },
+          {
+            "id": "de:09162:560",
+            "name": "Böhmerwaldplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:512",
+            "name": "Herzogpark"
+          },
+          {
+            "id": "de:09162:511",
+            "name": "Osterwaldstraße"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:434",
+            "name": "Potsdamer Straße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
+          },
+          {
+            "id": "de:09162:109",
+            "name": "Friedrichstraße"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
+          },
+          {
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
+          },
+          {
+            "id": "de:09162:294",
+            "name": "Ackermannbogen"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-13T06:20:52Z",
+    "text": "<div>Wegen Stra&szlig;enbauarbeiten in der Herzogstra&szlig;e wird die Buslinie 59 &gt; Giesing Bf. von Montag, 3. Juni bis vsl. Freitag, 7. Juni 2024 zwischen Kurf&uuml;rstenplatz und Potsdamer Stra&szlig;e umgeleitet.</div>\n<div>&nbsp;</div>\n<div>Die (H) P&uuml;ndterplatz, Bismarckstra&szlig;e und M&uuml;nchner Freiheit entfallen. Bitte nutzen Sie die U6 zwischen M&uuml;nchner Freiheit und Dietlindenstra&szlig;e. Auf der Umleitungsstrecke werden die (H) Clemensstra&szlig;e und Bonner Platz bedient.</div>\r\n",
+    "title": "Kurfürstenplatz > Potsdamer Straße: Umleitung wegen Straßenbauarbeiten in der Herzogstraße",
     "type": "PLANNED"
   },
   {

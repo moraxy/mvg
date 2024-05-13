@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-13T13:11:00Z",
-      "toDate": "2024-05-13T14:30:00Z"
+      "toDate": "2024-05-13T15:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen Personen im Gleis im Bereich Machtlfinger Straße kommt es auf der Linie U3 derzeit zu  einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie U3 fährt nur im Abschnitt Moosach Bf. bis Thalkirchen (Tierpark). </li> <li>Die Haltestellen \tObersendling, Aidenbachstraße, Machtlfinger Straße, Forstenrieder Allee, Basler Straße und Fürstenried West können leider nicht bedient werden. </li><li>Bitte weichen Sie unter anderem auf die Linien 51, 53 aus. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 16:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie U3 gemeldete Behinderung (Grund: Personen im Gleis) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "71042e8e-7a57-4328-a8f4-95f14fc4276a",
     "incidentDuration": [
       {
         "fromDate": "2024-05-13T13:11:00Z",
-        "toDate": "2024-05-13T14:30:00Z"
+        "toDate": "2024-05-13T15:30:00Z"
       }
     ],
     "incidents": [],
@@ -233,9 +233,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-13T13:52:05Z",
-    "text": "Liebe Fahrgäste,<br>wegen Personen im Gleis im Bereich Machtlfinger Straße kommt es auf der Linie U3 derzeit zu  einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie U3 fährt nur im Abschnitt Moosach Bf. bis Thalkirchen (Tierpark). </li> <li>Die Haltestellen \tObersendling, Aidenbachstraße, Machtlfinger Straße, Forstenrieder Allee, Basler Straße und Fürstenried West können leider nicht bedient werden. </li><li>Bitte weichen Sie unter anderem auf die Linien 51, 53 aus. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 16:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Streckenunterbrechung wegen Personen im Gleis",
+    "modificationDate": "2024-05-13T14:06:13Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie U3 gemeldete Behinderung (Grund: Personen im Gleis) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -997,6 +997,229 @@
     "modificationDate": "2024-05-13T13:22:42Z",
     "text": "Liebe Fahrgäste,<br/>wegen eines Notarzteinsatzes kommt es auf der Linie 130 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 16:20 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Zeitweise Unregelmäßigkeiten wegen eines Notarzteinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-13T14:01:00Z",
+      "toDate": "2024-05-13T16:05:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "id": "b71ee0ea-ae9b-4630-ab52-4ff4cec47bd3",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-13T14:01:00Z",
+        "toDate": "2024-05-13T16:05:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "194",
+        "name": "194",
+        "stations": [
+          {
+            "id": "de:09162:800",
+            "name": "Riem Bf."
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:973",
+            "name": "Moosfeld Gewerbegebiet"
+          },
+          {
+            "id": "de:09162:972",
+            "name": "Karl-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:971",
+            "name": "Stahlgruberring"
+          },
+          {
+            "id": "de:09162:969",
+            "name": "Schatzbogen"
+          },
+          {
+            "id": "de:09162:807",
+            "name": "Heltauer Straße"
+          },
+          {
+            "id": "de:09162:926",
+            "name": "Halfinger Straße"
+          },
+          {
+            "id": "de:09162:927",
+            "name": "Truderinger Straße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:955",
+            "name": "Hippelstraße"
+          },
+          {
+            "id": "de:09162:956",
+            "name": "Lamprechtstraße"
+          },
+          {
+            "id": "de:09162:957",
+            "name": "Friesplatz"
+          },
+          {
+            "id": "de:09162:958",
+            "name": "Nauestraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "194",
+        "name": "194",
+        "stations": [
+          {
+            "id": "de:09162:958",
+            "name": "Nauestraße"
+          },
+          {
+            "id": "de:09162:957",
+            "name": "Friesplatz"
+          },
+          {
+            "id": "de:09162:956",
+            "name": "Lamprechtstraße"
+          },
+          {
+            "id": "de:09162:955",
+            "name": "Hippelstraße"
+          },
+          {
+            "id": "de:09162:954",
+            "name": "Am Hochacker"
+          },
+          {
+            "id": "de:09162:953",
+            "name": "Feldbergstraße"
+          },
+          {
+            "id": "de:09162:947",
+            "name": "Himalajastraße"
+          },
+          {
+            "id": "de:09162:948",
+            "name": "Batschkastraße"
+          },
+          {
+            "id": "de:09162:949",
+            "name": "Spertentalstraße"
+          },
+          {
+            "id": "de:09162:908",
+            "name": "Schmuckerweg"
+          },
+          {
+            "id": "de:09162:909",
+            "name": "Bajuwarenstraße"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:927",
+            "name": "Truderinger Straße"
+          },
+          {
+            "id": "de:09162:926",
+            "name": "Halfinger Straße"
+          },
+          {
+            "id": "de:09162:807",
+            "name": "Heltauer Straße"
+          },
+          {
+            "id": "de:09162:969",
+            "name": "Schatzbogen"
+          },
+          {
+            "id": "de:09162:971",
+            "name": "Stahlgruberring"
+          },
+          {
+            "id": "de:09162:972",
+            "name": "Karl-Schmid-Straße"
+          },
+          {
+            "id": "de:09162:973",
+            "name": "Moosfeld Gewerbegebiet"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:800",
+            "name": "Riem Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-13T14:07:41Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf der Linie 194 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },
   {

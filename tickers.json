@@ -1,6 +1,253 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-15T06:16:00Z",
+      "toDate": "2024-05-15T07:16:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Fröttmaning kommt es derzeit zu Verspätungen auf der Linie U6. <br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "11f1018f-9b9a-476e-b7db-eec81cf4c94f",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-15T06:16:00Z",
+        "toDate": "2024-05-15T07:16:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-15T06:18:50Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Fahrzeugstörung im Bereich Fröttmaning kommt es derzeit zu Verspätungen auf der Linie U6. <br>Die Behinderungen werden noch voraussichtlich bis 09:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-21T22:01:00Z",
       "toDate": "2024-06-13T21:59:00Z"
     },
@@ -248,805 +495,3352 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-15T03:08:00Z",
-      "toDate": "2024-05-15T09:01:00Z"
+      "fromDate": "2024-05-15T06:36:00Z",
+      "toDate": "2024-05-15T08:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "id": "47eaa29c-d2ee-40c1-89b5-532fc7379769",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "11f2e0d8-053d-4a6a-9419-7ddb9a1e90c9",
     "incidentDuration": [
       {
-        "fromDate": "2024-05-15T03:08:00Z",
-        "toDate": "2024-05-15T09:01:00Z"
+        "fromDate": "2024-05-15T06:36:00Z",
+        "toDate": "2024-05-15T08:30:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "2",
-        "id": "185",
-        "name": "185",
+        "id": "436",
+        "name": "X36",
         "stations": [
           {
-            "id": "de:09162:940",
-            "name": "Iltisstraße"
+            "id": "de:09162:530",
+            "name": "Alte Heide"
           },
           {
-            "id": "de:09162:938",
-            "name": "Sperberstraße"
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
           },
           {
-            "id": "de:09162:937",
-            "name": "Togostraße"
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
           },
           {
-            "id": "de:09162:936",
-            "name": "Birkhahnweg"
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
           },
           {
-            "id": "de:09162:935",
-            "name": "Turnerstraße"
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
           },
           {
-            "id": "de:09162:934",
-            "name": "Edeltraudstraße"
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
           },
           {
-            "id": "de:09162:933",
-            "name": "Florastraße"
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
           },
           {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
           },
           {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
+            "id": "de:09162:1961",
+            "name": "Am Neubruch"
           },
           {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
+            "id": "de:09162:1960",
+            "name": "Storchenweg"
           },
           {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
+            "id": "de:09162:1850",
+            "name": "Spiegelbergstraße"
           },
           {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
+            "id": "de:09162:1863",
+            "name": "Am Münchfeld"
           },
           {
-            "id": "de:09162:927",
-            "name": "Truderinger Straße"
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
           },
           {
-            "id": "de:09162:923",
-            "name": "Truderinger Straße, Brücke"
-          },
-          {
-            "id": "de:09162:942",
-            "name": "Thomas-Hauser-Straße"
-          },
-          {
-            "id": "de:09162:941",
-            "name": "Ursberger Straße"
-          },
-          {
-            "id": "de:09162:899",
-            "name": "Berg am Laim Bf. (Süd)"
-          },
-          {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
-          },
-          {
-            "id": "de:09162:640",
-            "name": "Zamdorfer Straße"
-          },
-          {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
-          },
-          {
-            "id": "de:09162:698",
-            "name": "Nettelbeckstraße"
-          },
-          {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
-          },
-          {
-            "id": "de:09162:609",
-            "name": "Warthestraße"
-          },
-          {
-            "id": "de:09162:638",
-            "name": "Pühnstraße"
-          },
-          {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
-          },
-          {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
-          },
-          {
-            "id": "de:09162:652",
-            "name": "Elektrastraße"
-          },
-          {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "1",
-        "id": "185",
-        "name": "185",
+        "id": "436",
+        "name": "X36",
         "stations": [
           {
-            "id": "de:09162:670",
-            "name": "Arabellapark"
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
           },
           {
-            "id": "de:09162:652",
-            "name": "Elektrastraße"
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
           },
           {
-            "id": "de:09162:616",
-            "name": "Daphnestraße"
+            "id": "de:09162:1863",
+            "name": "Am Münchfeld"
           },
           {
-            "id": "de:09162:610",
-            "name": "Vollmannstraße"
+            "id": "de:09162:1850",
+            "name": "Spiegelbergstraße"
           },
           {
-            "id": "de:09162:638",
-            "name": "Pühnstraße"
+            "id": "de:09162:1960",
+            "name": "Storchenweg"
           },
           {
-            "id": "de:09162:609",
-            "name": "Warthestraße"
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
           },
           {
-            "id": "de:09162:699",
-            "name": "Hermann-Gmeiner-Weg"
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
           },
           {
-            "id": "de:09162:698",
-            "name": "Nettelbeckstraße"
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
           },
           {
-            "id": "de:09162:641",
-            "name": "Friedrich-Eckart-Straße"
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
           },
           {
-            "id": "de:09162:910",
-            "name": "Berg am Laim Bf."
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
           },
           {
-            "id": "de:09162:899",
-            "name": "Berg am Laim Bf. (Süd)"
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
           },
           {
-            "id": "de:09162:941",
-            "name": "Ursberger Straße"
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
           },
           {
-            "id": "de:09162:942",
-            "name": "Thomas-Hauser-Straße"
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
           },
           {
-            "id": "de:09162:923",
-            "name": "Truderinger Straße, Brücke"
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "51",
+        "name": "51",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
           },
           {
-            "id": "de:09162:927",
-            "name": "Truderinger Straße"
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
           },
           {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
           },
           {
-            "id": "de:09162:909",
-            "name": "Bajuwarenstraße"
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
           },
           {
-            "id": "de:09162:908",
-            "name": "Schmuckerweg"
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
           },
           {
-            "id": "de:09162:928",
-            "name": "Nikolaus-Prugger-Weg"
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
           },
           {
-            "id": "de:09162:929",
-            "name": "Friedenspromenade"
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
           },
           {
-            "id": "de:09162:933",
-            "name": "Florastraße"
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
           },
           {
-            "id": "de:09162:934",
-            "name": "Edeltraudstraße"
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
           },
           {
-            "id": "de:09162:935",
-            "name": "Turnerstraße"
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
           },
           {
-            "id": "de:09162:936",
-            "name": "Birkhahnweg"
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
           },
           {
-            "id": "de:09162:937",
-            "name": "Togostraße"
+            "id": "de:09162:215",
+            "name": "Romanplatz"
           },
           {
-            "id": "de:09162:938",
-            "name": "Sperberstraße"
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
           },
           {
-            "id": "de:09162:940",
-            "name": "Iltisstraße"
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "195",
-        "name": "195",
+        "id": "51",
+        "name": "51",
         "stations": [
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
           },
           {
-            "id": "de:09162:970",
-            "name": "Otto-Hahn-Ring"
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
           },
           {
-            "id": "de:09162:963",
-            "name": "Tribulaunstraße"
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
           },
           {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
           },
           {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
           },
           {
-            "id": "de:09162:996",
-            "name": "Franz-Heubl-Straße"
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
           },
           {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
           },
           {
-            "id": "de:09162:959",
-            "name": "Alois-Hahn-Weg"
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
           },
           {
-            "id": "de:09162:953",
-            "name": "Feldbergstraße"
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
           },
           {
-            "id": "de:09162:954",
-            "name": "Am Hochacker"
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
           },
           {
-            "id": "de:09162:952",
-            "name": "Vogesenstraße"
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
           },
           {
-            "id": "de:09162:951",
-            "name": "Markgrafenstraße"
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
           },
           {
-            "id": "de:09162:950",
-            "name": "Zauberwaldstraße"
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
           },
           {
-            "id": "de:09162:949",
-            "name": "Spertentalstraße"
+            "id": "de:09162:9",
+            "name": "Laim Bf."
           },
           {
-            "id": "de:09162:948",
-            "name": "Batschkastraße"
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
           },
           {
-            "id": "de:09162:947",
-            "name": "Himalajastraße"
+            "id": "de:09162:225",
+            "name": "Herthastraße"
           },
           {
-            "id": "de:09162:946",
-            "name": "Simplonstraße"
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
           },
           {
-            "id": "de:09162:945",
-            "name": "Mönchbergstraße"
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
           },
           {
-            "id": "de:09162:912",
-            "name": "St.-Augustinus-Straße"
+            "id": "de:09162:215",
+            "name": "Romanplatz"
           },
           {
-            "id": "de:09162:944",
-            "name": "Gnadenwaldplatz"
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
           },
           {
-            "id": "de:09162:943",
-            "name": "Rofanstraße"
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
           },
           {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
           },
           {
-            "id": "de:09162:1007",
-            "name": "Heinrich-Wieland-Straße"
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
           },
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
+          },
+          {
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "1",
-        "id": "195",
-        "name": "195",
+        "id": "53",
+        "name": "53",
         "stations": [
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
           },
           {
-            "id": "de:09162:1007",
-            "name": "Heinrich-Wieland-Straße"
+            "id": "de:09162:108",
+            "name": "Hohenzollernstraße"
           },
           {
-            "id": "de:09162:906",
-            "name": "St.-Veit-Straße"
+            "id": "de:09162:109",
+            "name": "Friedrichstraße"
           },
           {
-            "id": "de:09162:943",
-            "name": "Rofanstraße"
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
           },
           {
-            "id": "de:09162:944",
-            "name": "Gnadenwaldplatz"
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
           },
           {
-            "id": "de:09162:912",
-            "name": "St.-Augustinus-Straße"
+            "id": "de:09162:34",
+            "name": "Nordbad"
           },
           {
-            "id": "de:09162:945",
-            "name": "Mönchbergstraße"
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
           },
           {
-            "id": "de:09162:946",
-            "name": "Simplonstraße"
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
           },
           {
-            "id": "de:09162:947",
-            "name": "Himalajastraße"
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
           },
           {
-            "id": "de:09162:948",
-            "name": "Batschkastraße"
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
           },
           {
-            "id": "de:09162:949",
-            "name": "Spertentalstraße"
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
           },
           {
-            "id": "de:09162:950",
-            "name": "Zauberwaldstraße"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           },
           {
-            "id": "de:09162:951",
-            "name": "Markgrafenstraße"
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
           },
           {
-            "id": "de:09162:952",
-            "name": "Vogesenstraße"
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
           },
           {
-            "id": "de:09162:954",
-            "name": "Am Hochacker"
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
           },
           {
-            "id": "de:09162:953",
-            "name": "Feldbergstraße"
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
           },
           {
-            "id": "de:09162:959",
-            "name": "Alois-Hahn-Weg"
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
           },
           {
-            "id": "de:09162:916",
-            "name": "Hugo-Lang-Bogen"
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
           },
           {
-            "id": "de:09162:917",
-            "name": "Oskar-Maria-Graf-Ring"
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
           },
           {
-            "id": "de:09162:962",
-            "name": "Klinikum Neuperlach"
+            "id": "de:09162:87",
+            "name": "Bergmannstraße"
           },
           {
-            "id": "de:09162:963",
-            "name": "Tribulaunstraße"
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
           },
           {
-            "id": "de:09162:970",
-            "name": "Otto-Hahn-Ring"
+            "id": "de:09162:27",
+            "name": "Ridlerstraße"
           },
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "196",
-        "name": "196",
-        "stations": [
-          {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:1101",
+            "name": "Ganghoferbrücke"
           },
           {
-            "id": "de:09162:1016",
-            "name": "Jakob-Kaiser-Straße"
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
           },
           {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
+            "id": "de:09162:1103",
+            "name": "Sendlinger Kirche"
           },
           {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
           },
           {
-            "id": "de:09162:1029",
-            "name": "Wolframstraße"
+            "id": "de:09162:1129",
+            "name": "Am Harras"
           },
           {
-            "id": "de:09162:1000",
-            "name": "Perlach Bf."
+            "id": "de:09162:1130",
+            "name": "Harras"
           },
           {
-            "id": "de:09162:998",
-            "name": "Weidener Straße"
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
           },
           {
-            "id": "de:09162:999",
-            "name": "Bayerwaldstraße"
+            "id": "de:09162:1321",
+            "name": "Adunistraße"
           },
           {
-            "id": "de:09162:1002",
-            "name": "Nailastraße"
+            "id": "de:09162:1322",
+            "name": "Schneemannstraße"
           },
           {
-            "id": "de:09162:1006",
-            "name": "Rudolf-Zorn-Straße"
+            "id": "de:09162:1323",
+            "name": "Zielstattstraße"
           },
           {
-            "id": "de:09162:1008",
-            "name": "Hermann-Pünder-Straße"
+            "id": "de:09162:1302",
+            "name": "Hofmannstraße"
           },
           {
-            "id": "de:09162:1012",
-            "name": "Ludwig-Linsert-Straße"
+            "id": "de:09162:1327",
+            "name": "Gmunder Straße"
           },
           {
-            "id": "de:09162:1013",
-            "name": "Ludwig-Erhard-Allee"
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
           },
           {
-            "id": "de:09162:1018",
-            "name": "Curd-Jürgens-Straße"
-          },
-          {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "196",
-        "name": "196",
+        "id": "53",
+        "name": "53",
         "stations": [
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
           },
           {
-            "id": "de:09162:1018",
-            "name": "Curd-Jürgens-Straße"
+            "id": "de:09162:1302",
+            "name": "Hofmannstraße"
           },
           {
-            "id": "de:09162:1013",
-            "name": "Ludwig-Erhard-Allee"
+            "id": "de:09162:1323",
+            "name": "Zielstattstraße"
           },
           {
-            "id": "de:09162:1012",
-            "name": "Ludwig-Linsert-Straße"
+            "id": "de:09162:1322",
+            "name": "Schneemannstraße"
           },
           {
-            "id": "de:09162:1008",
-            "name": "Hermann-Pünder-Straße"
+            "id": "de:09162:1321",
+            "name": "Adunistraße"
           },
           {
-            "id": "de:09162:1006",
-            "name": "Rudolf-Zorn-Straße"
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
           },
           {
-            "id": "de:09162:1002",
-            "name": "Nailastraße"
+            "id": "de:09162:1130",
+            "name": "Harras"
           },
           {
-            "id": "de:09162:999",
-            "name": "Bayerwaldstraße"
+            "id": "de:09162:1129",
+            "name": "Am Harras"
           },
           {
-            "id": "de:09162:998",
-            "name": "Weidener Straße"
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
           },
           {
-            "id": "de:09162:1000",
-            "name": "Perlach Bf."
+            "id": "de:09162:1103",
+            "name": "Sendlinger Kirche"
           },
           {
-            "id": "de:09162:1029",
-            "name": "Wolframstraße"
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
           },
           {
-            "id": "de:09162:1014",
-            "name": "Wilhelm-Hoegner-Straße"
+            "id": "de:09162:1101",
+            "name": "Ganghoferbrücke"
           },
           {
-            "id": "de:09162:1017",
-            "name": "Holzwiesenstraße"
+            "id": "de:09162:27",
+            "name": "Ridlerstraße"
           },
           {
-            "id": "de:09162:1016",
-            "name": "Jakob-Kaiser-Straße"
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "199",
-        "name": "199",
-        "stations": [
-          {
-            "id": "de:09184:2297",
-            "name": "Neubiberg, Campeon West"
+            "id": "de:09162:87",
+            "name": "Bergmannstraße"
           },
           {
-            "id": "de:09184:2299",
-            "name": "Neubiberg, Campeon"
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
           },
           {
-            "id": "de:09184:2277",
-            "name": "Neubiberg, Am Hachinger Bach"
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
           },
           {
-            "id": "de:09184:2292",
-            "name": "Neubiberg, Marktplatz Unterbiberg"
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
           },
           {
-            "id": "de:09184:2294",
-            "name": "Neubiberg, Universitätsstraße"
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
           },
           {
-            "id": "de:09184:2296",
-            "name": "Neubiberg, Lilienthalstraße"
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
           },
           {
-            "id": "de:09184:2298",
-            "name": "Neubiberg, Universität Bw-Ost"
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
           },
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
           },
           {
-            "id": "de:09162:974",
-            "name": "Putzbrunner Straße"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:104",
+            "name": "Albrechtstraße"
           },
           {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
+            "id": "de:09162:105",
+            "name": "Fasaneriestraße"
           },
           {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
+            "id": "de:09162:11",
+            "name": "Leonrodplatz"
           },
           {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
+            "id": "de:09162:106",
+            "name": "Infanteriestraße"
           },
           {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
+            "id": "de:09162:107",
+            "name": "Barbarastraße"
           },
           {
-            "id": "de:09162:1039",
-            "name": "Georg-Brauchle-Haus"
+            "id": "de:09162:34",
+            "name": "Nordbad"
           },
           {
-            "id": "de:09162:1028",
-            "name": "Ostpark Eislaufzentrum"
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
           },
           {
-            "id": "de:09162:1036",
-            "name": "Berger-Kreuz-Straße"
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
           },
           {
-            "id": "de:09162:1005",
-            "name": "Krumbadstraße"
+            "id": "de:09162:452",
+            "name": "Pündterplatz"
           },
           {
-            "id": "de:09162:997",
-            "name": "Bad-Schachener-Straße"
+            "id": "de:09162:455",
+            "name": "Bismarckstraße"
           },
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "1",
-        "id": "199",
-        "name": "199",
+        "id": "56",
+        "name": "56",
         "stations": [
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
           },
           {
-            "id": "de:09162:997",
-            "name": "Bad-Schachener-Straße"
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
           },
           {
-            "id": "de:09162:1005",
-            "name": "Krumbadstraße"
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
           },
           {
-            "id": "de:09162:1036",
-            "name": "Berger-Kreuz-Straße"
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
           },
           {
-            "id": "de:09162:1028",
-            "name": "Ostpark Eislaufzentrum"
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
           },
           {
-            "id": "de:09162:1039",
-            "name": "Georg-Brauchle-Haus"
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
           },
           {
-            "id": "de:09162:1042",
-            "name": "Staudingerstraße"
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
           },
           {
-            "id": "de:09162:1043",
-            "name": "Plettstraße"
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
           },
           {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
+            "id": "de:09162:1622",
+            "name": "Pasinger Marienplatz"
           },
           {
-            "id": "de:09162:1048",
-            "name": "Siegfried-Mollier-Straße"
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
           },
           {
-            "id": "de:09162:974",
-            "name": "Putzbrunner Straße"
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
           },
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
           },
           {
-            "id": "de:09184:2298",
-            "name": "Neubiberg, Universität Bw-Ost"
+            "id": "de:09162:1634",
+            "name": "Blumenau"
           },
           {
-            "id": "de:09184:2296",
-            "name": "Neubiberg, Lilienthalstraße"
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
           },
           {
-            "id": "de:09184:2294",
-            "name": "Neubiberg, Universitätsstraße"
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
           },
           {
-            "id": "de:09184:2292",
-            "name": "Neubiberg, Marktplatz Unterbiberg"
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
           },
           {
-            "id": "de:09184:2277",
-            "name": "Neubiberg, Am Hachinger Bach"
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
           },
           {
-            "id": "de:09184:2299",
-            "name": "Neubiberg, Campeon"
+            "id": "de:09162:1530",
+            "name": "Großhadern"
           },
           {
-            "id": "de:09184:2297",
-            "name": "Neubiberg, Campeon West"
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
+          },
+          {
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
+          },
+          {
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
+          },
+          {
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
+          },
+          {
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "56",
+        "name": "56",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
+          },
+          {
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
+          },
+          {
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
+          },
+          {
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
+          },
+          {
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
+          },
+          {
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
+          },
+          {
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
+          },
+          {
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
+          },
+          {
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
+          },
+          {
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
+          },
+          {
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "57",
+        "name": "57",
+        "stations": [
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1646",
+            "name": "Stroblstraße"
+          },
+          {
+            "id": "de:09162:1644",
+            "name": "Mitterfeldstraße"
+          },
+          {
+            "id": "de:09162:1643",
+            "name": "Fischer-v.-Erlach-Straße"
+          },
+          {
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
+          },
+          {
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1727",
+            "name": "Benedikterstraße"
+          },
+          {
+            "id": "de:09162:1627",
+            "name": "Weinbergerstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1683",
+            "name": "Volmstraße"
+          },
+          {
+            "id": "de:09162:1682",
+            "name": "Varnhagenstraße"
+          },
+          {
+            "id": "de:09162:1681",
+            "name": "Heimburgstraße"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1702",
+            "name": "Ravensburger Ring"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "57",
+        "name": "57",
+        "stations": [
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1740",
+            "name": "Freiham Bf."
+          },
+          {
+            "id": "de:09162:1757",
+            "name": "Bildungscampus Freiham"
+          },
+          {
+            "id": "de:09162:1755",
+            "name": "Helmut-Schmidt-Allee"
+          },
+          {
+            "id": "de:09162:1763",
+            "name": "Annemarie-Renger-Straße"
+          },
+          {
+            "id": "de:09162:1761",
+            "name": "Aubinger Allee"
+          },
+          {
+            "id": "de:09162:1753",
+            "name": "Otto-Meitinger-Straße"
+          },
+          {
+            "id": "de:09162:1751",
+            "name": "Hörweg"
+          },
+          {
+            "id": "de:09162:1726",
+            "name": "Neuaubing West"
+          },
+          {
+            "id": "de:09162:1724",
+            "name": "Kunreuthstraße"
+          },
+          {
+            "id": "de:09162:1722",
+            "name": "Riesenburgstraße"
+          },
+          {
+            "id": "de:09162:1718",
+            "name": "Wiesentfelser Straße"
+          },
+          {
+            "id": "de:09162:1712",
+            "name": "Altenburgstraße"
+          },
+          {
+            "id": "de:09162:1708",
+            "name": "Wertheimer Straße"
+          },
+          {
+            "id": "de:09162:1706",
+            "name": "Sipplinger Straße"
+          },
+          {
+            "id": "de:09162:1704",
+            "name": "Mainaustraße"
+          },
+          {
+            "id": "de:09162:1702",
+            "name": "Ravensburger Ring"
+          },
+          {
+            "id": "de:09162:1720",
+            "name": "Westkreuz Bf."
+          },
+          {
+            "id": "de:09162:1681",
+            "name": "Heimburgstraße"
+          },
+          {
+            "id": "de:09162:1682",
+            "name": "Varnhagenstraße"
+          },
+          {
+            "id": "de:09162:1683",
+            "name": "Volmstraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1622",
+            "name": "Pasinger Marienplatz"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1627",
+            "name": "Weinbergerstraße"
+          },
+          {
+            "id": "de:09162:1727",
+            "name": "Benedikterstraße"
+          },
+          {
+            "id": "de:09162:1612",
+            "name": "Westbad"
+          },
+          {
+            "id": "de:09162:1608",
+            "name": "Lohensteinstraße"
+          },
+          {
+            "id": "de:09162:1643",
+            "name": "Fischer-v.-Erlach-Straße"
+          },
+          {
+            "id": "de:09162:1644",
+            "name": "Mitterfeldstraße"
+          },
+          {
+            "id": "de:09162:1646",
+            "name": "Stroblstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "62",
+        "name": "62",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:142",
+            "name": "Maistraße"
+          },
+          {
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:291",
+            "name": "Sapporobogen"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:164",
+            "name": "Hanebergstraße"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:158",
+            "name": "Hubertusbrunnen"
+          },
+          {
+            "id": "de:09162:204",
+            "name": "Neuhausen"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "144",
+        "name": "144",
+        "stations": [
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:163",
+            "name": "Volkartstraße Ost"
+          },
+          {
+            "id": "de:09162:153",
+            "name": "Dom-Pedro-Straße"
+          },
+          {
+            "id": "de:09162:306",
+            "name": "Olympiapark West"
+          },
+          {
+            "id": "de:09162:8888",
+            "name": "Toni-Merkens-Weg"
+          },
+          {
+            "id": "de:09162:290",
+            "name": "Olympiasee"
+          },
+          {
+            "id": "de:09162:9029",
+            "name": "Olympiaberg"
+          },
+          {
+            "id": "de:09162:9015",
+            "name": "Spiridon-Louis-Ring"
+          },
+          {
+            "id": "de:09162:296",
+            "name": "Deidesheimer Straße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:292",
+            "name": "Angererstraße"
+          },
+          {
+            "id": "de:09162:398",
+            "name": "Scheidplatz Süd"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "151",
+        "name": "151",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1352",
+            "name": "Parkstadt Solln"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "151",
+        "name": "151",
+        "stations": [
+          {
+            "id": "de:09162:1352",
+            "name": "Parkstadt Solln"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "153",
+        "name": "153",
+        "stations": [
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:185",
+            "name": "Gaiglstraße"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:87",
+            "name": "Bergmannstraße"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:27",
+            "name": "Ridlerstraße"
+          },
+          {
+            "id": "de:09162:1101",
+            "name": "Ganghoferbrücke"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1103",
+            "name": "Sendlinger Kirche"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1149",
+            "name": "Heckenstallerstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "153",
+        "name": "153",
+        "stations": [
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1045",
+            "name": "Fockensteinstraße"
+          },
+          {
+            "id": "de:09162:1046",
+            "name": "Valeppstraße"
+          },
+          {
+            "id": "de:09162:1146",
+            "name": "Spixstraße"
+          },
+          {
+            "id": "de:09162:1115",
+            "name": "Tegernseer Landstraße"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1191",
+            "name": "Gerhardstraße"
+          },
+          {
+            "id": "de:09162:1148",
+            "name": "Schäftlarnstraße"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1431",
+            "name": "Sylvensteinstraße"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1103",
+            "name": "Sendlinger Kirche"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:1101",
+            "name": "Ganghoferbrücke"
+          },
+          {
+            "id": "de:09162:27",
+            "name": "Ridlerstraße"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:87",
+            "name": "Bergmannstraße"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:180",
+            "name": "Maillingerstraße"
+          },
+          {
+            "id": "de:09162:185",
+            "name": "Gaiglstraße"
+          },
+          {
+            "id": "de:09162:12",
+            "name": "Hochschule München (Lothstraße)"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:124",
+            "name": "Von-der-Tann-Straße"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "160",
+        "name": "160",
+        "stations": [
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          },
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          },
+          {
+            "id": "de:09174:6983",
+            "name": "Karlsfeld, Rosenstraße"
+          },
+          {
+            "id": "de:09174:6988",
+            "name": "Karlsfeld, Ostenstraße"
+          },
+          {
+            "id": "de:09174:6986",
+            "name": "Karlsfeld, Hallenbad"
+          },
+          {
+            "id": "de:09174:7060",
+            "name": "Karlsfeld, Rathausstraße"
+          },
+          {
+            "id": "de:09174:7393",
+            "name": "Karlsfeld, Einkaufsmärkte (West)"
+          },
+          {
+            "id": "de:09174:7391",
+            "name": "Karlsfeld, Ackerstraße"
+          },
+          {
+            "id": "de:09174:6990",
+            "name": "Karlsfeld Bahnhof (West)"
+          },
+          {
+            "id": "de:09162:1828",
+            "name": "Otto-Warburg-Straße"
+          },
+          {
+            "id": "de:09162:1860",
+            "name": "Hohenadelweg"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1817",
+            "name": "Steirerstraße"
+          },
+          {
+            "id": "de:09162:1816",
+            "name": "Lochhausener Straße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1799",
+            "name": "Menterstraße"
+          },
+          {
+            "id": "de:09162:1798",
+            "name": "Marsopstraße"
+          },
+          {
+            "id": "de:09162:1797",
+            "name": "Orthstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1664",
+            "name": "Krankenhaus Pasing"
+          },
+          {
+            "id": "de:09162:1666",
+            "name": "Avenariusplatz"
+          },
+          {
+            "id": "de:09162:1668",
+            "name": "Wehnerstraße"
+          },
+          {
+            "id": "de:09162:1672",
+            "name": "Dachstraße"
+          },
+          {
+            "id": "de:09184:2592",
+            "name": "Lochham, Im Birket"
+          },
+          {
+            "id": "de:09184:2594",
+            "name": "Lochham, Eichenstraße"
+          },
+          {
+            "id": "de:09184:2580",
+            "name": "Lochham Bf."
+          },
+          {
+            "id": "de:09184:2596",
+            "name": "Lochham, Radlbäckstraße"
+          },
+          {
+            "id": "de:09184:2598",
+            "name": "Lochham, Würmstraße"
+          },
+          {
+            "id": "de:09184:2602",
+            "name": "Lochham, Am Kirchenhölzl"
+          },
+          {
+            "id": "de:09184:2567",
+            "name": "Gräfelfing, Am Haag"
+          },
+          {
+            "id": "de:09184:2569",
+            "name": "Gräfelfing, Seeholzenstraße"
+          },
+          {
+            "id": "de:09184:2564",
+            "name": "Gräfelfing, Neuer Friedhof"
+          },
+          {
+            "id": "de:09184:2604",
+            "name": "Gräfelfing, Finkenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "160",
+        "name": "160",
+        "stations": [
+          {
+            "id": "de:09184:2604",
+            "name": "Gräfelfing, Finkenstraße"
+          },
+          {
+            "id": "de:09184:2564",
+            "name": "Gräfelfing, Neuer Friedhof"
+          },
+          {
+            "id": "de:09184:2569",
+            "name": "Gräfelfing, Seeholzenstraße"
+          },
+          {
+            "id": "de:09184:2567",
+            "name": "Gräfelfing, Am Haag"
+          },
+          {
+            "id": "de:09184:2602",
+            "name": "Lochham, Am Kirchenhölzl"
+          },
+          {
+            "id": "de:09184:2598",
+            "name": "Lochham, Würmstraße"
+          },
+          {
+            "id": "de:09184:2596",
+            "name": "Lochham, Radlbäckstraße"
+          },
+          {
+            "id": "de:09184:2580",
+            "name": "Lochham Bf."
+          },
+          {
+            "id": "de:09184:2594",
+            "name": "Lochham, Eichenstraße"
+          },
+          {
+            "id": "de:09184:2592",
+            "name": "Lochham, Im Birket"
+          },
+          {
+            "id": "de:09162:1672",
+            "name": "Dachstraße"
+          },
+          {
+            "id": "de:09162:1668",
+            "name": "Wehnerstraße"
+          },
+          {
+            "id": "de:09162:1666",
+            "name": "Avenariusplatz"
+          },
+          {
+            "id": "de:09162:1664",
+            "name": "Krankenhaus Pasing"
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1797",
+            "name": "Orthstraße"
+          },
+          {
+            "id": "de:09162:1798",
+            "name": "Marsopstraße"
+          },
+          {
+            "id": "de:09162:1799",
+            "name": "Menterstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1816",
+            "name": "Lochhausener Straße"
+          },
+          {
+            "id": "de:09162:1817",
+            "name": "Steirerstraße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1860",
+            "name": "Hohenadelweg"
+          },
+          {
+            "id": "de:09162:1828",
+            "name": "Otto-Warburg-Straße"
+          },
+          {
+            "id": "de:09174:6990",
+            "name": "Karlsfeld Bahnhof (West)"
+          },
+          {
+            "id": "de:09174:7391",
+            "name": "Karlsfeld, Ackerstraße"
+          },
+          {
+            "id": "de:09174:7393",
+            "name": "Karlsfeld, Einkaufsmärkte (West)"
+          },
+          {
+            "id": "de:09174:7062",
+            "name": "Karlsfeld, Einkaufsmärkte"
+          },
+          {
+            "id": "de:09174:6984",
+            "name": "Karlsfeld, Rathaus"
+          },
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "177",
+        "name": "177",
+        "stations": [
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:429",
+            "name": "Joseph-Dollinger-Bogen"
+          },
+          {
+            "id": "de:09162:428",
+            "name": "Lilienthalallee Süd"
+          },
+          {
+            "id": "de:09162:427",
+            "name": "Max-Bill-Straße"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:416",
+            "name": "Oberhofer Platz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:334",
+            "name": "Milbertshofener Platz"
+          },
+          {
+            "id": "de:09162:326",
+            "name": "Curt-Mezger-Platz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "177",
+        "name": "177",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:326",
+            "name": "Curt-Mezger-Platz"
+          },
+          {
+            "id": "de:09162:334",
+            "name": "Milbertshofener Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:416",
+            "name": "Oberhofer Platz"
+          },
+          {
+            "id": "de:09162:426",
+            "name": "Ingolstädter Straße"
+          },
+          {
+            "id": "de:09162:503",
+            "name": "Schwabing Nord"
+          },
+          {
+            "id": "de:09162:427",
+            "name": "Max-Bill-Straße"
+          },
+          {
+            "id": "de:09162:428",
+            "name": "Lilienthalallee Süd"
+          },
+          {
+            "id": "de:09162:429",
+            "name": "Joseph-Dollinger-Bogen"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "180",
+        "name": "180",
+        "stations": [
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:443",
+            "name": "Euro-Industriepark Nord"
+          },
+          {
+            "id": "de:09162:440",
+            "name": "Werner-Egk-Bogen"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:414",
+            "name": "Sudetendeutsche Straße"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:781",
+            "name": "Helene-Mayer-Ring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:369",
+            "name": "Riesstraße Süd"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1844",
+            "name": "Schmaedelstraße"
+          },
+          {
+            "id": "de:09162:1858",
+            "name": "Erna-Eckstein-Straße"
+          },
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "180",
+        "name": "180",
+        "stations": [
+          {
+            "id": "de:09162:1859",
+            "name": "Berduxstraße"
+          },
+          {
+            "id": "de:09162:1846",
+            "name": "Peter-Anders-Straße"
+          },
+          {
+            "id": "de:09162:1847",
+            "name": "Paul-Gerhardt-Allee"
+          },
+          {
+            "id": "de:09162:1848",
+            "name": "Am Durchblick"
+          },
+          {
+            "id": "de:09162:1901",
+            "name": "Frauendorferstraße"
+          },
+          {
+            "id": "de:09162:1900",
+            "name": "Obermenzing Bf."
+          },
+          {
+            "id": "de:09162:235",
+            "name": "Lustheimstraße"
+          },
+          {
+            "id": "de:09162:210",
+            "name": "Amalienburgstraße"
+          },
+          {
+            "id": "de:09162:211",
+            "name": "Botanischer Garten"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:304",
+            "name": "Hanauer Straße"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:369",
+            "name": "Riesstraße Süd"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:781",
+            "name": "Helene-Mayer-Ring"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:753",
+            "name": "Max-Diamand-Straße"
+          },
+          {
+            "id": "de:09162:752",
+            "name": "Knorrstraße"
+          },
+          {
+            "id": "de:09162:756",
+            "name": "Am Hart Süd"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:414",
+            "name": "Sudetendeutsche Straße"
+          },
+          {
+            "id": "de:09162:439",
+            "name": "Gundelkoferstraße"
+          },
+          {
+            "id": "de:09162:451",
+            "name": "Kollwitzstraße"
+          },
+          {
+            "id": "de:09162:438",
+            "name": "Heidemannstraße"
+          },
+          {
+            "id": "de:09162:441",
+            "name": "Paracelsusstraße"
+          },
+          {
+            "id": "de:09162:442",
+            "name": "Grusonstraße"
+          },
+          {
+            "id": "de:09162:440",
+            "name": "Werner-Egk-Bogen"
+          },
+          {
+            "id": "de:09162:443",
+            "name": "Euro-Industriepark Nord"
+          },
+          {
+            "id": "de:09162:444",
+            "name": "Paul-Hindemith-Allee"
+          },
+          {
+            "id": "de:09162:445",
+            "name": "Bernsteinweg"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-15T05:32:06Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-15T05:38:00Z",
-      "toDate": "2024-05-15T08:00:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "1e782724-08a0-42f2-a854-c5b2e6325d35",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-15T05:38:00Z",
-        "toDate": "2024-05-15T08:00:00Z"
-      }
-    ],
-    "incidents": [
-      "BUS",
-      "TRAM"
-    ],
-    "lines": [],
-    "links": [],
-    "modificationDate": "2024-05-15T05:41:44Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-05-15T06:42:16Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 10:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },

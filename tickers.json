@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-16T17:41:00Z",
-      "toDate": "2024-05-16T19:22:00Z"
+      "toDate": "2024-05-16T19:22:53Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U2 in Richtung Messestadt Ost                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie U2 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "0cc2ebf8-3bc0-4a2f-bd52-56f708a376da",
     "incidentDuration": [
       {
         "fromDate": "2024-05-16T17:41:00Z",
-        "toDate": "2024-05-16T19:22:00Z"
+        "toDate": "2024-05-16T19:12:53Z"
       }
     ],
     "incidents": [],
@@ -133,9 +133,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-16T19:08:26Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U2 in Richtung Messestadt Ost                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
-    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-05-16T19:12:53Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie U2 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -144,7 +144,7 @@
       "toDate": "2024-05-16T21:45:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 25, 50 und 56 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 25 und 50 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "id": "2d05e460-8458-44ee-8cc4-9f6fd5e3d07c",
     "incidentDuration": [
       {
@@ -481,247 +481,11 @@
           }
         ],
         "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "56",
-        "name": "56",
-        "stations": [
-          {
-            "id": "de:09162:1812",
-            "name": "Schloss Blutenburg"
-          },
-          {
-            "id": "de:09162:1806",
-            "name": "Bertha-von-Suttner-Weg"
-          },
-          {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
-          },
-          {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
-          },
-          {
-            "id": "de:09162:1803",
-            "name": "Polkostraße"
-          },
-          {
-            "id": "de:09162:1802",
-            "name": "Rubensstraße"
-          },
-          {
-            "id": "de:09162:1801",
-            "name": "Marschnerstraße"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1622",
-            "name": "Pasinger Marienplatz"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1628",
-            "name": "Siegmannstraße"
-          },
-          {
-            "id": "de:09162:1633",
-            "name": "Perlschneiderstraße"
-          },
-          {
-            "id": "de:09162:1632",
-            "name": "Seeholzenweg"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1542",
-            "name": "Terofalstraße"
-          },
-          {
-            "id": "de:09162:1538",
-            "name": "Krokusstraße"
-          },
-          {
-            "id": "de:09162:1536",
-            "name": "Haderunstraße"
-          },
-          {
-            "id": "de:09162:1534",
-            "name": "Am Ährenfeld"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1424",
-            "name": "Marchioninistraße"
-          },
-          {
-            "id": "de:09162:1472",
-            "name": "Klinikum Großhadern Ost"
-          },
-          {
-            "id": "de:09162:1426",
-            "name": "Max-Lebsche-Platz"
-          },
-          {
-            "id": "de:09162:1432",
-            "name": "Zöllerstraße"
-          },
-          {
-            "id": "de:09162:1434",
-            "name": "Ehrenmal"
-          },
-          {
-            "id": "de:09162:1437",
-            "name": "Bellinzonastraße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "56",
-        "name": "56",
-        "stations": [
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1437",
-            "name": "Bellinzonastraße"
-          },
-          {
-            "id": "de:09162:1434",
-            "name": "Ehrenmal"
-          },
-          {
-            "id": "de:09162:1432",
-            "name": "Zöllerstraße"
-          },
-          {
-            "id": "de:09162:1426",
-            "name": "Max-Lebsche-Platz"
-          },
-          {
-            "id": "de:09162:1472",
-            "name": "Klinikum Großhadern Ost"
-          },
-          {
-            "id": "de:09162:1424",
-            "name": "Marchioninistraße"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1534",
-            "name": "Am Ährenfeld"
-          },
-          {
-            "id": "de:09162:1536",
-            "name": "Haderunstraße"
-          },
-          {
-            "id": "de:09162:1538",
-            "name": "Krokusstraße"
-          },
-          {
-            "id": "de:09162:1542",
-            "name": "Terofalstraße"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1632",
-            "name": "Seeholzenweg"
-          },
-          {
-            "id": "de:09162:1633",
-            "name": "Perlschneiderstraße"
-          },
-          {
-            "id": "de:09162:1628",
-            "name": "Siegmannstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1801",
-            "name": "Marschnerstraße"
-          },
-          {
-            "id": "de:09162:1802",
-            "name": "Rubensstraße"
-          },
-          {
-            "id": "de:09162:1803",
-            "name": "Polkostraße"
-          },
-          {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
-          },
-          {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
-          },
-          {
-            "id": "de:09162:1806",
-            "name": "Bertha-von-Suttner-Weg"
-          },
-          {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
-          },
-          {
-            "id": "de:09162:1812",
-            "name": "Schloss Blutenburg"
-          }
-        ],
-        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-16T18:42:20Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 25, 50 und 56 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
+    "modificationDate": "2024-05-16T19:12:14Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es auf den Linien 25 und 50 derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br/>Ihre MVG ",
     "title": "Fahrtausfälle wegen Personalengpässen",
     "type": "DISRUPTION"
   },

@@ -1,145 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-05-16T17:41:00Z",
-      "toDate": "2024-05-16T19:22:53Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie U2 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "0cc2ebf8-3bc0-4a2f-bd52-56f708a376da",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-16T17:41:00Z",
-        "toDate": "2024-05-16T19:12:53Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "2",
-        "name": "U2",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:790",
-            "name": "Hasenbergl"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:760",
-            "name": "Am Hart"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:740",
-            "name": "Milbertshofen"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:140",
-            "name": "Hohenzollernplatz"
-          },
-          {
-            "id": "de:09162:130",
-            "name": "Josephsplatz"
-          },
-          {
-            "id": "de:09162:120",
-            "name": "Theresienstraße"
-          },
-          {
-            "id": "de:09162:110",
-            "name": "Königsplatz"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:160",
-            "name": "Kolumbusplatz"
-          },
-          {
-            "id": "de:09162:1170",
-            "name": "Silberhornstraße"
-          },
-          {
-            "id": "de:09162:1160",
-            "name": "Untersbergstraße"
-          },
-          {
-            "id": "de:09162:1110",
-            "name": "Giesing Bf."
-          },
-          {
-            "id": "de:09162:1070",
-            "name": "Karl-Preis-Platz"
-          },
-          {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
-          },
-          {
-            "id": "de:09162:1220",
-            "name": "Josephsburg"
-          },
-          {
-            "id": "de:09162:1230",
-            "name": "Kreillerstraße"
-          },
-          {
-            "id": "de:09162:920",
-            "name": "Trudering Bf."
-          },
-          {
-            "id": "de:09162:1240",
-            "name": "Am Moosfeld"
-          },
-          {
-            "id": "de:09162:1250",
-            "name": "Messestadt West"
-          },
-          {
-            "id": "de:09162:1260",
-            "name": "Messestadt Ost"
-          }
-        ],
-        "typeOfTransport": "METRO"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-16T19:12:53Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie U2 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-05-16T15:44:00Z",
       "toDate": "2024-05-16T21:45:00Z"
     },
@@ -154,6 +15,126 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2101",
+            "name": "Unterföhring, Feringastr. Ost"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "1",
         "id": "25",
@@ -361,126 +342,6 @@
           }
         ],
         "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "2",
-        "id": "50",
-        "name": "50",
-        "stations": [
-          {
-            "id": "de:09162:720",
-            "name": "Johanneskirchen Bf."
-          },
-          {
-            "id": "de:09162:557",
-            "name": "Bichlhofweg"
-          },
-          {
-            "id": "de:09162:602",
-            "name": "Johanneskirchner Straße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09184:2101",
-            "name": "Unterföhring, Feringastr. Ost"
-          },
-          {
-            "id": "de:09184:2102",
-            "name": "Unterföhring, Feringastraße"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:457",
-            "name": "Zaunweg"
-          },
-          {
-            "id": "de:09162:448",
-            "name": "Gertrud-Grunow-Straße"
-          },
-          {
-            "id": "de:09162:502",
-            "name": "Domagkstraße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:407",
-            "name": "Abtstraße"
-          },
-          {
-            "id": "de:09162:417",
-            "name": "Milbertshofener Straße"
-          },
-          {
-            "id": "de:09162:751",
-            "name": "Korbinianplatz"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:323",
-            "name": "Olympiapark Nord"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
       }
     ],
     "links": [],

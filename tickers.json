@@ -2,19 +2,135 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-16T05:27:00Z",
-      "toDate": "2024-05-16T07:00:00Z"
+      "toDate": "2024-05-16T07:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Am Hart kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf der Linie U2 in Richtung Messestadt Ost . <br>Die Behinderungen werden noch voraussichtlich bis 09:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Am Hart kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf der Linie U2. <br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "id": "c8e6cc90-7fb1-48bf-b8de-4a82ed191018",
     "incidentDuration": [
       {
         "fromDate": "2024-05-16T05:27:00Z",
-        "toDate": "2024-05-16T07:00:00Z"
+        "toDate": "2024-05-16T07:30:00Z"
       }
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "2",
+        "id": "2",
+        "name": "U2",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1240",
+            "name": "Am Moosfeld"
+          },
+          {
+            "id": "de:09162:920",
+            "name": "Trudering Bf."
+          },
+          {
+            "id": "de:09162:1230",
+            "name": "Kreillerstraße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1070",
+            "name": "Karl-Preis-Platz"
+          },
+          {
+            "id": "de:09162:1110",
+            "name": "Giesing Bf."
+          },
+          {
+            "id": "de:09162:1160",
+            "name": "Untersbergstraße"
+          },
+          {
+            "id": "de:09162:1170",
+            "name": "Silberhornstraße"
+          },
+          {
+            "id": "de:09162:160",
+            "name": "Kolumbusplatz"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:740",
+            "name": "Milbertshofen"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
       {
         "direction": "1",
         "id": "2",
@@ -133,23 +249,23 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-16T06:09:34Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Am Hart kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf der Linie U2 in Richtung Messestadt Ost . <br>Die Behinderungen werden noch voraussichtlich bis 09:00 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "modificationDate": "2024-05-16T06:27:09Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Am Hart kommt es derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen auf der Linie U2. <br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen nach einer bereits behobenen Störung",
     "type": "DISRUPTION"
   },
   {
     "activeDuration": {
       "fromDate": "2024-05-16T05:48:00Z",
-      "toDate": "2024-05-16T06:48:00Z"
+      "toDate": "2024-05-16T07:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu  einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie U4 fährt nur im Abschnitt Arabellapark bis Max-Weber-Platz. </li><li>Bitte weichen Sie unter anderem auf die Linie U5 aus. </li><li>U4 ab Max-Weber-Platz in Richtung Arabellapark von Gleis 3. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu  einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie U4 fährt nur im Abschnitt Arabellapark bis Max-Weber-Platz. </li><li>Bitte weichen Sie unter anderem auf die Linie U5 aus. </li><li>U4 ab Max-Weber-Platz in Richtung Arabellapark von Gleis 3. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "4865dd4a-71f3-4c18-bb7d-8e74058c827c",
     "incidentDuration": [
       {
         "fromDate": "2024-05-16T05:48:00Z",
-        "toDate": "2024-05-16T06:48:00Z"
+        "toDate": "2024-05-16T07:30:00Z"
       }
     ],
     "incidents": [],
@@ -276,8 +392,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-16T06:02:26Z",
-    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu  einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie U4 fährt nur im Abschnitt Arabellapark bis Max-Weber-Platz. </li><li>Bitte weichen Sie unter anderem auf die Linie U5 aus. </li><li>U4 ab Max-Weber-Platz in Richtung Arabellapark von Gleis 3. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 08:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-05-16T06:29:40Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Stellwerkstörung im Bereich Max-Weber-Platz kommt es auf den Linien U4 und U5 derzeit zu  einer Streckenunterbrechung. <ul style='list-style: disc;'><li>Die Linie U4 fährt nur im Abschnitt Arabellapark bis Max-Weber-Platz. </li><li>Bitte weichen Sie unter anderem auf die Linie U5 aus. </li><li>U4 ab Max-Weber-Platz in Richtung Arabellapark von Gleis 3. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 09:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Streckenunterbrechung wegen einer Stellwerkstörung",
     "type": "DISRUPTION"
   },

@@ -1,6 +1,31 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-16T03:45:00Z",
+      "toDate": "2024-05-16T08:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 10:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "978a6a45-1f1f-4f88-97c3-4a2b0f2d8fcd",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-16T03:45:00Z",
+        "toDate": "2024-05-16T08:30:00Z"
+      }
+    ],
+    "incidents": [
+      "BUS",
+      "TRAM"
+    ],
+    "lines": [],
+    "links": [],
+    "modificationDate": "2024-05-16T03:48:31Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 10:30 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen starken Verkehrsaufkommens",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

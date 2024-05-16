@@ -1,6 +1,109 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-16T22:13:00Z",
+      "toDate": "2024-05-16T23:13:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Michaelibad kommt es derzeit zu Verspätungen auf der Linie U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 01:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "id": "59800865-fb22-45c7-939e-b70cb221ed33",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-16T22:13:00Z",
+        "toDate": "2024-05-16T23:13:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "5",
+        "name": "U5",
+        "stations": [
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:270",
+            "name": "Friedenheimer Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:250",
+            "name": "Schwanthalerhöhe"
+          },
+          {
+            "id": "de:09162:240",
+            "name": "Theresienwiese"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:590",
+            "name": "Lehel"
+          },
+          {
+            "id": "de:09162:580",
+            "name": "Max-Weber-Platz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:1060",
+            "name": "Innsbrucker Ring"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1020",
+            "name": "Therese-Giehse-Allee"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-16T22:14:30Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Michaelibad kommt es derzeit zu Verspätungen auf der Linie U5 in Richtung Neuperlach Süd . <br>Die Behinderungen werden noch voraussichtlich bis 01:10 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
+    "title": "Verspätungen wegen eines Polizeieinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-16T15:44:00Z",
       "toDate": "2024-05-16T22:28:52Z"
     },
@@ -15,126 +118,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "2",
-        "id": "50",
-        "name": "50",
-        "stations": [
-          {
-            "id": "de:09162:720",
-            "name": "Johanneskirchen Bf."
-          },
-          {
-            "id": "de:09162:557",
-            "name": "Bichlhofweg"
-          },
-          {
-            "id": "de:09162:602",
-            "name": "Johanneskirchner Straße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09184:2101",
-            "name": "Unterföhring, Feringastr. Ost"
-          },
-          {
-            "id": "de:09184:2102",
-            "name": "Unterföhring, Feringastraße"
-          },
-          {
-            "id": "de:09162:540",
-            "name": "Studentenstadt"
-          },
-          {
-            "id": "de:09162:530",
-            "name": "Alte Heide"
-          },
-          {
-            "id": "de:09162:457",
-            "name": "Zaunweg"
-          },
-          {
-            "id": "de:09162:448",
-            "name": "Gertrud-Grunow-Straße"
-          },
-          {
-            "id": "de:09162:502",
-            "name": "Domagkstraße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:407",
-            "name": "Abtstraße"
-          },
-          {
-            "id": "de:09162:417",
-            "name": "Milbertshofener Straße"
-          },
-          {
-            "id": "de:09162:751",
-            "name": "Korbinianplatz"
-          },
-          {
-            "id": "de:09162:750",
-            "name": "Frankfurter Ring"
-          },
-          {
-            "id": "de:09162:331",
-            "name": "Moosacher Straße"
-          },
-          {
-            "id": "de:09162:329",
-            "name": "Anhalter Platz"
-          },
-          {
-            "id": "de:09162:754",
-            "name": "Preußenstraße"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:380",
-            "name": "Oberwiesenfeld"
-          },
-          {
-            "id": "de:09162:323",
-            "name": "Olympiapark Nord"
-          },
-          {
-            "id": "de:09162:322",
-            "name": "Lassallestraße"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:333",
-            "name": "Dessauerstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
       {
         "direction": "1",
         "id": "25",
@@ -342,6 +325,126 @@
           }
         ],
         "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "50",
+        "name": "50",
+        "stations": [
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
+          },
+          {
+            "id": "de:09184:2101",
+            "name": "Unterföhring, Feringastr. Ost"
+          },
+          {
+            "id": "de:09184:2102",
+            "name": "Unterföhring, Feringastraße"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:457",
+            "name": "Zaunweg"
+          },
+          {
+            "id": "de:09162:448",
+            "name": "Gertrud-Grunow-Straße"
+          },
+          {
+            "id": "de:09162:502",
+            "name": "Domagkstraße"
+          },
+          {
+            "id": "de:09162:425",
+            "name": "Domagkstraße West"
+          },
+          {
+            "id": "de:09162:407",
+            "name": "Abtstraße"
+          },
+          {
+            "id": "de:09162:417",
+            "name": "Milbertshofener Straße"
+          },
+          {
+            "id": "de:09162:751",
+            "name": "Korbinianplatz"
+          },
+          {
+            "id": "de:09162:750",
+            "name": "Frankfurter Ring"
+          },
+          {
+            "id": "de:09162:331",
+            "name": "Moosacher Straße"
+          },
+          {
+            "id": "de:09162:329",
+            "name": "Anhalter Platz"
+          },
+          {
+            "id": "de:09162:754",
+            "name": "Preußenstraße"
+          },
+          {
+            "id": "de:09162:324",
+            "name": "Lerchenauer Straße"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:323",
+            "name": "Olympiapark Nord"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],

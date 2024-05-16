@@ -5244,6 +5244,667 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-14T22:01:00Z",
+      "toDate": null
+    },
+    "downloadLinks": [
+      {
+        "id": "b473beec-928a-490e-b7ab-7c6fed4928d6_1488248893",
+        "mimeType": "image/jpeg",
+        "name": "Haltestellenübersicht Laimer Platz"
+      },
+      {
+        "id": "b473beec-928a-490e-b7ab-7c6fed4928d6_1755930525",
+        "mimeType": "image/jpeg",
+        "name": "Haltestellenübersicht Fürstenrieder Str"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten in der F&uuml;rstenrieder Stra&szlig;e werden die (H) Ammerseestra&szlig;e, Aindorferstra&szlig;e, Laimer Platz und F&uuml;rstenrieder Stra&szlig;e der Buslinien 51, 151, 168 und N78 bis auf Weiteres verlegt.</div>\n<ul>\n<li>Ab <strong>Mittwoch, 15. Mai</strong> ist die <strong>(H) Aindorferstra&szlig;e</strong> in beiden Richtungen um ca. 50 Meter nach Norden (Richtung Waldfriedhof vor die JET-Tankstelle, Richtung Laim Bf. vor F&uuml;rstenrieder Stra&szlig;e 97-99) verlegt.<br /><br /></li>\n<li>Ab <strong>Dienstag, 21. Mai</strong> ist die <strong>(H) Ammerseestra&szlig;e</strong> in Richtung Waldfriedhof - Aidenbachstra&szlig;e bzw. Parkstadt Solln in die Br&uuml;ckenmitte verlegt. In Richtung Laim Bf. kann die regul&auml;re Haltestelle bedient werden.<br /><br /></li>\n<li>Ab <strong>Montag, 3. Juni</strong> ist die <strong>(H) Laimer Platz</strong> in Richtung Laim Bf. auf die Nordseite der Einm&uuml;ndung F&uuml;rstenrieder Stra&szlig;e / Agnes-Bernauer-Stra&szlig;e (vor F&uuml;rstenrieder Stra&szlig;e 55-57) verlegt. In Richtung Waldfriedhof bzw. Blumenau halten die Busse ca. 50 Meter n&ouml;rdlich, vor F&uuml;rstenrieder Stra&szlig;e 58-60.<br /><br /></li>\n<li>Ab <strong>Montag, 10. Juni</strong> ist die <strong>(H) F&uuml;rstenrieder Stra&szlig;e</strong> in Richtung Waldfriedhof bzw. Blumenau auf die S&uuml;dseite der Einm&uuml;ndung F&uuml;rstenrieder Stra&szlig;e / Agnes-Bernauer-Stra&szlig;e (vor F&uuml;rstenrieder Stra&szlig;e 32-34). In Richtung Laim Bf. halten die Busse ca. 50 Meter s&uuml;dlich, vor F&uuml;rstenrieder Stra&szlig;e 37-37a.</li>\n</ul>\r\n",
+    "id": "b473beec-928a-490e-b7ab-7c6fed4928d6",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-14T22:01:00Z",
+        "toDate": null
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "51",
+        "name": "51",
+        "stations": [
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
+          },
+          {
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "51",
+        "name": "51",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:237",
+            "name": "Bunzlauer Platz"
+          },
+          {
+            "id": "de:09162:231",
+            "name": "Baubergerstraße"
+          },
+          {
+            "id": "de:09162:241",
+            "name": "Warschauer Straße"
+          },
+          {
+            "id": "de:09162:230",
+            "name": "Skagerrakstraße"
+          },
+          {
+            "id": "de:09162:239",
+            "name": "Nederlinger Straße (West)"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1324",
+            "name": "Geisenhausenerstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "151",
+        "name": "151",
+        "stations": [
+          {
+            "id": "de:09162:1352",
+            "name": "Parkstadt Solln"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "151",
+        "name": "151",
+        "stations": [
+          {
+            "id": "de:09162:200",
+            "name": "Westfriedhof"
+          },
+          {
+            "id": "de:09162:206",
+            "name": "Sadelerstraße"
+          },
+          {
+            "id": "de:09162:224",
+            "name": "Mettenstraße"
+          },
+          {
+            "id": "de:09162:228",
+            "name": "Nederlinger Straße"
+          },
+          {
+            "id": "de:09162:236",
+            "name": "In den Kirschen"
+          },
+          {
+            "id": "de:09162:212",
+            "name": "Maria-Ward-Straße"
+          },
+          {
+            "id": "de:09162:213",
+            "name": "Dall'Armistraße"
+          },
+          {
+            "id": "de:09162:214",
+            "name": "Schloss Nymphenburg"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:227",
+            "name": "Hirschgartenallee"
+          },
+          {
+            "id": "de:09162:226",
+            "name": "Kemnatenstraße"
+          },
+          {
+            "id": "de:09162:225",
+            "name": "Herthastraße"
+          },
+          {
+            "id": "de:09162:238",
+            "name": "Winfriedstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1311",
+            "name": "Waldfriedhof"
+          },
+          {
+            "id": "de:09162:1462",
+            "name": "Waldfriedhof Haupteingang"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1352",
+            "name": "Parkstadt Solln"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "168",
+        "name": "168",
+        "stations": [
+          {
+            "id": "de:09162:1544",
+            "name": "Wastl-Witt-Straße"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1636",
+            "name": "Silberdistelstraße"
+          },
+          {
+            "id": "de:09162:1638",
+            "name": "Willibaldstraße"
+          },
+          {
+            "id": "de:09162:1652",
+            "name": "Hönigschmidplatz"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1656",
+            "name": "Guido-Schneble-Straße"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:157",
+            "name": "Nymphenburg Süd"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "168",
+        "name": "168",
+        "stations": [
+          {
+            "id": "de:09162:157",
+            "name": "Nymphenburg Süd"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1602",
+            "name": "Fürstenrieder Straße"
+          },
+          {
+            "id": "de:09162:280",
+            "name": "Laimer Platz"
+          },
+          {
+            "id": "de:09162:1518",
+            "name": "Aindorferstraße"
+          },
+          {
+            "id": "de:09162:1656",
+            "name": "Guido-Schneble-Straße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1652",
+            "name": "Hönigschmidplatz"
+          },
+          {
+            "id": "de:09162:1638",
+            "name": "Willibaldstraße"
+          },
+          {
+            "id": "de:09162:1636",
+            "name": "Silberdistelstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1543",
+            "name": "Flemischweg"
+          },
+          {
+            "id": "de:09162:1544",
+            "name": "Wastl-Witt-Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "78",
+        "name": "N78",
+        "stations": [],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-16T06:58:08Z",
+    "text": "<div>Wegen Bauarbeiten in der F&uuml;rstenrieder Stra&szlig;e werden die (H) Ammerseestra&szlig;e, Aindorferstra&szlig;e, Laimer Platz und F&uuml;rstenrieder Stra&szlig;e der Buslinien 51, 151, 168 und N78 bis auf Weiteres verlegt.</div>\n<ul>\n<li>Ab <strong>Mittwoch, 15. Mai</strong> ist die <strong>(H) Aindorferstra&szlig;e</strong> in beiden Richtungen um ca. 50 Meter nach Norden (Richtung Waldfriedhof vor die JET-Tankstelle, Richtung Laim Bf. vor F&uuml;rstenrieder Stra&szlig;e 97-99) verlegt.<br /><br /></li>\n<li>Ab <strong>Dienstag, 21. Mai</strong> ist die <strong>(H) Ammerseestra&szlig;e</strong> in Richtung Waldfriedhof - Aidenbachstra&szlig;e bzw. Parkstadt Solln in die Br&uuml;ckenmitte verlegt. In Richtung Laim Bf. kann die regul&auml;re Haltestelle bedient werden.<br /><br /></li>\n<li>Ab <strong>Montag, 3. Juni</strong> ist die <strong>(H) Laimer Platz</strong> in Richtung Laim Bf. auf die Nordseite der Einm&uuml;ndung F&uuml;rstenrieder Stra&szlig;e / Agnes-Bernauer-Stra&szlig;e (vor F&uuml;rstenrieder Stra&szlig;e 55-57) verlegt. In Richtung Waldfriedhof bzw. Blumenau halten die Busse ca. 50 Meter n&ouml;rdlich, vor F&uuml;rstenrieder Stra&szlig;e 58-60.<br /><br /></li>\n<li>Ab <strong>Montag, 10. Juni</strong> ist die <strong>(H) F&uuml;rstenrieder Stra&szlig;e</strong> in Richtung Waldfriedhof bzw. Blumenau auf die S&uuml;dseite der Einm&uuml;ndung F&uuml;rstenrieder Stra&szlig;e / Agnes-Bernauer-Stra&szlig;e (vor F&uuml;rstenrieder Stra&szlig;e 32-34). In Richtung Laim Bf. halten die Busse ca. 50 Meter s&uuml;dlich, vor F&uuml;rstenrieder Stra&szlig;e 37-37a.</li>\n</ul>\r\n",
+    "title": "Haltestellen Ammerseestraße, Aindorferstraße, Laimer Platz und Fürstenrieder Straße wegen Bauarbeiten verlegt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-04-24T22:01:00Z",
       "toDate": "2024-05-17T21:59:00Z"
     },

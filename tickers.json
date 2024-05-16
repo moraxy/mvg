@@ -185,15 +185,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-16T14:35:00Z",
-      "toDate": "2024-05-16T15:35:00Z"
+      "toDate": "2024-05-16T15:37:13Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 12 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 12 gemeldete Behinderung (Grund: Rettungseinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "78191294-897e-48f1-afef-9f189bf650e5",
     "incidentDuration": [
       {
         "fromDate": "2024-05-16T14:35:00Z",
-        "toDate": "2024-05-16T15:35:00Z"
+        "toDate": "2024-05-16T15:27:13Z"
       }
     ],
     "incidents": [],
@@ -392,23 +392,23 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-16T14:36:03Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Rettungseinsatzes kommt es auf der Linie 12 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 17:40 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Verspätungen wegen eines Rettungseinsatzes",
+    "modificationDate": "2024-05-16T15:27:13Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 12 gemeldete Behinderung (Grund: Rettungseinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
     "activeDuration": {
       "fromDate": "2024-05-16T14:46:00Z",
-      "toDate": "2024-05-16T15:46:00Z"
+      "toDate": "2024-05-16T15:37:29Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 25 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 25 gemeldete Behinderung (Grund: Fahrzeugausfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "00498b78-1fcb-44b2-a3d9-d08961971231",
     "incidentDuration": [
       {
         "fromDate": "2024-05-16T14:46:00Z",
-        "toDate": "2024-05-16T15:46:00Z"
+        "toDate": "2024-05-16T15:27:29Z"
       }
     ],
     "incidents": [],
@@ -623,180 +623,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-16T14:47:02Z",
-    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf der Linie 25 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-16T13:29:00Z",
-      "toDate": "2024-05-16T15:28:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "id": "d6e0f1b7-ecba-4c82-b868-4770d9003661",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-16T13:29:00Z",
-        "toDate": "2024-05-16T15:28:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "37",
-        "name": "37",
-        "stations": [
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:91",
-            "name": "Bundesfinanzhof"
-          },
-          {
-            "id": "de:09162:75",
-            "name": "Sternwartstraße"
-          },
-          {
-            "id": "de:09162:74",
-            "name": "Holbeinstraße"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      },
-      {
-        "direction": "1",
-        "id": "37",
-        "name": "37",
-        "stations": [
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
-          },
-          {
-            "id": "de:09162:73",
-            "name": "Friedensengel/Villa Stuck"
-          },
-          {
-            "id": "de:09162:74",
-            "name": "Holbeinstraße"
-          },
-          {
-            "id": "de:09162:75",
-            "name": "Sternwartstraße"
-          },
-          {
-            "id": "de:09162:91",
-            "name": "Bundesfinanzhof"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-16T13:47:37Z",
-    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
-    "title": "Fahrtausfälle wegen Personalengpässen",
+    "modificationDate": "2024-05-16T15:27:29Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 25 gemeldete Behinderung (Grund: Fahrzeugausfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {

@@ -943,317 +943,333 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-17T18:25:00Z",
-      "toDate": "2024-05-17T18:48:43Z"
+      "fromDate": "2024-05-17T18:47:00Z",
+      "toDate": "2024-05-17T19:47:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 132 gemeldete Behinderung (Grund: Veranstaltung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "2252d0e2-b156-4ec6-ad84-2183be677b36",
+    "htmlText": "Liebe Fahrgäste,<br>wegen einer Demonstration im Bereich Gärtnerplatztheater kommt es auf der Linie 62 derzeit zu Umleitungen zwischen Blumenstraße und Schweigerstraße. <br>Die Behinderungen werden noch voraussichtlich bis 21:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "a011d44a-4ae7-4282-aa87-a33153205e2c",
     "incidentDuration": [
       {
-        "fromDate": "2024-05-17T18:25:00Z",
-        "toDate": "2024-05-17T18:38:43Z"
+        "fromDate": "2024-05-17T18:47:00Z",
+        "toDate": "2024-05-17T19:47:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "132",
-        "name": "132",
+        "id": "62",
+        "name": "62",
         "stations": [
           {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
+          },
+          {
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
+          },
+          {
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
+          },
+          {
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
+          },
+          {
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
+          },
+          {
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
+          },
+          {
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
+          },
+          {
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
+          },
+          {
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
+          },
+          {
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
           },
           {
             "id": "de:09162:112",
             "name": "Viktualienmarkt"
           },
           {
-            "id": "de:09162:165",
-            "name": "Schrannenhalle"
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
           },
           {
-            "id": "de:09162:26",
-            "name": "Isartor/Zweibrückenstraße"
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
           },
           {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
           },
           {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
           },
           {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
+            "id": "de:09162:111",
+            "name": "Regerplatz"
           },
           {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
           },
           {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
           },
           {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
           },
           {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
-          },
-          {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
-          },
-          {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
-          },
-          {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
-          },
-          {
-            "id": "de:09162:1466",
-            "name": "Südpark"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
-          },
-          {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
-          },
-          {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "132",
-        "name": "132",
+        "id": "62",
+        "name": "62",
         "stations": [
           {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
           },
           {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
           },
           {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
           },
           {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
           },
           {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
+            "id": "de:09162:111",
+            "name": "Regerplatz"
           },
           {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
           },
           {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
           },
           {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
           },
           {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
           },
           {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
           },
           {
-            "id": "de:09162:1466",
-            "name": "Südpark"
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
           },
           {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
           },
           {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           },
           {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
+            "id": "de:09162:142",
+            "name": "Maistraße"
           },
           {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
           },
           {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
           },
           {
-            "id": "de:09162:1130",
-            "name": "Harras"
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
           },
           {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
           },
           {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
+            "id": "de:09162:30",
+            "name": "Poccistraße"
           },
           {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
           },
           {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
           },
           {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
           },
           {
-            "id": "de:09162:1134",
-            "name": "Gotzinger Platz"
+            "id": "de:09162:1218",
+            "name": "Hansapark"
           },
           {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
           },
           {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
           },
           {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
           },
           {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
           },
           {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
           },
           {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
           },
           {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
           },
           {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
           },
           {
-            "id": "de:09162:122",
-            "name": "Ludwigsbrücke"
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
           },
           {
-            "id": "de:09162:3",
-            "name": "Isartor"
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
           },
           {
-            "id": "de:09162:93",
-            "name": "Tal"
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
           },
           {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-17T18:38:43Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 132 gemeldete Behinderung (Grund: Veranstaltung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-05-17T18:48:41Z",
+    "text": "Liebe Fahrgäste,<br>wegen einer Demonstration im Bereich Gärtnerplatztheater kommt es auf der Linie 62 derzeit zu Umleitungen zwischen Blumenstraße und Schweigerstraße. <br>Die Behinderungen werden noch voraussichtlich bis 21:50 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen einer Demonstration",
     "type": "DISRUPTION"
   },
   {

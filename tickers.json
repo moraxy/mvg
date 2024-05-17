@@ -1011,7 +1011,7 @@
       "toDate": "2024-05-17T18:04:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien X30, X35, X36, 52, 54, 58, 63, 68, 132, 142, 153 und 162 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien SEV 16, X30, X35, X36, 54, 58, 63, 68, 132, 142, 153 und 162 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "926ddf26-0a30-4ef5-b7e3-36781fd46e3e",
     "incidentDuration": [
       {
@@ -1397,174 +1397,6 @@
           {
             "id": "de:09162:530",
             "name": "Alte Heide"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
           }
         ],
         "typeOfTransport": "BUS"
@@ -3690,11 +3522,127 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "516",
+        "name": "SEV 16",
+        "stations": [
+          {
+            "id": "de:09162:215",
+            "name": "Romanplatz"
+          },
+          {
+            "id": "de:09162:219",
+            "name": "Kriemhildenstraße"
+          },
+          {
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
+          },
+          {
+            "id": "de:09162:217",
+            "name": "Briefzentrum"
+          },
+          {
+            "id": "de:09162:218",
+            "name": "Burghausener Straße"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:222",
+            "name": "Marsstraße"
+          },
+          {
+            "id": "de:09162:223",
+            "name": "Deroystraße"
+          },
+          {
+            "id": "de:09162:7",
+            "name": "Hackerbrücke"
+          },
+          {
+            "id": "de:09162:232",
+            "name": "Hopfenstraße"
+          },
+          {
+            "id": "de:09162:7000",
+            "name": "Hauptbahnhof Nord"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-17T16:50:25Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien X30, X35, X36, 52, 54, 58, 63, 68, 132, 142, 153 und 162 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "modificationDate": "2024-05-17T17:03:43Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien SEV 16, X30, X35, X36, 54, 58, 63, 68, 132, 142, 153 und 162 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },

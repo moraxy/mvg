@@ -768,11 +768,142 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-17T16:04:00Z",
+      "toDate": "2024-05-17T17:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U3 in Richtung Moosach Bf.                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "id": "455bfc78-fe6e-4601-96fb-f2c174669cd2",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-17T16:04:00Z",
+        "toDate": "2024-05-17T17:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "3",
+        "name": "U3",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1490",
+            "name": "Basler Straße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1470",
+            "name": "Machtlfinger Straße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1450",
+            "name": "Obersendling"
+          },
+          {
+            "id": "de:09162:1440",
+            "name": "Thalkirchen (Tierpark)"
+          },
+          {
+            "id": "de:09162:1430",
+            "name": "Brudermühlstraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:410",
+            "name": "Bonner Platz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:380",
+            "name": "Oberwiesenfeld"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:370",
+            "name": "Moosacher St.-Martins-Platz"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-17T16:08:40Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie U3 in Richtung Moosach Bf.                 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-17T14:04:00Z",
       "toDate": "2024-05-17T17:04:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien X30, X35, X36, 52, 54, 57, 58, 68, 100, 132, 139 und 153 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien X30, X35, X36, 52, 54, 58, 68, 100, 132, 139 und 153 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "id": "926ddf26-0a30-4ef5-b7e3-36781fd46e3e",
     "incidentDuration": [
       {
@@ -1690,282 +1821,6 @@
           {
             "id": "de:09162:500",
             "name": "Münchner Freiheit"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "57",
-        "name": "57",
-        "stations": [
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:1646",
-            "name": "Stroblstraße"
-          },
-          {
-            "id": "de:09162:1644",
-            "name": "Mitterfeldstraße"
-          },
-          {
-            "id": "de:09162:1643",
-            "name": "Fischer-v.-Erlach-Straße"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1727",
-            "name": "Benedikterstraße"
-          },
-          {
-            "id": "de:09162:1627",
-            "name": "Weinbergerstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1683",
-            "name": "Volmstraße"
-          },
-          {
-            "id": "de:09162:1682",
-            "name": "Varnhagenstraße"
-          },
-          {
-            "id": "de:09162:1681",
-            "name": "Heimburgstraße"
-          },
-          {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
-          },
-          {
-            "id": "de:09162:1702",
-            "name": "Ravensburger Ring"
-          },
-          {
-            "id": "de:09162:1704",
-            "name": "Mainaustraße"
-          },
-          {
-            "id": "de:09162:1706",
-            "name": "Sipplinger Straße"
-          },
-          {
-            "id": "de:09162:1708",
-            "name": "Wertheimer Straße"
-          },
-          {
-            "id": "de:09162:1712",
-            "name": "Altenburgstraße"
-          },
-          {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
-          },
-          {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
-          },
-          {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
-          },
-          {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
-          },
-          {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
-          },
-          {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
-          },
-          {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
-          },
-          {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
-          },
-          {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
-          },
-          {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "57",
-        "name": "57",
-        "stations": [
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
-          },
-          {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
-          },
-          {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
-          },
-          {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
-          },
-          {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
-          },
-          {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
-          },
-          {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
-          },
-          {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
-          },
-          {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
-          },
-          {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
-          },
-          {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
-          },
-          {
-            "id": "de:09162:1712",
-            "name": "Altenburgstraße"
-          },
-          {
-            "id": "de:09162:1708",
-            "name": "Wertheimer Straße"
-          },
-          {
-            "id": "de:09162:1706",
-            "name": "Sipplinger Straße"
-          },
-          {
-            "id": "de:09162:1704",
-            "name": "Mainaustraße"
-          },
-          {
-            "id": "de:09162:1702",
-            "name": "Ravensburger Ring"
-          },
-          {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
-          },
-          {
-            "id": "de:09162:1681",
-            "name": "Heimburgstraße"
-          },
-          {
-            "id": "de:09162:1682",
-            "name": "Varnhagenstraße"
-          },
-          {
-            "id": "de:09162:1683",
-            "name": "Volmstraße"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1622",
-            "name": "Pasinger Marienplatz"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1627",
-            "name": "Weinbergerstraße"
-          },
-          {
-            "id": "de:09162:1727",
-            "name": "Benedikterstraße"
-          },
-          {
-            "id": "de:09162:1612",
-            "name": "Westbad"
-          },
-          {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
-          },
-          {
-            "id": "de:09162:1643",
-            "name": "Fischer-v.-Erlach-Straße"
-          },
-          {
-            "id": "de:09162:1644",
-            "name": "Mitterfeldstraße"
-          },
-          {
-            "id": "de:09162:1646",
-            "name": "Stroblstraße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
           }
         ],
         "typeOfTransport": "BUS"
@@ -3446,8 +3301,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-17T15:50:08Z",
-    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien X30, X35, X36, 52, 54, 57, 58, 68, 100, 132, 139 und 153 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "modificationDate": "2024-05-17T16:04:14Z",
+    "text": "Liebe Fahrgäste,<br/>wegen starken Verkehrsaufkommens kommt es auf den Linien X30, X35, X36, 52, 54, 58, 68, 100, 132, 139 und 153 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen. Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen starken Verkehrsaufkommens",
     "type": "DISRUPTION"
   },

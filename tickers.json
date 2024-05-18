@@ -768,16 +768,16 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-18T14:04:00Z",
-      "toDate": "2024-05-18T15:24:00Z"
+      "fromDate": "2024-05-18T14:52:00Z",
+      "toDate": "2024-05-18T15:52:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16, 62 und 132 derzeit zu Beeinträchtigungen im Stadtgebiet. <ul style='list-style: disc;'>Die Linie 52 f&auml;hrt in beiden Richtungen Umleitung &uuml;ber die Frauenhoferstr. zum Sendlinger Tor. Die Haltestellen zwischen Mariahilfplatz und Sendlinger Tor k&ouml;nnen nicht bedient werden.<br />Die Linie 62 f&auml;hrt in beiden Richtungen Umleitung &uuml;ber die Kapuzinerstr.- Erhardstr. zur Haltestelle Schweigerstr. Die Haltestellen zwischen der Kapuzinerstr. und Schweigerstr. k&ouml;nnen nicht bedient werden.<br />Die Linie 132 endet vorzeitig am Isartor.\nDie Linie 16 f&auml;hrt in beiden Richtungen Umleitung &uuml;ber die Linie 19 zum Maxmonument bzw. Hauptbahnhof. Die Haltestellen zwischen Sendlinger Tor und Maxmonument k&ouml;nnen nicht bedient werden</ul>Die Behinderungen werden noch voraussichtlich bis 17:20 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "id": "1b15c5c8-5e66-45d3-a705-344f6d9b09b1",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 16 derzeit zu Umleitungen. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "beeff207-297c-4ec0-ad8a-6e7a73f8a0d2",
     "incidentDuration": [
       {
-        "fromDate": "2024-05-18T14:04:00Z",
-        "toDate": "2024-05-18T15:24:00Z"
+        "fromDate": "2024-05-18T14:52:00Z",
+        "toDate": "2024-05-18T15:52:00Z"
       }
     ],
     "incidents": [],
@@ -909,91 +909,30 @@
           }
         ],
         "typeOfTransport": "TRAM"
-      },
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-18T14:53:03Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 16 derzeit zu Umleitungen. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Umleitung wegen einer Demonstration",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-18T14:37:00Z",
+      "toDate": "2024-05-18T15:37:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 52 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 52 wird in beiden Richtungen zwischen Mariahilfplatz und Sendlinger Tor umgeleitet. Die Haltestellen St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt, Blumenstraße, Gärtnerplatztheater, Baaderstraße und Schweigerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 17:40 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "9b1a08f0-e28f-4f34-b1f7-6cc87a45a32a",
+    "incidentDuration": [
       {
-        "direction": "1",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
+        "fromDate": "2024-05-18T14:37:00Z",
+        "toDate": "2024-05-18T15:37:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
       {
         "direction": "2",
         "id": "52",
@@ -1078,6 +1017,113 @@
         ],
         "typeOfTransport": "BUS"
       },
+      {
+        "direction": "1",
+        "id": "52",
+        "name": "52",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
+          },
+          {
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
+          },
+          {
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
+          },
+          {
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:42",
+            "name": "Mariahilfplatz"
+          },
+          {
+            "id": "de:09162:117",
+            "name": "Taubenstraße"
+          },
+          {
+            "id": "de:09162:159",
+            "name": "Kolumbusplatz (Nord)"
+          },
+          {
+            "id": "de:09162:63",
+            "name": "Humboldtstraße"
+          },
+          {
+            "id": "de:09162:1169",
+            "name": "Winterstraße"
+          },
+          {
+            "id": "de:09162:1163",
+            "name": "Jakob-Gelb-Platz"
+          },
+          {
+            "id": "de:09162:1180",
+            "name": "Candidplatz"
+          },
+          {
+            "id": "de:09162:1168",
+            "name": "Ludmillastraße"
+          },
+          {
+            "id": "de:09162:1167",
+            "name": "Lebscheestraße"
+          },
+          {
+            "id": "de:09162:1166",
+            "name": "Wilhelm-Kuhnert-Straße"
+          },
+          {
+            "id": "de:09162:1165",
+            "name": "Tierpark (Alemannenstraße)"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-18T14:46:44Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 52 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 52 wird in beiden Richtungen zwischen Mariahilfplatz und Sendlinger Tor umgeleitet. Die Haltestellen St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt, Blumenstraße, Gärtnerplatztheater, Baaderstraße und Schweigerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 17:40 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Umleitung wegen einer Demonstration",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-18T14:49:00Z",
+      "toDate": "2024-05-18T15:49:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 62 derzeit zu Umleitungen. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "24fb0e0d-34cf-492e-b22c-2dd1a5ceb971",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-18T14:49:00Z",
+        "toDate": "2024-05-18T15:49:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
       {
         "direction": "1",
         "id": "62",
@@ -1385,7 +1431,30 @@
           }
         ],
         "typeOfTransport": "BUS"
-      },
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-18T14:50:56Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 62 derzeit zu Umleitungen. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Umleitung wegen einer Demonstration",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-18T14:51:00Z",
+      "toDate": "2024-05-18T15:51:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 132 derzeit zu einer Streckenunterbrechung. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "7c75269c-aac0-402c-b1f7-da6ff93a59f3",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-18T14:51:00Z",
+        "toDate": "2024-05-18T15:51:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
       {
         "direction": "1",
         "id": "132",
@@ -1680,200 +1749,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-18T14:49:12Z",
-    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei den Linien 16, 62 und 132 derzeit zu Beeinträchtigungen im Stadtgebiet. <ul style='list-style: disc;'>Die Linie 52 f&auml;hrt in beiden Richtungen Umleitung &uuml;ber die Frauenhoferstr. zum Sendlinger Tor. Die Haltestellen zwischen Mariahilfplatz und Sendlinger Tor k&ouml;nnen nicht bedient werden.<br />Die Linie 62 f&auml;hrt in beiden Richtungen Umleitung &uuml;ber die Kapuzinerstr.- Erhardstr. zur Haltestelle Schweigerstr. Die Haltestellen zwischen der Kapuzinerstr. und Schweigerstr. k&ouml;nnen nicht bedient werden.<br />Die Linie 132 endet vorzeitig am Isartor.\nDie Linie 16 f&auml;hrt in beiden Richtungen Umleitung &uuml;ber die Linie 19 zum Maxmonument bzw. Hauptbahnhof. Die Haltestellen zwischen Sendlinger Tor und Maxmonument k&ouml;nnen nicht bedient werden</ul>Die Behinderungen werden noch voraussichtlich bis 17:20 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "title": "Beeinträchtigungen im Stadtgebiet wegen einer Demonstration",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-18T14:37:00Z",
-      "toDate": "2024-05-18T15:37:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 52 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 52 wird in beiden Richtungen zwischen Mariahilfplatz und Sendlinger Tor umgeleitet. Die Haltestellen St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt, Blumenstraße, Gärtnerplatztheater, Baaderstraße und Schweigerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 17:40 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "id": "9b1a08f0-e28f-4f34-b1f7-6cc87a45a32a",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-18T14:37:00Z",
-        "toDate": "2024-05-18T15:37:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "52",
-        "name": "52",
-        "stations": [
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:131",
-            "name": "St.-Jakobs-Platz"
-          },
-          {
-            "id": "de:09162:166",
-            "name": "Marienplatz (Rindermarkt)"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:113",
-            "name": "Blumenstraße"
-          },
-          {
-            "id": "de:09162:114",
-            "name": "Gärtnerplatztheater"
-          },
-          {
-            "id": "de:09162:115",
-            "name": "Baaderstraße"
-          },
-          {
-            "id": "de:09162:116",
-            "name": "Schweigerstraße"
-          },
-          {
-            "id": "de:09162:42",
-            "name": "Mariahilfplatz"
-          },
-          {
-            "id": "de:09162:117",
-            "name": "Taubenstraße"
-          },
-          {
-            "id": "de:09162:159",
-            "name": "Kolumbusplatz (Nord)"
-          },
-          {
-            "id": "de:09162:63",
-            "name": "Humboldtstraße"
-          },
-          {
-            "id": "de:09162:1169",
-            "name": "Winterstraße"
-          },
-          {
-            "id": "de:09162:1163",
-            "name": "Jakob-Gelb-Platz"
-          },
-          {
-            "id": "de:09162:1180",
-            "name": "Candidplatz"
-          },
-          {
-            "id": "de:09162:1168",
-            "name": "Ludmillastraße"
-          },
-          {
-            "id": "de:09162:1167",
-            "name": "Lebscheestraße"
-          },
-          {
-            "id": "de:09162:1166",
-            "name": "Wilhelm-Kuhnert-Straße"
-          },
-          {
-            "id": "de:09162:1165",
-            "name": "Tierpark (Alemannenstraße)"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-18T14:46:44Z",
-    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 52 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 52 wird in beiden Richtungen zwischen Mariahilfplatz und Sendlinger Tor umgeleitet. Die Haltestellen St.-Jakobs-Platz, Marienplatz (Rindermarkt), Viktualienmarkt, Blumenstraße, Gärtnerplatztheater, Baaderstraße und Schweigerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 17:40 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "title": "Umleitung wegen einer Demonstration",
+    "modificationDate": "2024-05-18T14:52:06Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 132 derzeit zu einer Streckenunterbrechung. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Streckenunterbrechung wegen einer Demonstration",
     "type": "DISRUPTION"
   },
   {

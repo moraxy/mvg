@@ -769,15 +769,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-18T14:52:00Z",
-      "toDate": "2024-05-18T15:52:00Z"
+      "toDate": "2024-05-18T15:14:55Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 16 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 16 wird in beiden Richtungen zwischen Sendlinger Tor und Maxmonument umgeleitet. Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz und Müllerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 16 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "beeff207-297c-4ec0-ad8a-6e7a73f8a0d2",
     "incidentDuration": [
       {
         "fromDate": "2024-05-18T14:52:00Z",
-        "toDate": "2024-05-18T15:52:00Z"
+        "toDate": "2024-05-18T15:04:55Z"
       }
     ],
     "incidents": [],
@@ -912,9 +912,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-18T14:55:49Z",
-    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 16 derzeit zu einer Umleitung . <ul style='list-style: disc;'> <li> Die Linie 16 wird in beiden Richtungen zwischen Sendlinger Tor und Maxmonument umgeleitet. Die Haltestellen Mariannenplatz, Isartor, Reichenbachplatz und Müllerstraße können leider nicht bedient werden. </li></ul>Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
-    "title": "Umleitung wegen einer Demonstration",
+    "modificationDate": "2024-05-18T15:04:57Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 16 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -923,7 +923,7 @@
       "toDate": "2024-05-18T15:51:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 132 derzeit zu einer Streckenunterbrechung. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "htmlText": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 132 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'>Die Linie 132 endet vorzeitig am Isartor. Die Haltestellen zwischen Isartor und Marienplatz k&ouml;nnen in beiden Richtungen nicht bedient werden.</ul>Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "id": "7c75269c-aac0-402c-b1f7-da6ff93a59f3",
     "incidentDuration": [
       {
@@ -933,150 +933,6 @@
     ],
     "incidents": [],
     "lines": [
-      {
-        "direction": "1",
-        "id": "132",
-        "name": "132",
-        "stations": [
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
-          },
-          {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
-          },
-          {
-            "id": "de:09162:165",
-            "name": "Schrannenhalle"
-          },
-          {
-            "id": "de:09162:26",
-            "name": "Isartor/Zweibrückenstraße"
-          },
-          {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
-          },
-          {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
-          },
-          {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
-          },
-          {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
-          },
-          {
-            "id": "de:09162:1130",
-            "name": "Harras"
-          },
-          {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
-          },
-          {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
-          },
-          {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
-          },
-          {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
-          },
-          {
-            "id": "de:09162:1466",
-            "name": "Südpark"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
-          },
-          {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
-          },
-          {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
       {
         "direction": "2",
         "id": "132",
@@ -1224,11 +1080,155 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "132",
+        "name": "132",
+        "stations": [
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
+          },
+          {
+            "id": "de:09162:165",
+            "name": "Schrannenhalle"
+          },
+          {
+            "id": "de:09162:26",
+            "name": "Isartor/Zweibrückenstraße"
+          },
+          {
+            "id": "de:09162:119",
+            "name": "Boschbrücke"
+          },
+          {
+            "id": "de:09162:151",
+            "name": "Corneliusbrücke"
+          },
+          {
+            "id": "de:09162:150",
+            "name": "Fraunhoferstraße"
+          },
+          {
+            "id": "de:09162:96",
+            "name": "Klenzestraße"
+          },
+          {
+            "id": "de:09162:61",
+            "name": "Baldeplatz"
+          },
+          {
+            "id": "de:09162:129",
+            "name": "Roecklplatz"
+          },
+          {
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
+          },
+          {
+            "id": "de:09162:1133",
+            "name": "Großmarkthalle"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1128",
+            "name": "Senserstraße"
+          },
+          {
+            "id": "de:09162:1131",
+            "name": "Aberlestraße"
+          },
+          {
+            "id": "de:09162:1104",
+            "name": "Margaretenplatz"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1335",
+            "name": "Johann-Clanze-Straße"
+          },
+          {
+            "id": "de:09162:1336",
+            "name": "Friedrich-Hebbel-Straße"
+          },
+          {
+            "id": "de:09162:1313",
+            "name": "Grünstraße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1319",
+            "name": "Aichacher Straße"
+          },
+          {
+            "id": "de:09162:1466",
+            "name": "Südpark"
+          },
+          {
+            "id": "de:09162:1464",
+            "name": "Drygalski-Allee"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1413",
+            "name": "Kriegelsteinerstraße"
+          },
+          {
+            "id": "de:09162:1411",
+            "name": "Hatzelweg"
+          },
+          {
+            "id": "de:09162:1356",
+            "name": "Forstenried"
+          },
+          {
+            "id": "de:09162:1423",
+            "name": "Spielmannsauer Straße"
+          },
+          {
+            "id": "de:09162:1422",
+            "name": "Mindelheimer Straße"
+          },
+          {
+            "id": "de:09162:1421",
+            "name": "Forstenrieder Park"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-18T14:52:06Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Demonstration kommt es auf der Linie 132 derzeit zu einer Streckenunterbrechung. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "modificationDate": "2024-05-18T15:04:47Z",
+    "text": "Liebe Fahrgäste, <br/>wegen einer Demonstration kommt es bei der Linie 132 derzeit zu einer Streckenunterbrechung. <ul style='list-style: disc;'>Die Linie 132 endet vorzeitig am Isartor. Die Haltestellen zwischen Isartor und Marienplatz k&ouml;nnen in beiden Richtungen nicht bedient werden.</ul>Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
     "title": "Streckenunterbrechung wegen einer Demonstration",
     "type": "DISRUPTION"
   },

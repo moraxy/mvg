@@ -1,185 +1,353 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-05-21T16:15:00Z",
-      "toDate": "2024-05-21T17:15:00Z"
+      "fromDate": "2024-05-21T14:40:00Z",
+      "toDate": "2024-05-21T17:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung zwischen Ostbahnhof und Neuperlach Süd kommt es derzeit zu Verspätungen  auf der Linie U5. <br>Die Behinderungen werden noch voraussichtlich bis 19:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "id": "9f5e41d0-f5e3-46b3-a04e-9d96ff39d490",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf den Linien 16 und 27 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "5e14100f-1bc6-4df4-a5a6-e2c9c3181841",
     "incidentDuration": [
       {
-        "fromDate": "2024-05-21T16:15:00Z",
-        "toDate": "2024-05-21T17:15:00Z"
+        "fromDate": "2024-05-21T14:40:00Z",
+        "toDate": "2024-05-21T17:30:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "2",
-        "id": "5",
-        "name": "U5",
+        "id": "16",
+        "name": "16",
         "stations": [
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
           },
           {
-            "id": "de:09162:1020",
-            "name": "Therese-Giehse-Allee"
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
           },
           {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
           },
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
           },
           {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
           },
           {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
+            "id": "de:09162:653",
+            "name": "Cosimabad"
           },
           {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
+          },
+          {
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
           },
           {
             "id": "de:09162:590",
             "name": "Lehel"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
+            "id": "de:09162:19",
+            "name": "Maxmonument"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:270",
-            "name": "Friedenheimer Straße"
-          },
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
           }
         ],
-        "typeOfTransport": "METRO"
+        "typeOfTransport": "TRAM"
       },
       {
         "direction": "1",
-        "id": "5",
-        "name": "U5",
+        "id": "16",
+        "name": "16",
         "stations": [
-          {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
-          },
-          {
-            "id": "de:09162:270",
-            "name": "Friedenheimer Straße"
-          },
-          {
-            "id": "de:09162:260",
-            "name": "Westendstraße"
-          },
-          {
-            "id": "de:09162:1150",
-            "name": "Heimeranplatz"
-          },
-          {
-            "id": "de:09162:250",
-            "name": "Schwanthalerhöhe"
-          },
-          {
-            "id": "de:09162:240",
-            "name": "Theresienwiese"
-          },
-          {
-            "id": "de:09162:6",
-            "name": "Hauptbahnhof"
-          },
           {
             "id": "de:09162:1",
             "name": "Karlsplatz (Stachus)"
           },
           {
-            "id": "de:09162:60",
-            "name": "Odeonsplatz"
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:38",
+            "name": "Müllerstraße"
+          },
+          {
+            "id": "de:09162:68",
+            "name": "Reichenbachplatz"
+          },
+          {
+            "id": "de:09162:3",
+            "name": "Isartor"
+          },
+          {
+            "id": "de:09162:84",
+            "name": "Mariannenplatz"
+          },
+          {
+            "id": "de:09162:19",
+            "name": "Maxmonument"
           },
           {
             "id": "de:09162:590",
             "name": "Lehel"
           },
           {
-            "id": "de:09162:580",
-            "name": "Max-Weber-Platz"
+            "id": "de:09162:81",
+            "name": "Nationalmuseum/Haus der Kunst"
           },
           {
-            "id": "de:09162:5",
-            "name": "Ostbahnhof"
+            "id": "de:09162:79",
+            "name": "Paradiesstraße"
           },
           {
-            "id": "de:09162:1060",
-            "name": "Innsbrucker Ring"
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
           },
           {
-            "id": "de:09162:1050",
-            "name": "Michaelibad"
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
           },
           {
-            "id": "de:09162:1040",
-            "name": "Quiddestraße"
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
           },
           {
-            "id": "de:09162:1030",
-            "name": "Neuperlach Zentrum"
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
           },
           {
-            "id": "de:09162:1020",
-            "name": "Therese-Giehse-Allee"
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
           },
           {
-            "id": "de:09162:1010",
-            "name": "Neuperlach Süd"
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:633",
+            "name": "Schlösselgarten"
+          },
+          {
+            "id": "de:09162:632",
+            "name": "Prinz-Eugen-Park"
+          },
+          {
+            "id": "de:09162:637",
+            "name": "Taimerhofstraße"
+          },
+          {
+            "id": "de:09162:556",
+            "name": "Regina-Ullmann-Straße"
+          },
+          {
+            "id": "de:09162:601",
+            "name": "Fritz-Meyer-Weg"
+          },
+          {
+            "id": "de:09162:600",
+            "name": "St. Emmeram"
           }
         ],
-        "typeOfTransport": "METRO"
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          }
+        ],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "27",
+        "name": "27",
+        "stations": [
+          {
+            "id": "de:09162:1",
+            "name": "Karlsplatz (Stachus)"
+          },
+          {
+            "id": "de:09162:53",
+            "name": "Ottostraße"
+          },
+          {
+            "id": "de:09162:52",
+            "name": "Karolinenplatz"
+          },
+          {
+            "id": "de:09162:51",
+            "name": "Pinakotheken"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:48",
+            "name": "Nordendstraße"
+          },
+          {
+            "id": "de:09162:47",
+            "name": "Elisabethplatz"
+          },
+          {
+            "id": "de:09162:43",
+            "name": "Kurfürstenplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:311",
+            "name": "Herzogstraße"
+          },
+          {
+            "id": "de:09162:309",
+            "name": "Ackermannstraße"
+          },
+          {
+            "id": "de:09162:308",
+            "name": "Gartenstraße"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          }
+        ],
+        "typeOfTransport": "TRAM"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-21T16:16:26Z",
-    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung zwischen Ostbahnhof und Neuperlach Süd kommt es derzeit zu Verspätungen  auf der Linie U5. <br>Die Behinderungen werden noch voraussichtlich bis 19:20 Uhr dauern. <br>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen. Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br>Ihre MVG\r\n",
-    "title": "Verspätungen nach einer bereits behobenen Störung",
+    "modificationDate": "2024-05-21T17:12:42Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf den Linien 16 und 27 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Betriebsstörung",
     "type": "DISRUPTION"
   },
   {
@@ -1314,281 +1482,6 @@
     "modificationDate": "2024-05-21T14:59:41Z",
     "text": "Liebe Fahrgäste,<br>wegen Bauarbeiten im Bereich Fürstenrieder Straße kommt es auf den Linien 51, 151 und 168 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen zwischen Fürstenrieder Straße und Ammerseestraße. <br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen Bauarbeiten",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-21T16:29:00Z",
-      "toDate": "2024-05-21T17:29:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Pasinger Heuweg kommt es auf der Linie 164 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "3a1856a7-296d-4bf9-b5d8-d12ecc5db496",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-21T16:29:00Z",
-        "toDate": "2024-05-21T17:29:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "164",
-        "name": "164",
-        "stations": [
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          },
-          {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
-          },
-          {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
-          },
-          {
-            "id": "de:09162:239",
-            "name": "Nederlinger Straße (West)"
-          },
-          {
-            "id": "de:09162:230",
-            "name": "Skagerrakstraße"
-          },
-          {
-            "id": "de:09162:1934",
-            "name": "Untermenzinger Straße"
-          },
-          {
-            "id": "de:09162:1932",
-            "name": "Waldhornstraße"
-          },
-          {
-            "id": "de:09162:1931",
-            "name": "Zaunerstraße"
-          },
-          {
-            "id": "de:09162:1930",
-            "name": "Untermenzing"
-          },
-          {
-            "id": "de:09162:1820",
-            "name": "Willi-Wien-Straße"
-          },
-          {
-            "id": "de:09162:1814",
-            "name": "Von-Kahr-Straße"
-          },
-          {
-            "id": "de:09162:1815",
-            "name": "Campingplatz Obermenzing"
-          },
-          {
-            "id": "de:09162:1851",
-            "name": "Goteboldstraße"
-          },
-          {
-            "id": "de:09162:1830",
-            "name": "Gerlachweg"
-          },
-          {
-            "id": "de:09162:1838",
-            "name": "Auenbruggerstraße"
-          },
-          {
-            "id": "de:09162:1834",
-            "name": "Pasinger Heuweg"
-          },
-          {
-            "id": "de:09162:1832",
-            "name": "Riederstraße"
-          },
-          {
-            "id": "de:09162:1831",
-            "name": "Hauseggerstraße"
-          },
-          {
-            "id": "de:09162:1829",
-            "name": "Servetstraße"
-          },
-          {
-            "id": "de:09162:1839",
-            "name": "Eversbuschstraße"
-          },
-          {
-            "id": "de:09162:1822",
-            "name": "Vesaliusstraße"
-          },
-          {
-            "id": "de:09162:1910",
-            "name": "Allach Bf."
-          },
-          {
-            "id": "de:09162:1823",
-            "name": "St.-Johann-Straße"
-          },
-          {
-            "id": "de:09162:1840",
-            "name": "Georg-Reismüller-Straße"
-          },
-          {
-            "id": "de:09162:1825",
-            "name": "Franz-Nißl-Straße"
-          },
-          {
-            "id": "de:09162:1826",
-            "name": "Kleselstraße"
-          },
-          {
-            "id": "de:09162:1837",
-            "name": "Pregerstraße"
-          },
-          {
-            "id": "de:09162:1836",
-            "name": "Karl-Hänel-Straße"
-          },
-          {
-            "id": "de:09162:1835",
-            "name": "Augustenfelder Straße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "164",
-        "name": "164",
-        "stations": [
-          {
-            "id": "de:09162:1835",
-            "name": "Augustenfelder Straße"
-          },
-          {
-            "id": "de:09162:1836",
-            "name": "Karl-Hänel-Straße"
-          },
-          {
-            "id": "de:09162:1837",
-            "name": "Pregerstraße"
-          },
-          {
-            "id": "de:09162:1826",
-            "name": "Kleselstraße"
-          },
-          {
-            "id": "de:09162:1825",
-            "name": "Franz-Nißl-Straße"
-          },
-          {
-            "id": "de:09162:1840",
-            "name": "Georg-Reismüller-Straße"
-          },
-          {
-            "id": "de:09162:1823",
-            "name": "St.-Johann-Straße"
-          },
-          {
-            "id": "de:09162:1910",
-            "name": "Allach Bf."
-          },
-          {
-            "id": "de:09162:1822",
-            "name": "Vesaliusstraße"
-          },
-          {
-            "id": "de:09162:1839",
-            "name": "Eversbuschstraße"
-          },
-          {
-            "id": "de:09162:1829",
-            "name": "Servetstraße"
-          },
-          {
-            "id": "de:09162:1831",
-            "name": "Hauseggerstraße"
-          },
-          {
-            "id": "de:09162:1832",
-            "name": "Riederstraße"
-          },
-          {
-            "id": "de:09162:1834",
-            "name": "Pasinger Heuweg"
-          },
-          {
-            "id": "de:09162:1838",
-            "name": "Auenbruggerstraße"
-          },
-          {
-            "id": "de:09162:1830",
-            "name": "Gerlachweg"
-          },
-          {
-            "id": "de:09162:1851",
-            "name": "Goteboldstraße"
-          },
-          {
-            "id": "de:09162:1815",
-            "name": "Campingplatz Obermenzing"
-          },
-          {
-            "id": "de:09162:1814",
-            "name": "Von-Kahr-Straße"
-          },
-          {
-            "id": "de:09162:1820",
-            "name": "Willi-Wien-Straße"
-          },
-          {
-            "id": "de:09162:1930",
-            "name": "Untermenzing"
-          },
-          {
-            "id": "de:09162:1931",
-            "name": "Zaunerstraße"
-          },
-          {
-            "id": "de:09162:1932",
-            "name": "Waldhornstraße"
-          },
-          {
-            "id": "de:09162:1934",
-            "name": "Untermenzinger Straße"
-          },
-          {
-            "id": "de:09162:230",
-            "name": "Skagerrakstraße"
-          },
-          {
-            "id": "de:09162:239",
-            "name": "Nederlinger Straße (West)"
-          },
-          {
-            "id": "de:09162:228",
-            "name": "Nederlinger Straße"
-          },
-          {
-            "id": "de:09162:224",
-            "name": "Mettenstraße"
-          },
-          {
-            "id": "de:09162:206",
-            "name": "Sadelerstraße"
-          },
-          {
-            "id": "de:09162:200",
-            "name": "Westfriedhof"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-21T16:30:46Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Pasinger Heuweg kommt es auf der Linie 164 derzeit zu Verspätungen und einzelnen Ausfällen. <br>Die Behinderungen werden noch voraussichtlich bis 19:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen und einzelne Ausfälle wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

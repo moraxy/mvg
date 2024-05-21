@@ -1,6 +1,253 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-21T15:34:00Z",
+      "toDate": "2024-05-21T16:34:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Harras kommt es derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Züge der Linie U6 halten aktuell nicht am U-Bahnhof Harras. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "id": "d45bff40-3d87-4844-b9ad-d0071925baea",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-21T15:34:00Z",
+        "toDate": "2024-05-21T16:34:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "1",
+        "id": "6",
+        "name": "U6",
+        "stations": [
+          {
+            "id": "de:09184:460",
+            "name": "Garching-Forschungszentrum"
+          },
+          {
+            "id": "de:09184:490",
+            "name": "Garching"
+          },
+          {
+            "id": "de:09184:480",
+            "name": "Garching-Hochbrück"
+          },
+          {
+            "id": "de:09162:470",
+            "name": "Fröttmaning"
+          },
+          {
+            "id": "de:09162:430",
+            "name": "Kieferngarten"
+          },
+          {
+            "id": "de:09162:420",
+            "name": "Freimann"
+          },
+          {
+            "id": "de:09162:540",
+            "name": "Studentenstadt"
+          },
+          {
+            "id": "de:09162:530",
+            "name": "Alte Heide"
+          },
+          {
+            "id": "de:09162:520",
+            "name": "Nordfriedhof"
+          },
+          {
+            "id": "de:09162:510",
+            "name": "Dietlindenstraße"
+          },
+          {
+            "id": "de:09162:500",
+            "name": "Münchner Freiheit"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:60",
+            "name": "Odeonsplatz"
+          },
+          {
+            "id": "de:09162:2",
+            "name": "Marienplatz"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
+          },
+          {
+            "id": "de:09162:30",
+            "name": "Poccistraße"
+          },
+          {
+            "id": "de:09162:1140",
+            "name": "Implerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1330",
+            "name": "Partnachplatz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1510",
+            "name": "Holzapfelkreuth"
+          },
+          {
+            "id": "de:09162:1520",
+            "name": "Haderner Stern"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1540",
+            "name": "Klinikum Großhadern"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-21T15:35:04Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Feuerwehreinsatzes im Bereich Harras kommt es derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'> <li>Die Züge der Linie U6 halten aktuell nicht am U-Bahnhof Harras. </li></ul>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen.<br/>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Feuerwehreinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-21T14:40:00Z",
       "toDate": "2024-05-21T16:00:00Z"
     },
@@ -991,6 +1238,173 @@
     "modificationDate": "2024-05-21T14:59:41Z",
     "text": "Liebe Fahrgäste,<br>wegen Bauarbeiten im Bereich Fürstenrieder Straße kommt es auf den Linien 51, 151 und 168 derzeit zu Verspätungen, Ausfällen und vorzeitigen Wendungen zwischen Fürstenrieder Straße und Ammerseestraße. <br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Verspätungen, Ausfälle und vorzeitige Wendungen wegen Bauarbeiten",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-21T15:30:00Z",
+      "toDate": "2024-05-21T16:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Murnauer Straße kommt es auf der Linie 63 in Richtung Rotkreuzplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 63 in Richtung Rotkreuzplatz wird zwischen Ratzingerplatz und Höglwörther Straße umgeleitet. Die Haltestelle Murnauer Straße kann leider nicht bedient werden. Haltestelle Höglwörtherstraße bei Linie 132 </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "ee057917-452a-40db-b970-3840c885fe44",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-21T15:30:00Z",
+        "toDate": "2024-05-21T16:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "63",
+        "name": "63",
+        "stations": [
+          {
+            "id": "de:09162:1480",
+            "name": "Forstenrieder Allee"
+          },
+          {
+            "id": "de:09162:1409",
+            "name": "Limmatstraße"
+          },
+          {
+            "id": "de:09162:1408",
+            "name": "Züricher Straße"
+          },
+          {
+            "id": "de:09162:1405",
+            "name": "Staffelseestraße"
+          },
+          {
+            "id": "de:09162:1350",
+            "name": "Munckerstraße"
+          },
+          {
+            "id": "de:09162:1354",
+            "name": "Stäblistraße"
+          },
+          {
+            "id": "de:09162:1351",
+            "name": "Gulbranssonstraße"
+          },
+          {
+            "id": "de:09162:1349",
+            "name": "Wilhelm-Busch-Straße"
+          },
+          {
+            "id": "de:09162:1360",
+            "name": "Gilgstraße"
+          },
+          {
+            "id": "de:09162:1403",
+            "name": "Plattlinger Straße"
+          },
+          {
+            "id": "de:09162:1346",
+            "name": "Hofbrunnstraße"
+          },
+          {
+            "id": "de:09162:1345",
+            "name": "Marienstern"
+          },
+          {
+            "id": "de:09162:1339",
+            "name": "Siemensallee"
+          },
+          {
+            "id": "de:09162:1338",
+            "name": "Leutstettener Straße"
+          },
+          {
+            "id": "de:09162:1337",
+            "name": "Kistlerhofstraße"
+          },
+          {
+            "id": "de:09162:1460",
+            "name": "Aidenbachstraße"
+          },
+          {
+            "id": "de:09162:1303",
+            "name": "Ratzingerplatz"
+          },
+          {
+            "id": "de:09162:1317",
+            "name": "Murnauer Straße"
+          },
+          {
+            "id": "de:09162:1316",
+            "name": "Höglwörther Straße"
+          },
+          {
+            "id": "de:09162:1315",
+            "name": "Pilsenseestraße"
+          },
+          {
+            "id": "de:09162:1307",
+            "name": "Luise-Kiesselbach-Platz"
+          },
+          {
+            "id": "de:09162:1340",
+            "name": "Westpark"
+          },
+          {
+            "id": "de:09162:1226",
+            "name": "Hinterbärenbadstraße"
+          },
+          {
+            "id": "de:09162:1224",
+            "name": "Siegenburger Straße"
+          },
+          {
+            "id": "de:09162:1222",
+            "name": "Garmischer Straße"
+          },
+          {
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
+          },
+          {
+            "id": "de:09162:85",
+            "name": "Kazmairstraße"
+          },
+          {
+            "id": "de:09162:102",
+            "name": "Gollierplatz"
+          },
+          {
+            "id": "de:09162:65",
+            "name": "Trappentreustraße"
+          },
+          {
+            "id": "de:09162:8",
+            "name": "Donnersbergerbrücke"
+          },
+          {
+            "id": "de:09162:54",
+            "name": "Donnersbergerstraße"
+          },
+          {
+            "id": "de:09162:103",
+            "name": "Schlörstraße"
+          },
+          {
+            "id": "de:09162:29",
+            "name": "Landshuter Allee"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-21T15:33:23Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Murnauer Straße kommt es auf der Linie 63 in Richtung Rotkreuzplatz derzeit zu  einer Umleitung. <ul style='list-style: disc;'> \t<li> Die Linie 63 in Richtung Rotkreuzplatz wird zwischen Ratzingerplatz und Höglwörther Straße umgeleitet. Die Haltestelle Murnauer Straße kann leider nicht bedient werden. Haltestelle Höglwörtherstraße bei Linie 132 </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 18:30 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Verkehrsunfalls",
     "type": "DISRUPTION"
   },
   {

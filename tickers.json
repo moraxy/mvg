@@ -1,6 +1,173 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-22T20:13:00Z",
+      "toDate": "2024-05-22T20:45:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 175 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "b3b3236c-f5f7-42b0-877a-f88b6f8a0018",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-22T20:13:00Z",
+        "toDate": "2024-05-22T20:45:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:314",
+            "name": "Riesstraße"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "175",
+        "name": "175",
+        "stations": [
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:312",
+            "name": "Georg-Brauchle-Ring"
+          },
+          {
+            "id": "de:09162:330",
+            "name": "Gärtnerstraße"
+          },
+          {
+            "id": "de:09162:321",
+            "name": "Olympia-Pressestadt"
+          },
+          {
+            "id": "de:09162:319",
+            "name": "Olympia-Einkaufszentrum Ost"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:377",
+            "name": "Claudiusplatz"
+          },
+          {
+            "id": "de:09162:316",
+            "name": "Bingener Straße"
+          },
+          {
+            "id": "de:09162:376",
+            "name": "Merseburger Straße"
+          },
+          {
+            "id": "de:09162:310",
+            "name": "Fasanerie Bf."
+          },
+          {
+            "id": "de:09162:385",
+            "name": "Kuckucksblumenstraße"
+          },
+          {
+            "id": "de:09162:384",
+            "name": "Sonnentaustraße"
+          },
+          {
+            "id": "de:09162:383",
+            "name": "Pappelallee"
+          },
+          {
+            "id": "de:09162:382",
+            "name": "Am Blütenanger"
+          },
+          {
+            "id": "de:09162:381",
+            "name": "Ludwigsfeld Campingplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-22T20:14:49Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 175 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

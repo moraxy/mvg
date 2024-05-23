@@ -1,129 +1,6 @@
 [
   {
     "activeDuration": {
-      "fromDate": "2024-05-23T20:28:00Z",
-      "toDate": "2024-05-23T21:03:01Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 16 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "3f181ef6-303f-4f2d-b653-f05cabfd79c3",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-23T20:28:00Z",
-        "toDate": "2024-05-23T20:53:01Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "16",
-        "name": "16",
-        "stations": [
-          {
-            "id": "de:09162:1",
-            "name": "Karlsplatz (Stachus)"
-          },
-          {
-            "id": "de:09162:50",
-            "name": "Sendlinger Tor"
-          },
-          {
-            "id": "de:09162:38",
-            "name": "Müllerstraße"
-          },
-          {
-            "id": "de:09162:68",
-            "name": "Reichenbachplatz"
-          },
-          {
-            "id": "de:09162:3",
-            "name": "Isartor"
-          },
-          {
-            "id": "de:09162:84",
-            "name": "Mariannenplatz"
-          },
-          {
-            "id": "de:09162:19",
-            "name": "Maxmonument"
-          },
-          {
-            "id": "de:09162:590",
-            "name": "Lehel"
-          },
-          {
-            "id": "de:09162:81",
-            "name": "Nationalmuseum/Haus der Kunst"
-          },
-          {
-            "id": "de:09162:79",
-            "name": "Paradiesstraße"
-          },
-          {
-            "id": "de:09162:78",
-            "name": "Tivolistraße"
-          },
-          {
-            "id": "de:09162:77",
-            "name": "Mauerkircherstraße"
-          },
-          {
-            "id": "de:09162:76",
-            "name": "Herkomerplatz"
-          },
-          {
-            "id": "de:09162:650",
-            "name": "Effnerplatz"
-          },
-          {
-            "id": "de:09162:651",
-            "name": "Arabellastraße"
-          },
-          {
-            "id": "de:09162:655",
-            "name": "Arabellapark (Klinikum Bogenhausen)"
-          },
-          {
-            "id": "de:09162:653",
-            "name": "Cosimabad"
-          },
-          {
-            "id": "de:09162:633",
-            "name": "Schlösselgarten"
-          },
-          {
-            "id": "de:09162:632",
-            "name": "Prinz-Eugen-Park"
-          },
-          {
-            "id": "de:09162:637",
-            "name": "Taimerhofstraße"
-          },
-          {
-            "id": "de:09162:556",
-            "name": "Regina-Ullmann-Straße"
-          },
-          {
-            "id": "de:09162:601",
-            "name": "Fritz-Meyer-Weg"
-          },
-          {
-            "id": "de:09162:600",
-            "name": "St. Emmeram"
-          }
-        ],
-        "typeOfTransport": "TRAM"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-23T20:53:01Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 16 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
       "fromDate": "2024-05-23T14:20:00Z",
       "toDate": "2024-05-23T23:45:00Z"
     },
@@ -138,6 +15,242 @@
     ],
     "incidents": [],
     "lines": [
+      {
+        "direction": "1",
+        "id": "56",
+        "name": "56",
+        "stations": [
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
+          },
+          {
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
+          },
+          {
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1622",
+            "name": "Pasinger Marienplatz"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
+          },
+          {
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
+          },
+          {
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
+          },
+          {
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
+          },
+          {
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
+          },
+          {
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
+          },
+          {
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
+          },
+          {
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
+          },
+          {
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "56",
+        "name": "56",
+        "stations": [
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1434",
+            "name": "Ehrenmal"
+          },
+          {
+            "id": "de:09162:1432",
+            "name": "Zöllerstraße"
+          },
+          {
+            "id": "de:09162:1426",
+            "name": "Max-Lebsche-Platz"
+          },
+          {
+            "id": "de:09162:1472",
+            "name": "Klinikum Großhadern Ost"
+          },
+          {
+            "id": "de:09162:1424",
+            "name": "Marchioninistraße"
+          },
+          {
+            "id": "de:09162:1530",
+            "name": "Großhadern"
+          },
+          {
+            "id": "de:09162:1534",
+            "name": "Am Ährenfeld"
+          },
+          {
+            "id": "de:09162:1536",
+            "name": "Haderunstraße"
+          },
+          {
+            "id": "de:09162:1538",
+            "name": "Krokusstraße"
+          },
+          {
+            "id": "de:09162:1542",
+            "name": "Terofalstraße"
+          },
+          {
+            "id": "de:09162:1634",
+            "name": "Blumenau"
+          },
+          {
+            "id": "de:09162:1632",
+            "name": "Seeholzenweg"
+          },
+          {
+            "id": "de:09162:1633",
+            "name": "Perlschneiderstraße"
+          },
+          {
+            "id": "de:09162:1628",
+            "name": "Siegmannstraße"
+          },
+          {
+            "id": "de:09162:1626",
+            "name": "Planegger Straße"
+          },
+          {
+            "id": "de:09162:1623",
+            "name": "Engelbertstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1801",
+            "name": "Marschnerstraße"
+          },
+          {
+            "id": "de:09162:1802",
+            "name": "Rubensstraße"
+          },
+          {
+            "id": "de:09162:1803",
+            "name": "Polkostraße"
+          },
+          {
+            "id": "de:09162:1804",
+            "name": "Alte Allee"
+          },
+          {
+            "id": "de:09162:1805",
+            "name": "Friedhof Obermenzing"
+          },
+          {
+            "id": "de:09162:1806",
+            "name": "Bertha-von-Suttner-Weg"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1812",
+            "name": "Schloss Blutenburg"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
       {
         "direction": "1",
         "id": "54",
@@ -504,242 +617,6 @@
       },
       {
         "direction": "1",
-        "id": "56",
-        "name": "56",
-        "stations": [
-          {
-            "id": "de:09162:1812",
-            "name": "Schloss Blutenburg"
-          },
-          {
-            "id": "de:09162:1806",
-            "name": "Bertha-von-Suttner-Weg"
-          },
-          {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
-          },
-          {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
-          },
-          {
-            "id": "de:09162:1803",
-            "name": "Polkostraße"
-          },
-          {
-            "id": "de:09162:1802",
-            "name": "Rubensstraße"
-          },
-          {
-            "id": "de:09162:1801",
-            "name": "Marschnerstraße"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1622",
-            "name": "Pasinger Marienplatz"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1628",
-            "name": "Siegmannstraße"
-          },
-          {
-            "id": "de:09162:1633",
-            "name": "Perlschneiderstraße"
-          },
-          {
-            "id": "de:09162:1632",
-            "name": "Seeholzenweg"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1542",
-            "name": "Terofalstraße"
-          },
-          {
-            "id": "de:09162:1538",
-            "name": "Krokusstraße"
-          },
-          {
-            "id": "de:09162:1536",
-            "name": "Haderunstraße"
-          },
-          {
-            "id": "de:09162:1534",
-            "name": "Am Ährenfeld"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1424",
-            "name": "Marchioninistraße"
-          },
-          {
-            "id": "de:09162:1472",
-            "name": "Klinikum Großhadern Ost"
-          },
-          {
-            "id": "de:09162:1426",
-            "name": "Max-Lebsche-Platz"
-          },
-          {
-            "id": "de:09162:1432",
-            "name": "Zöllerstraße"
-          },
-          {
-            "id": "de:09162:1434",
-            "name": "Ehrenmal"
-          },
-          {
-            "id": "de:09162:1437",
-            "name": "Bellinzonastraße"
-          },
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "56",
-        "name": "56",
-        "stations": [
-          {
-            "id": "de:09162:1500",
-            "name": "Fürstenried West"
-          },
-          {
-            "id": "de:09162:1437",
-            "name": "Bellinzonastraße"
-          },
-          {
-            "id": "de:09162:1434",
-            "name": "Ehrenmal"
-          },
-          {
-            "id": "de:09162:1432",
-            "name": "Zöllerstraße"
-          },
-          {
-            "id": "de:09162:1426",
-            "name": "Max-Lebsche-Platz"
-          },
-          {
-            "id": "de:09162:1472",
-            "name": "Klinikum Großhadern Ost"
-          },
-          {
-            "id": "de:09162:1424",
-            "name": "Marchioninistraße"
-          },
-          {
-            "id": "de:09162:1530",
-            "name": "Großhadern"
-          },
-          {
-            "id": "de:09162:1534",
-            "name": "Am Ährenfeld"
-          },
-          {
-            "id": "de:09162:1536",
-            "name": "Haderunstraße"
-          },
-          {
-            "id": "de:09162:1538",
-            "name": "Krokusstraße"
-          },
-          {
-            "id": "de:09162:1542",
-            "name": "Terofalstraße"
-          },
-          {
-            "id": "de:09162:1634",
-            "name": "Blumenau"
-          },
-          {
-            "id": "de:09162:1632",
-            "name": "Seeholzenweg"
-          },
-          {
-            "id": "de:09162:1633",
-            "name": "Perlschneiderstraße"
-          },
-          {
-            "id": "de:09162:1628",
-            "name": "Siegmannstraße"
-          },
-          {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
-          },
-          {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
-          },
-          {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
-          },
-          {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
-          },
-          {
-            "id": "de:09162:1801",
-            "name": "Marschnerstraße"
-          },
-          {
-            "id": "de:09162:1802",
-            "name": "Rubensstraße"
-          },
-          {
-            "id": "de:09162:1803",
-            "name": "Polkostraße"
-          },
-          {
-            "id": "de:09162:1804",
-            "name": "Alte Allee"
-          },
-          {
-            "id": "de:09162:1805",
-            "name": "Friedhof Obermenzing"
-          },
-          {
-            "id": "de:09162:1806",
-            "name": "Bertha-von-Suttner-Weg"
-          },
-          {
-            "id": "de:09162:1807",
-            "name": "Blutenburg"
-          },
-          {
-            "id": "de:09162:1812",
-            "name": "Schloss Blutenburg"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
         "id": "142",
         "name": "142",
         "stations": [
@@ -827,173 +704,6 @@
     "modificationDate": "2024-05-23T20:40:20Z",
     "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
     "title": "Fahrtausfälle wegen Personalengpässen",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-23T20:20:00Z",
-      "toDate": "2024-05-23T21:04:02Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 175 gemeldete Behinderung (Grund: Betriebsstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "512c9ffb-7121-422f-872d-958276289e38",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-23T20:20:00Z",
-        "toDate": "2024-05-23T20:54:02Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "1",
-        "id": "175",
-        "name": "175",
-        "stations": [
-          {
-            "id": "de:09162:381",
-            "name": "Ludwigsfeld Campingplatz"
-          },
-          {
-            "id": "de:09162:382",
-            "name": "Am Blütenanger"
-          },
-          {
-            "id": "de:09162:383",
-            "name": "Pappelallee"
-          },
-          {
-            "id": "de:09162:384",
-            "name": "Sonnentaustraße"
-          },
-          {
-            "id": "de:09162:385",
-            "name": "Kuckucksblumenstraße"
-          },
-          {
-            "id": "de:09162:310",
-            "name": "Fasanerie Bf."
-          },
-          {
-            "id": "de:09162:376",
-            "name": "Merseburger Straße"
-          },
-          {
-            "id": "de:09162:316",
-            "name": "Bingener Straße"
-          },
-          {
-            "id": "de:09162:377",
-            "name": "Claudiusplatz"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:314",
-            "name": "Riesstraße"
-          },
-          {
-            "id": "de:09162:319",
-            "name": "Olympia-Einkaufszentrum Ost"
-          },
-          {
-            "id": "de:09162:321",
-            "name": "Olympia-Pressestadt"
-          },
-          {
-            "id": "de:09162:330",
-            "name": "Gärtnerstraße"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "2",
-        "id": "175",
-        "name": "175",
-        "stations": [
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:312",
-            "name": "Georg-Brauchle-Ring"
-          },
-          {
-            "id": "de:09162:330",
-            "name": "Gärtnerstraße"
-          },
-          {
-            "id": "de:09162:321",
-            "name": "Olympia-Pressestadt"
-          },
-          {
-            "id": "de:09162:319",
-            "name": "Olympia-Einkaufszentrum Ost"
-          },
-          {
-            "id": "de:09162:318",
-            "name": "Olympia-Einkaufszentrum West"
-          },
-          {
-            "id": "de:09162:360",
-            "name": "Olympia-Einkaufszentrum"
-          },
-          {
-            "id": "de:09162:377",
-            "name": "Claudiusplatz"
-          },
-          {
-            "id": "de:09162:316",
-            "name": "Bingener Straße"
-          },
-          {
-            "id": "de:09162:376",
-            "name": "Merseburger Straße"
-          },
-          {
-            "id": "de:09162:310",
-            "name": "Fasanerie Bf."
-          },
-          {
-            "id": "de:09162:385",
-            "name": "Kuckucksblumenstraße"
-          },
-          {
-            "id": "de:09162:384",
-            "name": "Sonnentaustraße"
-          },
-          {
-            "id": "de:09162:383",
-            "name": "Pappelallee"
-          },
-          {
-            "id": "de:09162:382",
-            "name": "Am Blütenanger"
-          },
-          {
-            "id": "de:09162:381",
-            "name": "Ludwigsfeld Campingplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-23T20:54:02Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 175 gemeldete Behinderung (Grund: Betriebsstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {

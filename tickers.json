@@ -731,6 +731,125 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-23T14:20:00Z",
+      "toDate": "2024-05-23T16:58:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "id": "bdc8f527-6ca8-4021-aa3e-e8d7e0c899ed",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-23T14:20:00Z",
+        "toDate": "2024-05-23T16:58:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1974",
+            "name": "Opalstraße"
+          },
+          {
+            "id": "de:09162:1975",
+            "name": "MAN, Siedlung"
+          },
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "176",
+        "name": "176",
+        "stations": [
+          {
+            "id": "de:09162:1976",
+            "name": "Karlsfelder Straße"
+          },
+          {
+            "id": "de:09162:1968",
+            "name": "Kristallstraße"
+          },
+          {
+            "id": "de:09162:1964",
+            "name": "Ferchenbachstraße"
+          },
+          {
+            "id": "de:09162:1965",
+            "name": "Rangierbahnhof"
+          },
+          {
+            "id": "de:09162:1963",
+            "name": "Max-Born-Straße"
+          },
+          {
+            "id": "de:09162:1967",
+            "name": "Haylerstraße"
+          },
+          {
+            "id": "de:09162:1962",
+            "name": "Eininger Straße"
+          },
+          {
+            "id": "de:09162:366",
+            "name": "Gröbenzeller Straße"
+          },
+          {
+            "id": "de:09162:300",
+            "name": "Moosach Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-23T14:21:51Z",
+    "text": "Liebe Fahrgäste,<br/>wegen Personalengpässen kommt es derzeit zu Ausfällen. <br/>Wir bitten dies zu entschuldigen.\r\n<br>Ihre MVG",
+    "title": "Fahrtausfälle wegen Personalengpässen",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

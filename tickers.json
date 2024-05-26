@@ -5,7 +5,7 @@
       "toDate": "2024-05-26T22:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "<div>Liebe Fahrg&auml;ste,<br/>aktuell findet noch bis ca. 23 Uhr eine Gro&szlig;veranstaltung im Olympiapark statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und 173 nach Ende der Veranstaltung zu rechnen. Es ist geplant zus&auml;tzliche Z&uuml;ge und Shuttlebusse wie folgt einzusetzen:</div>\n<ul>\n<li><strong>U3:</strong> Olympiazentrum - Scheidplatz - Marienplatz - Sendlinger Tor</li>\n<li><strong>U8:</strong> Olympiazentrum - Scheidplatz (weiter auf der U2) - Hauptbahnhof - Sendlinger Tor&nbsp;</li>\n<li><strong>Shuttlebusse:</strong> Olympiazentrum &gt; Frankfurter Ring (U2) &gt; Studentenstadt (U6)</li>\n</ul>\n<div>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
+    "htmlText": "<div>Liebe Fahrg&auml;ste,<br/>aktuell findet noch bis ca. 23 Uhr eine Gro&szlig;veranstaltung im Olympiapark statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und U8 nach Ende der Veranstaltung zu rechnen. Es ist geplant zus&auml;tzliche Z&uuml;ge und Shuttlebusse wie folgt einzusetzen:</div>\n<ul>\n<li><strong>U3:</strong> Olympiazentrum - Scheidplatz - Marienplatz - Sendlinger Tor</li>\n<li><strong>U8:</strong> Olympiazentrum - Scheidplatz (weiter auf der U2) - Hauptbahnhof - Sendlinger Tor&nbsp;</li>\n<li><strong>Shuttlebusse:</strong> Olympiazentrum &gt; Frankfurter Ring (U2) &gt; Studentenstadt (U6)</li>\n</ul>\n<div>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
     "id": "8fae85dc-5b22-4671-9c1c-c52b53cb48ef",
     "incidentDuration": [
       {
@@ -13,7 +13,9 @@
         "toDate": "2024-05-26T22:30:00Z"
       }
     ],
-    "incidents": [],
+    "incidents": [
+      "BUS"
+    ],
     "lines": [
       {
         "direction": "1",
@@ -318,139 +320,11 @@
           }
         ],
         "typeOfTransport": "METRO"
-      },
-      {
-        "direction": "2",
-        "id": "173",
-        "name": "173",
-        "stations": [
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          },
-          {
-            "id": "de:09162:325",
-            "name": "Olympiapark Eissportstadion"
-          },
-          {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:781",
-            "name": "Helene-Mayer-Ring"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:338",
-            "name": "Schittgablerstraße"
-          },
-          {
-            "id": "de:09162:352",
-            "name": "Irisstraße"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:1987",
-            "name": "Georg-Zech-Allee"
-          },
-          {
-            "id": "de:09162:1983",
-            "name": "Bergwachtstraße"
-          },
-          {
-            "id": "de:09162:1984",
-            "name": "Josef-Frankl-Straße"
-          },
-          {
-            "id": "de:09162:1986",
-            "name": "Lerchenstraße"
-          },
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "173",
-        "name": "173",
-        "stations": [
-          {
-            "id": "de:09162:320",
-            "name": "Feldmoching Bf."
-          },
-          {
-            "id": "de:09162:1986",
-            "name": "Lerchenstraße"
-          },
-          {
-            "id": "de:09162:1984",
-            "name": "Josef-Frankl-Straße"
-          },
-          {
-            "id": "de:09162:1983",
-            "name": "Bergwachtstraße"
-          },
-          {
-            "id": "de:09162:1987",
-            "name": "Georg-Zech-Allee"
-          },
-          {
-            "id": "de:09162:344",
-            "name": "Franz-Sperr-Weg"
-          },
-          {
-            "id": "de:09162:353",
-            "name": "Robinienstraße"
-          },
-          {
-            "id": "de:09162:352",
-            "name": "Irisstraße"
-          },
-          {
-            "id": "de:09162:338",
-            "name": "Schittgablerstraße"
-          },
-          {
-            "id": "de:09162:324",
-            "name": "Lerchenauer Straße"
-          },
-          {
-            "id": "de:09162:781",
-            "name": "Helene-Mayer-Ring"
-          },
-          {
-            "id": "de:09162:350",
-            "name": "Olympiazentrum"
-          },
-          {
-            "id": "de:09162:325",
-            "name": "Olympiapark Eissportstadion"
-          },
-          {
-            "id": "de:09162:340",
-            "name": "Petuelring"
-          }
-        ],
-        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-26T20:40:06Z",
-    "text": "<div>Liebe Fahrg&auml;ste,<br/>aktuell findet noch bis ca. 23 Uhr eine Gro&szlig;veranstaltung im Olympiapark statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und 173 nach Ende der Veranstaltung zu rechnen. Es ist geplant zus&auml;tzliche Z&uuml;ge und Shuttlebusse wie folgt einzusetzen:</div>\n<ul>\n<li><strong>U3:</strong> Olympiazentrum - Scheidplatz - Marienplatz - Sendlinger Tor</li>\n<li><strong>U8:</strong> Olympiazentrum - Scheidplatz (weiter auf der U2) - Hauptbahnhof - Sendlinger Tor&nbsp;</li>\n<li><strong>Shuttlebusse:</strong> Olympiazentrum &gt; Frankfurter Ring (U2) &gt; Studentenstadt (U6)</li>\n</ul>\n<div>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
+    "modificationDate": "2024-05-26T20:49:19Z",
+    "text": "<div>Liebe Fahrg&auml;ste,<br/>aktuell findet noch bis ca. 23 Uhr eine Gro&szlig;veranstaltung im Olympiapark statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und U8 nach Ende der Veranstaltung zu rechnen. Es ist geplant zus&auml;tzliche Z&uuml;ge und Shuttlebusse wie folgt einzusetzen:</div>\n<ul>\n<li><strong>U3:</strong> Olympiazentrum - Scheidplatz - Marienplatz - Sendlinger Tor</li>\n<li><strong>U8:</strong> Olympiazentrum - Scheidplatz (weiter auf der U2) - Hauptbahnhof - Sendlinger Tor&nbsp;</li>\n<li><strong>Shuttlebusse:</strong> Olympiazentrum &gt; Frankfurter Ring (U2) &gt; Studentenstadt (U6)</li>\n</ul>\n<div>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
     "title": "Großveranstaltung im Olympiazentrum",
     "type": "DISRUPTION"
   },

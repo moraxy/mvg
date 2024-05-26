@@ -2,24 +2,6 @@
   {
     "bannerHash": "",
     "cancelled": false,
-    "delayInMinutes": 0,
-    "destination": "Fürstenried West",
-    "divaId": "33N41",
-    "label": "N41",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1716687840000,
-    "realtime": true,
-    "realtimeDepartureTime": 1716687840000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:3:3",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
     "delayInMinutes": 2,
     "destination": "Am Hart",
     "divaId": "33N41",
@@ -166,6 +148,7 @@
   {
     "bannerHash": "",
     "cancelled": false,
+    "delayInMinutes": 0,
     "destination": "Karlsplatz (Stachus)",
     "divaId": "33N41",
     "label": "N41",
@@ -173,7 +156,7 @@
     "network": "swm",
     "occupancy": "LOW",
     "plannedDepartureTime": 1716691440000,
-    "realtime": false,
+    "realtime": true,
     "realtimeDepartureTime": 1716691440000,
     "sev": false,
     "stopPointGlobalId": "de:09162:750:3:3",
@@ -365,5 +348,22 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "destination": "Johanneskirchen Bf.",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "LOW",
+    "plannedDepartureTime": 1716694500000,
+    "realtime": false,
+    "realtimeDepartureTime": 1716694500000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:3:3",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

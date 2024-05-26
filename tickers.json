@@ -20561,6 +20561,215 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-26T22:01:00Z",
+      "toDate": "2024-06-21T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "c5e5b720-096f-43ba-858b-22eca38d9243_1325104679",
+        "mimeType": "image/jpeg",
+        "name": "Umleitungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Gasleitungsarbeiten in der Bad-Schachener-Stra&szlig;e wird die Buslinie 199 &gt; Neubiberg, Campeon West von Montag, 17. Juni bis vsl. Freitag, 21. Juni 2024 zwischen Michaelibad und Krumbadstra&szlig;e umgeleitet. Die (H) Bad-Schachener-Stra&szlig;e kann nicht bedient werden.</div>\r\n",
+    "id": "c5e5b720-096f-43ba-858b-22eca38d9243",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-16T22:01:00Z",
+        "toDate": "2024-06-21T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "199",
+        "name": "199",
+        "stations": [
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:997",
+            "name": "Bad-Schachener-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1028",
+            "name": "Ostpark Eislaufzentrum"
+          },
+          {
+            "id": "de:09162:1039",
+            "name": "Georg-Brauchle-Haus"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:974",
+            "name": "Putzbrunner Straße"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09184:2298",
+            "name": "Neubiberg, Universität Bw-Ost"
+          },
+          {
+            "id": "de:09184:2296",
+            "name": "Neubiberg, Lilienthalstraße"
+          },
+          {
+            "id": "de:09184:2294",
+            "name": "Neubiberg, Universitätsstraße"
+          },
+          {
+            "id": "de:09184:2292",
+            "name": "Neubiberg, Marktplatz Unterbiberg"
+          },
+          {
+            "id": "de:09184:2277",
+            "name": "Neubiberg, Am Hachinger Bach"
+          },
+          {
+            "id": "de:09184:2299",
+            "name": "Neubiberg, Campeon"
+          },
+          {
+            "id": "de:09184:2297",
+            "name": "Neubiberg, Campeon West"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "199",
+        "name": "199",
+        "stations": [
+          {
+            "id": "de:09184:2297",
+            "name": "Neubiberg, Campeon West"
+          },
+          {
+            "id": "de:09184:2299",
+            "name": "Neubiberg, Campeon"
+          },
+          {
+            "id": "de:09184:2277",
+            "name": "Neubiberg, Am Hachinger Bach"
+          },
+          {
+            "id": "de:09184:2292",
+            "name": "Neubiberg, Marktplatz Unterbiberg"
+          },
+          {
+            "id": "de:09184:2294",
+            "name": "Neubiberg, Universitätsstraße"
+          },
+          {
+            "id": "de:09184:2296",
+            "name": "Neubiberg, Lilienthalstraße"
+          },
+          {
+            "id": "de:09184:2298",
+            "name": "Neubiberg, Universität Bw-Ost"
+          },
+          {
+            "id": "de:09162:1010",
+            "name": "Neuperlach Süd"
+          },
+          {
+            "id": "de:09162:974",
+            "name": "Putzbrunner Straße"
+          },
+          {
+            "id": "de:09162:1030",
+            "name": "Neuperlach Zentrum"
+          },
+          {
+            "id": "de:09162:1048",
+            "name": "Siegfried-Mollier-Straße"
+          },
+          {
+            "id": "de:09162:1040",
+            "name": "Quiddestraße"
+          },
+          {
+            "id": "de:09162:1043",
+            "name": "Plettstraße"
+          },
+          {
+            "id": "de:09162:1042",
+            "name": "Staudingerstraße"
+          },
+          {
+            "id": "de:09162:1039",
+            "name": "Georg-Brauchle-Haus"
+          },
+          {
+            "id": "de:09162:1028",
+            "name": "Ostpark Eislaufzentrum"
+          },
+          {
+            "id": "de:09162:1036",
+            "name": "Berger-Kreuz-Straße"
+          },
+          {
+            "id": "de:09162:1005",
+            "name": "Krumbadstraße"
+          },
+          {
+            "id": "de:09162:997",
+            "name": "Bad-Schachener-Straße"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-13T09:34:55Z",
+    "text": "<div>Wegen Gasleitungsarbeiten in der Bad-Schachener-Stra&szlig;e wird die Buslinie 199 &gt; Neubiberg, Campeon West von Montag, 17. Juni bis vsl. Freitag, 21. Juni 2024 zwischen Michaelibad und Krumbadstra&szlig;e umgeleitet. Die (H) Bad-Schachener-Stra&szlig;e kann nicht bedient werden.</div>\r\n",
+    "title": "Michaelibad > Krumbadstraße: Umleitung wegen Gasleitungsarbeiten in der Bad-Schachener-Straße",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-10T23:01:00Z",
       "toDate": null
     },

@@ -3,24 +3,6 @@
     "bannerHash": "",
     "cancelled": false,
     "delayInMinutes": 0,
-    "destination": "Petuelring",
-    "divaId": "03178",
-    "label": "178",
-    "messages": [],
-    "network": "swm",
-    "occupancy": "LOW",
-    "plannedDepartureTime": 1716705180000,
-    "realtime": true,
-    "realtimeDepartureTime": 1716705180000,
-    "sev": false,
-    "stopPointGlobalId": "de:09162:750:2:2",
-    "trainType": "",
-    "transportType": "BUS"
-  },
-  {
-    "bannerHash": "",
-    "cancelled": false,
-    "delayInMinutes": 0,
     "destination": "Johanneskirchen Bf.",
     "divaId": "03050",
     "label": "50",
@@ -372,5 +354,23 @@
     "stopPointGlobalId": "de:09162:750:51:52",
     "trainType": "",
     "transportType": "UBAHN"
+  },
+  {
+    "bannerHash": "",
+    "cancelled": false,
+    "delayInMinutes": 0,
+    "destination": "OEZ Dessauerstraße",
+    "divaId": "03050",
+    "label": "50",
+    "messages": [],
+    "network": "swm",
+    "occupancy": "LOW",
+    "plannedDepartureTime": 1716708240000,
+    "realtime": true,
+    "realtimeDepartureTime": 1716708240000,
+    "sev": false,
+    "stopPointGlobalId": "de:09162:750:2:2",
+    "trainType": "",
+    "transportType": "BUS"
   }
 ]

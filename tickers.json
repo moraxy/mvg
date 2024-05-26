@@ -5,7 +5,7 @@
       "toDate": "2024-05-26T22:30:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "<div>Liebe Fahrg&auml;ste,<br/>heute findet um 18:00 Uhr eine Gro&szlig;veranstaltung im Olympiapark statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und 173 von ca. 16:00 Uhr, sowie nach Ende der Veranstaltung ab 23:00 Uhr zu rechnen. Zus&auml;tzliche Z&uuml;ge sind im Einsatz sowie nach Veranstaltungsende auch Shuttlebusse zwischen Olympiazentrum (U3) &gt; Frankfurter Ring (U2) &gt; Studentenstadt (U6).&nbsp;<br/>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
+    "htmlText": "<div>Liebe Fahrg&auml;ste,<br/>aktuell findet eine Gro&szlig;veranstaltung im Olympiapark noch bis ca. 23 Uhr statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und 173 nach Ende der Veranstaltung zu rechnen. Es werden zus&auml;tzliche Z&uuml;ge und Shuttlebusse wie folgt eingesetzt:</div>\n<ul>\n<li><strong>U3:</strong> Olympiazentrum - Scheidplatz - Marienplatz - Sendlinger Tor</li>\n<li><strong>U8:</strong> Olympiazentrum - Scheidplatz (weiter auf der U2) - Hauptbahnhof - Sendlinger Tor&nbsp;</li>\n<li><strong>Shuttlebusse:</strong> Olympiazentrum - Frankfurter Ring (U2) - Studentenstadt (U6)</li>\n</ul>\n<div>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
     "id": "8fae85dc-5b22-4671-9c1c-c52b53cb48ef",
     "incidentDuration": [
       {
@@ -232,6 +232,94 @@
         "typeOfTransport": "METRO"
       },
       {
+        "direction": "1",
+        "id": "8",
+        "name": "U8",
+        "stations": [
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
+        "direction": "2",
+        "id": "8",
+        "name": "U8",
+        "stations": [
+          {
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
+          },
+          {
+            "id": "de:09162:6",
+            "name": "Hauptbahnhof"
+          },
+          {
+            "id": "de:09162:110",
+            "name": "Königsplatz"
+          },
+          {
+            "id": "de:09162:120",
+            "name": "Theresienstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:140",
+            "name": "Hohenzollernplatz"
+          },
+          {
+            "id": "de:09162:400",
+            "name": "Scheidplatz"
+          },
+          {
+            "id": "de:09162:340",
+            "name": "Petuelring"
+          },
+          {
+            "id": "de:09162:350",
+            "name": "Olympiazentrum"
+          }
+        ],
+        "typeOfTransport": "METRO"
+      },
+      {
         "direction": "2",
         "id": "173",
         "name": "173",
@@ -361,8 +449,8 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-26T12:46:48Z",
-    "text": "<div>Liebe Fahrg&auml;ste,<br/>heute findet um 18:00 Uhr eine Gro&szlig;veranstaltung im Olympiapark statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und 173 von ca. 16:00 Uhr, sowie nach Ende der Veranstaltung ab 23:00 Uhr zu rechnen. Zus&auml;tzliche Z&uuml;ge sind im Einsatz sowie nach Veranstaltungsende auch Shuttlebusse zwischen Olympiazentrum (U3) &gt; Frankfurter Ring (U2) &gt; Studentenstadt (U6).&nbsp;<br/>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
+    "modificationDate": "2024-05-26T20:28:45Z",
+    "text": "<div>Liebe Fahrg&auml;ste,<br/>aktuell findet eine Gro&szlig;veranstaltung im Olympiapark noch bis ca. 23 Uhr statt. Aus diesem Grund ist mit erh&ouml;htem Fahrgastaufkommen und Versp&auml;tungen auf den Linien U3 und 173 nach Ende der Veranstaltung zu rechnen. Es werden zus&auml;tzliche Z&uuml;ge und Shuttlebusse wie folgt eingesetzt:</div>\n<ul>\n<li><strong>U3:</strong> Olympiazentrum - Scheidplatz - Marienplatz - Sendlinger Tor</li>\n<li><strong>U8:</strong> Olympiazentrum - Scheidplatz (weiter auf der U2) - Hauptbahnhof - Sendlinger Tor&nbsp;</li>\n<li><strong>Shuttlebusse:</strong> Olympiazentrum - Frankfurter Ring (U2) - Studentenstadt (U6)</li>\n</ul>\n<div>&nbsp;<br/>Bitte achten Sie auch auf Zugzielanzeigen und Lautsprecherdurchsagen.<br/>&nbsp;<br/>&nbsp;<br/>Ihre MVG</div>",
     "title": "Großveranstaltung im Olympiazentrum",
     "type": "DISRUPTION"
   },

@@ -19326,6 +19326,475 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-05-20T06:00:00Z",
+      "toDate": "2024-06-28T21:59:00Z"
+    },
+    "downloadLinks": [
+      {
+        "id": "0205d30f-93a9-4b73-9876-0ab56651b4c8_1977178507",
+        "mimeType": "image/jpeg",
+        "name": "Umgebungskarte"
+      }
+    ],
+    "htmlText": "<div>Wegen Bauarbeiten in der Riemer Stra&szlig;e ist die (H) Burgauerstra&szlig;e der Buslinien 190 &gt; Messestadt Ost und N74 &gt; Messestadt Ost von Montag, 3. Juni ca. 08:00 Uhr bis vsl. Freitag, 28. Juni 2024 um ca. 125m in Fahrtrichtung verlegt.&nbsp;</div>\r\n",
+    "id": "0205d30f-93a9-4b73-9876-0ab56651b4c8",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-03T06:00:00Z",
+        "toDate": "2024-06-28T21:59:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "190",
+        "name": "190",
+        "stations": [
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:730",
+            "name": "Burgauerstraße"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:800",
+            "name": "Riem Bf."
+          },
+          {
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:817",
+            "name": "Helsinkistraße"
+          },
+          {
+            "id": "de:09162:816",
+            "name": "Lehrer-Wirth-Straße"
+          },
+          {
+            "id": "de:09162:818",
+            "name": "Mutter-Teresa-Straße"
+          },
+          {
+            "id": "de:09162:819",
+            "name": "Selma-Lagerlöf-Straße"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "190",
+        "name": "190",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:819",
+            "name": "Selma-Lagerlöf-Straße"
+          },
+          {
+            "id": "de:09162:818",
+            "name": "Mutter-Teresa-Straße"
+          },
+          {
+            "id": "de:09162:816",
+            "name": "Lehrer-Wirth-Straße"
+          },
+          {
+            "id": "de:09162:817",
+            "name": "Helsinkistraße"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
+          },
+          {
+            "id": "de:09162:800",
+            "name": "Riem Bf."
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:730",
+            "name": "Burgauerstraße"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:897",
+            "name": "Neumarkter Straße"
+          },
+          {
+            "id": "de:09162:902",
+            "name": "Schlüsselbergstraße"
+          },
+          {
+            "id": "de:09162:894",
+            "name": "Altöttinger Straße"
+          },
+          {
+            "id": "de:09162:896",
+            "name": "Grafinger Straße"
+          },
+          {
+            "id": "de:09162:898",
+            "name": "St. Pius"
+          },
+          {
+            "id": "de:09162:890",
+            "name": "August-Everding-Straße"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          },
+          {
+            "id": "de:09162:1025",
+            "name": "St.-Martin-Straße Ost"
+          },
+          {
+            "id": "de:09162:895",
+            "name": "Ostbahnhof Friedenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "74",
+        "name": "N74",
+        "stations": [
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:646",
+            "name": "Riedenburger Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:730",
+            "name": "Burgauerstraße"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "74",
+        "name": "N74",
+        "stations": [
+          {
+            "id": "de:09162:1260",
+            "name": "Messestadt Ost"
+          },
+          {
+            "id": "de:09162:1250",
+            "name": "Messestadt West"
+          },
+          {
+            "id": "de:09162:813",
+            "name": "Am Messesee"
+          },
+          {
+            "id": "de:09162:814",
+            "name": "Paul-Henri-Spaak-Straße"
+          },
+          {
+            "id": "de:09162:815",
+            "name": "An der Point"
+          },
+          {
+            "id": "de:09162:805",
+            "name": "Martin-Empl-Ring"
+          },
+          {
+            "id": "de:09162:811",
+            "name": "Graf-Lehndorff-Straße"
+          },
+          {
+            "id": "de:09162:825",
+            "name": "Riemer Straße"
+          },
+          {
+            "id": "de:09162:810",
+            "name": "Tierheim"
+          },
+          {
+            "id": "de:09162:731",
+            "name": "Rennbahnstraße"
+          },
+          {
+            "id": "de:09162:730",
+            "name": "Burgauerstraße"
+          },
+          {
+            "id": "de:09162:643",
+            "name": "Süskindstraße"
+          },
+          {
+            "id": "de:09162:642",
+            "name": "Zamdorf Siedlung"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:612",
+            "name": "Vogelweideplatz"
+          },
+          {
+            "id": "de:09162:662",
+            "name": "Einsteinstraße"
+          },
+          {
+            "id": "de:09162:23",
+            "name": "Grillparzerstraße"
+          },
+          {
+            "id": "de:09162:46",
+            "name": "Haidenauplatz"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-28T13:50:58Z",
+    "text": "<div>Wegen Bauarbeiten in der Riemer Stra&szlig;e ist die (H) Burgauerstra&szlig;e der Buslinien 190 &gt; Messestadt Ost und N74 &gt; Messestadt Ost von Montag, 3. Juni ca. 08:00 Uhr bis vsl. Freitag, 28. Juni 2024 um ca. 125m in Fahrtrichtung verlegt.&nbsp;</div>\r\n",
+    "title": "Haltestelle Burgauerstraße wegen Bauarbeiten verlegt",
+    "type": "PLANNED"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-26T22:01:00Z",
       "toDate": "2024-06-21T21:59:00Z"
     },

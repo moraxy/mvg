@@ -1,6 +1,43 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-29T14:06:00Z",
+      "toDate": "2024-05-29T15:00:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Karlsplatz (Stachus) kommt es auf der Linie 19 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "445f068d-3d1a-4b08-b7dc-1217a8e5d5a4",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-29T14:06:00Z",
+        "toDate": "2024-05-29T15:00:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "39",
+        "name": "19",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "39",
+        "name": "19",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-29T14:11:05Z",
+    "text": "Liebe Fahrgäste,<br>nach einer bereits behobenen Störung im Bereich Karlsplatz (Stachus) kommt es auf der Linie 19 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 17:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen nach einer bereits behobenen Störung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

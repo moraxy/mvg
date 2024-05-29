@@ -726,317 +726,193 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-05-29T16:40:00Z",
-      "toDate": "2024-05-29T17:31:06Z"
+      "fromDate": "2024-05-29T15:12:00Z",
+      "toDate": "2024-05-29T17:55:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 132 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "id": "b33e71b9-59ea-429c-ada8-5ab26393caab",
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "4adf638f-e28f-4489-bcd2-f777a0f45425",
     "incidentDuration": [
       {
-        "fromDate": "2024-05-29T16:40:00Z",
-        "toDate": "2024-05-29T17:21:06Z"
+        "fromDate": "2024-05-29T15:12:00Z",
+        "toDate": "2024-05-29T17:55:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
         "direction": "1",
-        "id": "132",
-        "name": "132",
+        "id": "60",
+        "name": "60",
         "stations": [
           {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           },
           {
-            "id": "de:09162:112",
-            "name": "Viktualienmarkt"
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
           },
           {
-            "id": "de:09162:165",
-            "name": "Schrannenhalle"
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
           },
           {
-            "id": "de:09162:26",
-            "name": "Isartor/Zweibrückenstraße"
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
           },
           {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
           },
           {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
           },
           {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
           },
           {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
           },
           {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
           },
           {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
           },
           {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
           },
           {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
           },
           {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
           },
           {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
           },
           {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
           },
           {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
           },
           {
-            "id": "de:09162:1130",
-            "name": "Harras"
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           },
           {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
-          },
-          {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
-          },
-          {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
-          },
-          {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
-          },
-          {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
-          },
-          {
-            "id": "de:09162:1466",
-            "name": "Südpark"
-          },
-          {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
-          },
-          {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
-          },
-          {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
-          },
-          {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
-          },
-          {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
-          },
-          {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
-          },
-          {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
-          },
-          {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
-          },
-          {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
-          },
-          {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
         "direction": "2",
-        "id": "132",
-        "name": "132",
+        "id": "60",
+        "name": "60",
         "stations": [
           {
-            "id": "de:09162:1421",
-            "name": "Forstenrieder Park"
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
           },
           {
-            "id": "de:09162:1422",
-            "name": "Mindelheimer Straße"
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
           },
           {
-            "id": "de:09162:1423",
-            "name": "Spielmannsauer Straße"
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
           },
           {
-            "id": "de:09162:1356",
-            "name": "Forstenried"
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
           },
           {
-            "id": "de:09162:1411",
-            "name": "Hatzelweg"
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
           },
           {
-            "id": "de:09162:1413",
-            "name": "Kriegelsteinerstraße"
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
           },
           {
-            "id": "de:09162:1480",
-            "name": "Forstenrieder Allee"
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
           },
           {
-            "id": "de:09162:1409",
-            "name": "Limmatstraße"
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
           },
           {
-            "id": "de:09162:1408",
-            "name": "Züricher Straße"
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
           },
           {
-            "id": "de:09162:1464",
-            "name": "Drygalski-Allee"
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
           },
           {
-            "id": "de:09162:1466",
-            "name": "Südpark"
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
           },
           {
-            "id": "de:09162:1319",
-            "name": "Aichacher Straße"
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
           },
           {
-            "id": "de:09162:1316",
-            "name": "Höglwörther Straße"
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
           },
           {
-            "id": "de:09162:1313",
-            "name": "Grünstraße"
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
           },
           {
-            "id": "de:09162:1336",
-            "name": "Friedrich-Hebbel-Straße"
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
           },
           {
-            "id": "de:09162:1335",
-            "name": "Johann-Clanze-Straße"
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
           },
           {
-            "id": "de:09162:1130",
-            "name": "Harras"
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
           },
           {
-            "id": "de:09162:1129",
-            "name": "Am Harras"
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
           },
           {
-            "id": "de:09162:1104",
-            "name": "Margaretenplatz"
-          },
-          {
-            "id": "de:09162:1131",
-            "name": "Aberlestraße"
-          },
-          {
-            "id": "de:09162:1128",
-            "name": "Senserstraße"
-          },
-          {
-            "id": "de:09162:1140",
-            "name": "Implerstraße"
-          },
-          {
-            "id": "de:09162:1134",
-            "name": "Gotzinger Platz"
-          },
-          {
-            "id": "de:09162:1133",
-            "name": "Großmarkthalle"
-          },
-          {
-            "id": "de:09162:1132",
-            "name": "Lagerhausstraße"
-          },
-          {
-            "id": "de:09162:129",
-            "name": "Roecklplatz"
-          },
-          {
-            "id": "de:09162:61",
-            "name": "Baldeplatz"
-          },
-          {
-            "id": "de:09162:96",
-            "name": "Klenzestraße"
-          },
-          {
-            "id": "de:09162:150",
-            "name": "Fraunhoferstraße"
-          },
-          {
-            "id": "de:09162:151",
-            "name": "Corneliusbrücke"
-          },
-          {
-            "id": "de:09162:119",
-            "name": "Boschbrücke"
-          },
-          {
-            "id": "de:09162:122",
-            "name": "Ludwigsbrücke"
-          },
-          {
-            "id": "de:09162:3",
-            "name": "Isartor"
-          },
-          {
-            "id": "de:09162:93",
-            "name": "Tal"
-          },
-          {
-            "id": "de:09162:2",
-            "name": "Marienplatz"
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-29T17:21:06Z",
-    "text": "Liebe Fahrgäste,<br/>die für die Linie 132 gemeldete Behinderung (Grund: Demonstration) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
-    "title": "Behinderung beendet",
+    "modificationDate": "2024-05-29T17:29:45Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

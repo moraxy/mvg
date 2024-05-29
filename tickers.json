@@ -1,6 +1,57 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-05-29T04:17:00Z",
+      "toDate": "2024-05-29T04:33:51Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 18 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "id": "d40a4c6f-edd8-4936-9d64-c45e245cd907",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-29T04:17:00Z",
+        "toDate": "2024-05-29T04:23:51Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "38",
+        "name": "18",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "38",
+        "name": "18",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "2",
+        "id": "18",
+        "name": "18",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      },
+      {
+        "direction": "1",
+        "id": "18",
+        "name": "18",
+        "stations": [],
+        "typeOfTransport": "TRAM"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-29T04:23:53Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 18 gemeldete Behinderung (Grund: Fahrzeugstörung) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },

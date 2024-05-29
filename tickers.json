@@ -289,15 +289,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-29T17:01:00Z",
-      "toDate": "2024-05-29T18:01:00Z"
+      "toDate": "2024-05-29T17:25:06Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Moosach Bf. kommt es auf der Linie 20 derzeit zu Verspätungen und einzelnen Ausfällen. <ul style='list-style: disc;'><li>Die Linie 20 fährt nur im Abschnitt Westfriedhof <> Karlsplatz (Stachus). <li>Bitte weichen Sie unter anderem auf die Linien U1 U3 Bus 143 aus. </li><li>Die Haltestellen Moosach Bf., Pelkovenstraße, Hugo-Troendle-Straße, Wintrichring und Hanauer Straße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linie 20 gemeldete Behinderung (Grund: Polizeieinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "48679ff0-759c-42ac-867d-8c4fed10ccec",
     "incidentDuration": [
       {
         "fromDate": "2024-05-29T17:01:00Z",
-        "toDate": "2024-05-29T18:01:00Z"
+        "toDate": "2024-05-29T17:15:06Z"
       }
     ],
     "incidents": [],
@@ -452,9 +452,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-29T17:12:48Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Moosach Bf. kommt es auf der Linie 20 derzeit zu Verspätungen und einzelnen Ausfällen. <ul style='list-style: disc;'><li>Die Linie 20 fährt nur im Abschnitt Westfriedhof <> Karlsplatz (Stachus). <li>Bitte weichen Sie unter anderem auf die Linien U1 U3 Bus 143 aus. </li><li>Die Haltestellen Moosach Bf., Pelkovenstraße, Hugo-Troendle-Straße, Wintrichring und Hanauer Straße können leider nicht bedient werden.</li></li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen und einzelne Ausfälle wegen eines Polizeieinsatzes",
+    "modificationDate": "2024-05-29T17:15:06Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linie 20 gemeldete Behinderung (Grund: Polizeieinsatz) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -1708,233 +1708,6 @@
     "modificationDate": "2024-05-29T16:45:12Z",
     "text": "Liebe Fahrgäste,<br>wegen einer Demonstration im Bereich Marienplatz kommt es auf der Linie 132 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 132 in Richtung Forstenrieder Park fährt nur im Abschnitt Isartor/Zweibrückenstraße <> Forstenrieder Park. \t</li><li>Die Linie 132 in Richtung Marienplatz fährt nur im Abschnitt Forstenrieder Park <> Isartor. \t</li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Beeinträchtigungen im Stadtzentrum wegen einer Demonstration",
-    "type": "DISRUPTION"
-  },
-  {
-    "activeDuration": {
-      "fromDate": "2024-05-29T15:12:00Z",
-      "toDate": "2024-05-29T17:14:00Z"
-    },
-    "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 19:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "id": "4adf638f-e28f-4489-bcd2-f777a0f45425",
-    "incidentDuration": [
-      {
-        "fromDate": "2024-05-29T15:12:00Z",
-        "toDate": "2024-05-29T17:14:00Z"
-      }
-    ],
-    "incidents": [],
-    "lines": [
-      {
-        "direction": "2",
-        "id": "141",
-        "name": "141",
-        "stations": [
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:432",
-            "name": "Wilhelm-Hertz-Straße"
-          },
-          {
-            "id": "de:09162:458",
-            "name": "Freiligrathstraße"
-          },
-          {
-            "id": "de:09162:423",
-            "name": "Griegstraße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:426",
-            "name": "Ingolstädter Straße"
-          },
-          {
-            "id": "de:09162:415",
-            "name": "Euro-Industriepark West"
-          },
-          {
-            "id": "de:09162:439",
-            "name": "Gundelkoferstraße"
-          },
-          {
-            "id": "de:09162:451",
-            "name": "Kollwitzstraße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
-          },
-          {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
-          },
-          {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
-          },
-          {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
-          },
-          {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
-          },
-          {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      },
-      {
-        "direction": "1",
-        "id": "141",
-        "name": "141",
-        "stations": [
-          {
-            "id": "de:09162:780",
-            "name": "Dülferstraße"
-          },
-          {
-            "id": "de:09162:405",
-            "name": "Weitlstraße"
-          },
-          {
-            "id": "de:09162:792",
-            "name": "Caracciolastraße"
-          },
-          {
-            "id": "de:09162:408",
-            "name": "Weyprechtstraße"
-          },
-          {
-            "id": "de:09162:770",
-            "name": "Harthof"
-          },
-          {
-            "id": "de:09162:396",
-            "name": "Frauenmantelanger"
-          },
-          {
-            "id": "de:09162:404",
-            "name": "Trenkleweg"
-          },
-          {
-            "id": "de:09162:446",
-            "name": "Rockefellerstraße"
-          },
-          {
-            "id": "de:09162:447",
-            "name": "Rose-Pichler-Weg"
-          },
-          {
-            "id": "de:09162:436",
-            "name": "Neuherbergstraße"
-          },
-          {
-            "id": "de:09162:437",
-            "name": "Anton-Will-Straße"
-          },
-          {
-            "id": "de:09162:438",
-            "name": "Heidemannstraße"
-          },
-          {
-            "id": "de:09162:451",
-            "name": "Kollwitzstraße"
-          },
-          {
-            "id": "de:09162:439",
-            "name": "Gundelkoferstraße"
-          },
-          {
-            "id": "de:09162:415",
-            "name": "Euro-Industriepark West"
-          },
-          {
-            "id": "de:09162:426",
-            "name": "Ingolstädter Straße"
-          },
-          {
-            "id": "de:09162:425",
-            "name": "Domagkstraße West"
-          },
-          {
-            "id": "de:09162:423",
-            "name": "Griegstraße"
-          },
-          {
-            "id": "de:09162:458",
-            "name": "Freiligrathstraße"
-          },
-          {
-            "id": "de:09162:432",
-            "name": "Wilhelm-Hertz-Straße"
-          },
-          {
-            "id": "de:09162:433",
-            "name": "Parzivalplatz"
-          },
-          {
-            "id": "de:09162:435",
-            "name": "Kölner Platz"
-          },
-          {
-            "id": "de:09162:398",
-            "name": "Scheidplatz Süd"
-          },
-          {
-            "id": "de:09162:400",
-            "name": "Scheidplatz"
-          }
-        ],
-        "typeOfTransport": "BUS"
-      }
-    ],
-    "links": [],
-    "modificationDate": "2024-05-29T16:50:26Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es derzeit zu Verspätungen und einzelnen Ausfällen. Die Behinderungen werden noch voraussichtlich bis 19:10 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen und einzelne Ausfälle wegen einer Fahrzeugstörung",
     "type": "DISRUPTION"
   },
   {

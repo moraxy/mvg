@@ -2,15 +2,15 @@
   {
     "activeDuration": {
       "fromDate": "2024-05-31T12:22:00Z",
-      "toDate": "2024-05-31T13:10:00Z"
+      "toDate": "2024-05-31T13:11:35Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Trappentreustraße kommt es auf den Linien 18 und 19 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 15:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br/>die für die Linien 18 und 19 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
     "id": "29bcd093-e75a-461f-be9b-121d4633af1a",
     "incidentDuration": [
       {
         "fromDate": "2024-05-31T12:22:00Z",
-        "toDate": "2024-05-31T13:10:00Z"
+        "toDate": "2024-05-31T13:01:35Z"
       }
     ],
     "incidents": [],
@@ -513,9 +513,9 @@
       }
     ],
     "links": [],
-    "modificationDate": "2024-05-31T12:26:12Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Verkehrsunfalls im Bereich Trappentreustraße kommt es auf den Linien 18 und 19 derzeit zu Verspätungen. <br>Die Behinderungen werden noch voraussichtlich bis 15:10 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
-    "title": "Verspätungen wegen eines Verkehrsunfalls",
+    "modificationDate": "2024-05-31T13:01:35Z",
+    "text": "Liebe Fahrgäste,<br/>die für die Linien 18 und 19 gemeldete Behinderung (Grund: Verkehrsunfall) ist beendet.<br/>Wir arbeiten daran, dass Sie so schnell wie möglich wieder störungsfrei an Ihr Ziel kommen. <br/>Ihre MVG ",
+    "title": "Behinderung beendet",
     "type": "DISRUPTION"
   },
   {
@@ -2029,6 +2029,117 @@
     "modificationDate": "2024-05-30T09:25:22Z",
     "text": "<div>Wegen Stra&szlig;enbauarbeiten am Toni-Merkens-Weg wird die Buslinie 144 von Donnerstag, 30. Mai bis vsl. Sonntag, 2. Juni 2024 zwischen Spiridon-Louis-Ring und Olympiapark West umgeleitet. Die (H) Olympiaberg, Olympiasee, Toni-Merkens-Weg und Sapporobogen k&ouml;nnen nicht bedient werden.</div>\r\n",
     "title": "Spiridon-Louis-Ring <> Olympiapark West: Umleitung wegen Straßenbauarbeiten am Toni-Merkens-Weg",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-05-31T12:58:00Z",
+      "toDate": "2024-05-31T13:30:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Falschparkers kommt es auf der Linie 166 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "id": "8381735e-4106-4b12-b600-129326112e1b",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-05-31T12:58:00Z",
+        "toDate": "2024-05-31T13:30:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "2",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1441",
+            "name": "Maxhofstraße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1437",
+            "name": "Bellinzonastraße"
+          },
+          {
+            "id": "de:09162:1436",
+            "name": "Tischlerstraße"
+          },
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "166",
+        "name": "166",
+        "stations": [
+          {
+            "id": "de:09162:1438",
+            "name": "Forst-Kasten-Allee"
+          },
+          {
+            "id": "de:09162:1454",
+            "name": "Appenzeller Straße"
+          },
+          {
+            "id": "de:09162:1452",
+            "name": "Tessiner Straße"
+          },
+          {
+            "id": "de:09162:1500",
+            "name": "Fürstenried West"
+          },
+          {
+            "id": "de:09162:1442",
+            "name": "Gautinger Straße"
+          },
+          {
+            "id": "de:09162:1444",
+            "name": "Vinzenz-Schüpfer-Straße"
+          },
+          {
+            "id": "de:09162:1446",
+            "name": "Allgäuer Straße"
+          },
+          {
+            "id": "de:09162:1448",
+            "name": "Kemptener Straße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-05-31T12:58:37Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Falschparkers kommt es auf der Linie 166 derzeit zu Verspätungen und einzelnen Ausfällen. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen. <br/>Ihre MVG ",
+    "title": "Behinderungen wegen Falschparker",
     "type": "DISRUPTION"
   },
   {

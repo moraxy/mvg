@@ -5,7 +5,7 @@
       "toDate": "2024-06-01T18:37:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Mauerkircherstraße kommt es auf den Linien 16, 54, 58, 68, 154 und 187 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 16 fährt nur in den Abschnitten Karlsplatz (Stachus) <> Maxmonument und Herkomerplatz <> Effnerplatz.  <li>Die Haltestellen Lehel, Nationalmuseum/Haus der Kunst, Paradiesstraße, Tivolistraße und Mauerkircherstraße können leider nicht bedient werden.</li>Umleitung über Maxmonument, Max-Weber-Platz, Herkomerplatz zum Effnerplatz. </li> \t<li> Die Linie 68 in Richtung Hauptbahnhof Nord wird zwischen Herkomerplatz und Tivolistraße umgeleitet. Die Haltestelle Mauerkircherstraße kann leider nicht bedient werden. </li></li> <li> Die Linie 54 wird in beiden Richtungen zwischen Herkomerplatz und Am Tucherpark umgeleitet. Die Haltestelle Mauerkircherstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Mauerkircherstraße kommt es auf den Linien 16, 54, 58, 68, 154 und 187 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 16 fährt nur in den Abschnitten Karlsplatz (Stachus) <> Maxmonument und Herkomerplatz <> Effnerplatz.  <li>Die Haltestellen Lehel, Nationalmuseum/Haus der Kunst, Paradiesstraße, Tivolistraße und Mauerkircherstraße können leider nicht bedient werden.</li>Umleitung über Maxmonument, Max-Weber-Platz, Herkomerplatz zum Effnerplatz. </li> \t<li> Die Linie 68 in Richtung Hauptbahnhof Nord wird zwischen Giselastraße und Pinakotheken umgeleitet. Die Haltestellen Georgenstraße, Siegestor, Universität, Amalienstraße und Maxvorstadt/Samml. Brandhorst in Fahrtrichtung Hauptbahnhof Nord können leider nicht bedient werden. </li></li> <li> Die Linie 54 wird in beiden Richtungen zwischen Hirschauer Straße und Münchner Freiheit umgeleitet. Die Haltestellen Hohenzollernstraße, Giselastraße, Thiemestraße und Chinesischer Turm können leider nicht bedient werden. </li> <li> Die Linie 154 wird in beiden Richtungen zwischen Giselastraße und Schellingstraße umgeleitet. Die Haltestellen Türkenstraße, Universität, Siegestor und Georgenstraße können leider nicht bedient werden. </li> <li> Die Linie 187 wird in beiden Richtungen zwischen Herkomerplatz und Kufsteiner Platz umgeleitet. Die Haltestelle Mauerkircherstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "id": "f91638f2-4f16-4af0-a913-00faf336db16",
     "incidentDuration": [
       {
@@ -674,11 +674,567 @@
           }
         ],
         "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "154",
+        "name": "154",
+        "stations": [
+          {
+            "id": "de:09162:727",
+            "name": "Westerlandanger"
+          },
+          {
+            "id": "de:09162:728",
+            "name": "Lübecker Straße"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:557",
+            "name": "Bichlhofweg"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:599",
+            "name": "Grimmeisenstraße"
+          },
+          {
+            "id": "de:09162:603",
+            "name": "Stegmühlstraße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:132",
+            "name": "Hirschauer Straße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:36",
+            "name": "Georgenstraße"
+          },
+          {
+            "id": "de:09162:1192",
+            "name": "Siegestor"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:44",
+            "name": "Winzererstraße"
+          },
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "154",
+        "name": "154",
+        "stations": [
+          {
+            "id": "de:09162:34",
+            "name": "Nordbad"
+          },
+          {
+            "id": "de:09162:44",
+            "name": "Winzererstraße"
+          },
+          {
+            "id": "de:09162:45",
+            "name": "Infanteriestraße Süd"
+          },
+          {
+            "id": "de:09162:35",
+            "name": "Görresstraße"
+          },
+          {
+            "id": "de:09162:130",
+            "name": "Josephsplatz"
+          },
+          {
+            "id": "de:09162:128",
+            "name": "Augustenstraße"
+          },
+          {
+            "id": "de:09162:127",
+            "name": "Luisenstraße"
+          },
+          {
+            "id": "de:09162:126",
+            "name": "Arcisstraße"
+          },
+          {
+            "id": "de:09162:49",
+            "name": "Schellingstraße"
+          },
+          {
+            "id": "de:09162:125",
+            "name": "Türkenstraße"
+          },
+          {
+            "id": "de:09162:70",
+            "name": "Universität"
+          },
+          {
+            "id": "de:09162:1192",
+            "name": "Siegestor"
+          },
+          {
+            "id": "de:09162:36",
+            "name": "Georgenstraße"
+          },
+          {
+            "id": "de:09162:80",
+            "name": "Giselastraße"
+          },
+          {
+            "id": "de:09162:136",
+            "name": "Thiemestraße"
+          },
+          {
+            "id": "de:09162:135",
+            "name": "Chinesischer Turm"
+          },
+          {
+            "id": "de:09162:78",
+            "name": "Tivolistraße"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:650",
+            "name": "Effnerplatz"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:655",
+            "name": "Arabellapark (Klinikum Bogenhausen)"
+          },
+          {
+            "id": "de:09162:653",
+            "name": "Cosimabad"
+          },
+          {
+            "id": "de:09162:634",
+            "name": "Wilhelm-Dieß-Weg"
+          },
+          {
+            "id": "de:09162:605",
+            "name": "Englschalkinger Straße"
+          },
+          {
+            "id": "de:09162:604",
+            "name": "Freischützstraße"
+          },
+          {
+            "id": "de:09162:603",
+            "name": "Stegmühlstraße"
+          },
+          {
+            "id": "de:09162:599",
+            "name": "Grimmeisenstraße"
+          },
+          {
+            "id": "de:09162:602",
+            "name": "Johanneskirchner Straße"
+          },
+          {
+            "id": "de:09162:721",
+            "name": "Johanneskirchen Bf. (West)"
+          },
+          {
+            "id": "de:09162:720",
+            "name": "Johanneskirchen Bf."
+          },
+          {
+            "id": "de:09162:728",
+            "name": "Lübecker Straße"
+          },
+          {
+            "id": "de:09162:727",
+            "name": "Westerlandanger"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          },
+          {
+            "id": "de:09162:907",
+            "name": "Sankt Michael"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:640",
+            "name": "Zamdorfer Straße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:618",
+            "name": "Effnerstraße"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "187",
+        "name": "187",
+        "stations": [
+          {
+            "id": "de:09162:670",
+            "name": "Arabellapark"
+          },
+          {
+            "id": "de:09162:671",
+            "name": "Arabellapark Nord"
+          },
+          {
+            "id": "de:09162:651",
+            "name": "Arabellastraße"
+          },
+          {
+            "id": "de:09162:615",
+            "name": "Odinpark"
+          },
+          {
+            "id": "de:09162:617",
+            "name": "Priel"
+          },
+          {
+            "id": "de:09162:624",
+            "name": "Lohengrinstraße"
+          },
+          {
+            "id": "de:09162:625",
+            "name": "Bürgerpark Oberföhring"
+          },
+          {
+            "id": "de:09162:619",
+            "name": "Grüntal"
+          },
+          {
+            "id": "de:09162:554",
+            "name": "Rümelinstraße"
+          },
+          {
+            "id": "de:09162:553",
+            "name": "Gellertstraße"
+          },
+          {
+            "id": "de:09162:552",
+            "name": "Gustav-Freytag-Straße"
+          },
+          {
+            "id": "de:09162:551",
+            "name": "Redwitzstraße"
+          },
+          {
+            "id": "de:09162:555",
+            "name": "Poschingerstraße"
+          },
+          {
+            "id": "de:09162:550",
+            "name": "Kufsteiner Platz"
+          },
+          {
+            "id": "de:09162:77",
+            "name": "Mauerkircherstraße"
+          },
+          {
+            "id": "de:09162:76",
+            "name": "Herkomerplatz"
+          },
+          {
+            "id": "de:09162:680",
+            "name": "Richard-Strauss-Straße"
+          },
+          {
+            "id": "de:09162:654",
+            "name": "Denninger Straße"
+          },
+          {
+            "id": "de:09162:616",
+            "name": "Daphnestraße"
+          },
+          {
+            "id": "de:09162:610",
+            "name": "Vollmannstraße"
+          },
+          {
+            "id": "de:09162:611",
+            "name": "Moselstraße"
+          },
+          {
+            "id": "de:09162:613",
+            "name": "Schwarzwaldstraße"
+          },
+          {
+            "id": "de:09162:641",
+            "name": "Friedrich-Eckart-Straße"
+          },
+          {
+            "id": "de:09162:910",
+            "name": "Berg am Laim Bf."
+          },
+          {
+            "id": "de:09162:899",
+            "name": "Berg am Laim Bf. (Süd)"
+          },
+          {
+            "id": "de:09162:893",
+            "name": "Baumkirchner Platz"
+          },
+          {
+            "id": "de:09162:903",
+            "name": "Baumkirchner Straße"
+          },
+          {
+            "id": "de:09162:1220",
+            "name": "Josephsburg"
+          },
+          {
+            "id": "de:09162:907",
+            "name": "Sankt Michael"
+          },
+          {
+            "id": "de:09162:1050",
+            "name": "Michaelibad"
+          }
+        ],
+        "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-06-01T17:55:12Z",
-    "text": "Liebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Mauerkircherstraße kommt es auf den Linien 16, 54, 58, 68, 154 und 187 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 16 fährt nur in den Abschnitten Karlsplatz (Stachus) <> Maxmonument und Herkomerplatz <> Effnerplatz.  <li>Die Haltestellen Lehel, Nationalmuseum/Haus der Kunst, Paradiesstraße, Tivolistraße und Mauerkircherstraße können leider nicht bedient werden.</li>Umleitung über Maxmonument, Max-Weber-Platz, Herkomerplatz zum Effnerplatz. </li> \t<li> Die Linie 68 in Richtung Hauptbahnhof Nord wird zwischen Herkomerplatz und Tivolistraße umgeleitet. Die Haltestelle Mauerkircherstraße kann leider nicht bedient werden. </li></li> <li> Die Linie 54 wird in beiden Richtungen zwischen Herkomerplatz und Am Tucherpark umgeleitet. Die Haltestelle Mauerkircherstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "modificationDate": "2024-06-01T18:00:40Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Oberleitungsschadens im Bereich Mauerkircherstraße kommt es auf den Linien 16, 54, 58, 68, 154 und 187 derzeit zu Beeinträchtigungen. <ul style='list-style: disc;'><li>Die Linie 16 fährt nur in den Abschnitten Karlsplatz (Stachus) <> Maxmonument und Herkomerplatz <> Effnerplatz.  <li>Die Haltestellen Lehel, Nationalmuseum/Haus der Kunst, Paradiesstraße, Tivolistraße und Mauerkircherstraße können leider nicht bedient werden.</li>Umleitung über Maxmonument, Max-Weber-Platz, Herkomerplatz zum Effnerplatz. </li> \t<li> Die Linie 68 in Richtung Hauptbahnhof Nord wird zwischen Giselastraße und Pinakotheken umgeleitet. Die Haltestellen Georgenstraße, Siegestor, Universität, Amalienstraße und Maxvorstadt/Samml. Brandhorst in Fahrtrichtung Hauptbahnhof Nord können leider nicht bedient werden. </li></li> <li> Die Linie 54 wird in beiden Richtungen zwischen Hirschauer Straße und Münchner Freiheit umgeleitet. Die Haltestellen Hohenzollernstraße, Giselastraße, Thiemestraße und Chinesischer Turm können leider nicht bedient werden. </li> <li> Die Linie 154 wird in beiden Richtungen zwischen Giselastraße und Schellingstraße umgeleitet. Die Haltestellen Türkenstraße, Universität, Siegestor und Georgenstraße können leider nicht bedient werden. </li> <li> Die Linie 187 wird in beiden Richtungen zwischen Herkomerplatz und Kufsteiner Platz umgeleitet. Die Haltestelle Mauerkircherstraße kann leider nicht bedient werden. </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 20:40 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
     "title": "Umleitung wegen eines Oberleitungsschadens",
     "type": "DISRUPTION"
   },

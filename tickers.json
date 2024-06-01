@@ -319,6 +319,289 @@
   },
   {
     "activeDuration": {
+      "fromDate": "2024-06-01T17:21:00Z",
+      "toDate": "2024-06-01T18:21:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Hans-Thonauer-Straße kommt es auf den Linien SEV 18 und 130 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "64144031-3a7a-4328-97f9-ce24aa8b33e2",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-01T17:21:00Z",
+        "toDate": "2024-06-01T18:21:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "130",
+        "name": "130",
+        "stations": [
+          {
+            "id": "de:09162:1129",
+            "name": "Am Harras"
+          },
+          {
+            "id": "de:09162:1130",
+            "name": "Harras"
+          },
+          {
+            "id": "de:09162:1236",
+            "name": "Ortlerstraße"
+          },
+          {
+            "id": "de:09162:1234",
+            "name": "Fuggerstraße"
+          },
+          {
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
+          },
+          {
+            "id": "de:09162:1218",
+            "name": "Hansapark"
+          },
+          {
+            "id": "de:09162:1159",
+            "name": "Heimeranplatz Süd"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1214",
+            "name": "Hans-Thonauer-Straße"
+          },
+          {
+            "id": "de:09162:1216",
+            "name": "Siglstraße"
+          },
+          {
+            "id": "de:09162:1204",
+            "name": "Agnes-Bernauer-Straße"
+          },
+          {
+            "id": "de:09162:1203",
+            "name": "Schäufeleinstraße"
+          },
+          {
+            "id": "de:09162:9",
+            "name": "Laim Bf."
+          },
+          {
+            "id": "de:09162:1648",
+            "name": "Pronnerplatz"
+          },
+          {
+            "id": "de:09162:1605",
+            "name": "Pörtschacher Straße"
+          },
+          {
+            "id": "de:09162:1215",
+            "name": "Veldener Straße"
+          },
+          {
+            "id": "de:09162:1614",
+            "name": "Am Knie"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1552",
+            "name": "Senftenauerstraße"
+          },
+          {
+            "id": "de:09162:1654",
+            "name": "Menaristraße"
+          },
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "518",
+        "name": "SEV 18",
+        "stations": [
+          {
+            "id": "de:09162:1554",
+            "name": "Gondrellplatz"
+          },
+          {
+            "id": "de:09162:1501",
+            "name": "Senftenauerstraße Süd"
+          },
+          {
+            "id": "de:09162:1514",
+            "name": "Andreas-Vöst-Straße"
+          },
+          {
+            "id": "de:09162:1516",
+            "name": "Ammerseestraße"
+          },
+          {
+            "id": "de:09162:1213",
+            "name": "Stegener Weg"
+          },
+          {
+            "id": "de:09162:1212",
+            "name": "Säulingstraße"
+          },
+          {
+            "id": "de:09162:1208",
+            "name": "Fachnerstraße"
+          },
+          {
+            "id": "de:09162:260",
+            "name": "Westendstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-06-01T17:24:44Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Hans-Thonauer-Straße kommt es auf den Linien SEV 18 und 130 derzeit zu Beeinträchtigungen. <br>Die Behinderungen werden noch voraussichtlich bis 20:20 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Beeinträchtigungen wegen eines Polizeieinsatzes",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-05-30T07:00:00Z",
       "toDate": "2024-06-02T18:30:00Z"
     },

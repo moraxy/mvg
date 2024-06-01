@@ -88,301 +88,333 @@
   },
   {
     "activeDuration": {
-      "fromDate": "2024-06-01T14:50:00Z",
-      "toDate": "2024-06-01T15:50:00Z"
+      "fromDate": "2024-06-01T14:05:00Z",
+      "toDate": "2024-06-01T17:00:00Z"
     },
     "downloadLinks": [],
-    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 57 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "id": "d720192d-e444-4b2f-8b62-5b1a6d2258fb",
+    "htmlText": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Elsenheimerstraße kommt es auf der Linie 62 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 62 wird in beiden Richtungen zwischen Hirschgarten Bf. und Astallerstraße umgeleitet. Die Haltestellen Elsenheimerstraße, Hauzenberger Straße und Lautensackstraße können leider nicht bedient werden. Die Umleitung verläuft über Westendstraße (Haltestelle U5). </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "id": "634aa75c-1d2a-4da2-8ae7-1a03fde89e81",
     "incidentDuration": [
       {
-        "fromDate": "2024-06-01T14:50:00Z",
-        "toDate": "2024-06-01T15:50:00Z"
+        "fromDate": "2024-06-01T14:05:00Z",
+        "toDate": "2024-06-01T17:00:00Z"
       }
     ],
     "incidents": [],
     "lines": [
       {
-        "direction": "2",
-        "id": "57",
-        "name": "57",
+        "direction": "1",
+        "id": "62",
+        "name": "62",
         "stations": [
           {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           },
           {
-            "id": "de:09162:1646",
-            "name": "Stroblstraße"
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           },
           {
-            "id": "de:09162:1644",
-            "name": "Mitterfeldstraße"
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
           },
           {
-            "id": "de:09162:1643",
-            "name": "Fischer-v.-Erlach-Straße"
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
           },
           {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
           },
           {
-            "id": "de:09162:1612",
-            "name": "Westbad"
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
           },
           {
-            "id": "de:09162:1727",
-            "name": "Benedikterstraße"
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
           },
           {
-            "id": "de:09162:1627",
-            "name": "Weinbergerstraße"
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
           },
           {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
           },
           {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
           },
           {
-            "id": "de:09162:1624",
-            "name": "Rathaus Pasing"
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
           },
           {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
           },
           {
-            "id": "de:09162:1683",
-            "name": "Volmstraße"
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
           },
           {
-            "id": "de:09162:1682",
-            "name": "Varnhagenstraße"
+            "id": "de:09162:1218",
+            "name": "Hansapark"
           },
           {
-            "id": "de:09162:1681",
-            "name": "Heimburgstraße"
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
           },
           {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
           },
           {
-            "id": "de:09162:1702",
-            "name": "Ravensburger Ring"
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
           },
           {
-            "id": "de:09162:1704",
-            "name": "Mainaustraße"
+            "id": "de:09162:30",
+            "name": "Poccistraße"
           },
           {
-            "id": "de:09162:1706",
-            "name": "Sipplinger Straße"
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
           },
           {
-            "id": "de:09162:1708",
-            "name": "Wertheimer Straße"
+            "id": "de:09162:1132",
+            "name": "Lagerhausstraße"
           },
           {
-            "id": "de:09162:1712",
-            "name": "Altenburgstraße"
+            "id": "de:09162:146",
+            "name": "Ehrengutstraße"
           },
           {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
           },
           {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
           },
           {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
+            "id": "de:09162:58",
+            "name": "Kapuzinerplatz/Arbeitsagentur"
           },
           {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
+            "id": "de:09162:40",
+            "name": "Goetheplatz"
           },
           {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           },
           {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
           },
           {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
           },
           {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
           },
           {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
           },
           {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
           },
           {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
+          },
+          {
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
+          },
+          {
+            "id": "de:09162:111",
+            "name": "Regerplatz"
+          },
+          {
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
+          },
+          {
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
+          },
+          {
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
+          },
+          {
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
           }
         ],
         "typeOfTransport": "BUS"
       },
       {
-        "direction": "1",
-        "id": "57",
-        "name": "57",
+        "direction": "2",
+        "id": "62",
+        "name": "62",
         "stations": [
           {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
+            "id": "de:09162:5",
+            "name": "Ostbahnhof"
           },
           {
-            "id": "de:09162:1740",
-            "name": "Freiham Bf."
+            "id": "de:09162:89",
+            "name": "Orleansstraße"
           },
           {
-            "id": "de:09162:1757",
-            "name": "Bildungscampus Freiham"
+            "id": "de:09162:139",
+            "name": "Auerfeldstraße"
           },
           {
-            "id": "de:09162:1755",
-            "name": "Helmut-Schmidt-Allee"
+            "id": "de:09162:138",
+            "name": "Schwester-Eubulina-Platz"
           },
           {
-            "id": "de:09162:1763",
-            "name": "Annemarie-Renger-Straße"
+            "id": "de:09162:111",
+            "name": "Regerplatz"
           },
           {
-            "id": "de:09162:1761",
-            "name": "Aubinger Allee"
+            "id": "de:09162:116",
+            "name": "Schweigerstraße"
           },
           {
-            "id": "de:09162:1753",
-            "name": "Otto-Meitinger-Straße"
+            "id": "de:09162:115",
+            "name": "Baaderstraße"
           },
           {
-            "id": "de:09162:1751",
-            "name": "Hörweg"
+            "id": "de:09162:114",
+            "name": "Gärtnerplatztheater"
           },
           {
-            "id": "de:09162:1726",
-            "name": "Neuaubing West"
+            "id": "de:09162:113",
+            "name": "Blumenstraße"
           },
           {
-            "id": "de:09162:1724",
-            "name": "Kunreuthstraße"
+            "id": "de:09162:112",
+            "name": "Viktualienmarkt"
           },
           {
-            "id": "de:09162:1722",
-            "name": "Riesenburgstraße"
+            "id": "de:09162:166",
+            "name": "Marienplatz (Rindermarkt)"
           },
           {
-            "id": "de:09162:1718",
-            "name": "Wiesentfelser Straße"
+            "id": "de:09162:131",
+            "name": "St.-Jakobs-Platz"
           },
           {
-            "id": "de:09162:1712",
-            "name": "Altenburgstraße"
+            "id": "de:09162:50",
+            "name": "Sendlinger Tor"
           },
           {
-            "id": "de:09162:1708",
-            "name": "Wertheimer Straße"
+            "id": "de:09162:142",
+            "name": "Maistraße"
           },
           {
-            "id": "de:09162:1706",
-            "name": "Sipplinger Straße"
+            "id": "de:09162:143",
+            "name": "Waltherstraße"
           },
           {
-            "id": "de:09162:1704",
-            "name": "Mainaustraße"
+            "id": "de:09162:59",
+            "name": "Kapuzinerstraße"
           },
           {
-            "id": "de:09162:1702",
-            "name": "Ravensburger Ring"
+            "id": "de:09162:144",
+            "name": "Zenettistraße"
           },
           {
-            "id": "de:09162:1720",
-            "name": "Westkreuz Bf."
+            "id": "de:09162:83",
+            "name": "Tumblingerstraße"
           },
           {
-            "id": "de:09162:1681",
-            "name": "Heimburgstraße"
+            "id": "de:09162:30",
+            "name": "Poccistraße"
           },
           {
-            "id": "de:09162:1682",
-            "name": "Varnhagenstraße"
+            "id": "de:09162:101",
+            "name": "Hans-Fischer-Straße"
           },
           {
-            "id": "de:09162:1683",
-            "name": "Volmstraße"
+            "id": "de:09162:1102",
+            "name": "Herzog-Ernst-Platz"
           },
           {
-            "id": "de:09162:10",
-            "name": "Pasing Bf."
+            "id": "de:09162:1232",
+            "name": "Baumgartnerstraße"
           },
           {
-            "id": "de:09162:1622",
-            "name": "Pasinger Marienplatz"
+            "id": "de:09162:1218",
+            "name": "Hansapark"
           },
           {
-            "id": "de:09162:1623",
-            "name": "Engelbertstraße"
+            "id": "de:09162:1217",
+            "name": "Hansastraße"
           },
           {
-            "id": "de:09162:1626",
-            "name": "Planegger Straße"
+            "id": "de:09162:1150",
+            "name": "Heimeranplatz"
           },
           {
-            "id": "de:09162:1627",
-            "name": "Weinbergerstraße"
+            "id": "de:09162:82",
+            "name": "Astallerstraße"
           },
           {
-            "id": "de:09162:1727",
-            "name": "Benedikterstraße"
+            "id": "de:09162:1205",
+            "name": "Elsenheimerstraße"
           },
           {
-            "id": "de:09162:1612",
-            "name": "Westbad"
+            "id": "de:09162:1201",
+            "name": "Hauzenberger Straße"
           },
           {
-            "id": "de:09162:1608",
-            "name": "Lohensteinstraße"
+            "id": "de:09162:1202",
+            "name": "Lautensackstraße"
           },
           {
-            "id": "de:09162:1643",
-            "name": "Fischer-v.-Erlach-Straße"
+            "id": "de:09162:31",
+            "name": "Hirschgarten Bf."
           },
           {
-            "id": "de:09162:1644",
-            "name": "Mitterfeldstraße"
+            "id": "de:09162:983",
+            "name": "Wilhelm-Hale-Straße"
           },
           {
-            "id": "de:09162:1646",
-            "name": "Stroblstraße"
+            "id": "de:09162:216",
+            "name": "Steubenplatz"
           },
           {
-            "id": "de:09162:280",
-            "name": "Laimer Platz"
+            "id": "de:09162:209",
+            "name": "Dankwartstraße"
+          },
+          {
+            "id": "de:09162:207",
+            "name": "Winthirplatz"
+          },
+          {
+            "id": "de:09162:190",
+            "name": "Rotkreuzplatz"
           }
         ],
         "typeOfTransport": "BUS"
       }
     ],
     "links": [],
-    "modificationDate": "2024-06-01T14:51:00Z",
-    "text": "Liebe Fahrgäste,<br/>wegen einer Fahrzeugstörung kommt es auf der Linie 57 derzeit zu zeitweisen Unregelmäßigkeiten. Die Behinderungen werden noch voraussichtlich bis 17:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
-    "title": "Zeitweise Unregelmäßigkeiten wegen einer Fahrzeugstörung",
+    "modificationDate": "2024-06-01T15:17:38Z",
+    "text": "Liebe Fahrgäste,<br>wegen eines Polizeieinsatzes im Bereich Elsenheimerstraße kommt es auf der Linie 62 derzeit zu  einer Umleitung. <ul style='list-style: disc;'> <li> Die Linie 62 wird in beiden Richtungen zwischen Hirschgarten Bf. und Astallerstraße umgeleitet. Die Haltestellen Elsenheimerstraße, Hauzenberger Straße und Lautensackstraße können leider nicht bedient werden. Die Umleitung verläuft über Westendstraße (Haltestelle U5). </li></ul><br>Die Behinderungen werden noch voraussichtlich bis 19:00 Uhr dauern. <br>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br>Ihre MVG",
+    "title": "Umleitung wegen eines Polizeieinsatzes",
     "type": "DISRUPTION"
   },
   {

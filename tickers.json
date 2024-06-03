@@ -1,6 +1,528 @@
 [
   {
     "activeDuration": {
+      "fromDate": "2024-06-03T12:52:00Z",
+      "toDate": "2024-06-03T13:52:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 60 und 160 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "5377f872-95ca-44e6-8b6f-3b35b2b45c1c",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-03T12:52:00Z",
+        "toDate": "2024-06-03T13:52:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "60",
+        "name": "60",
+        "stations": [
+          {
+            "id": "de:09162:333",
+            "name": "Dessauerstraße"
+          },
+          {
+            "id": "de:09162:360",
+            "name": "Olympia-Einkaufszentrum"
+          },
+          {
+            "id": "de:09162:318",
+            "name": "Olympia-Einkaufszentrum West"
+          },
+          {
+            "id": "de:09162:322",
+            "name": "Lassallestraße"
+          },
+          {
+            "id": "de:09162:341",
+            "name": "Himmelschlüsselstraße"
+          },
+          {
+            "id": "de:09162:342",
+            "name": "Lerchenauer See"
+          },
+          {
+            "id": "de:09162:343",
+            "name": "Max-Wönner-Straße"
+          },
+          {
+            "id": "de:09162:344",
+            "name": "Franz-Sperr-Weg"
+          },
+          {
+            "id": "de:09162:353",
+            "name": "Robinienstraße"
+          },
+          {
+            "id": "de:09162:354",
+            "name": "Goldlackplatz"
+          },
+          {
+            "id": "de:09162:363",
+            "name": "Pulverturmstraße"
+          },
+          {
+            "id": "de:09162:355",
+            "name": "Gundermannstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:790",
+            "name": "Hasenbergl"
+          },
+          {
+            "id": "de:09162:349",
+            "name": "Stanigplatz"
+          },
+          {
+            "id": "de:09162:351",
+            "name": "Stösserstraße"
+          },
+          {
+            "id": "de:09162:788",
+            "name": "Aschenbrennerstraße"
+          },
+          {
+            "id": "de:09162:780",
+            "name": "Dülferstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "1",
+        "id": "160",
+        "name": "160",
+        "stations": [
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          },
+          {
+            "id": "de:09174:6982",
+            "name": "Karlsfeld, Gartenstraße"
+          },
+          {
+            "id": "de:09174:6983",
+            "name": "Karlsfeld, Rosenstraße"
+          },
+          {
+            "id": "de:09174:6988",
+            "name": "Karlsfeld, Ostenstraße"
+          },
+          {
+            "id": "de:09174:6986",
+            "name": "Karlsfeld, Hallenbad"
+          },
+          {
+            "id": "de:09174:7060",
+            "name": "Karlsfeld, Rathausstraße"
+          },
+          {
+            "id": "de:09174:7393",
+            "name": "Karlsfeld, Einkaufsmärkte (West)"
+          },
+          {
+            "id": "de:09174:7391",
+            "name": "Karlsfeld, Ackerstraße"
+          },
+          {
+            "id": "de:09174:6990",
+            "name": "Karlsfeld Bahnhof (West)"
+          },
+          {
+            "id": "de:09162:1828",
+            "name": "Otto-Warburg-Straße"
+          },
+          {
+            "id": "de:09162:1860",
+            "name": "Hohenadelweg"
+          },
+          {
+            "id": "de:09162:1826",
+            "name": "Kleselstraße"
+          },
+          {
+            "id": "de:09162:1825",
+            "name": "Franz-Nißl-Straße"
+          },
+          {
+            "id": "de:09162:1840",
+            "name": "Georg-Reismüller-Straße"
+          },
+          {
+            "id": "de:09162:1823",
+            "name": "St.-Johann-Straße"
+          },
+          {
+            "id": "de:09162:1910",
+            "name": "Allach Bf."
+          },
+          {
+            "id": "de:09162:1822",
+            "name": "Vesaliusstraße"
+          },
+          {
+            "id": "de:09162:1821",
+            "name": "Esmarchstraße"
+          },
+          {
+            "id": "de:09162:1819",
+            "name": "Pfarrer-Grimm-Straße"
+          },
+          {
+            "id": "de:09162:1818",
+            "name": "Friedhof Untermenzing"
+          },
+          {
+            "id": "de:09162:1817",
+            "name": "Steirerstraße"
+          },
+          {
+            "id": "de:09162:1816",
+            "name": "Lochhausener Straße"
+          },
+          {
+            "id": "de:09162:1807",
+            "name": "Blutenburg"
+          },
+          {
+            "id": "de:09162:1808",
+            "name": "Wöhlerstraße"
+          },
+          {
+            "id": "de:09162:1809",
+            "name": "Dorfstraße"
+          },
+          {
+            "id": "de:09162:1799",
+            "name": "Menterstraße"
+          },
+          {
+            "id": "de:09162:1798",
+            "name": "Marsopstraße"
+          },
+          {
+            "id": "de:09162:1797",
+            "name": "Orthstraße"
+          },
+          {
+            "id": "de:09162:1796",
+            "name": "Pasing Bf. Nord"
+          },
+          {
+            "id": "de:09162:1618",
+            "name": "Offenbachstraße"
+          },
+          {
+            "id": "de:09162:1624",
+            "name": "Rathaus Pasing"
+          },
+          {
+            "id": "de:09162:10",
+            "name": "Pasing Bf."
+          },
+          {
+            "id": "de:09162:1662",
+            "name": "Scapinellistraße"
+          },
+          {
+            "id": "de:09162:1664",
+            "name": "Krankenhaus Pasing"
+          },
+          {
+            "id": "de:09162:1666",
+            "name": "Avenariusplatz"
+          },
+          {
+            "id": "de:09162:1668",
+            "name": "Wehnerstraße"
+          },
+          {
+            "id": "de:09162:1672",
+            "name": "Dachstraße"
+          },
+          {
+            "id": "de:09184:2592",
+            "name": "Lochham, Im Birket"
+          },
+          {
+            "id": "de:09184:2594",
+            "name": "Lochham, Eichenstraße"
+          },
+          {
+            "id": "de:09184:2580",
+            "name": "Lochham Bf."
+          },
+          {
+            "id": "de:09184:2596",
+            "name": "Lochham, Radlbäckstraße"
+          },
+          {
+            "id": "de:09184:2598",
+            "name": "Lochham, Würmstraße"
+          },
+          {
+            "id": "de:09184:2602",
+            "name": "Lochham, Am Kirchenhölzl"
+          },
+          {
+            "id": "de:09184:2567",
+            "name": "Gräfelfing, Am Haag"
+          },
+          {
+            "id": "de:09184:2569",
+            "name": "Gräfelfing, Seeholzenstraße"
+          },
+          {
+            "id": "de:09184:2564",
+            "name": "Gräfelfing, Neuer Friedhof"
+          },
+          {
+            "id": "de:09184:2604",
+            "name": "Gräfelfing, Finkenstraße"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-06-03T12:55:34Z",
+    "text": "Liebe Fahrgäste,<br/>wegen eines Fahrzeugausfalls kommt es auf den Linien 60 und 160 derzeit zu zeitweisen Unregelmäßigkeiten. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Zeitweise Unregelmäßigkeiten wegen eines Fahrzeugausfalls",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
+      "fromDate": "2024-06-03T12:52:00Z",
+      "toDate": "2024-06-03T13:52:00Z"
+    },
+    "downloadLinks": [],
+    "htmlText": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 171 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 15:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "id": "4c4c7f62-340d-4250-900f-cffc8925570b",
+    "incidentDuration": [
+      {
+        "fromDate": "2024-06-03T12:52:00Z",
+        "toDate": "2024-06-03T13:52:00Z"
+      }
+    ],
+    "incidents": [],
+    "lines": [
+      {
+        "direction": "1",
+        "id": "171",
+        "name": "171",
+        "stations": [
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:405",
+            "name": "Weitlstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:402",
+            "name": "Röblingweg"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          }
+        ],
+        "typeOfTransport": "BUS"
+      },
+      {
+        "direction": "2",
+        "id": "171",
+        "name": "171",
+        "stations": [
+          {
+            "id": "de:09162:760",
+            "name": "Am Hart"
+          },
+          {
+            "id": "de:09162:409",
+            "name": "Rathenaustraße"
+          },
+          {
+            "id": "de:09162:402",
+            "name": "Röblingweg"
+          },
+          {
+            "id": "de:09162:770",
+            "name": "Harthof"
+          },
+          {
+            "id": "de:09162:408",
+            "name": "Weyprechtstraße"
+          },
+          {
+            "id": "de:09162:792",
+            "name": "Caracciolastraße"
+          },
+          {
+            "id": "de:09162:358",
+            "name": "Hasenberglstraße"
+          },
+          {
+            "id": "de:09162:357",
+            "name": "Ittlingerstraße"
+          },
+          {
+            "id": "de:09162:356",
+            "name": "Hasenbergl Süd"
+          },
+          {
+            "id": "de:09162:359",
+            "name": "Feldmochinger Anger"
+          },
+          {
+            "id": "de:09162:368",
+            "name": "Feldmoching Bf. Ost"
+          },
+          {
+            "id": "de:09162:320",
+            "name": "Feldmoching Bf."
+          }
+        ],
+        "typeOfTransport": "BUS"
+      }
+    ],
+    "links": [],
+    "modificationDate": "2024-06-03T12:53:26Z",
+    "text": "Liebe Fahrgäste,<br/>wegen einer Betriebsstörung kommt es auf der Linie 171 derzeit zu Verspätungen. Die Behinderungen werden noch voraussichtlich bis 15:50 Uhr dauern. <br/>Wir sind bemüht, so schnell wie möglich wieder einen fahrplanmäßigen Betrieb herzustellen.<br/>Ihre MVG ",
+    "title": "Verspätungen wegen einer Betriebsstörung",
+    "type": "DISRUPTION"
+  },
+  {
+    "activeDuration": {
       "fromDate": "2024-03-19T23:00:00Z",
       "toDate": null
     },
